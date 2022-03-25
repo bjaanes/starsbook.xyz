@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #884",
+ "id": 884,
+ "img": "884.jpg",
+ "rarityScore": 218.23154,
+ "rarityRank": 2580,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Yellow",
+   "rarity": 0.0338,
+   "rarityScore": 29.585798
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Yellow",
+   "rarity": 0.1114,
+   "rarityScore": 8.976661
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Blue",
+   "rarity": 0.0226,
+   "rarityScore": 44.247787
+  },
+  {
+   "type": "Eyes",
+   "value": "Stars Pink",
+   "rarity": 0.0156,
+   "rarityScore": 64.10256
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Blue",
+   "rarity": 0.029,
+   "rarityScore": 34.482758
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Green",
+   "rarity": 0.0312,
+   "rarityScore": 32.05128
+  },
+  {
+   "type": "generation",
+   "value": "884",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 366.67236,
+  "KARV_NOW": 1715.6599,
+  "KARV_FUTURE": 10482.683,
+  "KHRV": 143.7155,
+  "KHRV_NOW": 672.4448,
+  "KHRV_FUTURE": 4108.638
+ }
+}

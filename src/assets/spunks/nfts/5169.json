@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #5169",
+ "id": 5169,
+ "img": "5169.png",
+ "rarityScore": 236.33932,
+ "rarityRank": 7049,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "candy_sky",
+   "rarity": 0.03049055,
+   "rarityScore": 32.797047
+  },
+  {
+   "type": "Glow",
+   "value": "red_headglow",
+   "rarity": 0.09248425,
+   "rarityScore": 10.812652
+  },
+  {
+   "type": "Back",
+   "value": "red_backsaber",
+   "rarity": 0.046017103,
+   "rarityScore": 21.73105
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "soulpatch",
+   "rarity": 0.069644466,
+   "rarityScore": 14.358643
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "redsin_eyes",
+   "rarity": 0.0679568,
+   "rarityScore": 14.715232
+  },
+  {
+   "type": "Tops",
+   "value": "white_turtleneck_top",
+   "rarity": 0.043654364,
+   "rarityScore": 22.907217
+  },
+  {
+   "type": "Hair",
+   "value": "pinkbackslick_hair",
+   "rarity": 0.014063907,
+   "rarityScore": 71.104
+  },
+  {
+   "type": "Front",
+   "value": "basicpurple_glasses",
+   "rarity": 0.033528354,
+   "rarityScore": 29.825504
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 271.52023,
+  "KARV_NOW": 1270.4431,
+  "KARV_FUTURE": 7762.4077,
+  "KHRV": 149.76474,
+  "KHRV_NOW": 700.7492,
+  "KHRV_FUTURE": 4281.5776
+ }
+}

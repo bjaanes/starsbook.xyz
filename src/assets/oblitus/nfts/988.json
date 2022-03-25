@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2794",
+ "id": 988,
+ "img": "988.png",
+ "rarityScore": 240.14929,
+ "rarityRank": 2623,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "22 thousand km",
+   "rarity": 0.01175,
+   "rarityScore": 85.106384
+  },
+  {
+   "type": "Gravity force",
+   "value": "0.9g",
+   "rarity": 0.01475,
+   "rarityScore": 67.79661
+  },
+  {
+   "type": "Age",
+   "value": "4 billion years",
+   "rarity": 0.09775,
+   "rarityScore": 10.230179
+  },
+  {
+   "type": "Type",
+   "value": "Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Manganese",
+   "rarity": 0.0155,
+   "rarityScore": 64.51613
+  },
+  {
+   "type": "Rank",
+   "value": "2794",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 287.0409,
+  "KARV_NOW": 1343.0643,
+  "KARV_FUTURE": 8206.123,
+  "KHRV": 172.04095,
+  "KHRV_NOW": 804.9796,
+  "KHRV_FUTURE": 4918.426
+ }
+}

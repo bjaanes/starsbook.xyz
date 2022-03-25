@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #5885",
+ "id": 5885,
+ "img": "5885.png",
+ "rarityScore": 291.27948,
+ "rarityRank": 4357,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight_ship",
+   "rarity": 0.052542754,
+   "rarityScore": 19.03212
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "green_neonbackstaff",
+   "rarity": 0.039153915,
+   "rarityScore": 25.54023
+  },
+  {
+   "type": "Species",
+   "value": "zenian",
+   "rarity": 0.039266426,
+   "rarityScore": 25.467049
+  },
+  {
+   "type": "FaceDetail",
+   "value": "blush",
+   "rarity": 0.07031953,
+   "rarityScore": 14.2208
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "redsin_eyes",
+   "rarity": 0.0679568,
+   "rarityScore": 14.715232
+  },
+  {
+   "type": "Tops",
+   "value": "grayblue_stripeshirt",
+   "rarity": 0.04140414,
+   "rarityScore": 24.152174
+  },
+  {
+   "type": "Hair",
+   "value": "pinkbackwave_hair",
+   "rarity": 0.014738974,
+   "rarityScore": 67.84733
+  },
+  {
+   "type": "Front",
+   "value": "trueblue_glasses",
+   "rarity": 0.011363637,
+   "rarityScore": 88
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 334.63864,
+  "KARV_NOW": 1565.7742,
+  "KARV_FUTURE": 9566.881,
+  "KHRV": 150.66652,
+  "KHRV_NOW": 704.9686,
+  "KHRV_FUTURE": 4307.3584
+ }
+}

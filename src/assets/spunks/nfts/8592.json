@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #8592",
+ "id": 8592,
+ "img": "8592.png",
+ "rarityScore": 296.9295,
+ "rarityRank": 4096,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "space_desert",
+   "rarity": 0.02171467,
+   "rarityScore": 46.051815
+  },
+  {
+   "type": "Glow",
+   "value": "green_headglow",
+   "rarity": 0.08809631,
+   "rarityScore": 11.351213
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "zenian",
+   "rarity": 0.039266426,
+   "rarityScore": 25.467049
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "bubble_gum_ninja",
+   "rarity": 0.019351935,
+   "rarityScore": 51.67442
+  },
+  {
+   "type": "Hair",
+   "value": "tealmidcut_hair",
+   "rarity": 0.012938794,
+   "rarityScore": 77.28696
+  },
+  {
+   "type": "Front",
+   "value": "magentaliteframe_glasses",
+   "rarity": 0.016426643,
+   "rarityScore": 60.876713
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 341.1297,
+  "KARV_NOW": 1596.1459,
+  "KARV_FUTURE": 9752.451,
+  "KHRV": 150.75926,
+  "KHRV_NOW": 705.4026,
+  "KHRV_FUTURE": 4310.01
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6069",
+ "id": 6069,
+ "img": "6069.png",
+ "rarityScore": 289.948,
+ "rarityRank": 4411,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "yakshian_planet",
+   "rarity": 0.023739874,
+   "rarityScore": 42.123222
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "blue_backsaber",
+   "rarity": 0.05411791,
+   "rarityScore": 18.47817
+  },
+  {
+   "type": "Species",
+   "value": "yakshian",
+   "rarity": 0.03577858,
+   "rarityScore": 27.949686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "blush",
+   "rarity": 0.07031953,
+   "rarityScore": 14.2208
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "osmo",
+   "rarity": 0.011588659,
+   "rarityScore": 86.29126
+  },
+  {
+   "type": "Hair",
+   "value": "purpleshave_hair",
+   "rarity": 0.012263726,
+   "rarityScore": 81.54128
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 333.10895,
+  "KARV_NOW": 1558.6167,
+  "KARV_FUTURE": 9523.148,
+  "KHRV": 150.64467,
+  "KHRV_NOW": 704.8664,
+  "KHRV_FUTURE": 4306.734
+ }
+}

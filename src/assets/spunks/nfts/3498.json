@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3498",
+ "id": 3498,
+ "img": "3498.png",
+ "rarityScore": 179.2173,
+ "rarityRank": 8656,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "spunksky",
+   "rarity": 0.03971647,
+   "rarityScore": 25.17847
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid4",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "FaceDetail",
+   "value": "freckles",
+   "rarity": 0.05591809,
+   "rarityScore": 17.883299
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "yellow_stripe_shirt",
+   "rarity": 0.040279027,
+   "rarityScore": 24.826817
+  },
+  {
+   "type": "Hair",
+   "value": "purplebackslick_hair",
+   "rarity": 0.012376238,
+   "rarityScore": 80.8
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 205.89516,
+  "KARV_NOW": 963.3834,
+  "KARV_FUTURE": 5886.273,
+  "KHRV": 148.82715,
+  "KHRV_NOW": 696.3622,
+  "KHRV_FUTURE": 4254.773
+ }
+}

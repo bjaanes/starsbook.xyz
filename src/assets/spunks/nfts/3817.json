@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3817",
+ "id": 3817,
+ "img": "3817.png",
+ "rarityScore": 204.37724,
+ "rarityRank": 8146,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "purple_hex_space",
+   "rarity": 0.045342036,
+   "rarityScore": 22.05459
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "edge_earring_white",
+   "rarity": 0.022727273,
+   "rarityScore": 44
+  },
+  {
+   "type": "Species",
+   "value": "humanoid6",
+   "rarity": 0.113523856,
+   "rarityScore": 8.808722
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "purple_xsleeve",
+   "rarity": 0.043091808,
+   "rarityScore": 23.206266
+  },
+  {
+   "type": "Hair",
+   "value": "blondeshave_hair",
+   "rarity": 0.021039603,
+   "rarityScore": 47.52941
+  },
+  {
+   "type": "Front",
+   "value": "skyblue_headphones",
+   "rarity": 0.023064807,
+   "rarityScore": 43.3561
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 234.80035,
+  "KARV_NOW": 1098.6309,
+  "KARV_FUTURE": 6712.635,
+  "KHRV": 149.24013,
+  "KHRV_NOW": 698.29456,
+  "KHRV_FUTURE": 4266.5796
+ }
+}

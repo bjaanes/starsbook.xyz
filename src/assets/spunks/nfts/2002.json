@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #2002",
+ "id": 2002,
+ "img": "2002.png",
+ "rarityScore": 254.95416,
+ "rarityRank": 6197,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "spunksky",
+   "rarity": 0.03971647,
+   "rarityScore": 25.17847
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "blackblue_jetpack",
+   "rarity": 0.036453646,
+   "rarityScore": 27.432098
+  },
+  {
+   "type": "Species",
+   "value": "neptunian",
+   "rarity": 0.04950495,
+   "rarityScore": 20.2
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "grayred_stripeshirt",
+   "rarity": 0.02160216,
+   "rarityScore": 46.291668
+  },
+  {
+   "type": "Hair",
+   "value": "blondemidsideslick_hair",
+   "rarity": 0.022502251,
+   "rarityScore": 44.44
+  },
+  {
+   "type": "Front",
+   "value": "tealblack_headphones",
+   "rarity": 0.013388839,
+   "rarityScore": 74.68908
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 292.90604,
+  "KARV_NOW": 1370.5073,
+  "KARV_FUTURE": 8373.8,
+  "KHRV": 150.07028,
+  "KHRV_NOW": 702.17883,
+  "KHRV_FUTURE": 4290.313
+ }
+}

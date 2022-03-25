@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1498",
+ "id": 312,
+ "img": "312.png",
+ "rarityScore": 191.7372,
+ "rarityRank": 3645,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "77 thousand km",
+   "rarity": 0.01375,
+   "rarityScore": 72.72727
+  },
+  {
+   "type": "Gravity force",
+   "value": "3.7g",
+   "rarity": 0.01775,
+   "rarityScore": 56.338028
+  },
+  {
+   "type": "Age",
+   "value": "5 billion years",
+   "rarity": 0.151,
+   "rarityScore": 6.6225166
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Strontium",
+   "rarity": 0.02025,
+   "rarityScore": 49.382717
+  },
+  {
+   "type": "Rank",
+   "value": "1498",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 229.17584,
+  "KARV_NOW": 1072.3137,
+  "KARV_FUTURE": 6551.837,
+  "KHRV": 170.07668,
+  "KHRV_NOW": 795.78876,
+  "KHRV_FUTURE": 4862.2695
+ }
+}

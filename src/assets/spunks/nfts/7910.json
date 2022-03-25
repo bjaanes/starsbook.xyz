@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #7910",
+ "id": 7910,
+ "img": "7910.png",
+ "rarityScore": 285.97946,
+ "rarityRank": 4603,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "enferian_planet",
+   "rarity": 0.021489648,
+   "rarityScore": 46.53403
+  },
+  {
+   "type": "Glow",
+   "value": "yellow_headglow",
+   "rarity": 0.0889964,
+   "rarityScore": 11.236409
+  },
+  {
+   "type": "Back",
+   "value": "blackred_jetpack",
+   "rarity": 0.03859136,
+   "rarityScore": 25.912537
+  },
+  {
+   "type": "Species",
+   "value": "humanoid6",
+   "rarity": 0.113523856,
+   "rarityScore": 8.808722
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "lemonadeninja",
+   "rarity": 0.02238974,
+   "rarityScore": 44.663315
+  },
+  {
+   "type": "Hair",
+   "value": "blackshave_hair",
+   "rarity": 0.02160216,
+   "rarityScore": 46.291668
+  },
+  {
+   "type": "Front",
+   "value": "trueblue_glasses",
+   "rarity": 0.011363637,
+   "rarityScore": 88
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 328.54965,
+  "KARV_NOW": 1537.2838,
+  "KARV_FUTURE": 9392.805,
+  "KHRV": 150.57953,
+  "KHRV_NOW": 704.5616,
+  "KHRV_FUTURE": 4304.8716
+ }
+}

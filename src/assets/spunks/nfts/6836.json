@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6836",
+ "id": 6836,
+ "img": "6836.png",
+ "rarityScore": 231.70668,
+ "rarityRank": 7250,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_spunk_sky",
+   "rarity": 0.027790278,
+   "rarityScore": 35.983807
+  },
+  {
+   "type": "Glow",
+   "value": "white_headglow",
+   "rarity": 0.09225923,
+   "rarityScore": 10.839025
+  },
+  {
+   "type": "Back",
+   "value": "grey_jetpack",
+   "rarity": 0.03791629,
+   "rarityScore": 26.373888
+  },
+  {
+   "type": "Species",
+   "value": "humanoid7",
+   "rarity": 0.122749776,
+   "rarityScore": 8.146654
+  },
+  {
+   "type": "FaceDetail",
+   "value": "blush",
+   "rarity": 0.07031953,
+   "rarityScore": 14.2208
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "bubble_gum_ninja",
+   "rarity": 0.019351935,
+   "rarityScore": 51.67442
+  },
+  {
+   "type": "Hair",
+   "value": "blackshave_hair",
+   "rarity": 0.02160216,
+   "rarityScore": 46.291668
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "talkybubble_special",
+   "rarity": 0.046467148,
+   "rarityScore": 21.52058
+  }
+ ],
+ "prices": {
+  "KRV": 266.19797,
+  "KARV_NOW": 1245.5403,
+  "KARV_FUTURE": 7610.2515,
+  "KHRV": 149.68872,
+  "KHRV_NOW": 700.3935,
+  "KHRV_FUTURE": 4279.4043
+ }
+}

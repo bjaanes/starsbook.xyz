@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6950",
+ "id": 6950,
+ "img": "6950.png",
+ "rarityScore": 165.01913,
+ "rarityRank": 8795,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "spunksky",
+   "rarity": 0.03971647,
+   "rarityScore": 25.17847
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid7",
+   "rarity": 0.122749776,
+   "rarityScore": 8.146654
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "orange_stripe",
+   "rarity": 0.042079207,
+   "rarityScore": 23.764706
+  },
+  {
+   "type": "Hair",
+   "value": "neonpinkmidcut_hair",
+   "rarity": 0.0144014405,
+   "rarityScore": 69.4375
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 189.58348,
+  "KARV_NOW": 887.0611,
+  "KARV_FUTURE": 5419.9434,
+  "KHRV": 148.59412,
+  "KHRV_NOW": 695.27185,
+  "KHRV_FUTURE": 4248.1113
+ }
+}

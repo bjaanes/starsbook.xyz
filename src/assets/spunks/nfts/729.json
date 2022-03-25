@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #729",
+ "id": 729,
+ "img": "729.png",
+ "rarityScore": 449.2182,
+ "rarityRank": 977,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "purple_magic_ship",
+   "rarity": 0.048042305,
+   "rarityScore": 20.81499
+  },
+  {
+   "type": "Glow",
+   "value": "red_headglow",
+   "rarity": 0.09248425,
+   "rarityScore": 10.812652
+  },
+  {
+   "type": "Back",
+   "value": "angel_white_wings",
+   "rarity": 0.0077632763,
+   "rarityScore": 128.8116
+  },
+  {
+   "type": "Species",
+   "value": "gaianan",
+   "rarity": 0.046129614,
+   "rarityScore": 21.67805
+  },
+  {
+   "type": "FaceDetail",
+   "value": "mole",
+   "rarity": 0.054792978,
+   "rarityScore": 18.250513
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "redsin_eyes",
+   "rarity": 0.0679568,
+   "rarityScore": 14.715232
+  },
+  {
+   "type": "Tops",
+   "value": "shadow_ninja",
+   "rarity": 0.021152114,
+   "rarityScore": 47.276596
+  },
+  {
+   "type": "Hair",
+   "value": "yellowmidcut_hair",
+   "rarity": 0.0074257427,
+   "rarityScore": 134.66667
+  },
+  {
+   "type": "Front",
+   "value": "blackbugeye_glasses",
+   "rarity": 0.035666067,
+   "rarityScore": 28.037855
+  },
+  {
+   "type": "Bubble",
+   "value": "talkybubble_special",
+   "rarity": 0.046467148,
+   "rarityScore": 21.52058
+  }
+ ],
+ "prices": {
+  "KRV": 516.08777,
+  "KARV_NOW": 2414.7747,
+  "KARV_FUTURE": 14754.273,
+  "KHRV": 153.25888,
+  "KHRV_NOW": 717.09827,
+  "KHRV_FUTURE": 4381.4707
+ }
+}

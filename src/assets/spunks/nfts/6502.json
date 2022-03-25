@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6502",
+ "id": 6502,
+ "img": "6502.png",
+ "rarityScore": 289.22107,
+ "rarityRank": 4447,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "space_desert_ship",
+   "rarity": 0.050630063,
+   "rarityScore": 19.751112
+  },
+  {
+   "type": "Glow",
+   "value": "white_headglow",
+   "rarity": 0.09225923,
+   "rarityScore": 10.839025
+  },
+  {
+   "type": "Back",
+   "value": "blackred_jetpack",
+   "rarity": 0.03859136,
+   "rarityScore": 25.912537
+  },
+  {
+   "type": "Species",
+   "value": "humanoid6",
+   "rarity": 0.113523856,
+   "rarityScore": 8.808722
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "blue_hoodie",
+   "rarity": 0.018114312,
+   "rarityScore": 55.204967
+  },
+  {
+   "type": "Hair",
+   "value": "redmidsideslick_hair",
+   "rarity": 0.01080108,
+   "rarityScore": 92.583336
+  },
+  {
+   "type": "Front",
+   "value": "grayneon_glasses",
+   "rarity": 0.017326733,
+   "rarityScore": 57.714287
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 332.2738,
+  "KARV_NOW": 1554.7091,
+  "KARV_FUTURE": 9499.272,
+  "KHRV": 150.63272,
+  "KHRV_NOW": 704.8105,
+  "KHRV_FUTURE": 4306.392
+ }
+}

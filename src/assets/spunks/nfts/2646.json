@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #2646",
+ "id": 2646,
+ "img": "2646.png",
+ "rarityScore": 235.24228,
+ "rarityRank": 7089,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "space_desert_ship",
+   "rarity": 0.050630063,
+   "rarityScore": 19.751112
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "yellow_jetpack",
+   "rarity": 0.03780378,
+   "rarityScore": 26.452381
+  },
+  {
+   "type": "Species",
+   "value": "yakshian",
+   "rarity": 0.03577858,
+   "rarityScore": 27.949686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "freckles",
+   "rarity": 0.05591809,
+   "rarityScore": 17.883299
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "blue_hoodie",
+   "rarity": 0.018114312,
+   "rarityScore": 55.204967
+  },
+  {
+   "type": "Hair",
+   "value": "blackmediumwavy_hair",
+   "rarity": 0.021377137,
+   "rarityScore": 46.778946
+  },
+  {
+   "type": "Front",
+   "value": "blackbugeye_glasses",
+   "rarity": 0.035666067,
+   "rarityScore": 28.037855
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 270.2599,
+  "KARV_NOW": 1264.546,
+  "KARV_FUTURE": 7726.3765,
+  "KHRV": 149.74675,
+  "KHRV_NOW": 700.66504,
+  "KHRV_FUTURE": 4281.0635
+ }
+}

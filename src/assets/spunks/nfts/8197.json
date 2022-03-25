@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #8197",
+ "id": 8197,
+ "img": "8197.png",
+ "rarityScore": 253.95676,
+ "rarityRank": 6246,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "purple_magic",
+   "rarity": 0.036678668,
+   "rarityScore": 27.263803
+  },
+  {
+   "type": "Glow",
+   "value": "red_headglow",
+   "rarity": 0.09248425,
+   "rarityScore": 10.812652
+  },
+  {
+   "type": "Back",
+   "value": "purple_jetpack",
+   "rarity": 0.038928892,
+   "rarityScore": 25.68786
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "smallbeard",
+   "rarity": 0.07245725,
+   "rarityScore": 13.801242
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "green_lucky_sleeve",
+   "rarity": 0.017214222,
+   "rarityScore": 58.091503
+  },
+  {
+   "type": "Hair",
+   "value": "blackmidcut_hair",
+   "rarity": 0.023064807,
+   "rarityScore": 43.3561
+  },
+  {
+   "type": "Front",
+   "value": "blacksmol_glasses",
+   "rarity": 0.017776778,
+   "rarityScore": 56.253166
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 291.76013,
+  "KARV_NOW": 1365.1456,
+  "KARV_FUTURE": 8341.04,
+  "KHRV": 150.05392,
+  "KHRV_NOW": 702.1023,
+  "KHRV_FUTURE": 4289.845
+ }
+}

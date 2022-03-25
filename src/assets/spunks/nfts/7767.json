@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #7767",
+ "id": 7767,
+ "img": "7767.png",
+ "rarityScore": 303.8427,
+ "rarityRank": 3785,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight_ship",
+   "rarity": 0.052542754,
+   "rarityScore": 19.03212
+  },
+  {
+   "type": "Glow",
+   "value": "pink_headglow",
+   "rarity": 0.09619712,
+   "rarityScore": 10.395322
+  },
+  {
+   "type": "Back",
+   "value": "purple_jetpack",
+   "rarity": 0.038928892,
+   "rarityScore": 25.68786
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "smallbeard",
+   "rarity": 0.07245725,
+   "rarityScore": 13.801242
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "blue_xsleeve",
+   "rarity": 0.026890188,
+   "rarityScore": 37.188286
+  },
+  {
+   "type": "Hair",
+   "value": "whitebackwave_hair",
+   "rarity": 0.0077632763,
+   "rarityScore": 128.8116
+  },
+  {
+   "type": "Front",
+   "value": "basicpurple_glasses",
+   "rarity": 0.033528354,
+   "rarityScore": 29.825504
+  },
+  {
+   "type": "Bubble",
+   "value": "talkybubble_special",
+   "rarity": 0.046467148,
+   "rarityScore": 21.52058
+  }
+ ],
+ "prices": {
+  "KRV": 349.07202,
+  "KARV_NOW": 1633.308,
+  "KARV_FUTURE": 9979.512,
+  "KHRV": 150.87274,
+  "KHRV_NOW": 705.93353,
+  "KHRV_FUTURE": 4313.254
+ }
+}

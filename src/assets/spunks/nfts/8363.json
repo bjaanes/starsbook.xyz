@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #8363",
+ "id": 8363,
+ "img": "8363.png",
+ "rarityScore": 340.18805,
+ "rarityRank": 2534,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "enferian_planet",
+   "rarity": 0.021489648,
+   "rarityScore": 46.53403
+  },
+  {
+   "type": "Glow",
+   "value": "blue_headglow",
+   "rarity": 0.08787129,
+   "rarityScore": 11.380281
+  },
+  {
+   "type": "Back",
+   "value": "red_backsaber",
+   "rarity": 0.046017103,
+   "rarityScore": 21.73105
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "matrix_eyes",
+   "rarity": 0.0730198,
+   "rarityScore": 13.694915
+  },
+  {
+   "type": "Tops",
+   "value": "graystripehoodie",
+   "rarity": 0.021039603,
+   "rarityScore": 47.52941
+  },
+  {
+   "type": "Hair",
+   "value": "yellowspike_hair",
+   "rarity": 0.0112511255,
+   "rarityScore": 88.88
+  },
+  {
+   "type": "Front",
+   "value": "green_smol",
+   "rarity": 0.01170117,
+   "rarityScore": 85.46154
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 390.82764,
+  "KARV_NOW": 1828.6825,
+  "KARV_FUTURE": 11173.25,
+  "KHRV": 151.4693,
+  "KHRV_NOW": 708.72485,
+  "KHRV_FUTURE": 4330.309
+ }
+}

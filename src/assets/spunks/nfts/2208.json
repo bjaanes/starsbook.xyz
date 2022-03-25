@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #2208",
+ "id": 2208,
+ "img": "2208.png",
+ "rarityScore": 317.17343,
+ "rarityRank": 3271,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight_ship",
+   "rarity": 0.052542754,
+   "rarityScore": 19.03212
+  },
+  {
+   "type": "Glow",
+   "value": "red_headglow",
+   "rarity": 0.09248425,
+   "rarityScore": 10.812652
+  },
+  {
+   "type": "Back",
+   "value": "green_neonbackstaff",
+   "rarity": 0.039153915,
+   "rarityScore": 25.54023
+  },
+  {
+   "type": "Species",
+   "value": "enferian",
+   "rarity": 0.034765977,
+   "rarityScore": 28.763754
+  },
+  {
+   "type": "FaceDetail",
+   "value": "freckles",
+   "rarity": 0.05591809,
+   "rarityScore": 17.883299
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "red_eyes",
+   "rarity": 0.11971197,
+   "rarityScore": 8.353383
+  },
+  {
+   "type": "Tops",
+   "value": "blue_facesleeve",
+   "rarity": 0.020477047,
+   "rarityScore": 48.835163
+  },
+  {
+   "type": "Hair",
+   "value": "skinhead_blank_hair",
+   "rarity": 0.02070207,
+   "rarityScore": 48.304348
+  },
+  {
+   "type": "Front",
+   "value": "ogarious_earst",
+   "rarity": 0.009450945,
+   "rarityScore": 105.809525
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 364.3871,
+  "KARV_NOW": 1704.9672,
+  "KARV_FUTURE": 10417.35,
+  "KHRV": 151.09154,
+  "KHRV_NOW": 706.9573,
+  "KHRV_FUTURE": 4319.5093
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #8481",
+ "id": 8481,
+ "img": "8481.png",
+ "rarityScore": 207.37593,
+ "rarityRank": 8070,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "teal_magic_ship",
+   "rarity": 0.049054906,
+   "rarityScore": 20.38532
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "red_neonbackstaff",
+   "rarity": 0.041066606,
+   "rarityScore": 24.350685
+  },
+  {
+   "type": "Species",
+   "value": "neptunian",
+   "rarity": 0.04950495,
+   "rarityScore": 20.2
+  },
+  {
+   "type": "FaceDetail",
+   "value": "soulpatch",
+   "rarity": 0.069644466,
+   "rarityScore": 14.358643
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "redsin_eyes",
+   "rarity": 0.0679568,
+   "rarityScore": 14.715232
+  },
+  {
+   "type": "Tops",
+   "value": "bluestripehoodie",
+   "rarity": 0.020477047,
+   "rarityScore": 48.835163
+  },
+  {
+   "type": "Hair",
+   "value": "blackshortbangs_hair",
+   "rarity": 0.019014401,
+   "rarityScore": 52.591717
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 238.24542,
+  "KARV_NOW": 1114.7504,
+  "KARV_FUTURE": 6811.125,
+  "KHRV": 149.28935,
+  "KHRV_NOW": 698.52484,
+  "KHRV_FUTURE": 4267.987
+ }
+}

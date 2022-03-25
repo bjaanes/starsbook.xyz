@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #7263",
+ "id": 7263,
+ "img": "7263.png",
+ "rarityScore": 418.45563,
+ "rarityRank": 1189,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight_ship",
+   "rarity": 0.052542754,
+   "rarityScore": 19.03212
+  },
+  {
+   "type": "Glow",
+   "value": "yellow_headglow",
+   "rarity": 0.0889964,
+   "rarityScore": 11.236409
+  },
+  {
+   "type": "Back",
+   "value": "edge_earring_gold",
+   "rarity": 0.006863186,
+   "rarityScore": 145.70493
+  },
+  {
+   "type": "Species",
+   "value": "enferian",
+   "rarity": 0.034765977,
+   "rarityScore": 28.763754
+  },
+  {
+   "type": "FaceDetail",
+   "value": "the_mark_blackl",
+   "rarity": 0.015189019,
+   "rarityScore": 65.837036
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "red_eyes",
+   "rarity": 0.11971197,
+   "rarityScore": 8.353383
+  },
+  {
+   "type": "Tops",
+   "value": "yellow_xsleeve",
+   "rarity": 0.044554457,
+   "rarityScore": 22.444445
+  },
+  {
+   "type": "Hair",
+   "value": "yellowbackwave_hair",
+   "rarity": 0.00990099,
+   "rarityScore": 101
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 480.74594,
+  "KARV_NOW": 2249.4102,
+  "KARV_FUTURE": 13743.896,
+  "KHRV": 152.75397,
+  "KHRV_NOW": 714.7358,
+  "KHRV_FUTURE": 4367.0356
+ }
+}

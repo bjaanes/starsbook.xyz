@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3213",
+ "id": 3213,
+ "img": "3213.jpg",
+ "rarityScore": 153.04085,
+ "rarityRank": 3973,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 3",
+   "rarity": 0.0244,
+   "rarityScore": 40.98361
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Yellow",
+   "rarity": 0.0222,
+   "rarityScore": 45.045044
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Blue",
+   "rarity": 0.043,
+   "rarityScore": 23.255814
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Pink",
+   "rarity": 0.034,
+   "rarityScore": 29.411764
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3213",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 257.13907,
+  "KARV_NOW": 1203.1537,
+  "KARV_FUTURE": 7351.269,
+  "KHRV": 141.9201,
+  "KHRV_NOW": 664.0441,
+  "KHRV_FUTURE": 4057.3098
+ }
+}

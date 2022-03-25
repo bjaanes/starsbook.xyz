@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0829",
+ "id": 1109,
+ "img": "1109.png",
+ "rarityScore": 373.51218,
+ "rarityRank": 506,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "60 thousand km",
+   "rarity": 0.0125,
+   "rarityScore": 80
+  },
+  {
+   "type": "Gravity force",
+   "value": "24.5g",
+   "rarity": 0.006,
+   "rarityScore": 166.66667
+  },
+  {
+   "type": "Age",
+   "value": "9 billion years",
+   "rarity": 0.046,
+   "rarityScore": 21.73913
+  },
+  {
+   "type": "Type",
+   "value": "Fire Planet",
+   "rarity": 0.075,
+   "rarityScore": 13.333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Polonium",
+   "rarity": 0.01175,
+   "rarityScore": 85.106384
+  },
+  {
+   "type": "Rank",
+   "value": "829",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Epic",
+   "rarity": 0.15,
+   "rarityScore": 6.6666665
+  }
+ ],
+ "prices": {
+  "KRV": 446.44427,
+  "KARV_NOW": 2088.9126,
+  "KARV_FUTURE": 12763.256,
+  "KHRV": 177.45206,
+  "KHRV_NOW": 830.29816,
+  "KHRV_FUTURE": 5073.122
+ }
+}

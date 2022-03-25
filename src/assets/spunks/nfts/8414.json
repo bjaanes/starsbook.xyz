@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #8414",
+ "id": 8414,
+ "img": "8414.png",
+ "rarityScore": 322.2121,
+ "rarityRank": 3091,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "space_desert_ship",
+   "rarity": 0.050630063,
+   "rarityScore": 19.751112
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "red_neonbackstaff",
+   "rarity": 0.041066606,
+   "rarityScore": 24.350685
+  },
+  {
+   "type": "Species",
+   "value": "neptunian",
+   "rarity": 0.04950495,
+   "rarityScore": 20.2
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "luna",
+   "rarity": 0.01260126,
+   "rarityScore": 79.35714
+  },
+  {
+   "type": "Hair",
+   "value": "blackshave_hair",
+   "rarity": 0.02160216,
+   "rarityScore": 46.291668
+  },
+  {
+   "type": "Front",
+   "value": "greenbugeye_glasses",
+   "rarity": 0.011588659,
+   "rarityScore": 86.29126
+  },
+  {
+   "type": "Bubble",
+   "value": "talkybubble_special",
+   "rarity": 0.046467148,
+   "rarityScore": 21.52058
+  }
+ ],
+ "prices": {
+  "KRV": 370.17584,
+  "KARV_NOW": 1732.0527,
+  "KARV_FUTURE": 10582.843,
+  "KHRV": 151.17424,
+  "KHRV_NOW": 707.34424,
+  "KHRV_FUTURE": 4321.8735
+ }
+}

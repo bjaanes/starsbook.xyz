@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #4375",
+ "id": 4375,
+ "img": "4375.png",
+ "rarityScore": 380.40765,
+ "rarityRank": 1634,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "andromeda_city",
+   "rarity": 0.0052880286,
+   "rarityScore": 189.10638
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "zenian",
+   "rarity": 0.039266426,
+   "rarityScore": 25.467049
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyescar",
+   "rarity": 0.060868587,
+   "rarityScore": 16.428835
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "teal_stripe",
+   "rarity": 0.040841583,
+   "rarityScore": 24.484848
+  },
+  {
+   "type": "Hair",
+   "value": "blondebackslick_hair",
+   "rarity": 0.02081458,
+   "rarityScore": 48.043243
+  },
+  {
+   "type": "Front",
+   "value": "cherry_glasses",
+   "rarity": 0.016764177,
+   "rarityScore": 59.65101
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 437.03424,
+  "KARV_NOW": 2044.8832,
+  "KARV_FUTURE": 12494.236,
+  "KHRV": 152.12944,
+  "KHRV_NOW": 711.81366,
+  "KHRV_FUTURE": 4349.1816
+ }
+}

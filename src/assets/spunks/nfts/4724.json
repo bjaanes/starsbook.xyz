@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #4724",
+ "id": 4724,
+ "img": "4724.png",
+ "rarityScore": 341.88803,
+ "rarityRank": 2477,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight_ship",
+   "rarity": 0.052542754,
+   "rarityScore": 19.03212
+  },
+  {
+   "type": "Glow",
+   "value": "green_headglow",
+   "rarity": 0.08809631,
+   "rarityScore": 11.351213
+  },
+  {
+   "type": "Back",
+   "value": "blackblue_jetpack",
+   "rarity": 0.036453646,
+   "rarityScore": 27.432098
+  },
+  {
+   "type": "Species",
+   "value": "yakshian",
+   "rarity": 0.03577858,
+   "rarityScore": 27.949686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "soulpatch",
+   "rarity": 0.069644466,
+   "rarityScore": 14.358643
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "lemonadeninja",
+   "rarity": 0.02238974,
+   "rarityScore": 44.663315
+  },
+  {
+   "type": "Hair",
+   "value": "purplespike_hair",
+   "rarity": 0.015976598,
+   "rarityScore": 62.59155
+  },
+  {
+   "type": "Front",
+   "value": "red_space_helmet",
+   "rarity": 0.00810081,
+   "rarityScore": 123.44444
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 392.78067,
+  "KARV_NOW": 1837.8207,
+  "KARV_FUTURE": 11229.085,
+  "KHRV": 151.4972,
+  "KHRV_NOW": 708.85535,
+  "KHRV_FUTURE": 4331.1064
+ }
+}

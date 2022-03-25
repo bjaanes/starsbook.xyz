@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #2572",
+ "id": 2572,
+ "img": "2572.png",
+ "rarityScore": 341.60834,
+ "rarityRank": 2488,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_spunk_sky",
+   "rarity": 0.027790278,
+   "rarityScore": 35.983807
+  },
+  {
+   "type": "Glow",
+   "value": "pink_headglow",
+   "rarity": 0.09619712,
+   "rarityScore": 10.395322
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "smallbeard",
+   "rarity": 0.07245725,
+   "rarityScore": 13.801242
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "blackwhite_eyes",
+   "rarity": 0.03307831,
+   "rarityScore": 30.231293
+  },
+  {
+   "type": "Tops",
+   "value": "magentahoodie",
+   "rarity": 0.01980198,
+   "rarityScore": 50.5
+  },
+  {
+   "type": "Hair",
+   "value": "purpleshortbangs_hair",
+   "rarity": 0.013051305,
+   "rarityScore": 76.62069
+  },
+  {
+   "type": "Front",
+   "value": "greenbugeye_glasses",
+   "rarity": 0.011588659,
+   "rarityScore": 86.29126
+  },
+  {
+   "type": "Bubble",
+   "value": "surprisebubble_special",
+   "rarity": 0.04162916,
+   "rarityScore": 24.021622
+  }
+ ],
+ "prices": {
+  "KRV": 392.45932,
+  "KARV_NOW": 1836.3171,
+  "KARV_FUTURE": 11219.898,
+  "KHRV": 151.4926,
+  "KHRV_NOW": 708.83386,
+  "KHRV_FUTURE": 4330.975
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #4046",
+ "id": 4046,
+ "img": "4046.png",
+ "rarityScore": 361.09558,
+ "rarityRank": 2005,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "teal_magic_ship",
+   "rarity": 0.049054906,
+   "rarityScore": 20.38532
+  },
+  {
+   "type": "Glow",
+   "value": "green_headglow",
+   "rarity": 0.08809631,
+   "rarityScore": 11.351213
+  },
+  {
+   "type": "Back",
+   "value": "angel_green_wings",
+   "rarity": 0.0065256525,
+   "rarityScore": 153.24138
+  },
+  {
+   "type": "Species",
+   "value": "gaianan",
+   "rarity": 0.046129614,
+   "rarityScore": 21.67805
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyescar",
+   "rarity": 0.060868587,
+   "rarityScore": 16.428835
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "robo_eyes",
+   "rarity": 0.04849235,
+   "rarityScore": 20.621809
+  },
+  {
+   "type": "Tops",
+   "value": "stargaze_fan",
+   "rarity": 0.037241224,
+   "rarityScore": 26.851963
+  },
+  {
+   "type": "Hair",
+   "value": "tealmidsideslick_hair",
+   "rarity": 0.012376238,
+   "rarityScore": 80.8
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 414.8474,
+  "KARV_NOW": 1941.071,
+  "KARV_FUTURE": 11859.944,
+  "KHRV": 151.81247,
+  "KHRV_NOW": 710.3305,
+  "KHRV_FUTURE": 4340.1196
+ }
+}

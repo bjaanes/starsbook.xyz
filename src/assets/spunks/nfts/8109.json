@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #8109",
+ "id": 8109,
+ "img": "8109.png",
+ "rarityScore": 872.2001,
+ "rarityRank": 71,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "zenian_planet",
+   "rarity": 0.017326733,
+   "rarityScore": 57.714287
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "red_backsaber",
+   "rarity": 0.046017103,
+   "rarityScore": 21.73105
+  },
+  {
+   "type": "Species",
+   "value": "humanoid3",
+   "rarity": 0.121737175,
+   "rarityScore": 8.214417
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "yellow_stripe_shirt",
+   "rarity": 0.040279027,
+   "rarityScore": 24.826817
+  },
+  {
+   "type": "Hair",
+   "value": "roseemo_hair",
+   "rarity": 0.0015751575,
+   "rarityScore": 634.8571
+  },
+  {
+   "type": "Front",
+   "value": "verticalrainbow_glasses",
+   "rarity": 0.0096759675,
+   "rarityScore": 103.34884
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 1002.0337,
+  "KARV_NOW": 4688.5156,
+  "KARV_FUTURE": 28646.832,
+  "KHRV": 160.20161,
+  "KHRV_NOW": 749.5833,
+  "KHRV_FUTURE": 4579.954
+ }
+}

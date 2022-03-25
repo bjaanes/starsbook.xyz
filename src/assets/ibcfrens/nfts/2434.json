@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2434",
+ "id": 2434,
+ "img": "2434.jpg",
+ "rarityScore": 209.42679,
+ "rarityRank": 2753,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 9",
+   "rarity": 0.0252,
+   "rarityScore": 39.68254
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Purple",
+   "rarity": 0.1082,
+   "rarityScore": 9.242145
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Light Blue",
+   "rarity": 0.0208,
+   "rarityScore": 48.076923
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Purple",
+   "rarity": 0.0352,
+   "rarityScore": 28.40909
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Light Yellow",
+   "rarity": 0.0234,
+   "rarityScore": 42.735043
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Blue",
+   "rarity": 0.0274,
+   "rarityScore": 36.49635
+  },
+  {
+   "type": "generation",
+   "value": "2434",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 351.87866,
+  "KARV_NOW": 1646.4402,
+  "KARV_FUTURE": 10059.75,
+  "KHRV": 143.47302,
+  "KHRV_NOW": 671.31024,
+  "KHRV_FUTURE": 4101.7056
+ }
+}

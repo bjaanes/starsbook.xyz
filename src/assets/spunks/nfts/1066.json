@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #1066",
+ "id": 1066,
+ "img": "1066.png",
+ "rarityScore": 257.16205,
+ "rarityRank": 6070,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "neptunian_planet",
+   "rarity": 0.027227722,
+   "rarityScore": 36.727272
+  },
+  {
+   "type": "Glow",
+   "value": "pink_headglow",
+   "rarity": 0.09619712,
+   "rarityScore": 10.395322
+  },
+  {
+   "type": "Back",
+   "value": "blackred_jetpack",
+   "rarity": 0.03859136,
+   "rarityScore": 25.912537
+  },
+  {
+   "type": "Species",
+   "value": "zenian",
+   "rarity": 0.039266426,
+   "rarityScore": 25.467049
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "red_eyes",
+   "rarity": 0.11971197,
+   "rarityScore": 8.353383
+  },
+  {
+   "type": "Tops",
+   "value": "yellow_stripe_shirt",
+   "rarity": 0.040279027,
+   "rarityScore": 24.826817
+  },
+  {
+   "type": "Hair",
+   "value": "blondemediumwavy_hair",
+   "rarity": 0.02081458,
+   "rarityScore": 48.043243
+  },
+  {
+   "type": "Front",
+   "value": "skyblue_headphones",
+   "rarity": 0.023064807,
+   "rarityScore": 43.3561
+  },
+  {
+   "type": "Bubble",
+   "value": "surprisebubble_special",
+   "rarity": 0.04162916,
+   "rarityScore": 24.021622
+  }
+ ],
+ "prices": {
+  "KRV": 295.44257,
+  "KARV_NOW": 1382.3757,
+  "KARV_FUTURE": 8446.315,
+  "KHRV": 150.10652,
+  "KHRV_NOW": 702.3484,
+  "KHRV_FUTURE": 4291.3486
+ }
+}

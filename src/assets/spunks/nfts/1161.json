@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #1161",
+ "id": 1161,
+ "img": "1161.png",
+ "rarityScore": 241.86868,
+ "rarityRank": 6802,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "vapor_night",
+   "rarity": 0.023514852,
+   "rarityScore": 42.526318
+  },
+  {
+   "type": "Glow",
+   "value": "white_headglow",
+   "rarity": 0.09225923,
+   "rarityScore": 10.839025
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "yakshian",
+   "rarity": 0.03577858,
+   "rarityScore": 27.949686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "graystripehoodie",
+   "rarity": 0.021039603,
+   "rarityScore": 47.52941
+  },
+  {
+   "type": "Hair",
+   "value": "brownmidsideslick_hair",
+   "rarity": 0.02081458,
+   "rarityScore": 48.043243
+  },
+  {
+   "type": "Front",
+   "value": "yellowblack_headphones",
+   "rarity": 0.025877587,
+   "rarityScore": 38.64348
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 277.87268,
+  "KARV_NOW": 1300.1663,
+  "KARV_FUTURE": 7944.016,
+  "KHRV": 149.85551,
+  "KHRV_NOW": 701.17395,
+  "KHRV_FUTURE": 4284.173
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #7500",
+ "id": 7500,
+ "img": "7500.png",
+ "rarityScore": 268.11813,
+ "rarityRank": 5496,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "charanion_planet",
+   "rarity": 0.018226823,
+   "rarityScore": 54.864197
+  },
+  {
+   "type": "Glow",
+   "value": "yellow_headglow",
+   "rarity": 0.0889964,
+   "rarityScore": 11.236409
+  },
+  {
+   "type": "Back",
+   "value": "red_backsaber",
+   "rarity": 0.046017103,
+   "rarityScore": 21.73105
+  },
+  {
+   "type": "Species",
+   "value": "zenian",
+   "rarity": 0.039266426,
+   "rarityScore": 25.467049
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "matrix_eyes",
+   "rarity": 0.0730198,
+   "rarityScore": 13.694915
+  },
+  {
+   "type": "Tops",
+   "value": "classic_whiteshirt",
+   "rarity": 0.03881638,
+   "rarityScore": 25.76232
+  },
+  {
+   "type": "Hair",
+   "value": "blondemidsideslick_hair",
+   "rarity": 0.022502251,
+   "rarityScore": 44.44
+  },
+  {
+   "type": "Front",
+   "value": "yellowblack_headphones",
+   "rarity": 0.025877587,
+   "rarityScore": 38.64348
+  },
+  {
+   "type": "Bubble",
+   "value": "questionbubble_special",
+   "rarity": 0.045004502,
+   "rarityScore": 22.22
+  }
+ ],
+ "prices": {
+  "KRV": 308.02954,
+  "KARV_NOW": 1441.2701,
+  "KARV_FUTURE": 8806.161,
+  "KHRV": 150.28635,
+  "KHRV_NOW": 703.1898,
+  "KHRV_FUTURE": 4296.4897
+ }
+}

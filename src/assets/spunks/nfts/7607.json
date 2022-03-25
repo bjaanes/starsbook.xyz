@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #7607",
+ "id": 7607,
+ "img": "7607.png",
+ "rarityScore": 172.37521,
+ "rarityRank": 8737,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "spunksky",
+   "rarity": 0.03971647,
+   "rarityScore": 25.17847
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "blue_backsaber",
+   "rarity": 0.05411791,
+   "rarityScore": 18.47817
+  },
+  {
+   "type": "Species",
+   "value": "aphroditian",
+   "rarity": 0.04657966,
+   "rarityScore": 21.4686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "soulpatch",
+   "rarity": 0.069644466,
+   "rarityScore": 14.358643
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "stargaze_fan",
+   "rarity": 0.037241224,
+   "rarityScore": 26.851963
+  },
+  {
+   "type": "Hair",
+   "value": "blackbackslick_hair",
+   "rarity": 0.021377137,
+   "rarityScore": 46.778946
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 198.03458,
+  "KARV_NOW": 926.60376,
+  "KARV_FUTURE": 5661.5493,
+  "KHRV": 148.71484,
+  "KHRV_NOW": 695.83673,
+  "KHRV_FUTURE": 4251.5625
+ }
+}

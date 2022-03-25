@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3095",
+ "id": 3095,
+ "img": "3095.png",
+ "rarityScore": 230.65744,
+ "rarityRank": 7289,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "zenian_planet",
+   "rarity": 0.017326733,
+   "rarityScore": 57.714287
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid6",
+   "rarity": 0.113523856,
+   "rarityScore": 8.808722
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "yellow_xsleeve",
+   "rarity": 0.044554457,
+   "rarityScore": 22.444445
+  },
+  {
+   "type": "Hair",
+   "value": "blondebackslick_hair",
+   "rarity": 0.02081458,
+   "rarityScore": 48.043243
+  },
+  {
+   "type": "Front",
+   "value": "magentaliteframe_glasses",
+   "rarity": 0.016426643,
+   "rarityScore": 60.876713
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 264.99255,
+  "KARV_NOW": 1239.9001,
+  "KARV_FUTURE": 7575.79,
+  "KHRV": 149.67148,
+  "KHRV_NOW": 700.3128,
+  "KHRV_FUTURE": 4278.911
+ }
+}

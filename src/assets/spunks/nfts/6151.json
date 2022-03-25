@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6151",
+ "id": 6151,
+ "img": "6151.png",
+ "rarityScore": 313.4454,
+ "rarityRank": 3422,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "space_desert_ship",
+   "rarity": 0.050630063,
+   "rarityScore": 19.751112
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "pink_jetpack",
+   "rarity": 0.03881638,
+   "rarityScore": 25.76232
+  },
+  {
+   "type": "Species",
+   "value": "humanoid3",
+   "rarity": 0.121737175,
+   "rarityScore": 8.214417
+  },
+  {
+   "type": "FaceDetail",
+   "value": "tears",
+   "rarity": 0.026777677,
+   "rarityScore": 37.34454
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "juno",
+   "rarity": 0.011813682,
+   "rarityScore": 84.64762
+  },
+  {
+   "type": "Hair",
+   "value": "pinkmidsideslick_hair",
+   "rarity": 0.014963997,
+   "rarityScore": 66.827065
+  },
+  {
+   "type": "Front",
+   "value": "grayneon_glasses",
+   "rarity": 0.017326733,
+   "rarityScore": 57.714287
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 360.10413,
+  "KARV_NOW": 1684.9271,
+  "KARV_FUTURE": 10294.905,
+  "KHRV": 151.03033,
+  "KHRV_NOW": 706.6709,
+  "KHRV_FUTURE": 4317.7593
+ }
+}

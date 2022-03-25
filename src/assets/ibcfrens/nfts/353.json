@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #353",
+ "id": 353,
+ "img": "353.jpg",
+ "rarityScore": 1645.1736,
+ "rarityRank": 36,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 5",
+   "rarity": 0.0236,
+   "rarityScore": 42.372883
+  },
+  {
+   "type": "Character",
+   "value": "Sunkissed Light Blue",
+   "rarity": 0.0052,
+   "rarityScore": 192.3077
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Green",
+   "rarity": 0.0106,
+   "rarityScore": 94.33962
+  },
+  {
+   "type": "Eyes",
+   "value": "Money Yen Purple",
+   "rarity": 0.0008,
+   "rarityScore": 1250
+  },
+  {
+   "type": "Mouth",
+   "value": "Sad",
+   "rarity": 0.0308,
+   "rarityScore": 32.467533
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Yellow",
+   "rarity": 0.031,
+   "rarityScore": 32.258064
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "353",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 2764.2188,
+  "KARV_NOW": 12933.779,
+  "KARV_FUTURE": 79025.39,
+  "KHRV": 183.01498,
+  "KHRV_NOW": 856.3271,
+  "KHRV_FUTURE": 5232.1587
+ }
+}

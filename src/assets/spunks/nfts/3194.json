@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3194",
+ "id": 3194,
+ "img": "3194.png",
+ "rarityScore": 656.9106,
+ "rarityRank": 366,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "candy_sky",
+   "rarity": 0.03049055,
+   "rarityScore": 32.797047
+  },
+  {
+   "type": "Glow",
+   "value": "green_headglow",
+   "rarity": 0.08809631,
+   "rarityScore": 11.351213
+  },
+  {
+   "type": "Back",
+   "value": "darkpurple_jetpack",
+   "rarity": 0.042191718,
+   "rarityScore": 23.701334
+  },
+  {
+   "type": "Species",
+   "value": "humanoid4",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyescar",
+   "rarity": 0.060868587,
+   "rarityScore": 16.428835
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "purple_xsleeve",
+   "rarity": 0.043091808,
+   "rarityScore": 23.206266
+  },
+  {
+   "type": "Hair",
+   "value": "lavenderemo_hair",
+   "rarity": 0.002250225,
+   "rarityScore": 444.4
+  },
+  {
+   "type": "Front",
+   "value": "graygray_visor",
+   "rarity": 0.011476148,
+   "rarityScore": 87.13725
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 754.6967,
+  "KARV_NOW": 3531.2258,
+  "KARV_FUTURE": 21575.791,
+  "KHRV": 156.6679,
+  "KHRV_NOW": 733.0491,
+  "KHRV_FUTURE": 4478.9297
+ }
+}

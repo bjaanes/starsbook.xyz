@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6390",
+ "id": 6390,
+ "img": "6390.png",
+ "rarityScore": 454.46918,
+ "rarityRank": 940,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_stargaze_clouds",
+   "rarity": 0.03510351,
+   "rarityScore": 28.487179
+  },
+  {
+   "type": "Glow",
+   "value": "yellow_headglow",
+   "rarity": 0.0889964,
+   "rarityScore": 11.236409
+  },
+  {
+   "type": "Back",
+   "value": "angel_green_wings",
+   "rarity": 0.0065256525,
+   "rarityScore": 153.24138
+  },
+  {
+   "type": "Species",
+   "value": "charanion",
+   "rarity": 0.011926193,
+   "rarityScore": 83.84906
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "greenXsleeve",
+   "rarity": 0.04162916,
+   "rarityScore": 24.021622
+  },
+  {
+   "type": "Hair",
+   "value": "blackspike_hair",
+   "rarity": 0.01890189,
+   "rarityScore": 52.904762
+  },
+  {
+   "type": "Front",
+   "value": "greenbugeye_glasses",
+   "rarity": 0.011588659,
+   "rarityScore": 86.29126
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 522.12036,
+  "KARV_NOW": 2443.0012,
+  "KARV_FUTURE": 14926.737,
+  "KHRV": 153.34506,
+  "KHRV_NOW": 717.5015,
+  "KHRV_FUTURE": 4383.9346
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0669",
+ "id": 53,
+ "img": "53.png",
+ "rarityScore": 351.92657,
+ "rarityRank": 668,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "30 thousand km",
+   "rarity": 0.00875,
+   "rarityScore": 114.28571
+  },
+  {
+   "type": "Gravity force",
+   "value": "1.4g",
+   "rarity": 0.01425,
+   "rarityScore": 70.17544
+  },
+  {
+   "type": "Age",
+   "value": "8 billion years",
+   "rarity": 0.05425,
+   "rarityScore": 18.43318
+  },
+  {
+   "type": "Type",
+   "value": "Fire Planet",
+   "rarity": 0.075,
+   "rarityScore": 13.333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Hafnium",
+   "rarity": 0.00775,
+   "rarityScore": 129.03226
+  },
+  {
+   "type": "Rank",
+   "value": "669",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Epic",
+   "rarity": 0.15,
+   "rarityScore": 6.6666665
+  }
+ ],
+ "prices": {
+  "KRV": 420.64386,
+  "KARV_NOW": 1968.1926,
+  "KARV_FUTURE": 12025.657,
+  "KHRV": 176.57625,
+  "KHRV_NOW": 826.20026,
+  "KHRV_FUTURE": 5048.0835
+ }
+}

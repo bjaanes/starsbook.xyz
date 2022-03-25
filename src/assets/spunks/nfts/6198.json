@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6198",
+ "id": 6198,
+ "img": "6198.png",
+ "rarityScore": 320.18167,
+ "rarityRank": 3166,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "deepspace_ship",
+   "rarity": 0.05051755,
+   "rarityScore": 19.795101
+  },
+  {
+   "type": "Glow",
+   "value": "blue_headglow",
+   "rarity": 0.08787129,
+   "rarityScore": 11.380281
+  },
+  {
+   "type": "Back",
+   "value": "blackred_jetpack",
+   "rarity": 0.03859136,
+   "rarityScore": 25.912537
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "stargaze_fan",
+   "rarity": 0.037241224,
+   "rarityScore": 26.851963
+  },
+  {
+   "type": "Hair",
+   "value": "whitemidsideslick_hair",
+   "rarity": 0.007988299,
+   "rarityScore": 125.1831
+  },
+  {
+   "type": "Front",
+   "value": "dark_catears",
+   "rarity": 0.011926193,
+   "rarityScore": 83.84906
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 367.84314,
+  "KARV_NOW": 1721.1381,
+  "KARV_FUTURE": 10516.153,
+  "KHRV": 151.14091,
+  "KHRV_NOW": 707.18835,
+  "KHRV_FUTURE": 4320.921
+ }
+}

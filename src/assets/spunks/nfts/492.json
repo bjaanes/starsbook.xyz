@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #492",
+ "id": 492,
+ "img": "492.png",
+ "rarityScore": 343.59647,
+ "rarityRank": 2446,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight",
+   "rarity": 0.029477948,
+   "rarityScore": 33.923664
+  },
+  {
+   "type": "Glow",
+   "value": "pink_headglow",
+   "rarity": 0.09619712,
+   "rarityScore": 10.395322
+  },
+  {
+   "type": "Back",
+   "value": "red_backsaber",
+   "rarity": 0.046017103,
+   "rarityScore": 21.73105
+  },
+  {
+   "type": "Species",
+   "value": "neptunian",
+   "rarity": 0.04950495,
+   "rarityScore": 20.2
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "litegraycloak",
+   "rarity": 0.017551756,
+   "rarityScore": 56.974358
+  },
+  {
+   "type": "Hair",
+   "value": "purplemediumwavy_hair",
+   "rarity": 0.012263726,
+   "rarityScore": 81.54128
+  },
+  {
+   "type": "Front",
+   "value": "bluegreen_visor",
+   "rarity": 0.010238524,
+   "rarityScore": 97.67033
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 394.74344,
+  "KARV_NOW": 1847.0045,
+  "KARV_FUTURE": 11285.198,
+  "KHRV": 151.52524,
+  "KHRV_NOW": 708.9866,
+  "KHRV_FUTURE": 4331.908
+ }
+}

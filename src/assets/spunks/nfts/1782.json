@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #1782",
+ "id": 1782,
+ "img": "1782.png",
+ "rarityScore": 271.1524,
+ "rarityRank": 5336,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "zenian_planet",
+   "rarity": 0.017326733,
+   "rarityScore": 57.714287
+  },
+  {
+   "type": "Glow",
+   "value": "blue_headglow",
+   "rarity": 0.08787129,
+   "rarityScore": 11.380281
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid6",
+   "rarity": 0.113523856,
+   "rarityScore": 8.808722
+  },
+  {
+   "type": "FaceDetail",
+   "value": "tears",
+   "rarity": 0.026777677,
+   "rarityScore": 37.34454
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "robo_eyes",
+   "rarity": 0.04849235,
+   "rarityScore": 20.621809
+  },
+  {
+   "type": "Tops",
+   "value": "stargaze_fan",
+   "rarity": 0.037241224,
+   "rarityScore": 26.851963
+  },
+  {
+   "type": "Hair",
+   "value": "redbackslick_hair",
+   "rarity": 0.014288929,
+   "rarityScore": 69.98425
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "smilebubble_special",
+   "rarity": 0.037353735,
+   "rarityScore": 26.771084
+  }
+ ],
+ "prices": {
+  "KRV": 311.5155,
+  "KARV_NOW": 1457.581,
+  "KARV_FUTURE": 8905.82,
+  "KHRV": 150.33617,
+  "KHRV_NOW": 703.4229,
+  "KHRV_FUTURE": 4297.914
+ }
+}

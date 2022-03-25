@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6458",
+ "id": 6458,
+ "img": "6458.png",
+ "rarityScore": 335.8257,
+ "rarityRank": 2640,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "space_desert_ship",
+   "rarity": 0.050630063,
+   "rarityScore": 19.751112
+  },
+  {
+   "type": "Glow",
+   "value": "blue_headglow",
+   "rarity": 0.08787129,
+   "rarityScore": 11.380281
+  },
+  {
+   "type": "Back",
+   "value": "green_jetpack",
+   "rarity": 0.039153915,
+   "rarityScore": 25.54023
+  },
+  {
+   "type": "Species",
+   "value": "humanoid7",
+   "rarity": 0.122749776,
+   "rarityScore": 8.146654
+  },
+  {
+   "type": "FaceDetail",
+   "value": "the_mark_pinkl",
+   "rarity": 0.013276327,
+   "rarityScore": 75.32204
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "classic_whiteshirt",
+   "rarity": 0.03881638,
+   "rarityScore": 25.76232
+  },
+  {
+   "type": "Hair",
+   "value": "purplemidsideslick_hair",
+   "rarity": 0.014626463,
+   "rarityScore": 68.36923
+  },
+  {
+   "type": "Front",
+   "value": "dark_catears",
+   "rarity": 0.011926193,
+   "rarityScore": 83.84906
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 385.81595,
+  "KARV_NOW": 1805.2328,
+  "KARV_FUTURE": 11029.973,
+  "KHRV": 151.3977,
+  "KHRV_NOW": 708.38983,
+  "KHRV_FUTURE": 4328.262
+ }
+}

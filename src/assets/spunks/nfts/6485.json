@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6485",
+ "id": 6485,
+ "img": "6485.png",
+ "rarityScore": 475.90332,
+ "rarityRank": 840,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "charanion_planet",
+   "rarity": 0.018226823,
+   "rarityScore": 54.864197
+  },
+  {
+   "type": "Glow",
+   "value": "white_headglow",
+   "rarity": 0.09225923,
+   "rarityScore": 10.839025
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid6",
+   "rarity": 0.113523856,
+   "rarityScore": 8.808722
+  },
+  {
+   "type": "FaceDetail",
+   "value": "tears",
+   "rarity": 0.026777677,
+   "rarityScore": 37.34454
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "lavender_ninja",
+   "rarity": 0.020589558,
+   "rarityScore": 48.568306
+  },
+  {
+   "type": "Hair",
+   "value": "neonbluemediumwavy_hair",
+   "rarity": 0.0051755174,
+   "rarityScore": 193.21739
+  },
+  {
+   "type": "Front",
+   "value": "verticalrainbow_glasses",
+   "rarity": 0.0096759675,
+   "rarityScore": 103.34884
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 546.7451,
+  "KARV_NOW": 2558.2205,
+  "KARV_FUTURE": 15630.728,
+  "KHRV": 153.6969,
+  "KHRV_NOW": 719.14777,
+  "KHRV_FUTURE": 4393.993
+ }
+}

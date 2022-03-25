@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #2297",
+ "id": 2297,
+ "img": "2297.png",
+ "rarityScore": 269.60355,
+ "rarityRank": 5426,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "enferian_planet",
+   "rarity": 0.021489648,
+   "rarityScore": 46.53403
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid7",
+   "rarity": 0.122749776,
+   "rarityScore": 8.146654
+  },
+  {
+   "type": "FaceDetail",
+   "value": "tears",
+   "rarity": 0.026777677,
+   "rarityScore": 37.34454
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "classic_whiteshirt",
+   "rarity": 0.03881638,
+   "rarityScore": 25.76232
+  },
+  {
+   "type": "Hair",
+   "value": "pinkbackslick_hair",
+   "rarity": 0.014063907,
+   "rarityScore": 71.104
+  },
+  {
+   "type": "Front",
+   "value": "choker_white",
+   "rarity": 0.015751576,
+   "rarityScore": 63.485714
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 309.73608,
+  "KARV_NOW": 1449.2551,
+  "KARV_FUTURE": 8854.949,
+  "KHRV": 150.31073,
+  "KHRV_NOW": 703.3039,
+  "KHRV_FUTURE": 4297.187
+ }
+}

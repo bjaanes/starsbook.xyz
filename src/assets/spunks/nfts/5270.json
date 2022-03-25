@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #5270",
+ "id": 5270,
+ "img": "5270.png",
+ "rarityScore": 272.4626,
+ "rarityRank": 5272,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "green_sky",
+   "rarity": 0.023177318,
+   "rarityScore": 43.14563
+  },
+  {
+   "type": "Glow",
+   "value": "red_headglow",
+   "rarity": 0.09248425,
+   "rarityScore": 10.812652
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "gaianan",
+   "rarity": 0.046129614,
+   "rarityScore": 21.67805
+  },
+  {
+   "type": "FaceDetail",
+   "value": "soulpatch",
+   "rarity": 0.069644466,
+   "rarityScore": 14.358643
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "red_stripe_hoodie",
+   "rarity": 0.016876688,
+   "rarityScore": 59.253334
+  },
+  {
+   "type": "Hair",
+   "value": "blackshortbangs_hair",
+   "rarity": 0.019014401,
+   "rarityScore": 52.591717
+  },
+  {
+   "type": "Front",
+   "value": "grayneon_glasses",
+   "rarity": 0.017326733,
+   "rarityScore": 57.714287
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 313.02072,
+  "KARV_NOW": 1464.6239,
+  "KARV_FUTURE": 8948.853,
+  "KHRV": 150.35767,
+  "KHRV_NOW": 703.5235,
+  "KHRV_FUTURE": 4298.529
+ }
+}

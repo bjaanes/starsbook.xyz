@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #8862",
+ "id": 8862,
+ "img": "8862.png",
+ "rarityScore": 373.4297,
+ "rarityRank": 1761,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "purple_magic_ship",
+   "rarity": 0.048042305,
+   "rarityScore": 20.81499
+  },
+  {
+   "type": "Glow",
+   "value": "white_headglow",
+   "rarity": 0.09225923,
+   "rarityScore": 10.839025
+  },
+  {
+   "type": "Back",
+   "value": "blackred_jetpack",
+   "rarity": 0.03859136,
+   "rarityScore": 25.912537
+  },
+  {
+   "type": "Species",
+   "value": "zenian",
+   "rarity": 0.039266426,
+   "rarityScore": 25.467049
+  },
+  {
+   "type": "FaceDetail",
+   "value": "shinobi_band",
+   "rarity": 0.013613861,
+   "rarityScore": 73.454544
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "juno",
+   "rarity": 0.011813682,
+   "rarityScore": 84.64762
+  },
+  {
+   "type": "Hair",
+   "value": "blondemediumwavy_hair",
+   "rarity": 0.02081458,
+   "rarityScore": 48.043243
+  },
+  {
+   "type": "Front",
+   "value": "purple_smol",
+   "rarity": 0.014963997,
+   "rarityScore": 66.827065
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 429.01755,
+  "KARV_NOW": 2007.373,
+  "KARV_FUTURE": 12265.05,
+  "KHRV": 152.01491,
+  "KHRV_NOW": 711.2777,
+  "KHRV_FUTURE": 4345.9067
+ }
+}

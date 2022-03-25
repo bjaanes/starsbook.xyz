@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #4956",
+ "id": 4956,
+ "img": "4956.png",
+ "rarityScore": 219.54727,
+ "rarityRank": 7682,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "candy_sky",
+   "rarity": 0.03049055,
+   "rarityScore": 32.797047
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "zenian",
+   "rarity": 0.039266426,
+   "rarityScore": 25.467049
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "classic_whiteshirt",
+   "rarity": 0.03881638,
+   "rarityScore": 25.76232
+  },
+  {
+   "type": "Hair",
+   "value": "yellowbackwave_hair",
+   "rarity": 0.00990099,
+   "rarityScore": 101
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 252.22856,
+  "KARV_NOW": 1180.1774,
+  "KARV_FUTURE": 7210.884,
+  "KHRV": 149.48912,
+  "KHRV_NOW": 699.4596,
+  "KHRV_FUTURE": 4273.698
+ }
+}

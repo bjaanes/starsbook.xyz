@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3130",
+ "id": 3130,
+ "img": "3130.png",
+ "rarityScore": 266.7641,
+ "rarityRank": 5563,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_deepspace",
+   "rarity": 0.0180018,
+   "rarityScore": 55.55
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "black_turtleneck",
+   "rarity": 0.019914491,
+   "rarityScore": 50.21469
+  },
+  {
+   "type": "Hair",
+   "value": "redmidsideslick_hair",
+   "rarity": 0.01080108,
+   "rarityScore": 92.583336
+  },
+  {
+   "type": "Front",
+   "value": "basicbrown_glasses",
+   "rarity": 0.03307831,
+   "rarityScore": 30.231293
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 306.47397,
+  "KARV_NOW": 1433.9917,
+  "KARV_FUTURE": 8761.689,
+  "KHRV": 150.26413,
+  "KHRV_NOW": 703.0859,
+  "KHRV_FUTURE": 4295.855
+ }
+}

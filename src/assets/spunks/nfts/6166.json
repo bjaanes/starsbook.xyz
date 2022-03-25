@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6166",
+ "id": 6166,
+ "img": "6166.png",
+ "rarityScore": 338.514,
+ "rarityRank": 2573,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "vapor_night",
+   "rarity": 0.023514852,
+   "rarityScore": 42.526318
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "blue_backsaber",
+   "rarity": 0.05411791,
+   "rarityScore": 18.47817
+  },
+  {
+   "type": "Species",
+   "value": "zenian",
+   "rarity": 0.039266426,
+   "rarityScore": 25.467049
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "purple_face_sleeve",
+   "rarity": 0.016539155,
+   "rarityScore": 60.462585
+  },
+  {
+   "type": "Hair",
+   "value": "redbackslick_hair",
+   "rarity": 0.014288929,
+   "rarityScore": 69.98425
+  },
+  {
+   "type": "Front",
+   "value": "trueblue_glasses",
+   "rarity": 0.011363637,
+   "rarityScore": 88
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 388.9044,
+  "KARV_NOW": 1819.6836,
+  "KARV_FUTURE": 11118.267,
+  "KHRV": 151.4418,
+  "KHRV_NOW": 708.5962,
+  "KHRV_FUTURE": 4329.523
+ }
+}

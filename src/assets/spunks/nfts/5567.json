@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #5567",
+ "id": 5567,
+ "img": "5567.png",
+ "rarityScore": 276.4541,
+ "rarityRank": 5083,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "charanion_planet",
+   "rarity": 0.018226823,
+   "rarityScore": 54.864197
+  },
+  {
+   "type": "Glow",
+   "value": "white_headglow",
+   "rarity": 0.09225923,
+   "rarityScore": 10.839025
+  },
+  {
+   "type": "Back",
+   "value": "darkpurple_jetpack",
+   "rarity": 0.042191718,
+   "rarityScore": 23.701334
+  },
+  {
+   "type": "Species",
+   "value": "yakshian",
+   "rarity": 0.03577858,
+   "rarityScore": 27.949686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "soulpatch",
+   "rarity": 0.069644466,
+   "rarityScore": 14.358643
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "akash",
+   "rarity": 0.013388839,
+   "rarityScore": 74.68908
+  },
+  {
+   "type": "Hair",
+   "value": "brownmidsideslick_hair",
+   "rarity": 0.02081458,
+   "rarityScore": 48.043243
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 317.60638,
+  "KARV_NOW": 1486.0802,
+  "KARV_FUTURE": 9079.95,
+  "KHRV": 150.42317,
+  "KHRV_NOW": 703.83,
+  "KHRV_FUTURE": 4300.4014
+ }
+}

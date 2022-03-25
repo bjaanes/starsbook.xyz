@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2290",
+ "id": 2290,
+ "img": "2290.jpg",
+ "rarityScore": 160.59216,
+ "rarityRank": 3786,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Green",
+   "rarity": 0.0626,
+   "rarityScore": 15.974441
+  },
+  {
+   "type": "Character",
+   "value": "Alien Purple",
+   "rarity": 0.0292,
+   "rarityScore": 34.246574
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Purple",
+   "rarity": 0.0216,
+   "rarityScore": 46.296295
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Purple",
+   "rarity": 0.0352,
+   "rarityScore": 28.40909
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Pink",
+   "rarity": 0.034,
+   "rarityScore": 29.411764
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "2290",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 269.82678,
+  "KARV_NOW": 1262.5195,
+  "KARV_FUTURE": 7713.9946,
+  "KHRV": 142.12807,
+  "KHRV_NOW": 665.0172,
+  "KHRV_FUTURE": 4063.2554
+ }
+}

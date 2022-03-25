@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6976",
+ "id": 6976,
+ "img": "6976.png",
+ "rarityScore": 231.53699,
+ "rarityRank": 7257,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "spunksky",
+   "rarity": 0.03971647,
+   "rarityScore": 25.17847
+  },
+  {
+   "type": "Glow",
+   "value": "yellow_headglow",
+   "rarity": 0.0889964,
+   "rarityScore": 11.236409
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "yakshian",
+   "rarity": 0.03577858,
+   "rarityScore": 27.949686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "soulpatch",
+   "rarity": 0.069644466,
+   "rarityScore": 14.358643
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "red_eyes",
+   "rarity": 0.11971197,
+   "rarityScore": 8.353383
+  },
+  {
+   "type": "Tops",
+   "value": "stargaze_fan",
+   "rarity": 0.037241224,
+   "rarityScore": 26.851963
+  },
+  {
+   "type": "Hair",
+   "value": "tealmidsideslick_hair",
+   "rarity": 0.012376238,
+   "rarityScore": 80.8
+  },
+  {
+   "type": "Front",
+   "value": "basicpurple_glasses",
+   "rarity": 0.033528354,
+   "rarityScore": 29.825504
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 266.00302,
+  "KARV_NOW": 1244.628,
+  "KARV_FUTURE": 7604.6777,
+  "KHRV": 149.68593,
+  "KHRV_NOW": 700.38043,
+  "KHRV_FUTURE": 4279.3247
+ }
+}

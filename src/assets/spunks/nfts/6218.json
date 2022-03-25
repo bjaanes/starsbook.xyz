@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6218",
+ "id": 6218,
+ "img": "6218.png",
+ "rarityScore": 317.04202,
+ "rarityRank": 3275,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "purple_magic_ship",
+   "rarity": 0.048042305,
+   "rarityScore": 20.81499
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "green_jetpack",
+   "rarity": 0.039153915,
+   "rarityScore": 25.54023
+  },
+  {
+   "type": "Species",
+   "value": "charanion",
+   "rarity": 0.011926193,
+   "rarityScore": 83.84906
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "robo_eyes",
+   "rarity": 0.04849235,
+   "rarityScore": 20.621809
+  },
+  {
+   "type": "Tops",
+   "value": "orange_xsleeve",
+   "rarity": 0.040279027,
+   "rarityScore": 24.826817
+  },
+  {
+   "type": "Hair",
+   "value": "blondemediumwavy_hair",
+   "rarity": 0.02081458,
+   "rarityScore": 48.043243
+  },
+  {
+   "type": "Front",
+   "value": "lite_cat_ears",
+   "rarity": 0.011926193,
+   "rarityScore": 83.84906
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 364.23615,
+  "KARV_NOW": 1704.2609,
+  "KARV_FUTURE": 10413.034,
+  "KHRV": 151.08937,
+  "KHRV_NOW": 706.94714,
+  "KHRV_FUTURE": 4319.4473
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #1210",
+ "id": 1210,
+ "img": "1210.png",
+ "rarityScore": 350.95074,
+ "rarityRank": 2252,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "neptunian_planet",
+   "rarity": 0.027227722,
+   "rarityScore": 36.727272
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "pink_neonbackstaff",
+   "rarity": 0.040841583,
+   "rarityScore": 24.484848
+  },
+  {
+   "type": "Species",
+   "value": "yakshian",
+   "rarity": 0.03577858,
+   "rarityScore": 27.949686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "shinobi_band",
+   "rarity": 0.013613861,
+   "rarityScore": 73.454544
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "green_lucky_sleeve",
+   "rarity": 0.017214222,
+   "rarityScore": 58.091503
+  },
+  {
+   "type": "Hair",
+   "value": "blackshortbangs_hair",
+   "rarity": 0.019014401,
+   "rarityScore": 52.591717
+  },
+  {
+   "type": "Front",
+   "value": "choker_white",
+   "rarity": 0.015751576,
+   "rarityScore": 63.485714
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 403.19244,
+  "KARV_NOW": 1886.5374,
+  "KARV_FUTURE": 11526.743,
+  "KHRV": 151.64595,
+  "KHRV_NOW": 709.5514,
+  "KHRV_FUTURE": 4335.359
+ }
+}

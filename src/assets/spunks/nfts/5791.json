@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #5791",
+ "id": 5791,
+ "img": "5791.png",
+ "rarityScore": 367.80502,
+ "rarityRank": 1869,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "purple_magic_ship",
+   "rarity": 0.048042305,
+   "rarityScore": 20.81499
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "pink_jetpack",
+   "rarity": 0.03881638,
+   "rarityScore": 25.76232
+  },
+  {
+   "type": "Species",
+   "value": "yakshian",
+   "rarity": 0.03577858,
+   "rarityScore": 27.949686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "osmo",
+   "rarity": 0.011588659,
+   "rarityScore": 86.29126
+  },
+  {
+   "type": "Hair",
+   "value": "brownbackwave_hair",
+   "rarity": 0.01620162,
+   "rarityScore": 61.72222
+  },
+  {
+   "type": "Front",
+   "value": "single_antenna",
+   "rarity": 0.009788479,
+   "rarityScore": 102.16092
+  },
+  {
+   "type": "Bubble",
+   "value": "smilebubble_special",
+   "rarity": 0.037353735,
+   "rarityScore": 26.771084
+  }
+ ],
+ "prices": {
+  "KRV": 422.5556,
+  "KARV_NOW": 1977.1376,
+  "KARV_FUTURE": 12080.311,
+  "KHRV": 151.92258,
+  "KHRV_NOW": 710.8457,
+  "KHRV_FUTURE": 4343.2676
+ }
+}

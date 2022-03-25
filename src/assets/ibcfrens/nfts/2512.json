@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2512",
+ "id": 2512,
+ "img": "2512.jpg",
+ "rarityScore": 305.3128,
+ "rarityRank": 1295,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Blue",
+   "rarity": 0.0498,
+   "rarityScore": 20.08032
+  },
+  {
+   "type": "Character",
+   "value": "Tattoo Yellow",
+   "rarity": 0.0062,
+   "rarityScore": 161.29033
+  },
+  {
+   "type": "Body",
+   "value": "Naked",
+   "rarity": 0.1564,
+   "rarityScore": 6.393862
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Yellow",
+   "rarity": 0.034,
+   "rarityScore": 29.411764
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Green",
+   "rarity": 0.0256,
+   "rarityScore": 39.0625
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Light Blue",
+   "rarity": 0.0226,
+   "rarityScore": 44.247787
+  },
+  {
+   "type": "generation",
+   "value": "2512",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 512.9862,
+  "KARV_NOW": 2400.2625,
+  "KARV_FUTURE": 14665.604,
+  "KHRV": 146.11383,
+  "KHRV_NOW": 683.6666,
+  "KHRV_FUTURE": 4177.203
+ }
+}

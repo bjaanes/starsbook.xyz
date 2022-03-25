@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3859",
+ "id": 2944,
+ "img": "2944.png",
+ "rarityScore": 215.53497,
+ "rarityRank": 3213,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "68 thousand km",
+   "rarity": 0.01325,
+   "rarityScore": 75.471695
+  },
+  {
+   "type": "Gravity force",
+   "value": "2.2g",
+   "rarity": 0.015,
+   "rarityScore": 66.666664
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Boron",
+   "rarity": 0.01925,
+   "rarityScore": 51.94805
+  },
+  {
+   "type": "Rank",
+   "value": "3859",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 257.6204,
+  "KARV_NOW": 1205.4058,
+  "KARV_FUTURE": 7365.0293,
+  "KHRV": 171.04227,
+  "KHRV_NOW": 800.30676,
+  "KHRV_FUTURE": 4889.8745
+ }
+}

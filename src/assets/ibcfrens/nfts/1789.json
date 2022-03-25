@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1789",
+ "id": 1789,
+ "img": "1789.jpg",
+ "rarityScore": 145.6443,
+ "rarityRank": 4124,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Yellow",
+   "rarity": 0.054,
+   "rarityScore": 18.518518
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Purple",
+   "rarity": 0.0216,
+   "rarityScore": 46.296295
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Blue",
+   "rarity": 0.043,
+   "rarityScore": 23.255814
+  },
+  {
+   "type": "Mouth",
+   "value": "Surprised",
+   "rarity": 0.1112,
+   "rarityScore": 8.9928055
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Green",
+   "rarity": 0.0256,
+   "rarityScore": 39.0625
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1789",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 244.7114,
+  "KARV_NOW": 1145.0046,
+  "KARV_FUTURE": 6995.9785,
+  "KHRV": 141.7164,
+  "KHRV_NOW": 663.091,
+  "KHRV_FUTURE": 4051.486
+ }
+}

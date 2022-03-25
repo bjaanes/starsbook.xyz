@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6649",
+ "id": 6649,
+ "img": "6649.png",
+ "rarityScore": 396.819,
+ "rarityRank": 1396,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight",
+   "rarity": 0.029477948,
+   "rarityScore": 33.923664
+  },
+  {
+   "type": "Glow",
+   "value": "pink_headglow",
+   "rarity": 0.09619712,
+   "rarityScore": 10.395322
+  },
+  {
+   "type": "Back",
+   "value": "red_backsaber",
+   "rarity": 0.046017103,
+   "rarityScore": 21.73105
+  },
+  {
+   "type": "Species",
+   "value": "humanoid7",
+   "rarity": 0.122749776,
+   "rarityScore": 8.146654
+  },
+  {
+   "type": "FaceDetail",
+   "value": "mole",
+   "rarity": 0.054792978,
+   "rarityScore": 18.250513
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "robo_eyes",
+   "rarity": 0.04849235,
+   "rarityScore": 20.621809
+  },
+  {
+   "type": "Tops",
+   "value": "juno",
+   "rarity": 0.011813682,
+   "rarityScore": 84.64762
+  },
+  {
+   "type": "Hair",
+   "value": "yellowbackwave_hair",
+   "rarity": 0.00990099,
+   "rarityScore": 101
+  },
+  {
+   "type": "Front",
+   "value": "trueblue_glasses",
+   "rarity": 0.011363637,
+   "rarityScore": 88
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 455.88855,
+  "KARV_NOW": 2133.1025,
+  "KARV_FUTURE": 13033.257,
+  "KHRV": 152.39882,
+  "KHRV_NOW": 713.07404,
+  "KHRV_FUTURE": 4356.8823
+ }
+}

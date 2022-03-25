@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #7236",
+ "id": 7236,
+ "img": "7236.png",
+ "rarityScore": 490.8835,
+ "rarityRank": 780,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "enferian_planet",
+   "rarity": 0.021489648,
+   "rarityScore": 46.53403
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "angel_green_wings",
+   "rarity": 0.0065256525,
+   "rarityScore": 153.24138
+  },
+  {
+   "type": "Species",
+   "value": "charanion",
+   "rarity": 0.011926193,
+   "rarityScore": 83.84906
+  },
+  {
+   "type": "FaceDetail",
+   "value": "freckles",
+   "rarity": 0.05591809,
+   "rarityScore": 17.883299
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "red_eyes",
+   "rarity": 0.11971197,
+   "rarityScore": 8.353383
+  },
+  {
+   "type": "Tops",
+   "value": "orange_xsleeve",
+   "rarity": 0.040279027,
+   "rarityScore": 24.826817
+  },
+  {
+   "type": "Hair",
+   "value": "tealmidsideslick_hair",
+   "rarity": 0.012376238,
+   "rarityScore": 80.8
+  },
+  {
+   "type": "Front",
+   "value": "cherryred_headphones",
+   "rarity": 0.0144014405,
+   "rarityScore": 69.4375
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 563.95526,
+  "KARV_NOW": 2638.7466,
+  "KARV_FUTURE": 16122.742,
+  "KHRV": 153.94276,
+  "KHRV_NOW": 720.29816,
+  "KHRV_FUTURE": 4401.022
+ }
+}

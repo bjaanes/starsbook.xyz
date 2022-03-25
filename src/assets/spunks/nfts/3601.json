@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3601",
+ "id": 3601,
+ "img": "3601.png",
+ "rarityScore": 706.7388,
+ "rarityRank": 249,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_spunk_sky",
+   "rarity": 0.027790278,
+   "rarityScore": 35.983807
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "yellow_stripe_shirt",
+   "rarity": 0.040279027,
+   "rarityScore": 24.826817
+  },
+  {
+   "type": "Hair",
+   "value": "yellowmidfrontbangcut_hair",
+   "rarity": 0.0019126913,
+   "rarityScore": 522.82355
+  },
+  {
+   "type": "Front",
+   "value": "purple_space_helmet",
+   "rarity": 0.01080108,
+   "rarityScore": 92.583336
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 811.9422,
+  "KARV_NOW": 3799.0774,
+  "KARV_FUTURE": 23212.363,
+  "KHRV": 157.48576,
+  "KHRV_NOW": 736.87585,
+  "KHRV_FUTURE": 4502.3115
+ }
+}

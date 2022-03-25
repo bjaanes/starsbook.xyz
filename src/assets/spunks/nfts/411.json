@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #411",
+ "id": 411,
+ "img": "411.png",
+ "rarityScore": 270.45535,
+ "rarityRank": 5374,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "purple_hex_space",
+   "rarity": 0.045342036,
+   "rarityScore": 22.05459
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "purple_jetpack",
+   "rarity": 0.038928892,
+   "rarityScore": 25.68786
+  },
+  {
+   "type": "Species",
+   "value": "gaianan",
+   "rarity": 0.046129614,
+   "rarityScore": 21.67805
+  },
+  {
+   "type": "FaceDetail",
+   "value": "blush",
+   "rarity": 0.07031953,
+   "rarityScore": 14.2208
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "yellow_xsleeve",
+   "rarity": 0.044554457,
+   "rarityScore": 22.444445
+  },
+  {
+   "type": "Hair",
+   "value": "blondemediumwavy_hair",
+   "rarity": 0.02081458,
+   "rarityScore": 48.043243
+  },
+  {
+   "type": "Front",
+   "value": "single_antenna",
+   "rarity": 0.009788479,
+   "rarityScore": 102.16092
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 310.7147,
+  "KARV_NOW": 1453.834,
+  "KARV_FUTURE": 8882.926,
+  "KHRV": 150.3247,
+  "KHRV_NOW": 703.36926,
+  "KHRV_FUTURE": 4297.5864
+ }
+}

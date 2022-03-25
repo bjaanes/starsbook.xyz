@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #5509",
+ "id": 5509,
+ "img": "5509.png",
+ "rarityScore": 296.9214,
+ "rarityRank": 4097,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "purple_hex_space",
+   "rarity": 0.045342036,
+   "rarityScore": 22.05459
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "red_neonbackstaff",
+   "rarity": 0.041066606,
+   "rarityScore": 24.350685
+  },
+  {
+   "type": "Species",
+   "value": "humanoid3",
+   "rarity": 0.121737175,
+   "rarityScore": 8.214417
+  },
+  {
+   "type": "FaceDetail",
+   "value": "tears",
+   "rarity": 0.026777677,
+   "rarityScore": 37.34454
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "grayred_stripeshirt",
+   "rarity": 0.02160216,
+   "rarityScore": 46.291668
+  },
+  {
+   "type": "Hair",
+   "value": "pinkmidcut_hair",
+   "rarity": 0.0128262825,
+   "rarityScore": 77.96491
+  },
+  {
+   "type": "Front",
+   "value": "magentaliteframe_glasses",
+   "rarity": 0.016426643,
+   "rarityScore": 60.876713
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 341.1204,
+  "KARV_NOW": 1596.1023,
+  "KARV_FUTURE": 9752.186,
+  "KHRV": 150.75912,
+  "KHRV_NOW": 705.4019,
+  "KHRV_FUTURE": 4310.006
+ }
+}

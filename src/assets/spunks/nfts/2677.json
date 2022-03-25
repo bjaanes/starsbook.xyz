@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #2677",
+ "id": 2677,
+ "img": "2677.png",
+ "rarityScore": 335.83908,
+ "rarityRank": 2639,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "gaianan",
+   "rarity": 0.0180018,
+   "rarityScore": 55.55
+  },
+  {
+   "type": "Glow",
+   "value": "pink_headglow",
+   "rarity": 0.09619712,
+   "rarityScore": 10.395322
+  },
+  {
+   "type": "Back",
+   "value": "pink_jetpack",
+   "rarity": 0.03881638,
+   "rarityScore": 25.76232
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "smallbeard",
+   "rarity": 0.07245725,
+   "rarityScore": 13.801242
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "noircloak",
+   "rarity": 0.01620162,
+   "rarityScore": 61.72222
+  },
+  {
+   "type": "Hair",
+   "value": "blackshave_hair",
+   "rarity": 0.02160216,
+   "rarityScore": 46.291668
+  },
+  {
+   "type": "Front",
+   "value": "verticalrainbow_glasses",
+   "rarity": 0.0096759675,
+   "rarityScore": 103.34884
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 385.8313,
+  "KARV_NOW": 1805.3046,
+  "KARV_FUTURE": 11030.411,
+  "KHRV": 151.39792,
+  "KHRV_NOW": 708.39087,
+  "KHRV_FUTURE": 4328.268
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3431",
+ "id": 3431,
+ "img": "3431.png",
+ "rarityScore": 421.73795,
+ "rarityRank": 1167,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "stargaze_clouds",
+   "rarity": 0.01080108,
+   "rarityScore": 92.583336
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "blue_backsaber",
+   "rarity": 0.05411791,
+   "rarityScore": 18.47817
+  },
+  {
+   "type": "Species",
+   "value": "aphroditian",
+   "rarity": 0.04657966,
+   "rarityScore": 21.4686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "greenXsleeve",
+   "rarity": 0.04162916,
+   "rarityScore": 24.021622
+  },
+  {
+   "type": "Hair",
+   "value": "yellowmidcut_hair",
+   "rarity": 0.0074257427,
+   "rarityScore": 134.66667
+  },
+  {
+   "type": "Front",
+   "value": "green_space_helmet",
+   "rarity": 0.01080108,
+   "rarityScore": 92.583336
+  },
+  {
+   "type": "Bubble",
+   "value": "talkybubble_special",
+   "rarity": 0.046467148,
+   "rarityScore": 21.52058
+  }
+ ],
+ "prices": {
+  "KRV": 484.51685,
+  "KARV_NOW": 2267.0542,
+  "KARV_FUTURE": 13851.701,
+  "KHRV": 152.80783,
+  "KHRV_NOW": 714.98785,
+  "KHRV_FUTURE": 4368.5757
+ }
+}

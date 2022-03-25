@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #594",
+ "id": 594,
+ "img": "594.png",
+ "rarityScore": 231.49498,
+ "rarityRank": 7258,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "yakshian_planet",
+   "rarity": 0.023739874,
+   "rarityScore": 42.123222
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "green_backsaber",
+   "rarity": 0.01608911,
+   "rarityScore": 62.153847
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "greenstripehoodie",
+   "rarity": 0.02070207,
+   "rarityScore": 48.304348
+  },
+  {
+   "type": "Hair",
+   "value": "blackmidcut_hair",
+   "rarity": 0.023064807,
+   "rarityScore": 43.3561
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 265.95477,
+  "KARV_NOW": 1244.4023,
+  "KARV_FUTURE": 7603.2983,
+  "KHRV": 149.68524,
+  "KHRV_NOW": 700.37726,
+  "KHRV_FUTURE": 4279.305
+ }
+}

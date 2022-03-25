@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #4660",
+ "id": 4660,
+ "img": "4660.png",
+ "rarityScore": 340.93225,
+ "rarityRank": 2506,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "enferian_planet",
+   "rarity": 0.021489648,
+   "rarityScore": 46.53403
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "neptunian",
+   "rarity": 0.04950495,
+   "rarityScore": 20.2
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "neta",
+   "rarity": 0.010238524,
+   "rarityScore": 97.67033
+  },
+  {
+   "type": "Hair",
+   "value": "blackmidcut_hair",
+   "rarity": 0.023064807,
+   "rarityScore": 43.3561
+  },
+  {
+   "type": "Front",
+   "value": "lite_cat_ears",
+   "rarity": 0.011926193,
+   "rarityScore": 83.84906
+  },
+  {
+   "type": "Bubble",
+   "value": "surprisebubble_special",
+   "rarity": 0.04162916,
+   "rarityScore": 24.021622
+  }
+ ],
+ "prices": {
+  "KRV": 391.68262,
+  "KARV_NOW": 1832.683,
+  "KARV_FUTURE": 11197.693,
+  "KHRV": 151.4815,
+  "KHRV_NOW": 708.782,
+  "KHRV_FUTURE": 4330.658
+ }
+}

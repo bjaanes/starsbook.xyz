@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #7521",
+ "id": 7521,
+ "img": "7521.png",
+ "rarityScore": 405.18173,
+ "rarityRank": 1317,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "space_desert",
+   "rarity": 0.02171467,
+   "rarityScore": 46.051815
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "red_backsaber",
+   "rarity": 0.046017103,
+   "rarityScore": 21.73105
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "robolines",
+   "rarity": 0.028577859,
+   "rarityScore": 34.992126
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "robo_eyes",
+   "rarity": 0.04849235,
+   "rarityScore": 20.621809
+  },
+  {
+   "type": "Tops",
+   "value": "green_lucky_sleeve",
+   "rarity": 0.017214222,
+   "rarityScore": 58.091503
+  },
+  {
+   "type": "Hair",
+   "value": "tealmidcut_hair",
+   "rarity": 0.012938794,
+   "rarityScore": 77.28696
+  },
+  {
+   "type": "Front",
+   "value": "blue_skullmask",
+   "rarity": 0.007538254,
+   "rarityScore": 132.65672
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 465.49612,
+  "KARV_NOW": 2178.0564,
+  "KARV_FUTURE": 13307.925,
+  "KHRV": 152.53607,
+  "KHRV_NOW": 713.71625,
+  "KHRV_FUTURE": 4360.806
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #8220",
+ "id": 8220,
+ "img": "8220.png",
+ "rarityScore": 181.36792,
+ "rarityRank": 8624,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "teal_magic_ship",
+   "rarity": 0.049054906,
+   "rarityScore": 20.38532
+  },
+  {
+   "type": "Glow",
+   "value": "red_headglow",
+   "rarity": 0.09248425,
+   "rarityScore": 10.812652
+  },
+  {
+   "type": "Back",
+   "value": "yellow_jetpack",
+   "rarity": 0.03780378,
+   "rarityScore": 26.452381
+  },
+  {
+   "type": "Species",
+   "value": "yakshian",
+   "rarity": 0.03577858,
+   "rarityScore": 27.949686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "yellow_xsleeve",
+   "rarity": 0.044554457,
+   "rarityScore": 22.444445
+  },
+  {
+   "type": "Hair",
+   "value": "blackspike_hair",
+   "rarity": 0.01890189,
+   "rarityScore": 52.904762
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 208.36592,
+  "KARV_NOW": 974.94415,
+  "KARV_FUTURE": 5956.9087,
+  "KHRV": 148.86246,
+  "KHRV_NOW": 696.5274,
+  "KHRV_FUTURE": 4255.7827
+ }
+}

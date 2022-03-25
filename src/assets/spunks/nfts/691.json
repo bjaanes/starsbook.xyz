@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #691",
+ "id": 691,
+ "img": "691.png",
+ "rarityScore": 236.83913,
+ "rarityRank": 7030,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "deepspace_ship",
+   "rarity": 0.05051755,
+   "rarityScore": 19.795101
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "purple_jetpack",
+   "rarity": 0.038928892,
+   "rarityScore": 25.68786
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "5oclock",
+   "rarity": 0.053667866,
+   "rarityScore": 18.633123
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "lavender_ninja",
+   "rarity": 0.020589558,
+   "rarityScore": 48.568306
+  },
+  {
+   "type": "Hair",
+   "value": "tealspike_hair",
+   "rarity": 0.013726372,
+   "rarityScore": 72.85246
+  },
+  {
+   "type": "Front",
+   "value": "basicbrown_glasses",
+   "rarity": 0.03307831,
+   "rarityScore": 30.231293
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 272.09445,
+  "KARV_NOW": 1273.1299,
+  "KARV_FUTURE": 7778.8237,
+  "KHRV": 149.77295,
+  "KHRV_NOW": 700.7876,
+  "KHRV_FUTURE": 4281.8125
+ }
+}

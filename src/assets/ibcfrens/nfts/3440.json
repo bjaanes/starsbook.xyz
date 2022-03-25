@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3440",
+ "id": 3440,
+ "img": "3440.jpg",
+ "rarityScore": 359.06808,
+ "rarityRank": 822,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 5",
+   "rarity": 0.0236,
+   "rarityScore": 42.372883
+  },
+  {
+   "type": "Character",
+   "value": "Tattoo Pastel",
+   "rarity": 0.006,
+   "rarityScore": 166.66667
+  },
+  {
+   "type": "Body",
+   "value": "Naked",
+   "rarity": 0.1564,
+   "rarityScore": 6.393862
+  },
+  {
+   "type": "Eyes",
+   "value": "Hearts Purple",
+   "rarity": 0.0158,
+   "rarityScore": 63.291138
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Green",
+   "rarity": 0.0256,
+   "rarityScore": 39.0625
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Blue",
+   "rarity": 0.0274,
+   "rarityScore": 36.49635
+  },
+  {
+   "type": "generation",
+   "value": "3440",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 603.3058,
+  "KARV_NOW": 2822.8677,
+  "KARV_FUTURE": 17247.723,
+  "KHRV": 147.5943,
+  "KHRV_NOW": 690.5937,
+  "KHRV_FUTURE": 4219.5273
+ }
+}

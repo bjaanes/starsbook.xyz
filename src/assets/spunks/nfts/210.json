@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #210",
+ "id": 210,
+ "img": "210.png",
+ "rarityScore": 294.60843,
+ "rarityRank": 4204,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "stargaze_clouds",
+   "rarity": 0.01080108,
+   "rarityScore": 92.583336
+  },
+  {
+   "type": "Glow",
+   "value": "pink_headglow",
+   "rarity": 0.09619712,
+   "rarityScore": 10.395322
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "mole",
+   "rarity": 0.054792978,
+   "rarityScore": 18.250513
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "purple_xsleeve",
+   "rarity": 0.043091808,
+   "rarityScore": 23.206266
+  },
+  {
+   "type": "Hair",
+   "value": "pinkbackslick_hair",
+   "rarity": 0.014063907,
+   "rarityScore": 71.104
+  },
+  {
+   "type": "Front",
+   "value": "blacksmol_glasses",
+   "rarity": 0.017776778,
+   "rarityScore": 56.253166
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 338.46313,
+  "KARV_NOW": 1583.669,
+  "KARV_FUTURE": 9676.218,
+  "KHRV": 150.72116,
+  "KHRV_NOW": 705.2243,
+  "KHRV_FUTURE": 4308.9204
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #7382",
+ "id": 7382,
+ "img": "7382.png",
+ "rarityScore": 262.3471,
+ "rarityRank": 5807,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "purple_magic_ship",
+   "rarity": 0.048042305,
+   "rarityScore": 20.81499
+  },
+  {
+   "type": "Glow",
+   "value": "blue_headglow",
+   "rarity": 0.08787129,
+   "rarityScore": 11.380281
+  },
+  {
+   "type": "Back",
+   "value": "edge_earring_white",
+   "rarity": 0.022727273,
+   "rarityScore": 44
+  },
+  {
+   "type": "Species",
+   "value": "neptunian",
+   "rarity": 0.04950495,
+   "rarityScore": 20.2
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyescar",
+   "rarity": 0.060868587,
+   "rarityScore": 16.428835
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "red_eyes",
+   "rarity": 0.11971197,
+   "rarityScore": 8.353383
+  },
+  {
+   "type": "Tops",
+   "value": "teal_stripe",
+   "rarity": 0.040841583,
+   "rarityScore": 24.484848
+  },
+  {
+   "type": "Hair",
+   "value": "blackmidcut_hair",
+   "rarity": 0.023064807,
+   "rarityScore": 43.3561
+  },
+  {
+   "type": "Front",
+   "value": "choker_white",
+   "rarity": 0.015751576,
+   "rarityScore": 63.485714
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 301.39944,
+  "KARV_NOW": 1410.2479,
+  "KARV_FUTURE": 8616.615,
+  "KHRV": 150.19164,
+  "KHRV_NOW": 702.74664,
+  "KHRV_FUTURE": 4293.782
+ }
+}

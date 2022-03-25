@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1098",
+ "id": 1098,
+ "img": "1098.jpg",
+ "rarityScore": 154.08688,
+ "rarityRank": 3943,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Pink",
+   "rarity": 0.0386,
+   "rarityScore": 25.906736
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Purple",
+   "rarity": 0.0216,
+   "rarityScore": 46.296295
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Pink",
+   "rarity": 0.0456,
+   "rarityScore": 21.929825
+  },
+  {
+   "type": "Mouth",
+   "value": "Grumpy",
+   "rarity": 0.0994,
+   "rarityScore": 10.060362
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Green",
+   "rarity": 0.0248,
+   "rarityScore": 40.322582
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1098",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 258.8966,
+  "KARV_NOW": 1211.3772,
+  "KARV_FUTURE": 7401.5146,
+  "KHRV": 141.94891,
+  "KHRV_NOW": 664.17896,
+  "KHRV_FUTURE": 4058.1335
+ }
+}

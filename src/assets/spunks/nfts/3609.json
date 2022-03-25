@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3609",
+ "id": 3609,
+ "img": "3609.png",
+ "rarityScore": 598.55804,
+ "rarityRank": 493,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "candy_sky_ship",
+   "rarity": 0.05220522,
+   "rarityScore": 19.155172
+  },
+  {
+   "type": "Glow",
+   "value": "red_headglow",
+   "rarity": 0.09248425,
+   "rarityScore": 10.812652
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "neptunian",
+   "rarity": 0.04950495,
+   "rarityScore": 20.2
+  },
+  {
+   "type": "FaceDetail",
+   "value": "the_mark_pinkl",
+   "rarity": 0.013276327,
+   "rarityScore": 75.32204
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "bluestripehoodie",
+   "rarity": 0.020477047,
+   "rarityScore": 48.835163
+  },
+  {
+   "type": "Hair",
+   "value": "redmidsideslick_hair",
+   "rarity": 0.01080108,
+   "rarityScore": 92.583336
+  },
+  {
+   "type": "Front",
+   "value": "3D_glasses",
+   "rarity": 0.003150315,
+   "rarityScore": 317.42856
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 687.65796,
+  "KARV_NOW": 3217.5515,
+  "KARV_FUTURE": 19659.24,
+  "KHRV": 155.7101,
+  "KHRV_NOW": 728.5675,
+  "KHRV_FUTURE": 4451.5474
+ }
+}

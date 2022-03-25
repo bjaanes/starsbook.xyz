@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3648",
+ "id": 3648,
+ "img": "3648.png",
+ "rarityScore": 613.2104,
+ "rarityRank": 460,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "teal_magic_ship",
+   "rarity": 0.049054906,
+   "rarityScore": 20.38532
+  },
+  {
+   "type": "Glow",
+   "value": "blue_headglow",
+   "rarity": 0.08787129,
+   "rarityScore": 11.380281
+  },
+  {
+   "type": "Back",
+   "value": "blackred_jetpack",
+   "rarity": 0.03859136,
+   "rarityScore": 25.912537
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "bubble_gum_ninja",
+   "rarity": 0.019351935,
+   "rarityScore": 51.67442
+  },
+  {
+   "type": "Hair",
+   "value": "lavenderemo_hair",
+   "rarity": 0.002250225,
+   "rarityScore": 444.4
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "questionbubble_special",
+   "rarity": 0.045004502,
+   "rarityScore": 22.22
+  }
+ ],
+ "prices": {
+  "KRV": 704.4914,
+  "KARV_NOW": 3296.3152,
+  "KARV_FUTURE": 20140.486,
+  "KHRV": 155.9506,
+  "KHRV_NOW": 729.6929,
+  "KHRV_FUTURE": 4458.4233
+ }
+}

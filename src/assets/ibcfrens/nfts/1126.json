@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1126",
+ "id": 1126,
+ "img": "1126.jpg",
+ "rarityScore": 386.17508,
+ "rarityRank": 640,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Blue",
+   "rarity": 0.055,
+   "rarityScore": 18.181818
+  },
+  {
+   "type": "Character",
+   "value": "Sunkissed Light Purple",
+   "rarity": 0.0064,
+   "rarityScore": 156.25
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Pink",
+   "rarity": 0.0098,
+   "rarityScore": 102.04082
+  },
+  {
+   "type": "Eyes",
+   "value": "Stars Purple",
+   "rarity": 0.016,
+   "rarityScore": 62.5
+  },
+  {
+   "type": "Mouth",
+   "value": "Grumpy",
+   "rarity": 0.0994,
+   "rarityScore": 10.060362
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Purple",
+   "rarity": 0.028,
+   "rarityScore": 35.714287
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1126",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 648.8509,
+  "KARV_NOW": 3035.9731,
+  "KARV_FUTURE": 18549.797,
+  "KHRV": 148.34087,
+  "KHRV_NOW": 694.0869,
+  "KHRV_FUTURE": 4240.871
+ }
+}

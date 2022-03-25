@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #671",
+ "id": 671,
+ "img": "671.png",
+ "rarityScore": 356.15976,
+ "rarityRank": 2120,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_candy",
+   "rarity": 0.035441045,
+   "rarityScore": 28.215874
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "green_jetpack",
+   "rarity": 0.039153915,
+   "rarityScore": 25.54023
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyescar",
+   "rarity": 0.060868587,
+   "rarityScore": 16.428835
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "osmo",
+   "rarity": 0.011588659,
+   "rarityScore": 86.29126
+  },
+  {
+   "type": "Hair",
+   "value": "blackspike_hair",
+   "rarity": 0.01890189,
+   "rarityScore": 52.904762
+  },
+  {
+   "type": "Front",
+   "value": "bluepink_visor",
+   "rarity": 0.010013501,
+   "rarityScore": 99.865166
+  },
+  {
+   "type": "Bubble",
+   "value": "smilebubble_special",
+   "rarity": 0.037353735,
+   "rarityScore": 26.771084
+  }
+ ],
+ "prices": {
+  "KRV": 409.17685,
+  "KARV_NOW": 1914.5385,
+  "KARV_FUTURE": 11697.83,
+  "KHRV": 151.73146,
+  "KHRV_NOW": 709.9515,
+  "KHRV_FUTURE": 4337.8037
+ }
+}

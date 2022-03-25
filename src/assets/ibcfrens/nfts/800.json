@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #800",
+ "id": 800,
+ "img": "800.jpg",
+ "rarityScore": 202.87245,
+ "rarityRank": 2867,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Yellow",
+   "rarity": 0.0578,
+   "rarityScore": 17.301039
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Network",
+   "rarity": 0.009,
+   "rarityScore": 111.111115
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Pink",
+   "rarity": 0.041,
+   "rarityScore": 24.390244
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Purple",
+   "rarity": 0.028,
+   "rarityScore": 35.714287
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "800",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 340.86606,
+  "KARV_NOW": 1594.9122,
+  "KARV_FUTURE": 9744.914,
+  "KHRV": 143.29251,
+  "KHRV_NOW": 670.46564,
+  "KHRV_FUTURE": 4096.545
+ }
+}

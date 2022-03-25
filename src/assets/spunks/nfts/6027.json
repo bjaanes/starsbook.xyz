@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6027",
+ "id": 6027,
+ "img": "6027.png",
+ "rarityScore": 267.99747,
+ "rarityRank": 5503,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "enferian_planet",
+   "rarity": 0.021489648,
+   "rarityScore": 46.53403
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "the_mark_greenl",
+   "rarity": 0.0144014405,
+   "rarityScore": 69.4375
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "orange_stripe",
+   "rarity": 0.042079207,
+   "rarityScore": 23.764706
+  },
+  {
+   "type": "Hair",
+   "value": "purplebob_hair",
+   "rarity": 0.015526553,
+   "rarityScore": 64.4058
+  },
+  {
+   "type": "Front",
+   "value": "yellowblack_headphones",
+   "rarity": 0.025877587,
+   "rarityScore": 38.64348
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 307.89093,
+  "KARV_NOW": 1440.6216,
+  "KARV_FUTURE": 8802.198,
+  "KHRV": 150.28436,
+  "KHRV_NOW": 703.18054,
+  "KHRV_FUTURE": 4296.433
+ }
+}

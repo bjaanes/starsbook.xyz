@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #511",
+ "id": 511,
+ "img": "511.png",
+ "rarityScore": 215.78879,
+ "rarityRank": 7807,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_candy",
+   "rarity": 0.035441045,
+   "rarityScore": 28.215874
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "smallbeard",
+   "rarity": 0.07245725,
+   "rarityScore": 13.801242
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "grayblue_stripeshirt",
+   "rarity": 0.04140414,
+   "rarityScore": 24.152174
+  },
+  {
+   "type": "Hair",
+   "value": "blondebackslick_hair",
+   "rarity": 0.02081458,
+   "rarityScore": 48.043243
+  },
+  {
+   "type": "Front",
+   "value": "blueteal_visor",
+   "rarity": 0.014176418,
+   "rarityScore": 70.53968
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 247.9106,
+  "KARV_NOW": 1159.9736,
+  "KARV_FUTURE": 7087.439,
+  "KHRV": 149.42744,
+  "KHRV_NOW": 699.171,
+  "KHRV_FUTURE": 4271.935
+ }
+}

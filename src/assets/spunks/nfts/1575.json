@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #1575",
+ "id": 1575,
+ "img": "1575.png",
+ "rarityScore": 359.91077,
+ "rarityRank": 2040,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "enferian_planet",
+   "rarity": 0.021489648,
+   "rarityScore": 46.53403
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "teal_neonbackstaff",
+   "rarity": 0.040729072,
+   "rarityScore": 24.552486
+  },
+  {
+   "type": "Species",
+   "value": "aphroditian",
+   "rarity": 0.04657966,
+   "rarityScore": 21.4686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "blush",
+   "rarity": 0.07031953,
+   "rarityScore": 14.2208
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "teal_stripe",
+   "rarity": 0.040841583,
+   "rarityScore": 24.484848
+  },
+  {
+   "type": "Hair",
+   "value": "yellowbob_hair",
+   "rarity": 0.009788479,
+   "rarityScore": 102.16092
+  },
+  {
+   "type": "Front",
+   "value": "dark_catears",
+   "rarity": 0.011926193,
+   "rarityScore": 83.84906
+  },
+  {
+   "type": "Bubble",
+   "value": "surprisebubble_special",
+   "rarity": 0.04162916,
+   "rarityScore": 24.021622
+  }
+ ],
+ "prices": {
+  "KRV": 413.48624,
+  "KARV_NOW": 1934.702,
+  "KARV_FUTURE": 11821.029,
+  "KHRV": 151.79303,
+  "KHRV_NOW": 710.23956,
+  "KHRV_FUTURE": 4339.564
+ }
+}

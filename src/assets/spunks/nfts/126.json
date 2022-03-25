@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #126",
+ "id": 126,
+ "img": "126.png",
+ "rarityScore": 234.0981,
+ "rarityRank": 7145,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "candy_sky_ship",
+   "rarity": 0.05220522,
+   "rarityScore": 19.155172
+  },
+  {
+   "type": "Glow",
+   "value": "green_headglow",
+   "rarity": 0.08809631,
+   "rarityScore": 11.351213
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid6",
+   "rarity": 0.113523856,
+   "rarityScore": 8.808722
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "neta",
+   "rarity": 0.010238524,
+   "rarityScore": 97.67033
+  },
+  {
+   "type": "Hair",
+   "value": "pinkshave_hair",
+   "rarity": 0.014963997,
+   "rarityScore": 66.827065
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 268.94537,
+  "KARV_NOW": 1258.3954,
+  "KARV_FUTURE": 7688.796,
+  "KHRV": 149.72795,
+  "KHRV_NOW": 700.5771,
+  "KHRV_FUTURE": 4280.526
+ }
+}

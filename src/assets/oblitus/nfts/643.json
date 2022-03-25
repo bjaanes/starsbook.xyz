@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3392",
+ "id": 643,
+ "img": "643.png",
+ "rarityScore": 221.94167,
+ "rarityRank": 3101,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "80 thousand km",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Gravity force",
+   "value": "3.9g",
+   "rarity": 0.02075,
+   "rarityScore": 48.192772
+  },
+  {
+   "type": "Age",
+   "value": "3 billion years",
+   "rarity": 0.094,
+   "rarityScore": 10.638298
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Scandium",
+   "rarity": 0.01675,
+   "rarityScore": 59.701492
+  },
+  {
+   "type": "Rank",
+   "value": "3392",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 265.27805,
+  "KARV_NOW": 1241.236,
+  "KARV_FUTURE": 7583.9517,
+  "KHRV": 171.3022,
+  "KHRV_NOW": 801.52295,
+  "KHRV_FUTURE": 4897.305
+ }
+}

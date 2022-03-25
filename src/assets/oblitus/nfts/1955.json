@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0679",
+ "id": 1955,
+ "img": "1955.png",
+ "rarityScore": 315.1651,
+ "rarityRank": 1096,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "17 thousand km",
+   "rarity": 0.0115,
+   "rarityScore": 86.95652
+  },
+  {
+   "type": "Gravity force",
+   "value": "0.6g",
+   "rarity": 0.0125,
+   "rarityScore": 80
+  },
+  {
+   "type": "Age",
+   "value": "7 billion years",
+   "rarity": 0.04975,
+   "rarityScore": 20.100502
+  },
+  {
+   "type": "Type",
+   "value": "Fire Planet",
+   "rarity": 0.075,
+   "rarityScore": 13.333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Cesium",
+   "rarity": 0.00925,
+   "rarityScore": 108.10811
+  },
+  {
+   "type": "Rank",
+   "value": "679",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Epic",
+   "rarity": 0.15,
+   "rarityScore": 6.6666665
+  }
+ ],
+ "prices": {
+  "KRV": 376.7043,
+  "KARV_NOW": 1762.5995,
+  "KARV_FUTURE": 10769.483,
+  "KHRV": 175.08467,
+  "KHRV_NOW": 819.2211,
+  "KHRV_FUTURE": 5005.4414
+ }
+}

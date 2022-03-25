@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #67",
+ "id": 67,
+ "img": "67.png",
+ "rarityScore": 301.9049,
+ "rarityRank": 3874,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "aphroditian_planet",
+   "rarity": 0.028465347,
+   "rarityScore": 35.130436
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid3",
+   "rarity": 0.121737175,
+   "rarityScore": 8.214417
+  },
+  {
+   "type": "FaceDetail",
+   "value": "robolines",
+   "rarity": 0.028577859,
+   "rarityScore": 34.992126
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "robo_eyes",
+   "rarity": 0.04849235,
+   "rarityScore": 20.621809
+  },
+  {
+   "type": "Tops",
+   "value": "yellow_xsleeve",
+   "rarity": 0.044554457,
+   "rarityScore": 22.444445
+  },
+  {
+   "type": "Hair",
+   "value": "blackmidsideslick_hair",
+   "rarity": 0.020139514,
+   "rarityScore": 49.653633
+  },
+  {
+   "type": "Front",
+   "value": "green_space_helmet",
+   "rarity": 0.01080108,
+   "rarityScore": 92.583336
+  },
+  {
+   "type": "Bubble",
+   "value": "surprisebubble_special",
+   "rarity": 0.04162916,
+   "rarityScore": 24.021622
+  }
+ ],
+ "prices": {
+  "KRV": 346.84573,
+  "KARV_NOW": 1622.8911,
+  "KARV_FUTURE": 9915.865,
+  "KHRV": 150.84093,
+  "KHRV_NOW": 705.78467,
+  "KHRV_FUTURE": 4312.344
+ }
+}

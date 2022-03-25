@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #440",
+ "id": 440,
+ "img": "440.jpg",
+ "rarityScore": 140.29004,
+ "rarityRank": 4255,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Green",
+   "rarity": 0.0364,
+   "rarityScore": 27.472527
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Purple",
+   "rarity": 0.1082,
+   "rarityScore": 9.242145
+  },
+  {
+   "type": "Body",
+   "value": "Costume Pig",
+   "rarity": 0.0258,
+   "rarityScore": 38.75969
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Purple",
+   "rarity": 0.0352,
+   "rarityScore": 28.40909
+  },
+  {
+   "type": "Mouth",
+   "value": "Sad",
+   "rarity": 0.0308,
+   "rarityScore": 32.467533
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "440",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 235.71516,
+  "KARV_NOW": 1102.9113,
+  "KARV_FUTURE": 6738.788,
+  "KHRV": 141.56892,
+  "KHRV_NOW": 662.401,
+  "KHRV_FUTURE": 4047.2703
+ }
+}

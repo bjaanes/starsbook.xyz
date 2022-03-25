@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0800",
+ "id": 455,
+ "img": "455.png",
+ "rarityScore": 249.1552,
+ "rarityRank": 2369,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "64 thousand km",
+   "rarity": 0.01275,
+   "rarityScore": 78.43137
+  },
+  {
+   "type": "Gravity force",
+   "value": "9.8g",
+   "rarity": 0.05125,
+   "rarityScore": 19.512196
+  },
+  {
+   "type": "Age",
+   "value": "7 billion years",
+   "rarity": 0.04975,
+   "rarityScore": 20.100502
+  },
+  {
+   "type": "Type",
+   "value": "Fire Planet",
+   "rarity": 0.075,
+   "rarityScore": 13.333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Thallium",
+   "rarity": 0.009,
+   "rarityScore": 111.111115
+  },
+  {
+   "type": "Rank",
+   "value": "800",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Epic",
+   "rarity": 0.15,
+   "rarityScore": 6.6666665
+  }
+ ],
+ "prices": {
+  "KRV": 297.8053,
+  "KARV_NOW": 1393.4309,
+  "KARV_FUTURE": 8513.863,
+  "KHRV": 172.40637,
+  "KHRV_NOW": 806.6894,
+  "KHRV_FUTURE": 4928.872
+ }
+}

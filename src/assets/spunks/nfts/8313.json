@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #8313",
+ "id": 8313,
+ "img": "8313.png",
+ "rarityScore": 243.46556,
+ "rarityRank": 6724,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "gaianan",
+   "rarity": 0.0180018,
+   "rarityScore": 55.55
+  },
+  {
+   "type": "Glow",
+   "value": "yellow_headglow",
+   "rarity": 0.0889964,
+   "rarityScore": 11.236409
+  },
+  {
+   "type": "Back",
+   "value": "green_neonbackstaff",
+   "rarity": 0.039153915,
+   "rarityScore": 25.54023
+  },
+  {
+   "type": "Species",
+   "value": "aphroditian",
+   "rarity": 0.04657966,
+   "rarityScore": 21.4686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "noircloak",
+   "rarity": 0.01620162,
+   "rarityScore": 61.72222
+  },
+  {
+   "type": "Hair",
+   "value": "blondeshave_hair",
+   "rarity": 0.021039603,
+   "rarityScore": 47.52941
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 279.70724,
+  "KARV_NOW": 1308.7501,
+  "KARV_FUTURE": 7996.4634,
+  "KHRV": 149.88171,
+  "KHRV_NOW": 701.2965,
+  "KHRV_FUTURE": 4284.922
+ }
+}

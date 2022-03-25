@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #8237",
+ "id": 8237,
+ "img": "8237.png",
+ "rarityScore": 314.8083,
+ "rarityRank": 3357,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight_ship",
+   "rarity": 0.052542754,
+   "rarityScore": 19.03212
+  },
+  {
+   "type": "Glow",
+   "value": "blue_headglow",
+   "rarity": 0.08787129,
+   "rarityScore": 11.380281
+  },
+  {
+   "type": "Back",
+   "value": "blackblue_jetpack",
+   "rarity": 0.036453646,
+   "rarityScore": 27.432098
+  },
+  {
+   "type": "Species",
+   "value": "aphroditian",
+   "rarity": 0.04657966,
+   "rarityScore": 21.4686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "blue_facesleeve",
+   "rarity": 0.020477047,
+   "rarityScore": 48.835163
+  },
+  {
+   "type": "Hair",
+   "value": "redbackslick_hair",
+   "rarity": 0.014288929,
+   "rarityScore": 69.98425
+  },
+  {
+   "type": "Front",
+   "value": "redliteframe_glasses",
+   "rarity": 0.010913591,
+   "rarityScore": 91.62887
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 361.6699,
+  "KARV_NOW": 1692.2534,
+  "KARV_FUTURE": 10339.669,
+  "KHRV": 151.0527,
+  "KHRV_NOW": 706.7756,
+  "KHRV_FUTURE": 4318.399
+ }
+}

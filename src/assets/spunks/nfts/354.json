@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #354",
+ "id": 354,
+ "img": "354.png",
+ "rarityScore": 341.16528,
+ "rarityRank": 2501,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "aphroditian_planet",
+   "rarity": 0.028465347,
+   "rarityScore": 35.130436
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "yakshian",
+   "rarity": 0.03577858,
+   "rarityScore": 27.949686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "mole",
+   "rarity": 0.054792978,
+   "rarityScore": 18.250513
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "blue_hoodie",
+   "rarity": 0.018114312,
+   "rarityScore": 55.204967
+  },
+  {
+   "type": "Hair",
+   "value": "tealbackwave_hair",
+   "rarity": 0.015864087,
+   "rarityScore": 63.03546
+  },
+  {
+   "type": "Front",
+   "value": "stargaze_glasses",
+   "rarity": 0.007988299,
+   "rarityScore": 125.1831
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 391.95032,
+  "KARV_NOW": 1833.9355,
+  "KARV_FUTURE": 11205.347,
+  "KHRV": 151.48534,
+  "KHRV_NOW": 708.79987,
+  "KHRV_FUTURE": 4330.767
+ }
+}

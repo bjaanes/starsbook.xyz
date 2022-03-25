@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #2857",
+ "id": 2857,
+ "img": "2857.png",
+ "rarityScore": 469.4448,
+ "rarityRank": 868,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "red_hex_space",
+   "rarity": 0.04331683,
+   "rarityScore": 23.085714
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "green_jetpack",
+   "rarity": 0.039153915,
+   "rarityScore": 25.54023
+  },
+  {
+   "type": "Species",
+   "value": "yakshian",
+   "rarity": 0.03577858,
+   "rarityScore": 27.949686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyescar",
+   "rarity": 0.060868587,
+   "rarityScore": 16.428835
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "trek_red",
+   "rarity": 0.004387939,
+   "rarityScore": 227.89743
+  },
+  {
+   "type": "Hair",
+   "value": "brownmidsideslick_hair",
+   "rarity": 0.02081458,
+   "rarityScore": 48.043243
+  },
+  {
+   "type": "Front",
+   "value": "graygray_visor",
+   "rarity": 0.011476148,
+   "rarityScore": 87.13725
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 539.3252,
+  "KARV_NOW": 2523.5024,
+  "KARV_FUTURE": 15418.601,
+  "KHRV": 153.59088,
+  "KHRV_NOW": 718.65173,
+  "KHRV_FUTURE": 4390.9624
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #2389",
+ "id": 2389,
+ "img": "2389.png",
+ "rarityScore": 314.2292,
+ "rarityRank": 3388,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_candy",
+   "rarity": 0.035441045,
+   "rarityScore": 28.215874
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "grey_jetpack",
+   "rarity": 0.03791629,
+   "rarityScore": 26.373888
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "3rdeye",
+   "rarity": 0.01350135,
+   "rarityScore": 74.066666
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "akash",
+   "rarity": 0.013388839,
+   "rarityScore": 74.68908
+  },
+  {
+   "type": "Hair",
+   "value": "tealmidcut_hair",
+   "rarity": 0.012938794,
+   "rarityScore": 77.28696
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 361.00458,
+  "KARV_NOW": 1689.1404,
+  "KARV_FUTURE": 10320.648,
+  "KHRV": 151.04321,
+  "KHRV_NOW": 706.7312,
+  "KHRV_FUTURE": 4318.128
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6491",
+ "id": 6491,
+ "img": "6491.png",
+ "rarityScore": 689.3306,
+ "rarityRank": 296,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "purple_hex_space",
+   "rarity": 0.045342036,
+   "rarityScore": 22.05459
+  },
+  {
+   "type": "Glow",
+   "value": "pink_headglow",
+   "rarity": 0.09619712,
+   "rarityScore": 10.395322
+  },
+  {
+   "type": "Back",
+   "value": "pink_jetpack",
+   "rarity": 0.03881638,
+   "rarityScore": 25.76232
+  },
+  {
+   "type": "Species",
+   "value": "humanoid3",
+   "rarity": 0.121737175,
+   "rarityScore": 8.214417
+  },
+  {
+   "type": "FaceDetail",
+   "value": "3rdeye",
+   "rarity": 0.01350135,
+   "rarityScore": 74.066666
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "grayblue_stripeshirt",
+   "rarity": 0.04140414,
+   "rarityScore": 24.152174
+  },
+  {
+   "type": "Hair",
+   "value": "blondeemo_hair",
+   "rarity": 0.0024752475,
+   "rarityScore": 404
+  },
+  {
+   "type": "Front",
+   "value": "choker_teal",
+   "rarity": 0.012376238,
+   "rarityScore": 80.8
+  },
+  {
+   "type": "Bubble",
+   "value": "surprisebubble_special",
+   "rarity": 0.04162916,
+   "rarityScore": 24.021622
+  }
+ ],
+ "prices": {
+  "KRV": 791.94275,
+  "KARV_NOW": 3705.5,
+  "KARV_FUTURE": 22640.605,
+  "KHRV": 157.20004,
+  "KHRV_NOW": 735.539,
+  "KHRV_FUTURE": 4494.1436
+ }
+}

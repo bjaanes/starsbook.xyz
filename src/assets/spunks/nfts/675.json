@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #675",
+ "id": 675,
+ "img": "675.png",
+ "rarityScore": 842.80756,
+ "rarityRank": 92,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_desert",
+   "rarity": 0.0370162,
+   "rarityScore": 27.015198
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "osmo",
+   "rarity": 0.011588659,
+   "rarityScore": 86.29126
+  },
+  {
+   "type": "Hair",
+   "value": "roseemo_hair",
+   "rarity": 0.0015751575,
+   "rarityScore": 634.8571
+  },
+  {
+   "type": "Front",
+   "value": "sunny_glasses",
+   "rarity": 0.014626463,
+   "rarityScore": 68.36923
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 968.26587,
+  "KARV_NOW": 4530.516,
+  "KARV_FUTURE": 27681.453,
+  "KHRV": 159.71918,
+  "KHRV_NOW": 747.326,
+  "KHRV_FUTURE": 4566.162
+ }
+}

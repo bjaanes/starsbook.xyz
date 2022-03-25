@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #1451",
+ "id": 1451,
+ "img": "1451.png",
+ "rarityScore": 489.52725,
+ "rarityRank": 788,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight",
+   "rarity": 0.029477948,
+   "rarityScore": 33.923664
+  },
+  {
+   "type": "Glow",
+   "value": "blue_headglow",
+   "rarity": 0.08787129,
+   "rarityScore": 11.380281
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid6",
+   "rarity": 0.113523856,
+   "rarityScore": 8.808722
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyescar",
+   "rarity": 0.060868587,
+   "rarityScore": 16.428835
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "matrix_eyes",
+   "rarity": 0.0730198,
+   "rarityScore": 13.694915
+  },
+  {
+   "type": "Tops",
+   "value": "blue_hoodie",
+   "rarity": 0.018114312,
+   "rarityScore": 55.204967
+  },
+  {
+   "type": "Hair",
+   "value": "redmediumwavy_hair",
+   "rarity": 0.01530153,
+   "rarityScore": 65.35294
+  },
+  {
+   "type": "Front",
+   "value": "robo_antennaes",
+   "rarity": 0.0036003601,
+   "rarityScore": 277.75
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 562.3971,
+  "KARV_NOW": 2631.456,
+  "KARV_FUTURE": 16078.197,
+  "KHRV": 153.9205,
+  "KHRV_NOW": 720.19403,
+  "KHRV_FUTURE": 4400.3857
+ }
+}

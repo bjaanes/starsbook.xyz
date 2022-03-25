@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #5264",
+ "id": 5264,
+ "img": "5264.png",
+ "rarityScore": 306.92566,
+ "rarityRank": 3683,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "space_desert",
+   "rarity": 0.02171467,
+   "rarityScore": 46.051815
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "teal_neonbackstaff",
+   "rarity": 0.040729072,
+   "rarityScore": 24.552486
+  },
+  {
+   "type": "Species",
+   "value": "enferian",
+   "rarity": 0.034765977,
+   "rarityScore": 28.763754
+  },
+  {
+   "type": "FaceDetail",
+   "value": "tears",
+   "rarity": 0.026777677,
+   "rarityScore": 37.34454
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "teal_stripe",
+   "rarity": 0.040841583,
+   "rarityScore": 24.484848
+  },
+  {
+   "type": "Hair",
+   "value": "pinkbackwave_hair",
+   "rarity": 0.014738974,
+   "rarityScore": 67.84733
+  },
+  {
+   "type": "Front",
+   "value": "cherry_glasses",
+   "rarity": 0.016764177,
+   "rarityScore": 59.65101
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 352.61386,
+  "KARV_NOW": 1649.8802,
+  "KARV_FUTURE": 10080.769,
+  "KHRV": 150.92334,
+  "KHRV_NOW": 706.1703,
+  "KHRV_FUTURE": 4314.7007
+ }
+}

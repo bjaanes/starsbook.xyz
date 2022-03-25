@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6188",
+ "id": 6188,
+ "img": "6188.png",
+ "rarityScore": 357.34366,
+ "rarityRank": 2100,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "teal_magic_ship",
+   "rarity": 0.049054906,
+   "rarityScore": 20.38532
+  },
+  {
+   "type": "Glow",
+   "value": "yellow_headglow",
+   "rarity": 0.0889964,
+   "rarityScore": 11.236409
+  },
+  {
+   "type": "Back",
+   "value": "blue_backsaber",
+   "rarity": 0.05411791,
+   "rarityScore": 18.47817
+  },
+  {
+   "type": "Species",
+   "value": "humanoid6",
+   "rarity": 0.113523856,
+   "rarityScore": 8.808722
+  },
+  {
+   "type": "FaceDetail",
+   "value": "the_mark_blackl",
+   "rarity": 0.015189019,
+   "rarityScore": 65.837036
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "green_lucky_sleeve",
+   "rarity": 0.017214222,
+   "rarityScore": 58.091503
+  },
+  {
+   "type": "Hair",
+   "value": "neonpinkmidcut_hair",
+   "rarity": 0.0144014405,
+   "rarityScore": 69.4375
+  },
+  {
+   "type": "Front",
+   "value": "trueblue_glasses",
+   "rarity": 0.011363637,
+   "rarityScore": 88
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 410.537,
+  "KARV_NOW": 1920.9025,
+  "KARV_FUTURE": 11736.714,
+  "KHRV": 151.75089,
+  "KHRV_NOW": 710.04236,
+  "KHRV_FUTURE": 4338.359
+ }
+}

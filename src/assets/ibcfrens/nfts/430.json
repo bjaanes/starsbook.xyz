@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #430",
+ "id": 430,
+ "img": "430.jpg",
+ "rarityScore": 192.359,
+ "rarityRank": 3088,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Purple",
+   "rarity": 0.0528,
+   "rarityScore": 18.939394
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Green",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Pink",
+   "rarity": 0.0456,
+   "rarityScore": 21.929825
+  },
+  {
+   "type": "Mouth",
+   "value": "Surprised",
+   "rarity": 0.1112,
+   "rarityScore": 8.9928055
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Blue",
+   "rarity": 0.0238,
+   "rarityScore": 42.016808
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "430",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 323.20135,
+  "KARV_NOW": 1512.2592,
+  "KARV_FUTURE": 9239.903,
+  "KHRV": 143.00296,
+  "KHRV_NOW": 669.11084,
+  "KHRV_FUTURE": 4088.2673
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #2071",
+ "id": 2071,
+ "img": "2071.png",
+ "rarityScore": 290.03293,
+ "rarityRank": 4408,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "galactic_orb",
+   "rarity": 0.01710171,
+   "rarityScore": 58.473682
+  },
+  {
+   "type": "Glow",
+   "value": "red_headglow",
+   "rarity": 0.09248425,
+   "rarityScore": 10.812652
+  },
+  {
+   "type": "Back",
+   "value": "green_jetpack",
+   "rarity": 0.039153915,
+   "rarityScore": 25.54023
+  },
+  {
+   "type": "Species",
+   "value": "yakshian",
+   "rarity": 0.03577858,
+   "rarityScore": 27.949686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "shinobi_band",
+   "rarity": 0.013613861,
+   "rarityScore": 73.454544
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "grayblue_stripeshirt",
+   "rarity": 0.04140414,
+   "rarityScore": 24.152174
+  },
+  {
+   "type": "Hair",
+   "value": "blackshortbangs_hair",
+   "rarity": 0.019014401,
+   "rarityScore": 52.591717
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 333.20654,
+  "KARV_NOW": 1559.0734,
+  "KARV_FUTURE": 9525.938,
+  "KHRV": 150.64606,
+  "KHRV_NOW": 704.87286,
+  "KHRV_FUTURE": 4306.7734
+ }
+}

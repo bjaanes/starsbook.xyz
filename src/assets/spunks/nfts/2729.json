@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #2729",
+ "id": 2729,
+ "img": "2729.png",
+ "rarityScore": 489.61884,
+ "rarityRank": 787,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "teal_magic",
+   "rarity": 0.034315933,
+   "rarityScore": 29.140984
+  },
+  {
+   "type": "Glow",
+   "value": "white_headglow",
+   "rarity": 0.09225923,
+   "rarityScore": 10.839025
+  },
+  {
+   "type": "Back",
+   "value": "angel_green_wings",
+   "rarity": 0.0065256525,
+   "rarityScore": 153.24138
+  },
+  {
+   "type": "Species",
+   "value": "neptunian",
+   "rarity": 0.04950495,
+   "rarityScore": 20.2
+  },
+  {
+   "type": "FaceDetail",
+   "value": "freckles",
+   "rarity": 0.05591809,
+   "rarityScore": 17.883299
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "matrix_eyes",
+   "rarity": 0.0730198,
+   "rarityScore": 13.694915
+  },
+  {
+   "type": "Tops",
+   "value": "black_turtleneck",
+   "rarity": 0.019914491,
+   "rarityScore": 50.21469
+  },
+  {
+   "type": "Hair",
+   "value": "tealbob_hair",
+   "rarity": 0.012263726,
+   "rarityScore": 81.54128
+  },
+  {
+   "type": "Front",
+   "value": "greenbugeye_glasses",
+   "rarity": 0.011588659,
+   "rarityScore": 86.29126
+  },
+  {
+   "type": "Bubble",
+   "value": "surprisebubble_special",
+   "rarity": 0.04162916,
+   "rarityScore": 24.021622
+  }
+ ],
+ "prices": {
+  "KRV": 562.5023,
+  "KARV_NOW": 2631.9482,
+  "KARV_FUTURE": 16081.204,
+  "KHRV": 153.92203,
+  "KHRV_NOW": 720.2012,
+  "KHRV_FUTURE": 4400.429
+ }
+}

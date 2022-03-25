@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0003",
+ "id": 1482,
+ "img": "1482.png",
+ "rarityScore": 235.4717,
+ "rarityRank": 2755,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "81 thousand km",
+   "rarity": 0.01325,
+   "rarityScore": 75.471695
+  },
+  {
+   "type": "Gravity force",
+   "value": "Infinity",
+   "rarity": 0.025,
+   "rarityScore": 40
+  },
+  {
+   "type": "Age",
+   "value": "13 billion years",
+   "rarity": 0.05,
+   "rarityScore": 20
+  },
+  {
+   "type": "Type",
+   "value": "Black Hole",
+   "rarity": 0.025,
+   "rarityScore": 40
+  },
+  {
+   "type": "Main composition",
+   "value": "???",
+   "rarity": 0.025,
+   "rarityScore": 40
+  },
+  {
+   "type": "Rank",
+   "value": "3",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Ancient",
+   "rarity": 0.05,
+   "rarityScore": 20
+  }
+ ],
+ "prices": {
+  "KRV": 281.44995,
+  "KARV_NOW": 1316.9043,
+  "KARV_FUTURE": 8046.2856,
+  "KHRV": 171.85117,
+  "KHRV_NOW": 804.0916,
+  "KHRV_FUTURE": 4913
+ }
+}

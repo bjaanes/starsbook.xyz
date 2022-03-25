@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #4840",
+ "id": 4840,
+ "img": "4840.png",
+ "rarityScore": 346.17432,
+ "rarityRank": 2380,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "deepspace_ship",
+   "rarity": 0.05051755,
+   "rarityScore": 19.795101
+  },
+  {
+   "type": "Glow",
+   "value": "green_headglow",
+   "rarity": 0.08809631,
+   "rarityScore": 11.351213
+  },
+  {
+   "type": "Back",
+   "value": "blue_backsaber",
+   "rarity": 0.05411791,
+   "rarityScore": 18.47817
+  },
+  {
+   "type": "Species",
+   "value": "humanoid7",
+   "rarity": 0.122749776,
+   "rarityScore": 8.146654
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "white_turtleneck_top",
+   "rarity": 0.043654364,
+   "rarityScore": 22.907217
+  },
+  {
+   "type": "Hair",
+   "value": "whitemidsideslick_hair",
+   "rarity": 0.007988299,
+   "rarityScore": 125.1831
+  },
+  {
+   "type": "Front",
+   "value": "blackred_visor",
+   "rarity": 0.009788479,
+   "rarityScore": 102.16092
+  },
+  {
+   "type": "Bubble",
+   "value": "surprisebubble_special",
+   "rarity": 0.04162916,
+   "rarityScore": 24.021622
+  }
+ ],
+ "prices": {
+  "KRV": 397.70502,
+  "KARV_NOW": 1860.8617,
+  "KARV_FUTURE": 11369.865,
+  "KHRV": 151.56754,
+  "KHRV_NOW": 709.1845,
+  "KHRV_FUTURE": 4333.1177
+ }
+}

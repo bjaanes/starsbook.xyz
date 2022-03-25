@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3967",
+ "id": 3967,
+ "img": "3967.png",
+ "rarityScore": 235.54929,
+ "rarityRank": 7077,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_stargaze_clouds",
+   "rarity": 0.03510351,
+   "rarityScore": 28.487179
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "zenian",
+   "rarity": 0.039266426,
+   "rarityScore": 25.467049
+  },
+  {
+   "type": "FaceDetail",
+   "value": "smallbeard",
+   "rarity": 0.07245725,
+   "rarityScore": 13.801242
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "blue_hoodie",
+   "rarity": 0.018114312,
+   "rarityScore": 55.204967
+  },
+  {
+   "type": "Hair",
+   "value": "blackmidcut_hair",
+   "rarity": 0.023064807,
+   "rarityScore": 43.3561
+  },
+  {
+   "type": "Front",
+   "value": "neongray_glasses",
+   "rarity": 0.01890189,
+   "rarityScore": 52.904762
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 270.61258,
+  "KARV_NOW": 1266.1963,
+  "KARV_FUTURE": 7736.4595,
+  "KHRV": 149.75177,
+  "KHRV_NOW": 700.68854,
+  "KHRV_FUTURE": 4281.207
+ }
+}

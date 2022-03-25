@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #4867",
+ "id": 4867,
+ "img": "4867.png",
+ "rarityScore": 352.8364,
+ "rarityRank": 2195,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "teal_magic_ship",
+   "rarity": 0.049054906,
+   "rarityScore": 20.38532
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "pink_neonbackstaff",
+   "rarity": 0.040841583,
+   "rarityScore": 24.484848
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "matrix_eyes",
+   "rarity": 0.0730198,
+   "rarityScore": 13.694915
+  },
+  {
+   "type": "Tops",
+   "value": "yellow_trainer",
+   "rarity": 0.008550855,
+   "rarityScore": 116.947365
+  },
+  {
+   "type": "Hair",
+   "value": "blueshave_hair",
+   "rarity": 0.006750675,
+   "rarityScore": 148.13333
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 405.35876,
+  "KARV_NOW": 1896.6736,
+  "KARV_FUTURE": 11588.676,
+  "KHRV": 151.67688,
+  "KHRV_NOW": 709.6961,
+  "KHRV_FUTURE": 4336.243
+ }
+}

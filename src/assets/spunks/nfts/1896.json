@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #1896",
+ "id": 1896,
+ "img": "1896.png",
+ "rarityScore": 259.70688,
+ "rarityRank": 5941,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "space_desert_ship",
+   "rarity": 0.050630063,
+   "rarityScore": 19.751112
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "angel_yellow_wings",
+   "rarity": 0.008663367,
+   "rarityScore": 115.42857
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "5oclock",
+   "rarity": 0.053667866,
+   "rarityScore": 18.633123
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "white_turtleneck_top",
+   "rarity": 0.043654364,
+   "rarityScore": 22.907217
+  },
+  {
+   "type": "Hair",
+   "value": "blackmidsideslick_hair",
+   "rarity": 0.020139514,
+   "rarityScore": 49.653633
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 298.36624,
+  "KARV_NOW": 1396.0557,
+  "KARV_FUTURE": 8529.9,
+  "KHRV": 150.1483,
+  "KHRV_NOW": 702.5439,
+  "KHRV_FUTURE": 4292.5435
+ }
+}

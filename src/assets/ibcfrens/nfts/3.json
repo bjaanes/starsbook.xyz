@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3",
+ "id": 3,
+ "img": "3.jpg",
+ "rarityScore": 180.07979,
+ "rarityRank": 3349,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Blue",
+   "rarity": 0.0368,
+   "rarityScore": 27.173914
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Green",
+   "rarity": 0.115,
+   "rarityScore": 8.695652
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Blue",
+   "rarity": 0.0226,
+   "rarityScore": 44.247787
+  },
+  {
+   "type": "Eyes",
+   "value": "Stars Purple",
+   "rarity": 0.016,
+   "rarityScore": 62.5
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Purple",
+   "rarity": 0.032,
+   "rarityScore": 31.25
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 302.56985,
+  "KARV_NOW": 1415.7244,
+  "KARV_FUTURE": 8650.076,
+  "KHRV": 142.66476,
+  "KHRV_NOW": 667.52844,
+  "KHRV_FUTURE": 4078.5989
+ }
+}

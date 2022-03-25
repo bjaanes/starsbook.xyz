@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #1800",
+ "id": 1800,
+ "img": "1800.png",
+ "rarityScore": 352.9611,
+ "rarityRank": 2191,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "gaianan",
+   "rarity": 0.0180018,
+   "rarityScore": 55.55
+  },
+  {
+   "type": "Glow",
+   "value": "pink_headglow",
+   "rarity": 0.09619712,
+   "rarityScore": 10.395322
+  },
+  {
+   "type": "Back",
+   "value": "angel_pink_wings",
+   "rarity": 0.007875788,
+   "rarityScore": 126.97143
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "orange_stripe",
+   "rarity": 0.042079207,
+   "rarityScore": 23.764706
+  },
+  {
+   "type": "Hair",
+   "value": "blondemidsideslick_hair",
+   "rarity": 0.022502251,
+   "rarityScore": 44.44
+  },
+  {
+   "type": "Front",
+   "value": "skyblue_headphones",
+   "rarity": 0.023064807,
+   "rarityScore": 43.3561
+  },
+  {
+   "type": "Bubble",
+   "value": "questionbubble_special",
+   "rarity": 0.045004502,
+   "rarityScore": 22.22
+  }
+ ],
+ "prices": {
+  "KRV": 405.50204,
+  "KARV_NOW": 1897.344,
+  "KARV_FUTURE": 11592.772,
+  "KHRV": 151.67896,
+  "KHRV_NOW": 709.7058,
+  "KHRV_FUTURE": 4336.3027
+ }
+}

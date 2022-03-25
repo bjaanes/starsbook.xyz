@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #1499",
+ "id": 1499,
+ "img": "1499.png",
+ "rarityScore": 702.31793,
+ "rarityRank": 267,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "stargaze_clouds",
+   "rarity": 0.01080108,
+   "rarityScore": 92.583336
+  },
+  {
+   "type": "Glow",
+   "value": "white_headglow",
+   "rarity": 0.09225923,
+   "rarityScore": 10.839025
+  },
+  {
+   "type": "Back",
+   "value": "purple_jetpack",
+   "rarity": 0.038928892,
+   "rarityScore": 25.68786
+  },
+  {
+   "type": "Species",
+   "value": "humanoid7",
+   "rarity": 0.122749776,
+   "rarityScore": 8.146654
+  },
+  {
+   "type": "FaceDetail",
+   "value": "the_mark_blackl",
+   "rarity": 0.015189019,
+   "rarityScore": 65.837036
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "red_eyes",
+   "rarity": 0.11971197,
+   "rarityScore": 8.353383
+  },
+  {
+   "type": "Tops",
+   "value": "graystripehoodie",
+   "rarity": 0.021039603,
+   "rarityScore": 47.52941
+  },
+  {
+   "type": "Hair",
+   "value": "lavendermidfrontbangcut_hair",
+   "rarity": 0.0025877587,
+   "rarityScore": 386.43478
+  },
+  {
+   "type": "Front",
+   "value": "basicteal_glasses",
+   "rarity": 0.032965798,
+   "rarityScore": 30.33447
+  },
+  {
+   "type": "Bubble",
+   "value": "surprisebubble_special",
+   "rarity": 0.04162916,
+   "rarityScore": 24.021622
+  }
+ ],
+ "prices": {
+  "KRV": 806.8633,
+  "KARV_NOW": 3775.3132,
+  "KARV_FUTURE": 23067.164,
+  "KHRV": 157.41321,
+  "KHRV_NOW": 736.5364,
+  "KHRV_FUTURE": 4500.2373
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3569",
+ "id": 3569,
+ "img": "3569.png",
+ "rarityScore": 322.32117,
+ "rarityRank": 3086,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "yakshian_planet",
+   "rarity": 0.023739874,
+   "rarityScore": 42.123222
+  },
+  {
+   "type": "Glow",
+   "value": "pink_headglow",
+   "rarity": 0.09619712,
+   "rarityScore": 10.395322
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "aphroditian",
+   "rarity": 0.04657966,
+   "rarityScore": 21.4686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "robolines",
+   "rarity": 0.028577859,
+   "rarityScore": 34.992126
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "red_eyes",
+   "rarity": 0.11971197,
+   "rarityScore": 8.353383
+  },
+  {
+   "type": "Tops",
+   "value": "ruby_cloak",
+   "rarity": 0.013388839,
+   "rarityScore": 74.68908
+  },
+  {
+   "type": "Hair",
+   "value": "blackmediumwavy_hair",
+   "rarity": 0.021377137,
+   "rarityScore": 46.778946
+  },
+  {
+   "type": "Front",
+   "value": "choker_blue",
+   "rarity": 0.013051305,
+   "rarityScore": 76.62069
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 370.30112,
+  "KARV_NOW": 1732.6389,
+  "KARV_FUTURE": 10586.424,
+  "KHRV": 151.17604,
+  "KHRV_NOW": 707.35266,
+  "KHRV_FUTURE": 4321.925
+ }
+}

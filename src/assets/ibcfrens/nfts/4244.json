@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #4244",
+ "id": 4244,
+ "img": "4244.jpg",
+ "rarityScore": 196.60674,
+ "rarityRank": 2999,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 1",
+   "rarity": 0.0246,
+   "rarityScore": 40.650406
+  },
+  {
+   "type": "Character",
+   "value": "Alien Pastel",
+   "rarity": 0.0458,
+   "rarityScore": 21.83406
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Green",
+   "rarity": 0.0236,
+   "rarityScore": 42.372883
+  },
+  {
+   "type": "Eyes",
+   "value": "Happy",
+   "rarity": 0.0762,
+   "rarityScore": 13.12336
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Light Purple",
+   "rarity": 0.0228,
+   "rarityScore": 43.85965
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Light Green",
+   "rarity": 0.0334,
+   "rarityScore": 29.94012
+  },
+  {
+   "type": "generation",
+   "value": "4244",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 330.3384,
+  "KARV_NOW": 1545.6534,
+  "KARV_FUTURE": 9443.942,
+  "KHRV": 143.11995,
+  "KHRV_NOW": 669.6582,
+  "KHRV_FUTURE": 4091.6118
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #4418",
+ "id": 4418,
+ "img": "4418.png",
+ "rarityScore": 189.63925,
+ "rarityRank": 8476,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight",
+   "rarity": 0.029477948,
+   "rarityScore": 33.923664
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "greenstripehoodie",
+   "rarity": 0.02070207,
+   "rarityScore": 48.304348
+  },
+  {
+   "type": "Hair",
+   "value": "blondemidcut_hair",
+   "rarity": 0.01890189,
+   "rarityScore": 52.904762
+  },
+  {
+   "type": "Front",
+   "value": "blackbugeye_glasses",
+   "rarity": 0.035666067,
+   "rarityScore": 28.037855
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 217.86848,
+  "KARV_NOW": 1019.4066,
+  "KARV_FUTURE": 6228.5747,
+  "KHRV": 148.99821,
+  "KHRV_NOW": 697.16266,
+  "KHRV_FUTURE": 4259.664
+ }
+}

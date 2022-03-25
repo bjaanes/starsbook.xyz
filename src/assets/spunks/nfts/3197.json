@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3197",
+ "id": 3197,
+ "img": "3197.png",
+ "rarityScore": 729.4784,
+ "rarityRank": 201,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight",
+   "rarity": 0.029477948,
+   "rarityScore": 33.923664
+  },
+  {
+   "type": "Glow",
+   "value": "pink_headglow",
+   "rarity": 0.09619712,
+   "rarityScore": 10.395322
+  },
+  {
+   "type": "Back",
+   "value": "angel_white_wings",
+   "rarity": 0.0077632763,
+   "rarityScore": 128.8116
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "graystripehoodie",
+   "rarity": 0.021039603,
+   "rarityScore": 47.52941
+  },
+  {
+   "type": "Hair",
+   "value": "lavendermidfrontbangcut_hair",
+   "rarity": 0.0025877587,
+   "rarityScore": 386.43478
+  },
+  {
+   "type": "Front",
+   "value": "bluepink_visor",
+   "rarity": 0.010013501,
+   "rarityScore": 99.865166
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 838.0668,
+  "KARV_NOW": 3921.3145,
+  "KARV_FUTURE": 23959.232,
+  "KHRV": 157.85902,
+  "KHRV_NOW": 738.6224,
+  "KHRV_FUTURE": 4512.983
+ }
+}

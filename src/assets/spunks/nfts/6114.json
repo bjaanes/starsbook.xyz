@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6114",
+ "id": 6114,
+ "img": "6114.png",
+ "rarityScore": 326.66904,
+ "rarityRank": 2935,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight_ship",
+   "rarity": 0.052542754,
+   "rarityScore": 19.03212
+  },
+  {
+   "type": "Glow",
+   "value": "red_headglow",
+   "rarity": 0.09248425,
+   "rarityScore": 10.812652
+  },
+  {
+   "type": "Back",
+   "value": "purple_jetpack",
+   "rarity": 0.038928892,
+   "rarityScore": 25.68786
+  },
+  {
+   "type": "Species",
+   "value": "humanoid3",
+   "rarity": 0.121737175,
+   "rarityScore": 8.214417
+  },
+  {
+   "type": "FaceDetail",
+   "value": "soulpatch",
+   "rarity": 0.069644466,
+   "rarityScore": 14.358643
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "red_eyes",
+   "rarity": 0.11971197,
+   "rarityScore": 8.353383
+  },
+  {
+   "type": "Tops",
+   "value": "graystripehoodie",
+   "rarity": 0.021039603,
+   "rarityScore": 47.52941
+  },
+  {
+   "type": "Hair",
+   "value": "yellowbackwave_hair",
+   "rarity": 0.00990099,
+   "rarityScore": 101
+  },
+  {
+   "type": "Front",
+   "value": "tealliteframe_glasses",
+   "rarity": 0.014963997,
+   "rarityScore": 66.827065
+  },
+  {
+   "type": "Bubble",
+   "value": "questionbubble_special",
+   "rarity": 0.045004502,
+   "rarityScore": 22.22
+  }
+ ],
+ "prices": {
+  "KRV": 375.2962,
+  "KARV_NOW": 1756.0109,
+  "KARV_FUTURE": 10729.227,
+  "KHRV": 151.2474,
+  "KHRV_NOW": 707.6866,
+  "KHRV_FUTURE": 4323.9653
+ }
+}

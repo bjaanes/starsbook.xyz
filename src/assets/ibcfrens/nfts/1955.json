@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1955",
+ "id": 1955,
+ "img": "1955.jpg",
+ "rarityScore": 352.89062,
+ "rarityRank": 865,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Blue",
+   "rarity": 0.055,
+   "rarityScore": 18.181818
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Heavy Space Suit Light Green",
+   "rarity": 0.0034,
+   "rarityScore": 294.11765
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Pink",
+   "rarity": 0.0456,
+   "rarityScore": 21.929825
+  },
+  {
+   "type": "Mouth",
+   "value": "Satisfied",
+   "rarity": 0.152,
+   "rarityScore": 6.5789475
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1955",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 592.9264,
+  "KARV_NOW": 2774.3025,
+  "KARV_FUTURE": 16950.988,
+  "KHRV": 147.42416,
+  "KHRV_NOW": 689.79767,
+  "KHRV_FUTURE": 4214.664
+ }
+}

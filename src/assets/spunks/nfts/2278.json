@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #2278",
+ "id": 2278,
+ "img": "2278.png",
+ "rarityScore": 422.8411,
+ "rarityRank": 1160,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "purple_magic",
+   "rarity": 0.036678668,
+   "rarityScore": 27.263803
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "angel_pink_wings",
+   "rarity": 0.007875788,
+   "rarityScore": 126.97143
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "mole",
+   "rarity": 0.054792978,
+   "rarityScore": 18.250513
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "greenXsleeve",
+   "rarity": 0.04162916,
+   "rarityScore": 24.021622
+  },
+  {
+   "type": "Hair",
+   "value": "tealbob_hair",
+   "rarity": 0.012263726,
+   "rarityScore": 81.54128
+  },
+  {
+   "type": "Front",
+   "value": "red_space_helmet",
+   "rarity": 0.00810081,
+   "rarityScore": 123.44444
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 485.7842,
+  "KARV_NOW": 2272.9844,
+  "KARV_FUTURE": 13887.935,
+  "KHRV": 152.82594,
+  "KHRV_NOW": 715.0726,
+  "KHRV_FUTURE": 4369.0933
+ }
+}

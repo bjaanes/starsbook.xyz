@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #4092",
+ "id": 4092,
+ "img": "4092.png",
+ "rarityScore": 322.12305,
+ "rarityRank": 3097,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "green_sky",
+   "rarity": 0.023177318,
+   "rarityScore": 43.14563
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "pink_neonbackstaff",
+   "rarity": 0.040841583,
+   "rarityScore": 24.484848
+  },
+  {
+   "type": "Species",
+   "value": "humanoid6",
+   "rarity": 0.113523856,
+   "rarityScore": 8.808722
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "red_eyes",
+   "rarity": 0.11971197,
+   "rarityScore": 8.353383
+  },
+  {
+   "type": "Tops",
+   "value": "akash",
+   "rarity": 0.013388839,
+   "rarityScore": 74.68908
+  },
+  {
+   "type": "Hair",
+   "value": "blackbackslick_hair",
+   "rarity": 0.021377137,
+   "rarityScore": 46.778946
+  },
+  {
+   "type": "Front",
+   "value": "choker_teal",
+   "rarity": 0.012376238,
+   "rarityScore": 80.8
+  },
+  {
+   "type": "Bubble",
+   "value": "smilebubble_special",
+   "rarity": 0.037353735,
+   "rarityScore": 26.771084
+  }
+ ],
+ "prices": {
+  "KRV": 370.0735,
+  "KARV_NOW": 1731.5739,
+  "KARV_FUTURE": 10579.916,
+  "KHRV": 151.17278,
+  "KHRV_NOW": 707.3374,
+  "KHRV_FUTURE": 4321.8315
+ }
+}

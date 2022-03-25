@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6903",
+ "id": 6903,
+ "img": "6903.png",
+ "rarityScore": 359.24167,
+ "rarityRank": 2051,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "neptunian_planet",
+   "rarity": 0.027227722,
+   "rarityScore": 36.727272
+  },
+  {
+   "type": "Glow",
+   "value": "red_headglow",
+   "rarity": 0.09248425,
+   "rarityScore": 10.812652
+  },
+  {
+   "type": "Back",
+   "value": "purple_jetpack",
+   "rarity": 0.038928892,
+   "rarityScore": 25.68786
+  },
+  {
+   "type": "Species",
+   "value": "humanoid4",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "FaceDetail",
+   "value": "the_mark_greenl",
+   "rarity": 0.0144014405,
+   "rarityScore": 69.4375
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "redsin_eyes",
+   "rarity": 0.0679568,
+   "rarityScore": 14.715232
+  },
+  {
+   "type": "Tops",
+   "value": "yellow_stripe_shirt",
+   "rarity": 0.040279027,
+   "rarityScore": 24.826817
+  },
+  {
+   "type": "Hair",
+   "value": "brownbackwave_hair",
+   "rarity": 0.01620162,
+   "rarityScore": 61.72222
+  },
+  {
+   "type": "Front",
+   "value": "blue_space_helmet",
+   "rarity": 0.0096759675,
+   "rarityScore": 103.34884
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 412.71753,
+  "KARV_NOW": 1931.1052,
+  "KARV_FUTURE": 11799.053,
+  "KHRV": 151.78201,
+  "KHRV_NOW": 710.18805,
+  "KHRV_FUTURE": 4339.249
+ }
+}

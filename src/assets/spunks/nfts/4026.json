@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #4026",
+ "id": 4026,
+ "img": "4026.png",
+ "rarityScore": 310.9316,
+ "rarityRank": 3514,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_candy",
+   "rarity": 0.035441045,
+   "rarityScore": 28.215874
+  },
+  {
+   "type": "Glow",
+   "value": "red_headglow",
+   "rarity": 0.09248425,
+   "rarityScore": 10.812652
+  },
+  {
+   "type": "Back",
+   "value": "red_backsaber",
+   "rarity": 0.046017103,
+   "rarityScore": 21.73105
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "blush",
+   "rarity": 0.07031953,
+   "rarityScore": 14.2208
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "red_eyes",
+   "rarity": 0.11971197,
+   "rarityScore": 8.353383
+  },
+  {
+   "type": "Tops",
+   "value": "shadow_ninja",
+   "rarity": 0.021152114,
+   "rarityScore": 47.276596
+  },
+  {
+   "type": "Hair",
+   "value": "neongreenshave_hair",
+   "rarity": 0.011813682,
+   "rarityScore": 84.64762
+  },
+  {
+   "type": "Front",
+   "value": "lite_cat_ears",
+   "rarity": 0.011926193,
+   "rarityScore": 83.84906
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 357.21616,
+  "KARV_NOW": 1671.4143,
+  "KARV_FUTURE": 10212.342,
+  "KHRV": 150.98909,
+  "KHRV_NOW": 706.47797,
+  "KHRV_FUTURE": 4316.5806
+ }
+}

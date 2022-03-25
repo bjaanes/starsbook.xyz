@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6420",
+ "id": 6420,
+ "img": "6420.png",
+ "rarityScore": 322.35626,
+ "rarityRank": 3084,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "aphroditian_planet",
+   "rarity": 0.028465347,
+   "rarityScore": 35.130436
+  },
+  {
+   "type": "Glow",
+   "value": "yellow_headglow",
+   "rarity": 0.0889964,
+   "rarityScore": 11.236409
+  },
+  {
+   "type": "Back",
+   "value": "teal_neonbackstaff",
+   "rarity": 0.040729072,
+   "rarityScore": 24.552486
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "grayblue_stripeshirt",
+   "rarity": 0.04140414,
+   "rarityScore": 24.152174
+  },
+  {
+   "type": "Hair",
+   "value": "yellowmediumwavy_hair",
+   "rarity": 0.008775878,
+   "rarityScore": 113.948715
+  },
+  {
+   "type": "Front",
+   "value": "graygray_visor",
+   "rarity": 0.011476148,
+   "rarityScore": 87.13725
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 370.34143,
+  "KARV_NOW": 1732.8275,
+  "KARV_FUTURE": 10587.576,
+  "KHRV": 151.1766,
+  "KHRV_NOW": 707.35535,
+  "KHRV_FUTURE": 4321.9414
+ }
+}

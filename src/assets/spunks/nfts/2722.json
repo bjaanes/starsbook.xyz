@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #2722",
+ "id": 2722,
+ "img": "2722.png",
+ "rarityScore": 650.3572,
+ "rarityRank": 378,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight",
+   "rarity": 0.029477948,
+   "rarityScore": 33.923664
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "pink_jetpack",
+   "rarity": 0.03881638,
+   "rarityScore": 25.76232
+  },
+  {
+   "type": "Species",
+   "value": "humanoid4",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "red_eyes",
+   "rarity": 0.11971197,
+   "rarityScore": 8.353383
+  },
+  {
+   "type": "Tops",
+   "value": "purple_xsleeve",
+   "rarity": 0.043091808,
+   "rarityScore": 23.206266
+  },
+  {
+   "type": "Hair",
+   "value": "tealemo_hair",
+   "rarity": 0.0024752475,
+   "rarityScore": 404
+  },
+  {
+   "type": "Front",
+   "value": "yellowbugeye_glasses",
+   "rarity": 0.008888389,
+   "rarityScore": 112.50633
+  },
+  {
+   "type": "Bubble",
+   "value": "questionbubble_special",
+   "rarity": 0.045004502,
+   "rarityScore": 22.22
+  }
+ ],
+ "prices": {
+  "KRV": 747.1678,
+  "KARV_NOW": 3495.998,
+  "KARV_FUTURE": 21360.549,
+  "KHRV": 156.56033,
+  "KHRV_NOW": 732.5458,
+  "KHRV_FUTURE": 4475.855
+ }
+}

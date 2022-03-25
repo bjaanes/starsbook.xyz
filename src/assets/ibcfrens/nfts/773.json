@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #773",
+ "id": 773,
+ "img": "773.jpg",
+ "rarityScore": 241.42621,
+ "rarityRank": 2119,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 1",
+   "rarity": 0.0246,
+   "rarityScore": 40.650406
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Purple",
+   "rarity": 0.1082,
+   "rarityScore": 9.242145
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Pink",
+   "rarity": 0.0098,
+   "rarityScore": 102.04082
+  },
+  {
+   "type": "Eyes",
+   "value": "Grumpy",
+   "rarity": 0.0622,
+   "rarityScore": 16.077171
+  },
+  {
+   "type": "Mouth",
+   "value": "Surprised",
+   "rarity": 0.1112,
+   "rarityScore": 8.9928055
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Blue",
+   "rarity": 0.029,
+   "rarityScore": 34.482758
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Light Green",
+   "rarity": 0.0334,
+   "rarityScore": 29.94012
+  },
+  {
+   "type": "generation",
+   "value": "773",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 405.64404,
+  "KARV_NOW": 1898.0084,
+  "KARV_FUTURE": 11596.832,
+  "KHRV": 144.35432,
+  "KHRV_NOW": 675.4339,
+  "KHRV_FUTURE": 4126.9014
+ }
+}

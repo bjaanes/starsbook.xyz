@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #7997",
+ "id": 7997,
+ "img": "7997.png",
+ "rarityScore": 238.52632,
+ "rarityRank": 6964,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "galactic_orb",
+   "rarity": 0.01710171,
+   "rarityScore": 58.473682
+  },
+  {
+   "type": "Glow",
+   "value": "yellow_headglow",
+   "rarity": 0.0889964,
+   "rarityScore": 11.236409
+  },
+  {
+   "type": "Back",
+   "value": "edge_earring_white",
+   "rarity": 0.022727273,
+   "rarityScore": 44
+  },
+  {
+   "type": "Species",
+   "value": "humanoid6",
+   "rarity": 0.113523856,
+   "rarityScore": 8.808722
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "teal_stripe",
+   "rarity": 0.040841583,
+   "rarityScore": 24.484848
+  },
+  {
+   "type": "Hair",
+   "value": "pinkbackslick_hair",
+   "rarity": 0.014063907,
+   "rarityScore": 71.104
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 274.03278,
+  "KARV_NOW": 1282.1993,
+  "KARV_FUTURE": 7834.2383,
+  "KHRV": 149.80064,
+  "KHRV_NOW": 700.9172,
+  "KHRV_FUTURE": 4282.604
+ }
+}

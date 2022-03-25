@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #8809",
+ "id": 8809,
+ "img": "8809.png",
+ "rarityScore": 239.91707,
+ "rarityRank": 6901,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "yakshian_planet",
+   "rarity": 0.023739874,
+   "rarityScore": 42.123222
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "blue_backsaber",
+   "rarity": 0.05411791,
+   "rarityScore": 18.47817
+  },
+  {
+   "type": "Species",
+   "value": "humanoid5",
+   "rarity": 0.12522502,
+   "rarityScore": 7.9856243
+  },
+  {
+   "type": "FaceDetail",
+   "value": "robolines",
+   "rarity": 0.028577859,
+   "rarityScore": 34.992126
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "robo_eyes",
+   "rarity": 0.04849235,
+   "rarityScore": 20.621809
+  },
+  {
+   "type": "Tops",
+   "value": "stargaze_fan",
+   "rarity": 0.037241224,
+   "rarityScore": 26.851963
+  },
+  {
+   "type": "Hair",
+   "value": "blackshortbangs_hair",
+   "rarity": 0.019014401,
+   "rarityScore": 52.591717
+  },
+  {
+   "type": "Front",
+   "value": "basicbrown_glasses",
+   "rarity": 0.03307831,
+   "rarityScore": 30.231293
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 275.63055,
+  "KARV_NOW": 1289.6753,
+  "KARV_FUTURE": 7879.916,
+  "KHRV": 149.82347,
+  "KHRV_NOW": 701.024,
+  "KHRV_FUTURE": 4283.257
+ }
+}

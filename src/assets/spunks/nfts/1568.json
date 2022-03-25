@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #1568",
+ "id": 1568,
+ "img": "1568.png",
+ "rarityScore": 370.57306,
+ "rarityRank": 1818,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "charanion_planet",
+   "rarity": 0.018226823,
+   "rarityScore": 54.864197
+  },
+  {
+   "type": "Glow",
+   "value": "yellow_headglow",
+   "rarity": 0.0889964,
+   "rarityScore": 11.236409
+  },
+  {
+   "type": "Back",
+   "value": "red_backsaber",
+   "rarity": 0.046017103,
+   "rarityScore": 21.73105
+  },
+  {
+   "type": "Species",
+   "value": "humanoid6",
+   "rarity": 0.113523856,
+   "rarityScore": 8.808722
+  },
+  {
+   "type": "FaceDetail",
+   "value": "the_mark_pinkl",
+   "rarity": 0.013276327,
+   "rarityScore": 75.32204
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "blue_xsleeve",
+   "rarity": 0.026890188,
+   "rarityScore": 37.188286
+  },
+  {
+   "type": "Hair",
+   "value": "purplemediumwavy_hair",
+   "rarity": 0.012263726,
+   "rarityScore": 81.54128
+  },
+  {
+   "type": "Front",
+   "value": "choker_gold",
+   "rarity": 0.014513952,
+   "rarityScore": 68.89922
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 425.7357,
+  "KARV_NOW": 1992.0172,
+  "KARV_FUTURE": 12171.226,
+  "KHRV": 151.96803,
+  "KHRV_NOW": 711.0584,
+  "KHRV_FUTURE": 4344.567
+ }
+}

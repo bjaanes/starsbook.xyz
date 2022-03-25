@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3633",
+ "id": 3633,
+ "img": "3633.png",
+ "rarityScore": 276.32898,
+ "rarityRank": 5088,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_spunk_sky",
+   "rarity": 0.027790278,
+   "rarityScore": 35.983807
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "red_neonbackstaff",
+   "rarity": 0.041066606,
+   "rarityScore": 24.350685
+  },
+  {
+   "type": "Species",
+   "value": "yakshian",
+   "rarity": 0.03577858,
+   "rarityScore": 27.949686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "blush",
+   "rarity": 0.07031953,
+   "rarityScore": 14.2208
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "redsin_eyes",
+   "rarity": 0.0679568,
+   "rarityScore": 14.715232
+  },
+  {
+   "type": "Tops",
+   "value": "yellow_stripe_shirt",
+   "rarity": 0.040279027,
+   "rarityScore": 24.826817
+  },
+  {
+   "type": "Hair",
+   "value": "blondemidsideslick_hair",
+   "rarity": 0.022502251,
+   "rarityScore": 44.44
+  },
+  {
+   "type": "Front",
+   "value": "choker_white",
+   "rarity": 0.015751576,
+   "rarityScore": 63.485714
+  },
+  {
+   "type": "Bubble",
+   "value": "talkybubble_special",
+   "rarity": 0.046467148,
+   "rarityScore": 21.52058
+  }
+ ],
+ "prices": {
+  "KRV": 317.46265,
+  "KARV_NOW": 1485.4077,
+  "KARV_FUTURE": 9075.842,
+  "KHRV": 150.42113,
+  "KHRV_NOW": 703.82043,
+  "KHRV_FUTURE": 4300.343
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1573",
+ "id": 1573,
+ "img": "1573.jpg",
+ "rarityScore": 396.5252,
+ "rarityRank": 572,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Yellow",
+   "rarity": 0.054,
+   "rarityScore": 18.518518
+  },
+  {
+   "type": "Character",
+   "value": "Sunkissed Light Blue",
+   "rarity": 0.0052,
+   "rarityScore": 192.3077
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Purple",
+   "rarity": 0.0216,
+   "rarityScore": 46.296295
+  },
+  {
+   "type": "Eyes",
+   "value": "Hearts Green",
+   "rarity": 0.0174,
+   "rarityScore": 57.471264
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Purple",
+   "rarity": 0.0246,
+   "rarityScore": 40.650406
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Blue",
+   "rarity": 0.0274,
+   "rarityScore": 36.49635
+  },
+  {
+   "type": "generation",
+   "value": "1573",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 666.2412,
+  "KARV_NOW": 3117.3425,
+  "KARV_FUTURE": 19046.963,
+  "KHRV": 148.62592,
+  "KHRV_NOW": 695.42065,
+  "KHRV_FUTURE": 4249.0205
+ }
+}

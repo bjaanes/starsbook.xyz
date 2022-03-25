@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1945",
+ "id": 1945,
+ "img": "1945.jpg",
+ "rarityScore": 83.32347,
+ "rarityRank": 5000,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Green",
+   "rarity": 0.0626,
+   "rarityScore": 15.974441
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Green",
+   "rarity": 0.115,
+   "rarityScore": 8.695652
+  },
+  {
+   "type": "Body",
+   "value": "Costume Crocodile",
+   "rarity": 0.0272,
+   "rarityScore": 36.764706
+  },
+  {
+   "type": "Eyes",
+   "value": "Happy",
+   "rarity": 0.0762,
+   "rarityScore": 13.12336
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1945",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 140,
+  "KARV_NOW": 655.06,
+  "KARV_FUTURE": 4002.4167,
+  "KHRV": 140,
+  "KHRV_NOW": 655.06,
+  "KHRV_FUTURE": 4002.4167
+ }
+}

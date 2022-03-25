@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3203",
+ "id": 3203,
+ "img": "3203.png",
+ "rarityScore": 597.29584,
+ "rarityRank": 495,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_stargaze_clouds",
+   "rarity": 0.03510351,
+   "rarityScore": 28.487179
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "soulpatch",
+   "rarity": 0.069644466,
+   "rarityScore": 14.358643
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "purple_face_sleeve",
+   "rarity": 0.016539155,
+   "rarityScore": 60.462585
+  },
+  {
+   "type": "Hair",
+   "value": "blackbackwave_hair",
+   "rarity": 0.021827182,
+   "rarityScore": 45.814434
+  },
+  {
+   "type": "Front",
+   "value": "gold_royalty",
+   "rarity": 0.0023627363,
+   "rarityScore": 423.2381
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 686.2078,
+  "KARV_NOW": 3210.7664,
+  "KARV_FUTURE": 19617.783,
+  "KHRV": 155.68939,
+  "KHRV_NOW": 728.47064,
+  "KHRV_FUTURE": 4450.9556
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #450",
+ "id": 450,
+ "img": "450.png",
+ "rarityScore": 543.28143,
+ "rarityRank": 606,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "stargaze_clouds",
+   "rarity": 0.01080108,
+   "rarityScore": 92.583336
+  },
+  {
+   "type": "Glow",
+   "value": "pink_headglow",
+   "rarity": 0.09619712,
+   "rarityScore": 10.395322
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "enferian",
+   "rarity": 0.034765977,
+   "rarityScore": 28.763754
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyescar",
+   "rarity": 0.060868587,
+   "rarityScore": 16.428835
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "matrix_eyes",
+   "rarity": 0.0730198,
+   "rarityScore": 13.694915
+  },
+  {
+   "type": "Tops",
+   "value": "teal_stripe",
+   "rarity": 0.040841583,
+   "rarityScore": 24.484848
+  },
+  {
+   "type": "Hair",
+   "value": "blackcurly_hair",
+   "rarity": 0.0034878487,
+   "rarityScore": 286.7097
+  },
+  {
+   "type": "Front",
+   "value": "skullmask",
+   "rarity": 0.017551756,
+   "rarityScore": 56.974358
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 624.15295,
+  "KARV_NOW": 2920.4116,
+  "KARV_FUTURE": 17843.715,
+  "KHRV": 154.80281,
+  "KHRV_NOW": 724.3223,
+  "KHRV_FUTURE": 4425.6094
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0157",
+ "id": 1792,
+ "img": "1792.png",
+ "rarityScore": 4365.7144,
+ "rarityRank": 98,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "720 thousand km",
+   "rarity": 0.0005,
+   "rarityScore": 2000
+  },
+  {
+   "type": "Gravity force",
+   "value": "588.0g",
+   "rarity": 0.0005,
+   "rarityScore": 2000
+  },
+  {
+   "type": "Age",
+   "value": "13 billion years",
+   "rarity": 0.05,
+   "rarityScore": 20
+  },
+  {
+   "type": "Type",
+   "value": "Star",
+   "rarity": 0.025,
+   "rarityScore": 40
+  },
+  {
+   "type": "Main composition",
+   "value": "Oganesson",
+   "rarity": 0.0035,
+   "rarityScore": 285.7143
+  },
+  {
+   "type": "Rank",
+   "value": "157",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Ancient",
+   "rarity": 0.05,
+   "rarityScore": 20
+  }
+ ],
+ "prices": {
+  "KRV": 5218.165,
+  "KARV_NOW": 24415.793,
+  "KARV_FUTURE": 149180.5,
+  "KHRV": 339.43277,
+  "KHRV_NOW": 1588.2059,
+  "KHRV_FUTURE": 9703.938
+ }
+}

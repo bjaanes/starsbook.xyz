@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6939",
+ "id": 6939,
+ "img": "6939.png",
+ "rarityScore": 332.98065,
+ "rarityRank": 2734,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "aphroditian_planet",
+   "rarity": 0.028465347,
+   "rarityScore": 35.130436
+  },
+  {
+   "type": "Glow",
+   "value": "white_headglow",
+   "rarity": 0.09225923,
+   "rarityScore": 10.839025
+  },
+  {
+   "type": "Back",
+   "value": "green_neonbackstaff",
+   "rarity": 0.039153915,
+   "rarityScore": 25.54023
+  },
+  {
+   "type": "Species",
+   "value": "gaianan",
+   "rarity": 0.046129614,
+   "rarityScore": 21.67805
+  },
+  {
+   "type": "FaceDetail",
+   "value": "smallbeard",
+   "rarity": 0.07245725,
+   "rarityScore": 13.801242
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "red_eyes",
+   "rarity": 0.11971197,
+   "rarityScore": 8.353383
+  },
+  {
+   "type": "Tops",
+   "value": "bluestripehoodie",
+   "rarity": 0.020477047,
+   "rarityScore": 48.835163
+  },
+  {
+   "type": "Hair",
+   "value": "whitemidcut_hair",
+   "rarity": 0.009450945,
+   "rarityScore": 105.809525
+  },
+  {
+   "type": "Front",
+   "value": "basicteal_glasses",
+   "rarity": 0.032965798,
+   "rarityScore": 30.33447
+  },
+  {
+   "type": "Bubble",
+   "value": "surprisebubble_special",
+   "rarity": 0.04162916,
+   "rarityScore": 24.021622
+  }
+ ],
+ "prices": {
+  "KRV": 382.54736,
+  "KARV_NOW": 1789.9391,
+  "KARV_FUTURE": 10936.528,
+  "KHRV": 151.35098,
+  "KHRV_NOW": 708.1712,
+  "KHRV_FUTURE": 4326.9263
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2684",
+ "id": 131,
+ "img": "131.png",
+ "rarityScore": 178.93143,
+ "rarityRank": 3833,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "23 thousand km",
+   "rarity": 0.01225,
+   "rarityScore": 81.63265
+  },
+  {
+   "type": "Gravity force",
+   "value": "9.8g",
+   "rarity": 0.05125,
+   "rarityScore": 19.512196
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Bromine",
+   "rarity": 0.01775,
+   "rarityScore": 56.338028
+  },
+  {
+   "type": "Rank",
+   "value": "2684",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 213.86963,
+  "KARV_NOW": 1000.696,
+  "KARV_FUTURE": 6114.2524,
+  "KHRV": 169.5571,
+  "KHRV_NOW": 793.35767,
+  "KHRV_FUTURE": 4847.4155
+ }
+}

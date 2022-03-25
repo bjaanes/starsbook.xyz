@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6835",
+ "id": 6835,
+ "img": "6835.png",
+ "rarityScore": 434.72656,
+ "rarityRank": 1061,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_deepspace",
+   "rarity": 0.0180018,
+   "rarityScore": 55.55
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "rainbow_backsaber",
+   "rarity": 0.008550855,
+   "rarityScore": 116.947365
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "mole",
+   "rarity": 0.054792978,
+   "rarityScore": 18.250513
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "purple_face_sleeve",
+   "rarity": 0.016539155,
+   "rarityScore": 60.462585
+  },
+  {
+   "type": "Hair",
+   "value": "yellowbob_hair",
+   "rarity": 0.009788479,
+   "rarityScore": 102.16092
+  },
+  {
+   "type": "Front",
+   "value": "purplepink_visor",
+   "rarity": 0.016539155,
+   "rarityScore": 60.462585
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 499.43893,
+  "KARV_NOW": 2336.8748,
+  "KARV_FUTURE": 14278.305,
+  "KHRV": 153.02103,
+  "KHRV_NOW": 715.98535,
+  "KHRV_FUTURE": 4374.6704
+ }
+}

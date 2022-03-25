@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6651",
+ "id": 6651,
+ "img": "6651.png",
+ "rarityScore": 473.98892,
+ "rarityRank": 850,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight_ship",
+   "rarity": 0.052542754,
+   "rarityScore": 19.03212
+  },
+  {
+   "type": "Glow",
+   "value": "pink_headglow",
+   "rarity": 0.09619712,
+   "rarityScore": 10.395322
+  },
+  {
+   "type": "Back",
+   "value": "angel_black_wings",
+   "rarity": 0.007538254,
+   "rarityScore": 132.65672
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "luna",
+   "rarity": 0.01260126,
+   "rarityScore": 79.35714
+  },
+  {
+   "type": "Hair",
+   "value": "whitemediumwavy_hair",
+   "rarity": 0.007088209,
+   "rarityScore": 141.07936
+  },
+  {
+   "type": "Front",
+   "value": "blueteal_visor",
+   "rarity": 0.014176418,
+   "rarityScore": 70.53968
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 544.5458,
+  "KARV_NOW": 2547.9297,
+  "KARV_FUTURE": 15567.851,
+  "KHRV": 153.66548,
+  "KHRV_NOW": 719.0008,
+  "KHRV_FUTURE": 4393.0947
+ }
+}

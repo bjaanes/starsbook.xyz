@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2696",
+ "id": 2543,
+ "img": "2543.png",
+ "rarityScore": 193.05504,
+ "rarityRank": 3629,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "29 thousand km",
+   "rarity": 0.01175,
+   "rarityScore": 85.106384
+  },
+  {
+   "type": "Gravity force",
+   "value": "9.8g",
+   "rarity": 0.05125,
+   "rarityScore": 19.512196
+  },
+  {
+   "type": "Age",
+   "value": "1 billion years",
+   "rarity": 0.0965,
+   "rarityScore": 10.362695
+  },
+  {
+   "type": "Type",
+   "value": "Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Selenium",
+   "rarity": 0.01525,
+   "rarityScore": 65.57377
+  },
+  {
+   "type": "Rank",
+   "value": "2696",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 230.75102,
+  "KARV_NOW": 1079.684,
+  "KARV_FUTURE": 6596.869,
+  "KHRV": 170.13014,
+  "KHRV_NOW": 796.03894,
+  "KHRV_FUTURE": 4863.798
+ }
+}

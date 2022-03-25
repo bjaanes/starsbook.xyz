@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #4967",
+ "id": 4967,
+ "img": "4967.png",
+ "rarityScore": 406.94952,
+ "rarityRank": 1296,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_stargaze_clouds",
+   "rarity": 0.03510351,
+   "rarityScore": 28.487179
+  },
+  {
+   "type": "Glow",
+   "value": "blue_headglow",
+   "rarity": 0.08787129,
+   "rarityScore": 11.380281
+  },
+  {
+   "type": "Back",
+   "value": "green_jetpack",
+   "rarity": 0.039153915,
+   "rarityScore": 25.54023
+  },
+  {
+   "type": "Species",
+   "value": "gaianan",
+   "rarity": 0.046129614,
+   "rarityScore": 21.67805
+  },
+  {
+   "type": "FaceDetail",
+   "value": "smallbeard",
+   "rarity": 0.07245725,
+   "rarityScore": 13.801242
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "red_eyes",
+   "rarity": 0.11971197,
+   "rarityScore": 8.353383
+  },
+  {
+   "type": "Tops",
+   "value": "lavender_ninja",
+   "rarity": 0.020589558,
+   "rarityScore": 48.568306
+  },
+  {
+   "type": "Hair",
+   "value": "greenshave_hair",
+   "rarity": 0.010576057,
+   "rarityScore": 94.55319
+  },
+  {
+   "type": "Front",
+   "value": "stargaze_glasses",
+   "rarity": 0.007988299,
+   "rarityScore": 125.1831
+  },
+  {
+   "type": "Bubble",
+   "value": "smilebubble_special",
+   "rarity": 0.037353735,
+   "rarityScore": 26.771084
+  }
+ ],
+ "prices": {
+  "KRV": 467.52704,
+  "KARV_NOW": 2187.559,
+  "KARV_FUTURE": 13365.986,
+  "KHRV": 152.56511,
+  "KHRV_NOW": 713.8521,
+  "KHRV_FUTURE": 4361.6367
+ }
+}

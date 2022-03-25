@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #3707",
+ "id": 3707,
+ "img": "3707.png",
+ "rarityScore": 864.73224,
+ "rarityRank": 75,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_desert",
+   "rarity": 0.0370162,
+   "rarityScore": 27.015198
+  },
+  {
+   "type": "Glow",
+   "value": "blue_headglow",
+   "rarity": 0.08787129,
+   "rarityScore": 11.380281
+  },
+  {
+   "type": "Back",
+   "value": "blue_backsaber",
+   "rarity": 0.05411791,
+   "rarityScore": 18.47817
+  },
+  {
+   "type": "Species",
+   "value": "humanoid7",
+   "rarity": 0.122749776,
+   "rarityScore": 8.146654
+  },
+  {
+   "type": "FaceDetail",
+   "value": "shinobi_band",
+   "rarity": 0.013613861,
+   "rarityScore": 73.454544
+  },
+  {
+   "type": "Mouth",
+   "value": "smaller_mouth",
+   "rarity": 0.3797255,
+   "rarityScore": 2.6334815
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "trek_red",
+   "rarity": 0.004387939,
+   "rarityScore": 227.89743
+  },
+  {
+   "type": "Hair",
+   "value": "lavendermidfrontbangcut_hair",
+   "rarity": 0.0025877587,
+   "rarityScore": 386.43478
+  },
+  {
+   "type": "Front",
+   "value": "blackred_visor",
+   "rarity": 0.009788479,
+   "rarityScore": 102.16092
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 993.45416,
+  "KARV_NOW": 4648.372,
+  "KARV_FUTURE": 28401.555,
+  "KHRV": 160.07904,
+  "KHRV_NOW": 749.0098,
+  "KHRV_FUTURE": 4576.45
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1290",
+ "id": 1599,
+ "img": "1599.png",
+ "rarityScore": 244.92886,
+ "rarityRank": 2499,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "77 thousand km",
+   "rarity": 0.01375,
+   "rarityScore": 72.72727
+  },
+  {
+   "type": "Gravity force",
+   "value": "7.4g",
+   "rarity": 0.01,
+   "rarityScore": 100
+  },
+  {
+   "type": "Age",
+   "value": "6 billion years",
+   "rarity": 0.149,
+   "rarityScore": 6.7114096
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Palladium",
+   "rarity": 0.017,
+   "rarityScore": 58.82353
+  },
+  {
+   "type": "Rank",
+   "value": "1290",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 292.75375,
+  "KARV_NOW": 1369.7948,
+  "KARV_FUTURE": 8369.446,
+  "KHRV": 172.23488,
+  "KHRV_NOW": 805.88696,
+  "KHRV_FUTURE": 4923.969
+ }
+}

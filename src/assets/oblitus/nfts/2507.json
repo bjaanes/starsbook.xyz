@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2564",
+ "id": 2507,
+ "img": "2507.png",
+ "rarityScore": 231.6853,
+ "rarityRank": 2849,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "25 thousand km",
+   "rarity": 0.00975,
+   "rarityScore": 102.5641
+  },
+  {
+   "type": "Gravity force",
+   "value": "2.0g",
+   "rarity": 0.0225,
+   "rarityScore": 44.444443
+  },
+  {
+   "type": "Age",
+   "value": "3 billion years",
+   "rarity": 0.094,
+   "rarityScore": 10.638298
+  },
+  {
+   "type": "Type",
+   "value": "Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Iron",
+   "rarity": 0.01625,
+   "rarityScore": 61.53846
+  },
+  {
+   "type": "Rank",
+   "value": "2564",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 276.92426,
+  "KARV_NOW": 1295.7285,
+  "KARV_FUTURE": 7916.9014,
+  "KHRV": 171.69756,
+  "KHRV_NOW": 803.37286,
+  "KHRV_FUTURE": 4908.6084
+ }
+}

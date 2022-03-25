@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3737",
+ "id": 1344,
+ "img": "1344.png",
+ "rarityScore": 262.51938,
+ "rarityRank": 2023,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "42 thousand km",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Gravity force",
+   "value": "5.9g",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Age",
+   "value": "4 billion years",
+   "rarity": 0.09775,
+   "rarityScore": 10.230179
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Gallium",
+   "rarity": 0.01725,
+   "rarityScore": 57.971016
+  },
+  {
+   "type": "Rank",
+   "value": "3737",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 313.779,
+  "KARV_NOW": 1468.1719,
+  "KARV_FUTURE": 8970.53,
+  "KHRV": 172.94861,
+  "KHRV_NOW": 809.2265,
+  "KHRV_FUTURE": 4944.374
+ }
+}

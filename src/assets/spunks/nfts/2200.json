@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #2200",
+ "id": 2200,
+ "img": "2200.png",
+ "rarityScore": 366.68256,
+ "rarityRank": 1892,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "yakshian_planet",
+   "rarity": 0.023739874,
+   "rarityScore": 42.123222
+  },
+  {
+   "type": "Glow",
+   "value": "green_headglow",
+   "rarity": 0.08809631,
+   "rarityScore": 11.351213
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid7",
+   "rarity": 0.122749776,
+   "rarityScore": 8.146654
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyescar",
+   "rarity": 0.060868587,
+   "rarityScore": 16.428835
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "green_lucky_sleeve",
+   "rarity": 0.017214222,
+   "rarityScore": 58.091503
+  },
+  {
+   "type": "Hair",
+   "value": "blueshave_hair",
+   "rarity": 0.006750675,
+   "rarityScore": 148.13333
+  },
+  {
+   "type": "Front",
+   "value": "black_skullmask",
+   "rarity": 0.016314132,
+   "rarityScore": 61.29655
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 421.26605,
+  "KARV_NOW": 1971.1038,
+  "KARV_FUTURE": 12043.444,
+  "KHRV": 151.90416,
+  "KHRV_NOW": 710.7595,
+  "KHRV_FUTURE": 4342.7407
+ }
+}

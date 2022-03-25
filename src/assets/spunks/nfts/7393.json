@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #7393",
+ "id": 7393,
+ "img": "7393.png",
+ "rarityScore": 278.03857,
+ "rarityRank": 5006,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "control_room_candy",
+   "rarity": 0.035441045,
+   "rarityScore": 28.215874
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "yellow_jetpack",
+   "rarity": 0.03780378,
+   "rarityScore": 26.452381
+  },
+  {
+   "type": "Species",
+   "value": "yakshian",
+   "rarity": 0.03577858,
+   "rarityScore": 27.949686
+  },
+  {
+   "type": "FaceDetail",
+   "value": "smallbeard",
+   "rarity": 0.07245725,
+   "rarityScore": 13.801242
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "green_eyes",
+   "rarity": 0.13838884,
+   "rarityScore": 7.226016
+  },
+  {
+   "type": "Tops",
+   "value": "grayblue_stripeshirt",
+   "rarity": 0.04140414,
+   "rarityScore": 24.152174
+  },
+  {
+   "type": "Hair",
+   "value": "yellowmediumwavy_hair",
+   "rarity": 0.008775878,
+   "rarityScore": 113.948715
+  },
+  {
+   "type": "Front",
+   "value": "basicteal_glasses",
+   "rarity": 0.032965798,
+   "rarityScore": 30.33447
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 319.42673,
+  "KARV_NOW": 1494.5977,
+  "KARV_FUTURE": 9131.992,
+  "KHRV": 150.4492,
+  "KHRV_NOW": 703.9518,
+  "KHRV_FUTURE": 4301.1455
+ }
+}

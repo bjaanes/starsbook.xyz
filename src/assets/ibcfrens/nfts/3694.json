@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3694",
+ "id": 3694,
+ "img": "3694.jpg",
+ "rarityScore": 223.3853,
+ "rarityRank": 2480,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Green",
+   "rarity": 0.0522,
+   "rarityScore": 19.157087
+  },
+  {
+   "type": "Character",
+   "value": "Alien Green",
+   "rarity": 0.0262,
+   "rarityScore": 38.16794
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Pink",
+   "rarity": 0.01,
+   "rarityScore": 100
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Green",
+   "rarity": 0.0398,
+   "rarityScore": 25.125628
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Pink",
+   "rarity": 0.0288,
+   "rarityScore": 34.72222
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3694",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 375.33173,
+  "KARV_NOW": 1756.1771,
+  "KARV_FUTURE": 10730.242,
+  "KHRV": 143.85745,
+  "KHRV_NOW": 673.109,
+  "KHRV_FUTURE": 4112.6963
+ }
+}

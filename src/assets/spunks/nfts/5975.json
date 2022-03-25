@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #5975",
+ "id": 5975,
+ "img": "5975.png",
+ "rarityScore": 376.18967,
+ "rarityRank": 1708,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "charanion_planet",
+   "rarity": 0.018226823,
+   "rarityScore": 54.864197
+  },
+  {
+   "type": "Glow",
+   "value": "white_headglow",
+   "rarity": 0.09225923,
+   "rarityScore": 10.839025
+  },
+  {
+   "type": "Back",
+   "value": "purple_jetpack",
+   "rarity": 0.038928892,
+   "rarityScore": 25.68786
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "blush",
+   "rarity": 0.07031953,
+   "rarityScore": 14.2208
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "magenta_eyes",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "Tops",
+   "value": "magentahoodie",
+   "rarity": 0.01980198,
+   "rarityScore": 50.5
+  },
+  {
+   "type": "Hair",
+   "value": "whitebackwave_hair",
+   "rarity": 0.0077632763,
+   "rarityScore": 128.8116
+  },
+  {
+   "type": "Front",
+   "value": "teal_smol",
+   "rarity": 0.013951395,
+   "rarityScore": 71.67742
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 432.18835,
+  "KARV_NOW": 2022.2092,
+  "KARV_FUTURE": 12355.698,
+  "KHRV": 152.06021,
+  "KHRV_NOW": 711.4897,
+  "KHRV_FUTURE": 4347.202
+ }
+}

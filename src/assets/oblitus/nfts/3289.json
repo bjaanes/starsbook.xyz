@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3090",
+ "id": 3289,
+ "img": "3289.png",
+ "rarityScore": 221.02188,
+ "rarityRank": 3116,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "59 thousand km",
+   "rarity": 0.0135,
+   "rarityScore": 74.07407
+  },
+  {
+   "type": "Gravity force",
+   "value": "2.2g",
+   "rarity": 0.015,
+   "rarityScore": 66.666664
+  },
+  {
+   "type": "Age",
+   "value": "3 billion years",
+   "rarity": 0.094,
+   "rarityScore": 10.638298
+  },
+  {
+   "type": "Type",
+   "value": "Moon Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Fluorine",
+   "rarity": 0.0175,
+   "rarityScore": 57.142857
+  },
+  {
+   "type": "Rank",
+   "value": "3090",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 264.17868,
+  "KARV_NOW": 1236.092,
+  "KARV_FUTURE": 7552.5225,
+  "KHRV": 171.2649,
+  "KHRV_NOW": 801.3484,
+  "KHRV_FUTURE": 4896.239
+ }
+}

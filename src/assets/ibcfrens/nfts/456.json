@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #456",
+ "id": 456,
+ "img": "456.jpg",
+ "rarityScore": 305.33173,
+ "rarityRank": 1294,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Pastel",
+   "rarity": 0.0098,
+   "rarityScore": 102.04082
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Yellow",
+   "rarity": 0.0106,
+   "rarityScore": 94.33962
+  },
+  {
+   "type": "Eyes",
+   "value": "Stars Yellow",
+   "rarity": 0.0164,
+   "rarityScore": 60.97561
+  },
+  {
+   "type": "Mouth",
+   "value": "Surprised",
+   "rarity": 0.1112,
+   "rarityScore": 8.9928055
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Pink",
+   "rarity": 0.034,
+   "rarityScore": 29.411764
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "456",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 513.018,
+  "KARV_NOW": 2400.4111,
+  "KARV_FUTURE": 14666.513,
+  "KHRV": 146.11435,
+  "KHRV_NOW": 683.669,
+  "KHRV_FUTURE": 4177.218
+ }
+}

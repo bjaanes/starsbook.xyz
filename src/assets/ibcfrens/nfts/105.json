@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #105",
+ "id": 105,
+ "img": "105.jpg",
+ "rarityScore": 311.7476,
+ "rarityRank": 1230,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Yellow",
+   "rarity": 0.0338,
+   "rarityScore": 29.585798
+  },
+  {
+   "type": "Character",
+   "value": "Zombie Yellow",
+   "rarity": 0.0064,
+   "rarityScore": 156.25
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Yellow",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Eyes",
+   "value": "None",
+   "rarity": 0.0536,
+   "rarityScore": 18.656717
+  },
+  {
+   "type": "Mouth",
+   "value": "Space Cigarette",
+   "rarity": 0.0806,
+   "rarityScore": 12.406948
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "105",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 523.7979,
+  "KARV_NOW": 2450.8503,
+  "KARV_FUTURE": 14974.696,
+  "KHRV": 146.29105,
+  "KHRV_NOW": 684.4958,
+  "KHRV_FUTURE": 4182.2695
+ }
+}

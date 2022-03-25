@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3210",
+ "id": 747,
+ "img": "747.png",
+ "rarityScore": 259.95996,
+ "rarityRank": 2079,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "22 thousand km",
+   "rarity": 0.01175,
+   "rarityScore": 85.106384
+  },
+  {
+   "type": "Gravity force",
+   "value": "1.1g",
+   "rarity": 0.01125,
+   "rarityScore": 88.888885
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Cobalt",
+   "rarity": 0.0155,
+   "rarityScore": 64.51613
+  },
+  {
+   "type": "Rank",
+   "value": "3210",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 310.71982,
+  "KARV_NOW": 1453.858,
+  "KARV_FUTURE": 8883.073,
+  "KHRV": 172.84477,
+  "KHRV_NOW": 808.74066,
+  "KHRV_FUTURE": 4941.406
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #911",
+ "id": 911,
+ "img": "911.jpg",
+ "rarityScore": 280.0752,
+ "rarityRank": 1543,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Blue",
+   "rarity": 0.0368,
+   "rarityScore": 27.173914
+  },
+  {
+   "type": "Character",
+   "value": "Alien Pastel",
+   "rarity": 0.0458,
+   "rarityScore": 21.83406
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Blue",
+   "rarity": 0.0116,
+   "rarityScore": 86.206894
+  },
+  {
+   "type": "Eyes",
+   "value": "Space Haze Blue",
+   "rarity": 0.0136,
+   "rarityScore": 73.52941
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Yellow",
+   "rarity": 0.031,
+   "rarityScore": 32.258064
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Light Pink",
+   "rarity": 0.0292,
+   "rarityScore": 34.246574
+  },
+  {
+   "type": "generation",
+   "value": "911",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 470.58203,
+  "KARV_NOW": 2201.8533,
+  "KARV_FUTURE": 13453.324,
+  "KHRV": 145.41875,
+  "KHRV_NOW": 680.4143,
+  "KHRV_FUTURE": 4157.3315
+ }
+}

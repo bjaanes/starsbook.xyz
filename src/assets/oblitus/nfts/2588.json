@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2061",
+ "id": 2588,
+ "img": "2588.png",
+ "rarityScore": 255.68233,
+ "rarityRank": 2176,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "91 thousand km",
+   "rarity": 0.0125,
+   "rarityScore": 80
+  },
+  {
+   "type": "Gravity force",
+   "value": "68.6g",
+   "rarity": 0.009,
+   "rarityScore": 111.111115
+  },
+  {
+   "type": "Age",
+   "value": "5 billion years",
+   "rarity": 0.151,
+   "rarityScore": 6.6225166
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Iodine",
+   "rarity": 0.0195,
+   "rarityScore": 51.28205
+  },
+  {
+   "type": "Rank",
+   "value": "2061",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 305.60693,
+  "KARV_NOW": 1429.9348,
+  "KARV_FUTURE": 8736.902,
+  "KHRV": 172.67119,
+  "KHRV_NOW": 807.92847,
+  "KHRV_FUTURE": 4936.443
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2932",
+ "id": 812,
+ "img": "812.png",
+ "rarityScore": 315.29996,
+ "rarityRank": 1090,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "95 thousand km",
+   "rarity": 0.01075,
+   "rarityScore": 93.023254
+  },
+  {
+   "type": "Gravity force",
+   "value": "13.7g",
+   "rarity": 0.007,
+   "rarityScore": 142.85715
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Moon Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Gallium",
+   "rarity": 0.01725,
+   "rarityScore": 57.971016
+  },
+  {
+   "type": "Rank",
+   "value": "2932",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 376.8655,
+  "KARV_NOW": 1763.3536,
+  "KARV_FUTURE": 10774.091,
+  "KHRV": 175.09013,
+  "KHRV_NOW": 819.2467,
+  "KHRV_FUTURE": 5005.5977
+ }
+}

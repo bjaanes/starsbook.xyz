@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #5541",
+ "id": 5541,
+ "img": "5541.png",
+ "rarityScore": 595.1403,
+ "rarityRank": 503,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "firenight_ship",
+   "rarity": 0.052542754,
+   "rarityScore": 19.03212
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "purple_jetpack",
+   "rarity": 0.038928892,
+   "rarityScore": 25.68786
+  },
+  {
+   "type": "Species",
+   "value": "humanoid4",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "FaceDetail",
+   "value": "soulpatch",
+   "rarity": 0.069644466,
+   "rarityScore": 14.358643
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "lavender_ninja",
+   "rarity": 0.020589558,
+   "rarityScore": 48.568306
+  },
+  {
+   "type": "Hair",
+   "value": "tealemo_hair",
+   "rarity": 0.0024752475,
+   "rarityScore": 404
+  },
+  {
+   "type": "Front",
+   "value": "choker_white",
+   "rarity": 0.015751576,
+   "rarityScore": 63.485714
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 683.73145,
+  "KARV_NOW": 3199.1794,
+  "KARV_FUTURE": 19546.986,
+  "KHRV": 155.65402,
+  "KHRV_NOW": 728.3052,
+  "KHRV_FUTURE": 4449.945
+ }
+}

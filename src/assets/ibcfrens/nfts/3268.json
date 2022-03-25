@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3268",
+ "id": 3268,
+ "img": "3268.jpg",
+ "rarityScore": 173.81587,
+ "rarityRank": 3510,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 9",
+   "rarity": 0.0252,
+   "rarityScore": 39.68254
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Green",
+   "rarity": 0.115,
+   "rarityScore": 8.695652
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Light Green",
+   "rarity": 0.0194,
+   "rarityScore": 51.54639
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Green",
+   "rarity": 0.0432,
+   "rarityScore": 23.148148
+  },
+  {
+   "type": "Mouth",
+   "value": "Surprised",
+   "rarity": 0.1112,
+   "rarityScore": 8.9928055
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Green",
+   "rarity": 0.0248,
+   "rarityScore": 40.322582
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3268",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 292.04523,
+  "KARV_NOW": 1366.4796,
+  "KARV_FUTURE": 8349.19,
+  "KHRV": 142.49226,
+  "KHRV_NOW": 666.7213,
+  "KHRV_FUTURE": 4073.6672
+ }
+}

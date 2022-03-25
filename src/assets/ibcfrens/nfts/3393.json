@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3393",
+ "id": 3393,
+ "img": "3393.jpg",
+ "rarityScore": 386.58508,
+ "rarityRank": 637,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Blue",
+   "rarity": 0.055,
+   "rarityScore": 18.181818
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Heavy Space Suit Yellow",
+   "rarity": 0.0034,
+   "rarityScore": 294.11765
+  },
+  {
+   "type": "Eyes",
+   "value": "Hearts Green",
+   "rarity": 0.0174,
+   "rarityScore": 57.471264
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3393",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 649.53986,
+  "KARV_NOW": 3039.197,
+  "KARV_FUTURE": 18569.494,
+  "KHRV": 148.35214,
+  "KHRV_NOW": 694.13965,
+  "KHRV_FUTURE": 4241.1934
+ }
+}

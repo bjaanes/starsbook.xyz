@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0343",
+ "id": 1483,
+ "img": "1483.png",
+ "rarityScore": 341.81244,
+ "rarityRank": 763,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "22 thousand km",
+   "rarity": 0.01175,
+   "rarityScore": 85.106384
+  },
+  {
+   "type": "Gravity force",
+   "value": "3.3g",
+   "rarity": 0.04275,
+   "rarityScore": 23.391813
+  },
+  {
+   "type": "Age",
+   "value": "11 billion years",
+   "rarity": 0.03175,
+   "rarityScore": 31.496063
+  },
+  {
+   "type": "Type",
+   "value": "Giant Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Moscovium",
+   "rarity": 0.0055,
+   "rarityScore": 181.81818
+  },
+  {
+   "type": "Rank",
+   "value": "343",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Legendary",
+   "rarity": 0.1,
+   "rarityScore": 10
+  }
+ ],
+ "prices": {
+  "KRV": 408.55484,
+  "KARV_NOW": 1911.628,
+  "KARV_FUTURE": 11680.048,
+  "KHRV": 176.16588,
+  "KHRV_NOW": 824.28015,
+  "KHRV_FUTURE": 5036.352
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #5442",
+ "id": 5442,
+ "img": "5442.png",
+ "rarityScore": 367.49606,
+ "rarityRank": 1875,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "spunksky",
+   "rarity": 0.03971647,
+   "rarityScore": 25.17847
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "pink_jetpack",
+   "rarity": 0.03881638,
+   "rarityScore": 25.76232
+  },
+  {
+   "type": "Species",
+   "value": "zenian",
+   "rarity": 0.039266426,
+   "rarityScore": 25.467049
+  },
+  {
+   "type": "FaceDetail",
+   "value": "the_mark_blackl",
+   "rarity": 0.015189019,
+   "rarityScore": 65.837036
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "red_stripe_hoodie",
+   "rarity": 0.016876688,
+   "rarityScore": 59.253334
+  },
+  {
+   "type": "Hair",
+   "value": "blueshave_hair",
+   "rarity": 0.006750675,
+   "rarityScore": 148.13333
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 422.20065,
+  "KARV_NOW": 1975.4768,
+  "KARV_FUTURE": 12070.163,
+  "KHRV": 151.91751,
+  "KHRV_NOW": 710.822,
+  "KHRV_FUTURE": 4343.1226
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3599",
+ "id": 1407,
+ "img": "1407.png",
+ "rarityScore": 337.81293,
+ "rarityRank": 801,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "13 thousand km",
+   "rarity": 0.01025,
+   "rarityScore": 97.560974
+  },
+  {
+   "type": "Gravity force",
+   "value": "0.4g",
+   "rarity": 0.00675,
+   "rarityScore": 148.14815
+  },
+  {
+   "type": "Age",
+   "value": "3 billion years",
+   "rarity": 0.094,
+   "rarityScore": 10.638298
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Beryllium",
+   "rarity": 0.0145,
+   "rarityScore": 68.965515
+  },
+  {
+   "type": "Rank",
+   "value": "3599",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 403.77435,
+  "KARV_NOW": 1889.2601,
+  "KARV_FUTURE": 11543.38,
+  "KHRV": 176.0036,
+  "KHRV_NOW": 823.5208,
+  "KHRV_FUTURE": 5031.7124
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2808",
+ "id": 1978,
+ "img": "1978.png",
+ "rarityScore": 276.7374,
+ "rarityRank": 1722,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "31 thousand km",
+   "rarity": 0.00975,
+   "rarityScore": 102.5641
+  },
+  {
+   "type": "Gravity force",
+   "value": "1.3g",
+   "rarity": 0.01075,
+   "rarityScore": 93.023254
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Moon Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Scandium",
+   "rarity": 0.01675,
+   "rarityScore": 59.701492
+  },
+  {
+   "type": "Rank",
+   "value": "2808",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 330.77322,
+  "KARV_NOW": 1547.6879,
+  "KARV_FUTURE": 9456.373,
+  "KHRV": 173.5255,
+  "KHRV_NOW": 811.9258,
+  "KHRV_FUTURE": 4960.8667
+ }
+}

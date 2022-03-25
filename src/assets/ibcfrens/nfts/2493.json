@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2493",
+ "id": 2493,
+ "img": "2493.jpg",
+ "rarityScore": 142.51314,
+ "rarityRank": 4200,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Blue",
+   "rarity": 0.0498,
+   "rarityScore": 20.08032
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Costume Cat White",
+   "rarity": 0.0224,
+   "rarityScore": 44.642857
+  },
+  {
+   "type": "Eyes",
+   "value": "Stars Yellow",
+   "rarity": 0.0164,
+   "rarityScore": 60.97561
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "2493",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 239.45041,
+  "KARV_NOW": 1120.3884,
+  "KARV_FUTURE": 6845.573,
+  "KHRV": 141.63014,
+  "KHRV_NOW": 662.68744,
+  "KHRV_FUTURE": 4049.0203
+ }
+}

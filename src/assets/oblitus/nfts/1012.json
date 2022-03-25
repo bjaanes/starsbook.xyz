@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2615",
+ "id": 1012,
+ "img": "1012.png",
+ "rarityScore": 275.24045,
+ "rarityRank": 1747,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "98 thousand km",
+   "rarity": 0.0095,
+   "rarityScore": 105.26316
+  },
+  {
+   "type": "Gravity force",
+   "value": "5.6g",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Age",
+   "value": "4 billion years",
+   "rarity": 0.09775,
+   "rarityScore": 10.230179
+  },
+  {
+   "type": "Type",
+   "value": "Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Titanium",
+   "rarity": 0.01775,
+   "rarityScore": 56.338028
+  },
+  {
+   "type": "Rank",
+   "value": "2615",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 328.98398,
+  "KARV_NOW": 1539.316,
+  "KARV_FUTURE": 9405.222,
+  "KHRV": 173.46475,
+  "KHRV_NOW": 811.64154,
+  "KHRV_FUTURE": 4959.13
+ }
+}

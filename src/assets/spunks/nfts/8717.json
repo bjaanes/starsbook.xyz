@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #8717",
+ "id": 8717,
+ "img": "8717.png",
+ "rarityScore": 351.2125,
+ "rarityRank": 2240,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "zenian_planet",
+   "rarity": 0.017326733,
+   "rarityScore": 57.714287
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "humanoid4",
+   "rarity": 0.12308731,
+   "rarityScore": 8.124314
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "whoa_mouth",
+   "rarity": 0.112398736,
+   "rarityScore": 8.896897
+  },
+  {
+   "type": "Eyes",
+   "value": "blue_eyes",
+   "rarity": 0.13658866,
+   "rarityScore": 7.321252
+  },
+  {
+   "type": "Tops",
+   "value": "graystripehoodie",
+   "rarity": 0.021039603,
+   "rarityScore": 47.52941
+  },
+  {
+   "type": "Hair",
+   "value": "whiteshortbangs_hair",
+   "rarity": 0.007088209,
+   "rarityScore": 141.07936
+  },
+  {
+   "type": "Front",
+   "value": "blueteal_visor",
+   "rarity": 0.014176418,
+   "rarityScore": 70.53968
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 403.49313,
+  "KARV_NOW": 1887.9443,
+  "KARV_FUTURE": 11535.34,
+  "KHRV": 151.65024,
+  "KHRV_NOW": 709.5715,
+  "KHRV_FUTURE": 4335.482
+ }
+}

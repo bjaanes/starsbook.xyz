@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0500",
+ "id": 475,
+ "img": "475.png",
+ "rarityScore": 413.07617,
+ "rarityRank": 333,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "30 thousand km",
+   "rarity": 0.00875,
+   "rarityScore": 114.28571
+  },
+  {
+   "type": "Gravity force",
+   "value": "19.6g",
+   "rarity": 0.02425,
+   "rarityScore": 41.237114
+  },
+  {
+   "type": "Age",
+   "value": "10 billion years",
+   "rarity": 0.037,
+   "rarityScore": 27.027027
+  },
+  {
+   "type": "Type",
+   "value": "Giant Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Tennessine",
+   "rarity": 0.00475,
+   "rarityScore": 210.52632
+  },
+  {
+   "type": "Rank",
+   "value": "500",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Legendary",
+   "rarity": 0.1,
+   "rarityScore": 10
+  }
+ ],
+ "prices": {
+  "KRV": 493.73355,
+  "KARV_NOW": 2310.1792,
+  "KARV_FUTURE": 14115.195,
+  "KHRV": 179.05734,
+  "KHRV_NOW": 837.80927,
+  "KHRV_FUTURE": 5119.0146
+ }
+}

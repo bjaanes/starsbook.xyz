@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2316",
+ "id": 2316,
+ "img": "2316.jpg",
+ "rarityScore": 270.5356,
+ "rarityRank": 1657,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 6",
+   "rarity": 0.025,
+   "rarityScore": 40
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Costume Unicorn 1",
+   "rarity": 0.0064,
+   "rarityScore": 156.25
+  },
+  {
+   "type": "Eyes",
+   "value": "Hearts Pink",
+   "rarity": 0.0174,
+   "rarityScore": 57.471264
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "2316",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 454.55362,
+  "KARV_NOW": 2126.8564,
+  "KARV_FUTURE": 12995.093,
+  "KHRV": 145.15602,
+  "KHRV_NOW": 679.185,
+  "KHRV_FUTURE": 4149.8203
+ }
+}

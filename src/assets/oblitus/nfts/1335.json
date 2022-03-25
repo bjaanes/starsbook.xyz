@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2559",
+ "id": 1335,
+ "img": "1335.png",
+ "rarityScore": 288.46548,
+ "rarityRank": 1481,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "34 thousand km",
+   "rarity": 0.0095,
+   "rarityScore": 105.26316
+  },
+  {
+   "type": "Gravity force",
+   "value": "1.5g",
+   "rarity": 0.01225,
+   "rarityScore": 81.63265
+  },
+  {
+   "type": "Age",
+   "value": "3 billion years",
+   "rarity": 0.094,
+   "rarityScore": 10.638298
+  },
+  {
+   "type": "Type",
+   "value": "Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Vanadium",
+   "rarity": 0.01275,
+   "rarityScore": 78.43137
+  },
+  {
+   "type": "Rank",
+   "value": "2559",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 344.79132,
+  "KARV_NOW": 1613.2786,
+  "KARV_FUTURE": 9857.132,
+  "KHRV": 174.00134,
+  "KHRV_NOW": 814.1523,
+  "KHRV_FUTURE": 4974.4707
+ }
+}

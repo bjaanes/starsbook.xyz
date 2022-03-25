@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2649",
+ "id": 2290,
+ "img": "2290.png",
+ "rarityScore": 351.55225,
+ "rarityRank": 677,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "70 thousand km",
+   "rarity": 0.0075,
+   "rarityScore": 133.33333
+  },
+  {
+   "type": "Gravity force",
+   "value": "7.0g",
+   "rarity": 0.007,
+   "rarityScore": 142.85715
+  },
+  {
+   "type": "Age",
+   "value": "4 billion years",
+   "rarity": 0.09775,
+   "rarityScore": 10.230179
+  },
+  {
+   "type": "Type",
+   "value": "Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Copper",
+   "rarity": 0.019,
+   "rarityScore": 52.63158
+  },
+  {
+   "type": "Rank",
+   "value": "2649",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 420.1964,
+  "KARV_NOW": 1966.099,
+  "KARV_FUTURE": 12012.865,
+  "KHRV": 176.56105,
+  "KHRV_NOW": 826.12915,
+  "KHRV_FUTURE": 5047.6494
+ }
+}

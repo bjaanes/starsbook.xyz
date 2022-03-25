@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #785",
+ "id": 785,
+ "img": "785.jpg",
+ "rarityScore": 98.44552,
+ "rarityRank": 4909,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Yellow",
+   "rarity": 0.0578,
+   "rarityScore": 17.301039
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Yellow",
+   "rarity": 0.1114,
+   "rarityScore": 8.976661
+  },
+  {
+   "type": "Body",
+   "value": "Costume Elephant",
+   "rarity": 0.0222,
+   "rarityScore": 45.045044
+  },
+  {
+   "type": "Eyes",
+   "value": "Happy",
+   "rarity": 0.0762,
+   "rarityScore": 13.12336
+  },
+  {
+   "type": "Mouth",
+   "value": "Grumpy",
+   "rarity": 0.0994,
+   "rarityScore": 10.060362
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "785",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 165.40804,
+  "KARV_NOW": 773.94415,
+  "KARV_FUTURE": 4728.799,
+  "KHRV": 140.41649,
+  "KHRV_NOW": 657.0087,
+  "KHRV_FUTURE": 4014.3235
+ }
+}

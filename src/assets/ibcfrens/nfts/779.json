@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #779",
+ "id": 779,
+ "img": "779.jpg",
+ "rarityScore": 126.65188,
+ "rarityRank": 4519,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 4",
+   "rarity": 0.0232,
+   "rarityScore": 43.103447
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Costume Cat Black",
+   "rarity": 0.023,
+   "rarityScore": 43.47826
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Blue",
+   "rarity": 0.043,
+   "rarityScore": 23.255814
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "779",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 212.80035,
+  "KARV_NOW": 995.6928,
+  "KARV_FUTURE": 6083.683,
+  "KHRV": 141.19331,
+  "KHRV_NOW": 660.6435,
+  "KHRV_FUTURE": 4036.5317
+ }
+}

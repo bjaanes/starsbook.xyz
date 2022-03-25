@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #4550",
+ "id": 4550,
+ "img": "4550.jpg",
+ "rarityScore": 408.1451,
+ "rarityRank": 525,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 3",
+   "rarity": 0.0244,
+   "rarityScore": 40.98361
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Purple",
+   "rarity": 0.1082,
+   "rarityScore": 9.242145
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Network",
+   "rarity": 0.0056,
+   "rarityScore": 178.57143
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Purple",
+   "rarity": 0.0292,
+   "rarityScore": 34.246574
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Space Helmet",
+   "rarity": 0.0072,
+   "rarityScore": 138.88889
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "4550",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 685.76495,
+  "KARV_NOW": 3208.694,
+  "KARV_FUTURE": 19605.121,
+  "KHRV": 148.94594,
+  "KHRV_NOW": 696.918,
+  "KHRV_FUTURE": 4258.1694
+ }
+}

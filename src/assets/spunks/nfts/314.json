@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #314",
+ "id": 314,
+ "img": "314.png",
+ "rarityScore": 328.2465,
+ "rarityRank": 2877,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "green_sky",
+   "rarity": 0.023177318,
+   "rarityScore": 43.14563
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "zenian",
+   "rarity": 0.039266426,
+   "rarityScore": 25.467049
+  },
+  {
+   "type": "FaceDetail",
+   "value": "empty",
+   "rarity": 0.28937894,
+   "rarityScore": 3.4556766
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "robo_eyes",
+   "rarity": 0.04849235,
+   "rarityScore": 20.621809
+  },
+  {
+   "type": "Tops",
+   "value": "greenstripehoodie",
+   "rarity": 0.02070207,
+   "rarityScore": 48.304348
+  },
+  {
+   "type": "Hair",
+   "value": "purplemediumwavy_hair",
+   "rarity": 0.012263726,
+   "rarityScore": 81.54128
+  },
+  {
+   "type": "Front",
+   "value": "pink_skullmaskt",
+   "rarity": 0.010351035,
+   "rarityScore": 96.608696
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 377.10846,
+  "KARV_NOW": 1764.4905,
+  "KARV_FUTURE": 10781.037,
+  "KHRV": 151.27328,
+  "KHRV_NOW": 707.8077,
+  "KHRV_FUTURE": 4324.705
+ }
+}

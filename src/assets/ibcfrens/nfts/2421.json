@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2421",
+ "id": 2421,
+ "img": "2421.jpg",
+ "rarityScore": 324.9718,
+ "rarityRank": 1101,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 3",
+   "rarity": 0.0244,
+   "rarityScore": 40.98361
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Pastel",
+   "rarity": 0.0058,
+   "rarityScore": 172.41379
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Pink",
+   "rarity": 0.0456,
+   "rarityScore": 21.929825
+  },
+  {
+   "type": "Mouth",
+   "value": "Space Cigarette",
+   "rarity": 0.0806,
+   "rarityScore": 12.406948
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Pink",
+   "rarity": 0.034,
+   "rarityScore": 29.411764
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Light Yellow",
+   "rarity": 0.0252,
+   "rarityScore": 39.68254
+  },
+  {
+   "type": "generation",
+   "value": "2421",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 546.0172,
+  "KARV_NOW": 2554.8145,
+  "KARV_FUTURE": 15609.917,
+  "KHRV": 146.65524,
+  "KHRV_NOW": 686.1999,
+  "KHRV_FUTURE": 4192.6816
+ }
+}

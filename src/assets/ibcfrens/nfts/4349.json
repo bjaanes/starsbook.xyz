@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #4349",
+ "id": 4349,
+ "img": "4349.jpg",
+ "rarityScore": 333.38022,
+ "rarityRank": 1035,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Green",
+   "rarity": 0.0522,
+   "rarityScore": 19.157087
+  },
+  {
+   "type": "Character",
+   "value": "Alien Green",
+   "rarity": 0.0262,
+   "rarityScore": 38.16794
+  },
+  {
+   "type": "Body",
+   "value": "Heavy Space Suit Pink",
+   "rarity": 0.004,
+   "rarityScore": 250
+  },
+  {
+   "type": "Eyes",
+   "value": "Happy",
+   "rarity": 0.0762,
+   "rarityScore": 13.12336
+  },
+  {
+   "type": "Mouth",
+   "value": "Surprised",
+   "rarity": 0.1112,
+   "rarityScore": 8.9928055
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "4349",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 560.1451,
+  "KARV_NOW": 2620.9187,
+  "KARV_FUTURE": 16013.813,
+  "KHRV": 146.88684,
+  "KHRV_NOW": 687.2835,
+  "KHRV_FUTURE": 4199.3022
+ }
+}

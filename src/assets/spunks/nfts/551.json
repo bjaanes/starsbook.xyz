@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #551",
+ "id": 551,
+ "img": "551.png",
+ "rarityScore": 633.1734,
+ "rarityRank": 417,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "andromeda",
+   "rarity": 0.0064131413,
+   "rarityScore": 155.92982
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "blackred_jetpack",
+   "rarity": 0.03859136,
+   "rarityScore": 25.912537
+  },
+  {
+   "type": "Species",
+   "value": "humanoid2",
+   "rarity": 0.12972547,
+   "rarityScore": 7.708586
+  },
+  {
+   "type": "FaceDetail",
+   "value": "the_mark_pinkl",
+   "rarity": 0.013276327,
+   "rarityScore": 75.32204
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "classic_whiteshirt",
+   "rarity": 0.03881638,
+   "rarityScore": 25.76232
+  },
+  {
+   "type": "Hair",
+   "value": "blackspike_hair",
+   "rarity": 0.01890189,
+   "rarityScore": 52.904762
+  },
+  {
+   "type": "Front",
+   "value": "robo_antennaes",
+   "rarity": 0.0036003601,
+   "rarityScore": 277.75
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 727.4261,
+  "KARV_NOW": 3403.6265,
+  "KARV_FUTURE": 20796.158,
+  "KHRV": 156.27829,
+  "KHRV_NOW": 731.2261,
+  "KHRV_FUTURE": 4467.7915
+ }
+}

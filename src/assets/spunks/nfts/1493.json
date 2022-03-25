@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #1493",
+ "id": 1493,
+ "img": "1493.png",
+ "rarityScore": 314.13278,
+ "rarityRank": 3392,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "candy_sky",
+   "rarity": 0.03049055,
+   "rarityScore": 32.797047
+  },
+  {
+   "type": "Glow",
+   "value": "pink_headglow",
+   "rarity": 0.09619712,
+   "rarityScore": 10.395322
+  },
+  {
+   "type": "Back",
+   "value": "empty",
+   "rarity": 0.3180693,
+   "rarityScore": 3.1439688
+  },
+  {
+   "type": "Species",
+   "value": "gaianan",
+   "rarity": 0.046129614,
+   "rarityScore": 21.67805
+  },
+  {
+   "type": "FaceDetail",
+   "value": "soulpatch",
+   "rarity": 0.069644466,
+   "rarityScore": 14.358643
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "basic_eyes",
+   "rarity": 0.16876687,
+   "rarityScore": 5.9253335
+  },
+  {
+   "type": "Tops",
+   "value": "bluestripehoodie",
+   "rarity": 0.020477047,
+   "rarityScore": 48.835163
+  },
+  {
+   "type": "Hair",
+   "value": "purplespike_hair",
+   "rarity": 0.015976598,
+   "rarityScore": 62.59155
+  },
+  {
+   "type": "Front",
+   "value": "redbugeye_glasses",
+   "rarity": 0.009563456,
+   "rarityScore": 104.564705
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 360.89383,
+  "KARV_NOW": 1688.6222,
+  "KARV_FUTURE": 10317.481,
+  "KHRV": 151.04163,
+  "KHRV_NOW": 706.72375,
+  "KHRV_FUTURE": 4318.082
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #4531",
+ "id": 4531,
+ "img": "4531.jpg",
+ "rarityScore": 171.85844,
+ "rarityRank": 3570,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Blue",
+   "rarity": 0.0498,
+   "rarityScore": 20.08032
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Costume Dog Brown",
+   "rarity": 0.016,
+   "rarityScore": 62.5
+  },
+  {
+   "type": "Eyes",
+   "value": "Space Haze Light Blue",
+   "rarity": 0.0138,
+   "rarityScore": 72.46377
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "4531",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 288.75638,
+  "KARV_NOW": 1351.0911,
+  "KARV_FUTURE": 8255.167,
+  "KHRV": 142.43835,
+  "KHRV_NOW": 666.46906,
+  "KHRV_FUTURE": 4072.126
+ }
+}

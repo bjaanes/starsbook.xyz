@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2008",
+ "id": 2008,
+ "img": "2008.jpg",
+ "rarityScore": 189.75085,
+ "rarityRank": 3152,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Yellow",
+   "rarity": 0.0578,
+   "rarityScore": 17.301039
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Network",
+   "rarity": 0.009,
+   "rarityScore": 111.111115
+  },
+  {
+   "type": "Eyes",
+   "value": "Grumpy",
+   "rarity": 0.0622,
+   "rarityScore": 16.077171
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Yellow",
+   "rarity": 0.0324,
+   "rarityScore": 30.864197
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "2008",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 318.81918,
+  "KARV_NOW": 1491.7549,
+  "KARV_FUTURE": 9114.622,
+  "KHRV": 142.93112,
+  "KHRV_NOW": 668.7747,
+  "KHRV_FUTURE": 4086.2136
+ }
+}

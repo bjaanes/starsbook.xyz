@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1340",
+ "id": 1340,
+ "img": "1340.jpg",
+ "rarityScore": 193.38321,
+ "rarityRank": 3055,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 3",
+   "rarity": 0.0244,
+   "rarityScore": 40.98361
+  },
+  {
+   "type": "Character",
+   "value": "Alien Purple",
+   "rarity": 0.0292,
+   "rarityScore": 34.246574
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Yellow",
+   "rarity": 0.0222,
+   "rarityScore": 45.045044
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Purple",
+   "rarity": 0.0352,
+   "rarityScore": 28.40909
+  },
+  {
+   "type": "Mouth",
+   "value": "Space Cigarette",
+   "rarity": 0.0806,
+   "rarityScore": 12.406948
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Yellow",
+   "rarity": 0.0324,
+   "rarityScore": 30.864197
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1340",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 324.92224,
+  "KARV_NOW": 1520.3112,
+  "KARV_FUTURE": 9289.102,
+  "KHRV": 143.03116,
+  "KHRV_NOW": 669.2428,
+  "KHRV_FUTURE": 4089.0735
+ }
+}

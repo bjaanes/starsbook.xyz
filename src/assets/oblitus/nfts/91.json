@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2157",
+ "id": 91,
+ "img": "91.png",
+ "rarityScore": 184.36673,
+ "rarityRank": 3756,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "57 thousand km",
+   "rarity": 0.01075,
+   "rarityScore": 93.023254
+  },
+  {
+   "type": "Gravity force",
+   "value": "4.9g",
+   "rarity": 0.052,
+   "rarityScore": 19.23077
+  },
+  {
+   "type": "Age",
+   "value": "5 billion years",
+   "rarity": 0.151,
+   "rarityScore": 6.6225166
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Palladium",
+   "rarity": 0.017,
+   "rarityScore": 58.82353
+  },
+  {
+   "type": "Rank",
+   "value": "2157",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 220.36621,
+  "KARV_NOW": 1031.0935,
+  "KARV_FUTURE": 6299.9814,
+  "KHRV": 169.77762,
+  "KHRV_NOW": 794.38947,
+  "KHRV_FUTURE": 4853.7197
+ }
+}

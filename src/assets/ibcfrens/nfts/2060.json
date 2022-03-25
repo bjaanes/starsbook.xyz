@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2060",
+ "id": 2060,
+ "img": "2060.jpg",
+ "rarityScore": 202.60736,
+ "rarityRank": 2873,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 6",
+   "rarity": 0.025,
+   "rarityScore": 40
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Purple",
+   "rarity": 0.1082,
+   "rarityScore": 9.242145
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Light Pink",
+   "rarity": 0.0224,
+   "rarityScore": 44.642857
+  },
+  {
+   "type": "Eyes",
+   "value": "Dazed",
+   "rarity": 0.034,
+   "rarityScore": 29.411764
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Blue",
+   "rarity": 0.0238,
+   "rarityScore": 42.016808
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Pink",
+   "rarity": 0.0308,
+   "rarityScore": 32.467533
+  },
+  {
+   "type": "generation",
+   "value": "2060",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 340.42065,
+  "KARV_NOW": 1592.8282,
+  "KARV_FUTURE": 9732.181,
+  "KHRV": 143.2852,
+  "KHRV_NOW": 670.43146,
+  "KHRV_FUTURE": 4096.3364
+ }
+}

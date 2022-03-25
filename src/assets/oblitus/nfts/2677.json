@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3780",
+ "id": 2677,
+ "img": "2677.png",
+ "rarityScore": 254.91493,
+ "rarityRank": 2200,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "34 thousand km",
+   "rarity": 0.0095,
+   "rarityScore": 105.26316
+  },
+  {
+   "type": "Gravity force",
+   "value": "1.4g",
+   "rarity": 0.01425,
+   "rarityScore": 70.17544
+  },
+  {
+   "type": "Age",
+   "value": "3 billion years",
+   "rarity": 0.094,
+   "rarityScore": 10.638298
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Titanium",
+   "rarity": 0.01775,
+   "rarityScore": 56.338028
+  },
+  {
+   "type": "Rank",
+   "value": "3780",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 304.6897,
+  "KARV_NOW": 1425.6431,
+  "KARV_FUTURE": 8710.68,
+  "KHRV": 172.64008,
+  "KHRV_NOW": 807.7829,
+  "KHRV_FUTURE": 4935.5537
+ }
+}

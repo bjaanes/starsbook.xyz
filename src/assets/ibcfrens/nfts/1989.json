@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1989",
+ "id": 1989,
+ "img": "1989.jpg",
+ "rarityScore": 439.84305,
+ "rarityRank": 419,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 7",
+   "rarity": 0.0274,
+   "rarityScore": 36.49635
+  },
+  {
+   "type": "Character",
+   "value": "Sunkissed Pink",
+   "rarity": 0.005,
+   "rarityScore": 200
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Light Green",
+   "rarity": 0.0214,
+   "rarityScore": 46.728973
+  },
+  {
+   "type": "Eyes",
+   "value": "Space Haze Green",
+   "rarity": 0.0142,
+   "rarityScore": 70.42254
+  },
+  {
+   "type": "Mouth",
+   "value": "Grumpy",
+   "rarity": 0.0994,
+   "rarityScore": 10.060362
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Light Green",
+   "rarity": 0.0254,
+   "rarityScore": 39.37008
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Purple",
+   "rarity": 0.0272,
+   "rarityScore": 36.764706
+  },
+  {
+   "type": "generation",
+   "value": "1989",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 739.0238,
+  "KARV_NOW": 3457.8923,
+  "KARV_FUTURE": 21127.723,
+  "KHRV": 149.81894,
+  "KHRV_NOW": 701.0028,
+  "KHRV_FUTURE": 4283.1274
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1994",
+ "id": 1994,
+ "img": "1994.jpg",
+ "rarityScore": 147.51285,
+ "rarityRank": 4084,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Yellow",
+   "rarity": 0.0578,
+   "rarityScore": 17.301039
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Yellow",
+   "rarity": 0.1114,
+   "rarityScore": 8.976661
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Light Blue",
+   "rarity": 0.0202,
+   "rarityScore": 49.50495
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Yellow",
+   "rarity": 0.0336,
+   "rarityScore": 29.761906
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Purple",
+   "rarity": 0.028,
+   "rarityScore": 35.714287
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1994",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 247.85092,
+  "KARV_NOW": 1159.6945,
+  "KARV_FUTURE": 7085.7334,
+  "KHRV": 141.76785,
+  "KHRV_NOW": 663.3318,
+  "KHRV_FUTURE": 4052.9573
+ }
+}

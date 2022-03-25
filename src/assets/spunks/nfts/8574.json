@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #8574",
+ "id": 8574,
+ "img": "8574.png",
+ "rarityScore": 496.07132,
+ "rarityRank": 763,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "aphroditian_planet",
+   "rarity": 0.028465347,
+   "rarityScore": 35.130436
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "red_neonbackstaff",
+   "rarity": 0.041066606,
+   "rarityScore": 24.350685
+  },
+  {
+   "type": "Species",
+   "value": "humanoid7",
+   "rarity": 0.122749776,
+   "rarityScore": 8.146654
+  },
+  {
+   "type": "FaceDetail",
+   "value": "eyeliner",
+   "rarity": 0.13467596,
+   "rarityScore": 7.4252295
+  },
+  {
+   "type": "Mouth",
+   "value": "basic_mouth",
+   "rarity": 0.3921017,
+   "rarityScore": 2.5503588
+  },
+  {
+   "type": "Eyes",
+   "value": "cyber_eyes",
+   "rarity": 0.07211971,
+   "rarityScore": 13.865834
+  },
+  {
+   "type": "Tops",
+   "value": "green_lucky_sleeve",
+   "rarity": 0.017214222,
+   "rarityScore": 58.091503
+  },
+  {
+   "type": "Hair",
+   "value": "redmediumwavy_hair",
+   "rarity": 0.01530153,
+   "rarityScore": 65.35294
+  },
+  {
+   "type": "Front",
+   "value": "robo_antennaes",
+   "rarity": 0.0036003601,
+   "rarityScore": 277.75
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 569.9153,
+  "KARV_NOW": 2666.6335,
+  "KARV_FUTURE": 16293.131,
+  "KHRV": 154.02792,
+  "KHRV_NOW": 720.69666,
+  "KHRV_FUTURE": 4403.4565
+ }
+}

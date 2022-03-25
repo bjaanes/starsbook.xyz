@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3459",
+ "id": 1662,
+ "img": "1662.png",
+ "rarityScore": 251.1311,
+ "rarityRank": 2319,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "22 thousand km",
+   "rarity": 0.01175,
+   "rarityScore": 85.106384
+  },
+  {
+   "type": "Gravity force",
+   "value": "0.7g",
+   "rarity": 0.0115,
+   "rarityScore": 86.95652
+  },
+  {
+   "type": "Age",
+   "value": "4 billion years",
+   "rarity": 0.09775,
+   "rarityScore": 10.230179
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Titanium",
+   "rarity": 0.01775,
+   "rarityScore": 56.338028
+  },
+  {
+   "type": "Rank",
+   "value": "3459",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 300.16702,
+  "KARV_NOW": 1404.4814,
+  "KARV_FUTURE": 8581.382,
+  "KHRV": 172.48653,
+  "KHRV_NOW": 807.06445,
+  "KHRV_FUTURE": 4931.164
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2303",
+ "id": 2303,
+ "img": "2303.jpg",
+ "rarityScore": 362.0001,
+ "rarityRank": 803,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 6",
+   "rarity": 0.025,
+   "rarityScore": 40
+  },
+  {
+   "type": "Character",
+   "value": "Melted Face Light Yellow",
+   "rarity": 0.0054,
+   "rarityScore": 185.18518
+  },
+  {
+   "type": "Body",
+   "value": "Naked",
+   "rarity": 0.1564,
+   "rarityScore": 6.393862
+  },
+  {
+   "type": "Eyes",
+   "value": "Space Haze Light Pink",
+   "rarity": 0.0142,
+   "rarityScore": 70.42254
+  },
+  {
+   "type": "Mouth",
+   "value": "Space Joint",
+   "rarity": 0.0548,
+   "rarityScore": 18.248175
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Green",
+   "rarity": 0.0248,
+   "rarityScore": 40.322582
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "2303",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 608.2321,
+  "KARV_NOW": 2845.918,
+  "KARV_FUTURE": 17388.559,
+  "KHRV": 147.67505,
+  "KHRV_NOW": 690.97156,
+  "KHRV_FUTURE": 4221.8364
+ }
+}

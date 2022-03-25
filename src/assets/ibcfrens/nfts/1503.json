@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1503",
+ "id": 1503,
+ "img": "1503.jpg",
+ "rarityScore": 210.83185,
+ "rarityRank": 2725,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Yellow",
+   "rarity": 0.0578,
+   "rarityScore": 17.301039
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Green",
+   "rarity": 0.115,
+   "rarityScore": 8.695652
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Light Blue",
+   "rarity": 0.0202,
+   "rarityScore": 49.50495
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Green",
+   "rarity": 0.0398,
+   "rarityScore": 25.125628
+  },
+  {
+   "type": "Mouth",
+   "value": "Rainbow Puke",
+   "rarity": 0.0126,
+   "rarityScore": 79.36508
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Pink",
+   "rarity": 0.034,
+   "rarityScore": 29.411764
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1503",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 354.2394,
+  "KARV_NOW": 1657.4862,
+  "KARV_FUTURE": 10127.241,
+  "KHRV": 143.51173,
+  "KHRV_NOW": 671.4914,
+  "KHRV_FUTURE": 4102.8125
+ }
+}

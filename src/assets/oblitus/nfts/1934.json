@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0163",
+ "id": 1934,
+ "img": "1934.png",
+ "rarityScore": 8253.913,
+ "rarityRank": 60,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "1025 thousand km",
+   "rarity": 0.00025,
+   "rarityScore": 4000
+  },
+  {
+   "type": "Gravity force",
+   "value": "208.3g",
+   "rarity": 0.00025,
+   "rarityScore": 4000
+  },
+  {
+   "type": "Age",
+   "value": "13 billion years",
+   "rarity": 0.05,
+   "rarityScore": 20
+  },
+  {
+   "type": "Type",
+   "value": "Star",
+   "rarity": 0.025,
+   "rarityScore": 40
+  },
+  {
+   "type": "Main composition",
+   "value": "Krypton",
+   "rarity": 0.00575,
+   "rarityScore": 173.91304
+  },
+  {
+   "type": "Rank",
+   "value": "163",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Ancient",
+   "rarity": 0.05,
+   "rarityScore": 20
+  }
+ ],
+ "prices": {
+  "KRV": 9865.574,
+  "KARV_NOW": 46161.02,
+  "KARV_FUTURE": 282043.84,
+  "KHRV": 497.19357,
+  "KHRV_NOW": 2326.3687,
+  "KHRV_FUTURE": 14214.112
+ }
+}

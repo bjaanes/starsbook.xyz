@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3223",
+ "id": 595,
+ "img": "595.png",
+ "rarityScore": 227.2677,
+ "rarityRank": 2965,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "81 thousand km",
+   "rarity": 0.01325,
+   "rarityScore": 75.471695
+  },
+  {
+   "type": "Gravity force",
+   "value": "29.4g",
+   "rarity": 0.01575,
+   "rarityScore": 63.49206
+  },
+  {
+   "type": "Age",
+   "value": "4 billion years",
+   "rarity": 0.09775,
+   "rarityScore": 10.230179
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Selenium",
+   "rarity": 0.01525,
+   "rarityScore": 65.57377
+  },
+  {
+   "type": "Rank",
+   "value": "3223",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 271.64407,
+  "KARV_NOW": 1271.0226,
+  "KARV_FUTURE": 7765.948,
+  "KHRV": 171.5183,
+  "KHRV_NOW": 802.53406,
+  "KHRV_FUTURE": 4903.4834
+ }
+}

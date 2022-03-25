@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3882",
+ "id": 3882,
+ "img": "3882.jpg",
+ "rarityScore": 159.82036,
+ "rarityRank": 3803,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Blue",
+   "rarity": 0.0498,
+   "rarityScore": 20.08032
+  },
+  {
+   "type": "Character",
+   "value": "Alien Pastel",
+   "rarity": 0.0458,
+   "rarityScore": 21.83406
+  },
+  {
+   "type": "Body",
+   "value": "Costume Pig",
+   "rarity": 0.0258,
+   "rarityScore": 38.75969
+  },
+  {
+   "type": "Eyes",
+   "value": "Space Haze Green",
+   "rarity": 0.0142,
+   "rarityScore": 70.42254
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3882",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 268.52997,
+  "KARV_NOW": 1256.4517,
+  "KARV_FUTURE": 7676.92,
+  "KHRV": 142.10681,
+  "KHRV_NOW": 664.9178,
+  "KHRV_FUTURE": 4062.6477
+ }
+}

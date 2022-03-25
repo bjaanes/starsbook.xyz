@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #495",
+ "id": 495,
+ "img": "495.jpg",
+ "rarityScore": 375.09906,
+ "rarityRank": 717,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 9",
+   "rarity": 0.0252,
+   "rarityScore": 39.68254
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Heavy Space Suit Blue",
+   "rarity": 0.0034,
+   "rarityScore": 294.11765
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Pink",
+   "rarity": 0.041,
+   "rarityScore": 24.390244
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "495",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 630.24097,
+  "KARV_NOW": 2948.8975,
+  "KARV_FUTURE": 18017.764,
+  "KHRV": 148.03581,
+  "KHRV_NOW": 692.65955,
+  "KHRV_FUTURE": 4232.15
+ }
+}

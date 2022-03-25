@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #293",
+ "id": 293,
+ "img": "293.jpg",
+ "rarityScore": 371.57224,
+ "rarityRank": 739,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Yellow",
+   "rarity": 0.054,
+   "rarityScore": 18.518518
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Heavy Space Suit Green",
+   "rarity": 0.0032,
+   "rarityScore": 312.5
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Blue",
+   "rarity": 0.0512,
+   "rarityScore": 19.53125
+  },
+  {
+   "type": "Mouth",
+   "value": "Surprised",
+   "rarity": 0.1112,
+   "rarityScore": 8.9928055
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "293",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 624.31525,
+  "KARV_NOW": 2921.171,
+  "KARV_FUTURE": 17848.355,
+  "KHRV": 147.93869,
+  "KHRV_NOW": 692.20514,
+  "KHRV_FUTURE": 4229.3735
+ }
+}

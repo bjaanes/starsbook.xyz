@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #540",
+ "id": 540,
+ "img": "540.jpg",
+ "rarityScore": 260.5653,
+ "rarityRank": 1787,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Yellow",
+   "rarity": 0.054,
+   "rarityScore": 18.518518
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Green",
+   "rarity": 0.0082,
+   "rarityScore": 121.95122
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Pink",
+   "rarity": 0.0456,
+   "rarityScore": 21.929825
+  },
+  {
+   "type": "Mouth",
+   "value": "Grumpy",
+   "rarity": 0.0994,
+   "rarityScore": 10.060362
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Purple",
+   "rarity": 0.028,
+   "rarityScore": 35.714287
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Light Blue",
+   "rarity": 0.0226,
+   "rarityScore": 44.247787
+  },
+  {
+   "type": "generation",
+   "value": "540",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 437.80154,
+  "KARV_NOW": 2048.4734,
+  "KARV_FUTURE": 12516.173,
+  "KHRV": 144.88144,
+  "KHRV_NOW": 677.90027,
+  "KHRV_FUTURE": 4141.9707
+ }
+}

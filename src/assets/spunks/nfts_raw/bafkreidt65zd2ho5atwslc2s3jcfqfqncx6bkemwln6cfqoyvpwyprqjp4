@@ -1,0 +1,53 @@
+{
+  "name": "Stargaze Punks #3599",
+  "description": "Stargaze Punks are 8888 randomly generated Punks minted by Stargaze into the Cosmos",
+  "image": "ipfs://bafybeicvvfnlxuo3ineufnwqcjvwvo64dkazv5an4lclrymb77fmnga2ze/images/3599.png",
+  "dna": "6aeb785ce9eb2c393370d70d416165fc92ff9851",
+  "edition": 3599,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "enferian_planet"
+    },
+    {
+      "trait_type": "Glow",
+      "value": "yellow_headglow"
+    },
+    {
+      "trait_type": "Back",
+      "value": "empty"
+    },
+    {
+      "trait_type": "Species",
+      "value": "yakshian"
+    },
+    {
+      "trait_type": "FaceDetail",
+      "value": "eyeliner"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "basic_mouth"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "magenta_eyes"
+    },
+    {
+      "trait_type": "Tops",
+      "value": "pink_xsleeve"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "pinkmidsideslick_hair"
+    },
+    {
+      "trait_type": "Front",
+      "value": "neongray_glasses"
+    },
+    {
+      "trait_type": "Bubble",
+      "value": "talkybubble_special"
+    }
+  ]
+}

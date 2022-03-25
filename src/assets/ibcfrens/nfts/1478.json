@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1478",
+ "id": 1478,
+ "img": "1478.jpg",
+ "rarityScore": 353.66364,
+ "rarityRank": 863,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Pink",
+   "rarity": 0.056,
+   "rarityScore": 17.857143
+  },
+  {
+   "type": "Character",
+   "value": "Sunkissed Light Blue",
+   "rarity": 0.0052,
+   "rarityScore": 192.3077
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Pastel",
+   "rarity": 0.0228,
+   "rarityScore": 43.85965
+  },
+  {
+   "type": "Eyes",
+   "value": "Dazed",
+   "rarity": 0.034,
+   "rarityScore": 29.411764
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Blue",
+   "rarity": 0.0282,
+   "rarityScore": 35.460995
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Light Green",
+   "rarity": 0.0334,
+   "rarityScore": 29.94012
+  },
+  {
+   "type": "generation",
+   "value": "1478",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 594.2252,
+  "KARV_NOW": 2780.3796,
+  "KARV_FUTURE": 16988.12,
+  "KHRV": 147.44545,
+  "KHRV_NOW": 689.8972,
+  "KHRV_FUTURE": 4215.272
+ }
+}

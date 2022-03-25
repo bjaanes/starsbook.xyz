@@ -1,0 +1,83 @@
+{
+ "name": "Stargaze Punks #6662",
+ "id": 6662,
+ "img": "6662.png",
+ "rarityScore": 692.35254,
+ "rarityRank": 291,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "vapor_day",
+   "rarity": 0.0048379838,
+   "rarityScore": 206.69768
+  },
+  {
+   "type": "Glow",
+   "value": "empty",
+   "rarity": 0.45409542,
+   "rarityScore": 2.2021804
+  },
+  {
+   "type": "Back",
+   "value": "green_backsaber",
+   "rarity": 0.01608911,
+   "rarityScore": 62.153847
+  },
+  {
+   "type": "Species",
+   "value": "humanoid7",
+   "rarity": 0.122749776,
+   "rarityScore": 8.146654
+  },
+  {
+   "type": "FaceDetail",
+   "value": "shinobi_band",
+   "rarity": 0.013613861,
+   "rarityScore": 73.454544
+  },
+  {
+   "type": "Mouth",
+   "value": "rassberry_mouth",
+   "rarity": 0.11577408,
+   "rarityScore": 8.637512
+  },
+  {
+   "type": "Eyes",
+   "value": "robo_eyes",
+   "rarity": 0.04849235,
+   "rarityScore": 20.621809
+  },
+  {
+   "type": "Tops",
+   "value": "redstripeshirt",
+   "rarity": 0.0041629164,
+   "rarityScore": 240.21622
+  },
+  {
+   "type": "Hair",
+   "value": "tealbackwave_hair",
+   "rarity": 0.015864087,
+   "rarityScore": 63.03546
+  },
+  {
+   "type": "Front",
+   "value": "empty",
+   "rarity": 0.16719171,
+   "rarityScore": 5.9811573
+  },
+  {
+   "type": "Bubble",
+   "value": "empty",
+   "rarity": 0.82954544,
+   "rarityScore": 1.2054795
+  }
+ ],
+ "prices": {
+  "KRV": 795.4145,
+  "KARV_NOW": 3721.7444,
+  "KARV_FUTURE": 22739.86,
+  "KHRV": 157.24963,
+  "KHRV_NOW": 735.771,
+  "KHRV_FUTURE": 4495.561
+ }
+}

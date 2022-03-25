@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0331",
+ "id": 2674,
+ "img": "2674.png",
+ "rarityScore": 377.75867,
+ "rarityRank": 481,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "21 thousand km",
+   "rarity": 0.01,
+   "rarityScore": 100
+  },
+  {
+   "type": "Gravity force",
+   "value": "2.0g",
+   "rarity": 0.0225,
+   "rarityScore": 44.444443
+  },
+  {
+   "type": "Age",
+   "value": "11 billion years",
+   "rarity": 0.03175,
+   "rarityScore": 31.496063
+  },
+  {
+   "type": "Type",
+   "value": "Giant Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Nihonium",
+   "rarity": 0.0055,
+   "rarityScore": 181.81818
+  },
+  {
+   "type": "Rank",
+   "value": "331",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Legendary",
+   "rarity": 0.1,
+   "rarityScore": 10
+  }
+ ],
+ "prices": {
+  "KRV": 451.51996,
+  "KARV_NOW": 2112.6619,
+  "KARV_FUTURE": 12908.364,
+  "KHRV": 177.62437,
+  "KHRV_NOW": 831.10443,
+  "KHRV_FUTURE": 5078.0483
+ }
+}

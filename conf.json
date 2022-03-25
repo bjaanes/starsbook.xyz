@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "name": "IBC Frens",
+      "mintPrice": 140,
+      "ipfsBase": "bafybeihf34yjxtn4yy6j2ikkoc2u2bwif2fif2bc4ks5rrnh43wxmemgd4/galaxyd0C8he",
+      "attributesToIgnore": [ "generation" ],
+      "shortName": "ibcfrens"
+    },
+    {
+      "name": "Stargaze Punks",
+      "mintPrice": 148,
+      "ipfsBase": "bafybeibmhfvddexxwwt52mknwqa74fp7jkqiktedmruxlnuvtbpwbfyhqa/metadata",
+      "attributesToIgnore": [],
+      "shortName": "spunks"
+    },
+    {
+      "name": "Oblitus | Forgotten worlds",
+      "mintPrice": 168,
+      "ipfsBase": "bafybeiegasb7srfhsinxw5lwcz4yj4x7jmiguqmv3jkwmblssnoyitno74/galaxyhK0KQY",
+      "attributesToIgnore": ["Rank"],
+      "shortName": "oblitus"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3604",
+ "id": 461,
+ "img": "461.png",
+ "rarityScore": 219.03346,
+ "rarityRank": 3153,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "46 thousand km",
+   "rarity": 0.01175,
+   "rarityScore": 85.106384
+  },
+  {
+   "type": "Gravity force",
+   "value": "1.6g",
+   "rarity": 0.0185,
+   "rarityScore": 54.054054
+  },
+  {
+   "type": "Age",
+   "value": "4 billion years",
+   "rarity": 0.09775,
+   "rarityScore": 10.230179
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Fluorine",
+   "rarity": 0.0175,
+   "rarityScore": 57.142857
+  },
+  {
+   "type": "Rank",
+   "value": "3604",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 261.802,
+  "KARV_NOW": 1224.9716,
+  "KARV_FUTURE": 7484.576,
+  "KHRV": 171.18422,
+  "KHRV_NOW": 800.97095,
+  "KHRV_FUTURE": 4893.9326
+ }
+}

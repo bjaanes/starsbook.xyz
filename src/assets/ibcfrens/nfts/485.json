@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #485",
+ "id": 485,
+ "img": "485.jpg",
+ "rarityScore": 210.23106,
+ "rarityRank": 2738,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 6",
+   "rarity": 0.025,
+   "rarityScore": 40
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Purple",
+   "rarity": 0.1082,
+   "rarityScore": 9.242145
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Light Blue",
+   "rarity": 0.0208,
+   "rarityScore": 48.076923
+  },
+  {
+   "type": "Eyes",
+   "value": "Space Haze Light Green",
+   "rarity": 0.0142,
+   "rarityScore": 70.42254
+  },
+  {
+   "type": "Mouth",
+   "value": "Satisfied",
+   "rarity": 0.152,
+   "rarityScore": 6.5789475
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Blue",
+   "rarity": 0.029,
+   "rarityScore": 34.482758
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "485",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 353.22998,
+  "KARV_NOW": 1652.7631,
+  "KARV_FUTURE": 10098.383,
+  "KHRV": 143.49518,
+  "KHRV_NOW": 671.41394,
+  "KHRV_FUTURE": 4102.3394
+ }
+}

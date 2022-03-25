@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3395",
+ "id": 925,
+ "img": "925.png",
+ "rarityScore": 300.29498,
+ "rarityRank": 1296,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "77 thousand km",
+   "rarity": 0.01375,
+   "rarityScore": 72.72727
+  },
+  {
+   "type": "Gravity force",
+   "value": "11.8g",
+   "rarity": 0.00675,
+   "rarityScore": 148.14815
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Gallium",
+   "rarity": 0.01725,
+   "rarityScore": 57.971016
+  },
+  {
+   "type": "Rank",
+   "value": "3395",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 358.93066,
+  "KARV_NOW": 1679.4365,
+  "KARV_FUTURE": 10261.357,
+  "KHRV": 174.48132,
+  "KHRV_NOW": 816.3981,
+  "KHRV_FUTURE": 4988.1924
+ }
+}

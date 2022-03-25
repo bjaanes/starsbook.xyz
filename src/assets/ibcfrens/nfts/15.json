@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #15",
+ "id": 15,
+ "img": "15.jpg",
+ "rarityScore": 264.1786,
+ "rarityRank": 1747,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Pastel",
+   "rarity": 0.0098,
+   "rarityScore": 102.04082
+  },
+  {
+   "type": "Character",
+   "value": "Alien Yellow",
+   "rarity": 0.0272,
+   "rarityScore": 36.764706
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Blue",
+   "rarity": 0.0226,
+   "rarityScore": 44.247787
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Yellow",
+   "rarity": 0.034,
+   "rarityScore": 29.411764
+  },
+  {
+   "type": "Mouth",
+   "value": "Space Cigarette",
+   "rarity": 0.0806,
+   "rarityScore": 12.406948
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Light Blue",
+   "rarity": 0.0264,
+   "rarityScore": 37.878788
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "15",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 443.8726,
+  "KARV_NOW": 2076.88,
+  "KARV_FUTURE": 12689.736,
+  "KHRV": 144.98096,
+  "KHRV_NOW": 678.3659,
+  "KHRV_FUTURE": 4144.816
+ }
+}

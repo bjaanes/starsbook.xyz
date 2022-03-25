@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3969",
+ "id": 3143,
+ "img": "3143.png",
+ "rarityScore": 273.778,
+ "rarityRank": 1768,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "30 thousand km",
+   "rarity": 0.00875,
+   "rarityScore": 114.28571
+  },
+  {
+   "type": "Gravity force",
+   "value": "0.9g",
+   "rarity": 0.01475,
+   "rarityScore": 67.79661
+  },
+  {
+   "type": "Age",
+   "value": "4 billion years",
+   "rarity": 0.09775,
+   "rarityScore": 10.230179
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Beryllium",
+   "rarity": 0.0145,
+   "rarityScore": 68.965515
+  },
+  {
+   "type": "Rank",
+   "value": "3969",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 327.236,
+  "KARV_NOW": 1531.1372,
+  "KARV_FUTURE": 9355.249,
+  "KHRV": 173.40541,
+  "KHRV_NOW": 811.3639,
+  "KHRV_FUTURE": 4957.4336
+ }
+}

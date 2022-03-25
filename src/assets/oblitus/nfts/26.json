@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3683",
+ "id": 26,
+ "img": "26.png",
+ "rarityScore": 242.34084,
+ "rarityRank": 2567,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "34 thousand km",
+   "rarity": 0.0095,
+   "rarityScore": 105.26316
+  },
+  {
+   "type": "Gravity force",
+   "value": "0.8g",
+   "rarity": 0.0165,
+   "rarityScore": 60.60606
+  },
+  {
+   "type": "Age",
+   "value": "3 billion years",
+   "rarity": 0.094,
+   "rarityScore": 10.638298
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Lithium",
+   "rarity": 0.01875,
+   "rarityScore": 53.333332
+  },
+  {
+   "type": "Rank",
+   "value": "3683",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 289.66037,
+  "KARV_NOW": 1355.3208,
+  "KARV_FUTURE": 8281.011,
+  "KHRV": 172.12988,
+  "KHRV_NOW": 805.3957,
+  "KHRV_FUTURE": 4920.968
+ }
+}

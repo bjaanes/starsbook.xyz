@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1006",
+ "id": 1006,
+ "img": "1006.jpg",
+ "rarityScore": 356.7087,
+ "rarityRank": 844,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Yellow",
+   "rarity": 0.054,
+   "rarityScore": 18.518518
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Heavy Space Suit Blue",
+   "rarity": 0.0034,
+   "rarityScore": 294.11765
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Pink",
+   "rarity": 0.0456,
+   "rarityScore": 21.929825
+  },
+  {
+   "type": "Mouth",
+   "value": "Grumpy",
+   "rarity": 0.0994,
+   "rarityScore": 10.060362
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1006",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 599.34155,
+  "KARV_NOW": 2804.319,
+  "KARV_FUTURE": 17134.39,
+  "KHRV": 147.52931,
+  "KHRV_NOW": 690.2896,
+  "KHRV_FUTURE": 4217.6694
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3100",
+ "id": 2655,
+ "img": "2655.png",
+ "rarityScore": 188.30531,
+ "rarityRank": 3692,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "95 thousand km",
+   "rarity": 0.01075,
+   "rarityScore": 93.023254
+  },
+  {
+   "type": "Gravity force",
+   "value": "9.8g",
+   "rarity": 0.05125,
+   "rarityScore": 19.512196
+  },
+  {
+   "type": "Age",
+   "value": "3 billion years",
+   "rarity": 0.094,
+   "rarityScore": 10.638298
+  },
+  {
+   "type": "Type",
+   "value": "Moon Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Copper",
+   "rarity": 0.019,
+   "rarityScore": 52.63158
+  },
+  {
+   "type": "Rank",
+   "value": "3100",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 225.07387,
+  "KARV_NOW": 1053.1206,
+  "KARV_FUTURE": 6434.567,
+  "KHRV": 169.93742,
+  "KHRV_NOW": 795.1372,
+  "KHRV_FUTURE": 4858.2886
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1277",
+ "id": 805,
+ "img": "805.png",
+ "rarityScore": 326.35654,
+ "rarityRank": 942,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "63 thousand km",
+   "rarity": 0.01475,
+   "rarityScore": 67.79661
+  },
+  {
+   "type": "Gravity force",
+   "value": "4.1g",
+   "rarity": 0.00525,
+   "rarityScore": 190.4762
+  },
+  {
+   "type": "Age",
+   "value": "5 billion years",
+   "rarity": 0.151,
+   "rarityScore": 6.6225166
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Molybdenum",
+   "rarity": 0.01825,
+   "rarityScore": 54.79452
+  },
+  {
+   "type": "Rank",
+   "value": "1277",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 390.08102,
+  "KARV_NOW": 1825.1891,
+  "KARV_FUTURE": 11151.905,
+  "KHRV": 175.53874,
+  "KHRV_NOW": 821.34576,
+  "KHRV_FUTURE": 5018.423
+ }
+}

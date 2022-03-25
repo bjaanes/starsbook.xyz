@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #4141",
+ "id": 4141,
+ "img": "4141.jpg",
+ "rarityScore": 103.151085,
+ "rarityRank": 4841,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Purple",
+   "rarity": 0.0528,
+   "rarityScore": 18.939394
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Green",
+   "rarity": 0.115,
+   "rarityScore": 8.695652
+  },
+  {
+   "type": "Body",
+   "value": "Costume Frog",
+   "rarity": 0.024,
+   "rarityScore": 41.666668
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Green",
+   "rarity": 0.0398,
+   "rarityScore": 25.125628
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "4141",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 173.31433,
+  "KARV_NOW": 810.93774,
+  "KARV_FUTURE": 4954.8296,
+  "KHRV": 140.54608,
+  "KHRV_NOW": 657.6151,
+  "KHRV_FUTURE": 4018.0283
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2122",
+ "id": 1450,
+ "img": "1450.png",
+ "rarityScore": 173.71046,
+ "rarityRank": 3902,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "45 thousand km",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Gravity force",
+   "value": "9.8g",
+   "rarity": 0.05125,
+   "rarityScore": 19.512196
+  },
+  {
+   "type": "Age",
+   "value": "5 billion years",
+   "rarity": 0.151,
+   "rarityScore": 6.6225166
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Antimony",
+   "rarity": 0.02,
+   "rarityScore": 50
+  },
+  {
+   "type": "Rank",
+   "value": "2122",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 207.62923,
+  "KARV_NOW": 971.49713,
+  "KARV_FUTURE": 5935.8477,
+  "KHRV": 169.34525,
+  "KHRV_NOW": 792.3664,
+  "KHRV_FUTURE": 4841.359
+ }
+}

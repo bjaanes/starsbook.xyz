@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1440",
+ "id": 1440,
+ "img": "1440.jpg",
+ "rarityScore": 102.88174,
+ "rarityRank": 4850,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Purple",
+   "rarity": 0.0474,
+   "rarityScore": 21.097046
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Costume Rabbit",
+   "rarity": 0.02,
+   "rarityScore": 50
+  },
+  {
+   "type": "Eyes",
+   "value": "Happy",
+   "rarity": 0.0762,
+   "rarityScore": 13.12336
+  },
+  {
+   "type": "Mouth",
+   "value": "Satisfied",
+   "rarity": 0.152,
+   "rarityScore": 6.5789475
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1440",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 172.86179,
+  "KARV_NOW": 808.82025,
+  "KARV_FUTURE": 4941.8916,
+  "KHRV": 140.53867,
+  "KHRV_NOW": 657.5804,
+  "KHRV_FUTURE": 4017.8162
+ }
+}

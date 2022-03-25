@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2014",
+ "id": 2014,
+ "img": "2014.jpg",
+ "rarityScore": 392.62946,
+ "rarityRank": 597,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Green",
+   "rarity": 0.0522,
+   "rarityScore": 19.157087
+  },
+  {
+   "type": "Character",
+   "value": "Melted Face Blue",
+   "rarity": 0.004,
+   "rarityScore": 250
+  },
+  {
+   "type": "Body",
+   "value": "Naked",
+   "rarity": 0.1564,
+   "rarityScore": 6.393862
+  },
+  {
+   "type": "Eyes",
+   "value": "Space Haze Purple",
+   "rarity": 0.0168,
+   "rarityScore": 59.52381
+  },
+  {
+   "type": "Mouth",
+   "value": "Space Joint",
+   "rarity": 0.0548,
+   "rarityScore": 18.248175
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Light Blue",
+   "rarity": 0.0264,
+   "rarityScore": 37.878788
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "2014",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 659.69556,
+  "KARV_NOW": 3086.7153,
+  "KARV_FUTURE": 18859.832,
+  "KHRV": 148.51862,
+  "KHRV_NOW": 694.9186,
+  "KHRV_FUTURE": 4245.9526
+ }
+}

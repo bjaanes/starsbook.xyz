@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1988",
+ "id": 1737,
+ "img": "1737.png",
+ "rarityScore": 187.40337,
+ "rarityRank": 3709,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "79 thousand km",
+   "rarity": 0.01,
+   "rarityScore": 100
+  },
+  {
+   "type": "Gravity force",
+   "value": "4.9g",
+   "rarity": 0.052,
+   "rarityScore": 19.23077
+  },
+  {
+   "type": "Age",
+   "value": "6 billion years",
+   "rarity": 0.149,
+   "rarityScore": 6.7114096
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Molybdenum",
+   "rarity": 0.01825,
+   "rarityScore": 54.79452
+  },
+  {
+   "type": "Rank",
+   "value": "1988",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 223.9958,
+  "KARV_NOW": 1048.0763,
+  "KARV_FUTURE": 6403.746,
+  "KHRV": 169.90083,
+  "KHRV_NOW": 794.966,
+  "KHRV_FUTURE": 4857.242
+ }
+}

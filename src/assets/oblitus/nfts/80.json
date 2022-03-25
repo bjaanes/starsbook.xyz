@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3584",
+ "id": 80,
+ "img": "80.png",
+ "rarityScore": 274.9869,
+ "rarityRank": 1752,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "18 thousand km",
+   "rarity": 0.0125,
+   "rarityScore": 80
+  },
+  {
+   "type": "Gravity force",
+   "value": "0.5g",
+   "rarity": 0.00875,
+   "rarityScore": 114.28571
+  },
+  {
+   "type": "Age",
+   "value": "4 billion years",
+   "rarity": 0.09775,
+   "rarityScore": 10.230179
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Carbon",
+   "rarity": 0.01725,
+   "rarityScore": 57.971016
+  },
+  {
+   "type": "Rank",
+   "value": "3584",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 328.68094,
+  "KARV_NOW": 1537.8981,
+  "KARV_FUTURE": 9396.558,
+  "KHRV": 173.45445,
+  "KHRV_NOW": 811.5934,
+  "KHRV_FUTURE": 4958.8354
+ }
+}

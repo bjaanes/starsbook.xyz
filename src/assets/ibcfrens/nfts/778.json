@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #778",
+ "id": 778,
+ "img": "778.jpg",
+ "rarityScore": 200.67549,
+ "rarityRank": 2911,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Yellow",
+   "rarity": 0.0578,
+   "rarityScore": 17.301039
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Green",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Pink",
+   "rarity": 0.0456,
+   "rarityScore": 21.929825
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Pink",
+   "rarity": 0.0178,
+   "rarityScore": 56.179775
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "778",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 337.17474,
+  "KARV_NOW": 1577.6406,
+  "KARV_FUTURE": 9639.385,
+  "KHRV": 143.232,
+  "KHRV_NOW": 670.1825,
+  "KHRV_FUTURE": 4094.8152
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3578",
+ "id": 2614,
+ "img": "2614.png",
+ "rarityScore": 316.80582,
+ "rarityRank": 1068,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "89 thousand km",
+   "rarity": 0.01425,
+   "rarityScore": 70.17544
+  },
+  {
+   "type": "Gravity force",
+   "value": "11.4g",
+   "rarity": 0.00625,
+   "rarityScore": 160
+  },
+  {
+   "type": "Age",
+   "value": "3 billion years",
+   "rarity": 0.094,
+   "rarityScore": 10.638298
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Zinc",
+   "rarity": 0.01575,
+   "rarityScore": 63.49206
+  },
+  {
+   "type": "Rank",
+   "value": "3578",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 378.66544,
+  "KARV_NOW": 1771.7755,
+  "KARV_FUTURE": 10825.549,
+  "KHRV": 175.15125,
+  "KHRV_NOW": 819.53265,
+  "KHRV_FUTURE": 5007.3447
+ }
+}

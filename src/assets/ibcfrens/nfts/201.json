@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #201",
+ "id": 201,
+ "img": "201.jpg",
+ "rarityScore": 190.36497,
+ "rarityRank": 3145,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Blue",
+   "rarity": 0.0498,
+   "rarityScore": 20.08032
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Light Blue",
+   "rarity": 0.0202,
+   "rarityScore": 49.50495
+  },
+  {
+   "type": "Eyes",
+   "value": "Stars Yellow",
+   "rarity": 0.0164,
+   "rarityScore": 60.97561
+  },
+  {
+   "type": "Mouth",
+   "value": "Space Cigarette",
+   "rarity": 0.0806,
+   "rarityScore": 12.406948
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Light Blue",
+   "rarity": 0.0264,
+   "rarityScore": 37.878788
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "201",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 319.851,
+  "KARV_NOW": 1496.5829,
+  "KARV_FUTURE": 9144.122,
+  "KHRV": 142.94803,
+  "KHRV_NOW": 668.8538,
+  "KHRV_FUTURE": 4086.697
+ }
+}

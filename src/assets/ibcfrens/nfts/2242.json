@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2242",
+ "id": 2242,
+ "img": "2242.jpg",
+ "rarityScore": 397.0992,
+ "rarityRank": 571,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 6",
+   "rarity": 0.025,
+   "rarityScore": 40
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Light Yellow",
+   "rarity": 0.0238,
+   "rarityScore": 42.016808
+  },
+  {
+   "type": "Eyes",
+   "value": "Spider Light Yellow",
+   "rarity": 0.0038,
+   "rarityScore": 263.1579
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Blue",
+   "rarity": 0.0274,
+   "rarityScore": 36.49635
+  },
+  {
+   "type": "generation",
+   "value": "2242",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 667.2057,
+  "KARV_NOW": 3121.8555,
+  "KARV_FUTURE": 19074.537,
+  "KHRV": 148.64172,
+  "KHRV_NOW": 695.4946,
+  "KHRV_FUTURE": 4249.472
+ }
+}

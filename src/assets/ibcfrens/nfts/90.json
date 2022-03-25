@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #90",
+ "id": 90,
+ "img": "90.jpg",
+ "rarityScore": 165.01897,
+ "rarityRank": 3704,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Pink",
+   "rarity": 0.06,
+   "rarityScore": 16.666666
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Green",
+   "rarity": 0.115,
+   "rarityScore": 8.695652
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Blue",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Eyes",
+   "value": "Happy",
+   "rarity": 0.0762,
+   "rarityScore": 13.12336
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Pink",
+   "rarity": 0.034,
+   "rarityScore": 29.411764
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "90",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 277.26468,
+  "KARV_NOW": 1297.3214,
+  "KARV_FUTURE": 7926.634,
+  "KHRV": 142.24998,
+  "KHRV_NOW": 665.58765,
+  "KHRV_FUTURE": 4066.7407
+ }
+}

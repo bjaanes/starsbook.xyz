@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3655",
+ "id": 3655,
+ "img": "3655.jpg",
+ "rarityScore": 223.41405,
+ "rarityRank": 2478,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Pink",
+   "rarity": 0.0386,
+   "rarityScore": 25.906736
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Heavy Space Suit Purple",
+   "rarity": 0.0064,
+   "rarityScore": 156.25
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Pink",
+   "rarity": 0.041,
+   "rarityScore": 24.390244
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3655",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 375.38,
+  "KARV_NOW": 1756.403,
+  "KARV_FUTURE": 10731.622,
+  "KHRV": 143.85825,
+  "KHRV_NOW": 673.11273,
+  "KHRV_FUTURE": 4112.7188
+ }
+}

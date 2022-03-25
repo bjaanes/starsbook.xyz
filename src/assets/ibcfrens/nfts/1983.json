@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1983",
+ "id": 1983,
+ "img": "1983.jpg",
+ "rarityScore": 224.67415,
+ "rarityRank": 2446,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Blue",
+   "rarity": 0.0498,
+   "rarityScore": 20.08032
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Purple",
+   "rarity": 0.1082,
+   "rarityScore": 9.242145
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Green",
+   "rarity": 0.0106,
+   "rarityScore": 94.33962
+  },
+  {
+   "type": "Eyes",
+   "value": "Stars Purple",
+   "rarity": 0.016,
+   "rarityScore": 62.5
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Yellow",
+   "rarity": 0.031,
+   "rarityScore": 32.258064
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1983",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 377.49725,
+  "KARV_NOW": 1766.3096,
+  "KARV_FUTURE": 10792.151,
+  "KHRV": 143.89296,
+  "KHRV_NOW": 673.27515,
+  "KHRV_FUTURE": 4113.7114
+ }
+}

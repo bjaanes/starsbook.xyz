@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #190",
+ "id": 190,
+ "img": "190.jpg",
+ "rarityScore": 261.1701,
+ "rarityRank": 1780,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Pink",
+   "rarity": 0.0386,
+   "rarityScore": 25.906736
+  },
+  {
+   "type": "Character",
+   "value": "Tattoo Pink",
+   "rarity": 0.0064,
+   "rarityScore": 156.25
+  },
+  {
+   "type": "Body",
+   "value": "Naked",
+   "rarity": 0.1564,
+   "rarityScore": 6.393862
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Pink",
+   "rarity": 0.041,
+   "rarityScore": 24.390244
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Blue",
+   "rarity": 0.0238,
+   "rarityScore": 42.016808
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "190",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 438.81772,
+  "KARV_NOW": 2053.228,
+  "KARV_FUTURE": 12545.224,
+  "KHRV": 144.89807,
+  "KHRV_NOW": 677.9781,
+  "KHRV_FUTURE": 4142.4463
+ }
+}

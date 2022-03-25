@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2529",
+ "id": 2373,
+ "img": "2373.png",
+ "rarityScore": 342.57785,
+ "rarityRank": 753,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "90 thousand km",
+   "rarity": 0.01125,
+   "rarityScore": 88.888885
+  },
+  {
+   "type": "Gravity force",
+   "value": "22.9g",
+   "rarity": 0.006,
+   "rarityScore": 166.66667
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Arsenic",
+   "rarity": 0.01525,
+   "rarityScore": 65.57377
+  },
+  {
+   "type": "Rank",
+   "value": "2529",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 409.46967,
+  "KARV_NOW": 1915.9086,
+  "KARV_FUTURE": 11706.201,
+  "KHRV": 176.19691,
+  "KHRV_NOW": 824.42535,
+  "KHRV_FUTURE": 5037.2393
+ }
+}

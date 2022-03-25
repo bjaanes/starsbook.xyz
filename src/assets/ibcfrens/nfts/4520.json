@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #4520",
+ "id": 4520,
+ "img": "4520.jpg",
+ "rarityScore": 104.1595,
+ "rarityRank": 4826,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Pink",
+   "rarity": 0.056,
+   "rarityScore": 17.857143
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Costume Elephant",
+   "rarity": 0.0222,
+   "rarityScore": 45.045044
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Pink",
+   "rarity": 0.041,
+   "rarityScore": 24.390244
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "4520",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 175.00868,
+  "KARV_NOW": 818.8656,
+  "KARV_FUTURE": 5003.269,
+  "KHRV": 140.57387,
+  "KHRV_NOW": 657.7451,
+  "KHRV_FUTURE": 4018.8228
+ }
+}

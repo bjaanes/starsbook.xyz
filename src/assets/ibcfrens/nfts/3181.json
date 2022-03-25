@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3181",
+ "id": 3181,
+ "img": "3181.jpg",
+ "rarityScore": 216.15453,
+ "rarityRank": 2620,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Yellow",
+   "rarity": 0.054,
+   "rarityScore": 18.518518
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Yellow",
+   "rarity": 0.1114,
+   "rarityScore": 8.976661
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Light Green",
+   "rarity": 0.0214,
+   "rarityScore": 46.728973
+  },
+  {
+   "type": "Eyes",
+   "value": "Stars Blue",
+   "rarity": 0.0154,
+   "rarityScore": 64.93507
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Purple",
+   "rarity": 0.028,
+   "rarityScore": 35.714287
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Blue",
+   "rarity": 0.0274,
+   "rarityScore": 36.49635
+  },
+  {
+   "type": "generation",
+   "value": "3181",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 363.1826,
+  "KARV_NOW": 1699.3313,
+  "KARV_FUTURE": 10382.914,
+  "KHRV": 143.65831,
+  "KHRV_NOW": 672.17725,
+  "KHRV_FUTURE": 4107.003
+ }
+}

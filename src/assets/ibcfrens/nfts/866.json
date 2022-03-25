@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #866",
+ "id": 866,
+ "img": "866.jpg",
+ "rarityScore": 4937.63,
+ "rarityRank": 13,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Gold",
+   "rarity": 0.0024,
+   "rarityScore": 416.66666
+  },
+  {
+   "type": "Character",
+   "value": "Alien Gold",
+   "rarity": 0.0026,
+   "rarityScore": 384.6154
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Gold",
+   "rarity": 0.001,
+   "rarityScore": 1000
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Gold",
+   "rarity": 0.0018,
+   "rarityScore": 555.55554
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy Gold",
+   "rarity": 0.0126,
+   "rarityScore": 79.36508
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Gold",
+   "rarity": 0.0004,
+   "rarityScore": 2500
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "866",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 8296.2,
+  "KARV_NOW": 38817.918,
+  "KARV_FUTURE": 237177.48,
+  "KHRV": 273.69266,
+  "KHRV_NOW": 1280.6079,
+  "KHRV_FUTURE": 7824.5146
+ }
+}

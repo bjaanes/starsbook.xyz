@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3807",
+ "id": 1810,
+ "img": "1810.png",
+ "rarityScore": 297.28186,
+ "rarityRank": 1339,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "91 thousand km",
+   "rarity": 0.0125,
+   "rarityScore": 80
+  },
+  {
+   "type": "Gravity force",
+   "value": "17.2g",
+   "rarity": 0.0075,
+   "rarityScore": 133.33333
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Germanium",
+   "rarity": 0.016,
+   "rarityScore": 62.5
+  },
+  {
+   "type": "Rank",
+   "value": "3807",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 355.32922,
+  "KARV_NOW": 1662.5854,
+  "KARV_FUTURE": 10158.397,
+  "KHRV": 174.35907,
+  "KHRV_NOW": 815.82605,
+  "KHRV_FUTURE": 4984.6973
+ }
+}

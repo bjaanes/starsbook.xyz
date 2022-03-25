@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0900",
+ "id": 3908,
+ "img": "3908.png",
+ "rarityScore": 237.43256,
+ "rarityRank": 2689,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "74 thousand km",
+   "rarity": 0.013,
+   "rarityScore": 76.92308
+  },
+  {
+   "type": "Gravity force",
+   "value": "9.8g",
+   "rarity": 0.05125,
+   "rarityScore": 19.512196
+  },
+  {
+   "type": "Age",
+   "value": "8 billion years",
+   "rarity": 0.05425,
+   "rarityScore": 18.43318
+  },
+  {
+   "type": "Type",
+   "value": "Fire Planet",
+   "rarity": 0.075,
+   "rarityScore": 13.333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Mercury",
+   "rarity": 0.00975,
+   "rarityScore": 102.5641
+  },
+  {
+   "type": "Rank",
+   "value": "900",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Epic",
+   "rarity": 0.15,
+   "rarityScore": 6.6666665
+  }
+ ],
+ "prices": {
+  "KRV": 283.7937,
+  "KARV_NOW": 1327.8707,
+  "KARV_FUTURE": 8113.2905,
+  "KHRV": 171.93073,
+  "KHRV_NOW": 804.46387,
+  "KHRV_FUTURE": 4915.2744
+ }
+}

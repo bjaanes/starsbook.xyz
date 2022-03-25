@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1919",
+ "id": 456,
+ "img": "456.png",
+ "rarityScore": 289.26498,
+ "rarityRank": 1472,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "93 thousand km",
+   "rarity": 0.0095,
+   "rarityScore": 105.26316
+  },
+  {
+   "type": "Gravity force",
+   "value": "6.2g",
+   "rarity": 0.00875,
+   "rarityScore": 114.28571
+  },
+  {
+   "type": "Age",
+   "value": "6 billion years",
+   "rarity": 0.149,
+   "rarityScore": 6.7114096
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Technetium",
+   "rarity": 0.01775,
+   "rarityScore": 56.338028
+  },
+  {
+   "type": "Rank",
+   "value": "1919",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 345.74695,
+  "KARV_NOW": 1617.7499,
+  "KARV_FUTURE": 9884.452,
+  "KHRV": 174.0338,
+  "KHRV_NOW": 814.30414,
+  "KHRV_FUTURE": 4975.3984
+ }
+}

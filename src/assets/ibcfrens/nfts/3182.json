@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3182",
+ "id": 3182,
+ "img": "3182.jpg",
+ "rarityScore": 90.43464,
+ "rarityRank": 4978,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Pink",
+   "rarity": 0.056,
+   "rarityScore": 17.857143
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Costume Ape",
+   "rarity": 0.0276,
+   "rarityScore": 36.231884
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Blue",
+   "rarity": 0.0512,
+   "rarityScore": 19.53125
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3182",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 151.94817,
+  "KARV_NOW": 710.96545,
+  "KARV_FUTURE": 4343.999,
+  "KHRV": 140.19585,
+  "KHRV_NOW": 655.9764,
+  "KHRV_FUTURE": 4008.0159
+ }
+}

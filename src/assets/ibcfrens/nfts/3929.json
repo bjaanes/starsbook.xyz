@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3929",
+ "id": 3929,
+ "img": "3929.jpg",
+ "rarityScore": 293.5556,
+ "rarityRank": 1400,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Pink",
+   "rarity": 0.0386,
+   "rarityScore": 25.906736
+  },
+  {
+   "type": "Character",
+   "value": "Sunkissed Light Purple",
+   "rarity": 0.0064,
+   "rarityScore": 156.25
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Pink",
+   "rarity": 0.0218,
+   "rarityScore": 45.87156
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Purple",
+   "rarity": 0.0352,
+   "rarityScore": 28.40909
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Yellow",
+   "rarity": 0.0324,
+   "rarityScore": 30.864197
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3929",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 493.23178,
+  "KARV_NOW": 2307.8315,
+  "KARV_FUTURE": 14100.851,
+  "KHRV": 145.79002,
+  "KHRV_NOW": 682.1515,
+  "KHRV_FUTURE": 4167.946
+ }
+}

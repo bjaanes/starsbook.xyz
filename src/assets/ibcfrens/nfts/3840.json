@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3840",
+ "id": 3840,
+ "img": "3840.jpg",
+ "rarityScore": 101.63884,
+ "rarityRank": 4866,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Pink",
+   "rarity": 0.0386,
+   "rarityScore": 25.906736
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Purple",
+   "rarity": 0.1082,
+   "rarityScore": 9.242145
+  },
+  {
+   "type": "Body",
+   "value": "Costume Cat White",
+   "rarity": 0.0224,
+   "rarityScore": 44.642857
+  },
+  {
+   "type": "Eyes",
+   "value": "Happy",
+   "rarity": 0.0762,
+   "rarityScore": 13.12336
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3840",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 170.77347,
+  "KARV_NOW": 799.049,
+  "KARV_FUTURE": 4882.1895,
+  "KHRV": 140.50444,
+  "KHRV_NOW": 657.4203,
+  "KHRV_FUTURE": 4016.8381
+ }
+}

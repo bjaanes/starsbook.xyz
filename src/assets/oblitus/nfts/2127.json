@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3594",
+ "id": 2127,
+ "img": "2127.png",
+ "rarityScore": 256.1352,
+ "rarityRank": 2162,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "18 thousand km",
+   "rarity": 0.0125,
+   "rarityScore": 80
+  },
+  {
+   "type": "Gravity force",
+   "value": "1.1g",
+   "rarity": 0.01125,
+   "rarityScore": 88.888885
+  },
+  {
+   "type": "Age",
+   "value": "4 billion years",
+   "rarity": 0.09775,
+   "rarityScore": 10.230179
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Cobalt",
+   "rarity": 0.0155,
+   "rarityScore": 64.51613
+  },
+  {
+   "type": "Rank",
+   "value": "3594",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 306.14822,
+  "KARV_NOW": 1432.4675,
+  "KARV_FUTURE": 8752.377,
+  "KHRV": 172.68958,
+  "KHRV_NOW": 808.0145,
+  "KHRV_FUTURE": 4936.9688
+ }
+}

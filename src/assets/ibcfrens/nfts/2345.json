@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2345",
+ "id": 2345,
+ "img": "2345.jpg",
+ "rarityScore": 241.63179,
+ "rarityRank": 2115,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Grid Network",
+   "rarity": 0.0112,
+   "rarityScore": 89.28571
+  },
+  {
+   "type": "Character",
+   "value": "Alien Green",
+   "rarity": 0.0262,
+   "rarityScore": 38.16794
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Green",
+   "rarity": 0.0236,
+   "rarityScore": 42.372883
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Green",
+   "rarity": 0.0432,
+   "rarityScore": 23.148148
+  },
+  {
+   "type": "Mouth",
+   "value": "Satisfied",
+   "rarity": 0.152,
+   "rarityScore": 6.5789475
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Purple",
+   "rarity": 0.0246,
+   "rarityScore": 40.650406
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "2345",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 405.98947,
+  "KARV_NOW": 1899.6248,
+  "KARV_FUTURE": 11606.707,
+  "KHRV": 144.35999,
+  "KHRV_NOW": 675.4603,
+  "KHRV_FUTURE": 4127.0625
+ }
+}

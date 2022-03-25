@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3620",
+ "id": 3620,
+ "img": "3620.jpg",
+ "rarityScore": 141.31114,
+ "rarityRank": 4230,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Yellow",
+   "rarity": 0.054,
+   "rarityScore": 18.518518
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Costume Lion",
+   "rarity": 0.023,
+   "rarityScore": 43.47826
+  },
+  {
+   "type": "Eyes",
+   "value": "Stars Purple",
+   "rarity": 0.016,
+   "rarityScore": 62.5
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3620",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 237.43082,
+  "KARV_NOW": 1110.9387,
+  "KARV_FUTURE": 6787.836,
+  "KHRV": 141.59705,
+  "KHRV_NOW": 662.5326,
+  "KHRV_FUTURE": 4048.0742
+ }
+}

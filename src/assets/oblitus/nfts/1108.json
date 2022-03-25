@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1743",
+ "id": 1108,
+ "img": "1108.png",
+ "rarityScore": 239.97386,
+ "rarityRank": 2640,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "51 thousand km",
+   "rarity": 0.01225,
+   "rarityScore": 81.63265
+  },
+  {
+   "type": "Gravity force",
+   "value": "5.6g",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Age",
+   "value": "6 billion years",
+   "rarity": 0.149,
+   "rarityScore": 6.7114096
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Silver",
+   "rarity": 0.0185,
+   "rarityScore": 54.054054
+  },
+  {
+   "type": "Rank",
+   "value": "1743",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 286.8312,
+  "KARV_NOW": 1342.0831,
+  "KARV_FUTURE": 8200.128,
+  "KHRV": 172.03383,
+  "KHRV_NOW": 804.9463,
+  "KHRV_FUTURE": 4918.222
+ }
+}

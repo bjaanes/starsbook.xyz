@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0511",
+ "id": 1343,
+ "img": "1343.png",
+ "rarityScore": 372.6683,
+ "rarityRank": 513,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "96 thousand km",
+   "rarity": 0.0095,
+   "rarityScore": 105.26316
+  },
+  {
+   "type": "Gravity force",
+   "value": "5.6g",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Age",
+   "value": "11 billion years",
+   "rarity": 0.03175,
+   "rarityScore": 31.496063
+  },
+  {
+   "type": "Type",
+   "value": "Giant Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Rutherfordium",
+   "rarity": 0.008,
+   "rarityScore": 125
+  },
+  {
+   "type": "Rank",
+   "value": "511",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Legendary",
+   "rarity": 0.1,
+   "rarityScore": 10
+  }
+ ],
+ "prices": {
+  "KRV": 445.4356,
+  "KARV_NOW": 2084.193,
+  "KARV_FUTURE": 12734.42,
+  "KHRV": 177.41783,
+  "KHRV_NOW": 830.138,
+  "KHRV_FUTURE": 5072.143
+ }
+}

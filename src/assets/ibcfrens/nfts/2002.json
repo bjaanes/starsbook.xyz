@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2002",
+ "id": 2002,
+ "img": "2002.jpg",
+ "rarityScore": 176.90477,
+ "rarityRank": 3427,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Pink",
+   "rarity": 0.06,
+   "rarityScore": 16.666666
+  },
+  {
+   "type": "Character",
+   "value": "Alien Pink",
+   "rarity": 0.0242,
+   "rarityScore": 41.322315
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Purple",
+   "rarity": 0.0216,
+   "rarityScore": 46.296295
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Pink",
+   "rarity": 0.041,
+   "rarityScore": 24.390244
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Blue",
+   "rarity": 0.0238,
+   "rarityScore": 42.016808
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "2002",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 297.23517,
+  "KARV_NOW": 1390.7633,
+  "KARV_FUTURE": 8497.564,
+  "KHRV": 142.57733,
+  "KHRV_NOW": 667.1193,
+  "KHRV_FUTURE": 4076.099
+ }
+}

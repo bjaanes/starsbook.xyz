@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3927",
+ "id": 1932,
+ "img": "1932.png",
+ "rarityScore": 251.74246,
+ "rarityRank": 2294,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "45 thousand km",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Gravity force",
+   "value": "3.7g",
+   "rarity": 0.01775,
+   "rarityScore": 56.338028
+  },
+  {
+   "type": "Age",
+   "value": "1 billion years",
+   "rarity": 0.0965,
+   "rarityScore": 10.362695
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Nickel",
+   "rarity": 0.01225,
+   "rarityScore": 81.63265
+  },
+  {
+   "type": "Rank",
+   "value": "3927",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 300.89777,
+  "KARV_NOW": 1407.9006,
+  "KARV_FUTURE": 8602.273,
+  "KHRV": 172.51135,
+  "KHRV_NOW": 807.1806,
+  "KHRV_FUTURE": 4931.8735
+ }
+}

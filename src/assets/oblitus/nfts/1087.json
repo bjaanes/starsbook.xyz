@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1945",
+ "id": 1087,
+ "img": "1087.png",
+ "rarityScore": 351.5832,
+ "rarityRank": 674,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "87 thousand km",
+   "rarity": 0.01075,
+   "rarityScore": 93.023254
+  },
+  {
+   "type": "Gravity force",
+   "value": "5.7g",
+   "rarity": 0.00525,
+   "rarityScore": 190.4762
+  },
+  {
+   "type": "Age",
+   "value": "5 billion years",
+   "rarity": 0.151,
+   "rarityScore": 6.6225166
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Molybdenum",
+   "rarity": 0.01825,
+   "rarityScore": 54.79452
+  },
+  {
+   "type": "Rank",
+   "value": "1945",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 420.23343,
+  "KARV_NOW": 1966.2722,
+  "KARV_FUTURE": 12013.924,
+  "KHRV": 176.56229,
+  "KHRV_NOW": 826.13495,
+  "KHRV_FUTURE": 5047.6846
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0398",
+ "id": 3892,
+ "img": "3892.png",
+ "rarityScore": 418.58783,
+ "rarityRank": 313,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "71 thousand km",
+   "rarity": 0.01175,
+   "rarityScore": 85.106384
+  },
+  {
+   "type": "Gravity force",
+   "value": "8.2g",
+   "rarity": 0.00675,
+   "rarityScore": 148.14815
+  },
+  {
+   "type": "Age",
+   "value": "12 billion years",
+   "rarity": 0.03125,
+   "rarityScore": 32
+  },
+  {
+   "type": "Type",
+   "value": "Giant Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Copernicium",
+   "rarity": 0.0075,
+   "rarityScore": 133.33333
+  },
+  {
+   "type": "Rank",
+   "value": "398",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Legendary",
+   "rarity": 0.1,
+   "rarityScore": 10
+  }
+ ],
+ "prices": {
+  "KRV": 500.3214,
+  "KARV_NOW": 2341.004,
+  "KARV_FUTURE": 14303.534,
+  "KHRV": 179.28098,
+  "KHRV_NOW": 838.85565,
+  "KHRV_FUTURE": 5125.408
+ }
+}

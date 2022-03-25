@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1337",
+ "id": 3431,
+ "img": "3431.png",
+ "rarityScore": 236.8128,
+ "rarityRank": 2722,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "81 thousand km",
+   "rarity": 0.01325,
+   "rarityScore": 75.471695
+  },
+  {
+   "type": "Gravity force",
+   "value": "5.9g",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Age",
+   "value": "5 billion years",
+   "rarity": 0.151,
+   "rarityScore": 6.6225166
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Ruthenium",
+   "rarity": 0.0175,
+   "rarityScore": 57.142857
+  },
+  {
+   "type": "Rank",
+   "value": "1337",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 283.05295,
+  "KARV_NOW": 1324.4047,
+  "KARV_FUTURE": 8092.113,
+  "KHRV": 171.9056,
+  "KHRV_NOW": 804.34625,
+  "KHRV_FUTURE": 4914.5557
+ }
+}

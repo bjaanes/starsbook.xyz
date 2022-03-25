@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3229",
+ "id": 3229,
+ "img": "3229.jpg",
+ "rarityScore": 350.9064,
+ "rarityRank": 883,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 3",
+   "rarity": 0.0244,
+   "rarityScore": 40.98361
+  },
+  {
+   "type": "Character",
+   "value": "Sunkissed Light Pink",
+   "rarity": 0.005,
+   "rarityScore": 200
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Blue",
+   "rarity": 0.0226,
+   "rarityScore": 44.247787
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Pink",
+   "rarity": 0.041,
+   "rarityScore": 24.390244
+  },
+  {
+   "type": "Mouth",
+   "value": "Surprised",
+   "rarity": 0.1112,
+   "rarityScore": 8.9928055
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Yellow",
+   "rarity": 0.0324,
+   "rarityScore": 30.864197
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3229",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 589.5925,
+  "KARV_NOW": 2758.7034,
+  "KARV_FUTURE": 16855.678,
+  "KHRV": 147.3695,
+  "KHRV_NOW": 689.54193,
+  "KHRV_FUTURE": 4213.101
+ }
+}

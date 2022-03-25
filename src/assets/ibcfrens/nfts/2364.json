@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2364",
+ "id": 2364,
+ "img": "2364.jpg",
+ "rarityScore": 145.3987,
+ "rarityRank": 4131,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Blue",
+   "rarity": 0.055,
+   "rarityScore": 18.181818
+  },
+  {
+   "type": "Character",
+   "value": "Alien Purple",
+   "rarity": 0.0292,
+   "rarityScore": 34.246574
+  },
+  {
+   "type": "Body",
+   "value": "Costume Rabbit",
+   "rarity": 0.02,
+   "rarityScore": 50
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Purple",
+   "rarity": 0.0292,
+   "rarityScore": 34.246574
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "2364",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 244.29872,
+  "KARV_NOW": 1143.0737,
+  "KARV_FUTURE": 6984.1807,
+  "KHRV": 141.70964,
+  "KHRV_NOW": 663.0594,
+  "KHRV_FUTURE": 4051.293
+ }
+}

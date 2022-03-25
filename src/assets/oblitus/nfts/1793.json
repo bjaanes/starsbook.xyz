@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3680",
+ "id": 1793,
+ "img": "1793.png",
+ "rarityScore": 250.91464,
+ "rarityRank": 2324,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "60 thousand km",
+   "rarity": 0.0125,
+   "rarityScore": 80
+  },
+  {
+   "type": "Gravity force",
+   "value": "2.7g",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Age",
+   "value": "1 billion years",
+   "rarity": 0.0965,
+   "rarityScore": 10.362695
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Fluorine",
+   "rarity": 0.0175,
+   "rarityScore": 57.142857
+  },
+  {
+   "type": "Rank",
+   "value": "3680",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 299.90833,
+  "KARV_NOW": 1403.271,
+  "KARV_FUTURE": 8573.986,
+  "KHRV": 172.47775,
+  "KHRV_NOW": 807.0234,
+  "KHRV_FUTURE": 4930.913
+ }
+}

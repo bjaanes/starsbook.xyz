@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3913",
+ "id": 376,
+ "img": "376.png",
+ "rarityScore": 208.52011,
+ "rarityRank": 3357,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "69 thousand km",
+   "rarity": 0.00975,
+   "rarityScore": 102.5641
+  },
+  {
+   "type": "Gravity force",
+   "value": "3.3g",
+   "rarity": 0.04275,
+   "rarityScore": 23.391813
+  },
+  {
+   "type": "Age",
+   "value": "1 billion years",
+   "rarity": 0.0965,
+   "rarityScore": 10.362695
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Scandium",
+   "rarity": 0.01675,
+   "rarityScore": 59.701492
+  },
+  {
+   "type": "Rank",
+   "value": "3913",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 249.23581,
+  "KARV_NOW": 1166.1743,
+  "KARV_FUTURE": 7125.325,
+  "KHRV": 170.75761,
+  "KHRV_NOW": 798.97485,
+  "KHRV_FUTURE": 4881.7363
+ }
+}

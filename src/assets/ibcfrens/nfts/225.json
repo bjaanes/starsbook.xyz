@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #225",
+ "id": 225,
+ "img": "225.jpg",
+ "rarityScore": 253.54243,
+ "rarityRank": 1920,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Purple",
+   "rarity": 0.0336,
+   "rarityScore": 29.761906
+  },
+  {
+   "type": "Character",
+   "value": "Tattoo Purple",
+   "rarity": 0.0066,
+   "rarityScore": 151.51515
+  },
+  {
+   "type": "Body",
+   "value": "Naked",
+   "rarity": 0.1564,
+   "rarityScore": 6.393862
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Purple",
+   "rarity": 0.0352,
+   "rarityScore": 28.40909
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Purple",
+   "rarity": 0.032,
+   "rarityScore": 31.25
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "225",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 426.0017,
+  "KARV_NOW": 1993.262,
+  "KARV_FUTURE": 12178.831,
+  "KHRV": 144.688,
+  "KHRV_NOW": 676.9952,
+  "KHRV_FUTURE": 4136.4404
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3566",
+ "id": 1963,
+ "img": "1963.png",
+ "rarityScore": 364.68347,
+ "rarityRank": 572,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "69 thousand km",
+   "rarity": 0.00975,
+   "rarityScore": 102.5641
+  },
+  {
+   "type": "Gravity force",
+   "value": "4.1g",
+   "rarity": 0.00525,
+   "rarityScore": 190.4762
+  },
+  {
+   "type": "Age",
+   "value": "1 billion years",
+   "rarity": 0.0965,
+   "rarityScore": 10.362695
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Chromium",
+   "rarity": 0.0205,
+   "rarityScore": 48.780487
+  },
+  {
+   "type": "Rank",
+   "value": "3566",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 435.89166,
+  "KARV_NOW": 2039.537,
+  "KARV_FUTURE": 12461.571,
+  "KHRV": 177.09386,
+  "KHRV_NOW": 828.62213,
+  "KHRV_FUTURE": 5062.8813
+ }
+}

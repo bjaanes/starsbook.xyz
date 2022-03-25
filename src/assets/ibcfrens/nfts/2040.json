@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2040",
+ "id": 2040,
+ "img": "2040.jpg",
+ "rarityScore": 230.90749,
+ "rarityRank": 2331,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Blue",
+   "rarity": 0.055,
+   "rarityScore": 18.181818
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Green",
+   "rarity": 0.115,
+   "rarityScore": 8.695652
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Pink",
+   "rarity": 0.01,
+   "rarityScore": 100
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Green",
+   "rarity": 0.0398,
+   "rarityScore": 25.125628
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Green",
+   "rarity": 0.0268,
+   "rarityScore": 37.313435
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Purple",
+   "rarity": 0.0272,
+   "rarityScore": 36.764706
+  },
+  {
+   "type": "generation",
+   "value": "2040",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 387.9705,
+  "KARV_NOW": 1815.3138,
+  "KARV_FUTURE": 11091.567,
+  "KHRV": 144.06464,
+  "KHRV_NOW": 674.0784,
+  "KHRV_FUTURE": 4118.619
+ }
+}

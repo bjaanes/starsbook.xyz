@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #4160",
+ "id": 4160,
+ "img": "4160.jpg",
+ "rarityScore": 1642.2292,
+ "rarityRank": 37,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Blue",
+   "rarity": 0.0498,
+   "rarityScore": 20.08032
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Yellow",
+   "rarity": 0.1114,
+   "rarityScore": 8.976661
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Yellow",
+   "rarity": 0.0222,
+   "rarityScore": 45.045044
+  },
+  {
+   "type": "Eyes",
+   "value": "Money Euro Green",
+   "rarity": 0.001,
+   "rarityScore": 1000
+  },
+  {
+   "type": "Mouth",
+   "value": "Grumpy",
+   "rarity": 0.0994,
+   "rarityScore": 10.060362
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "Tellurium",
+   "rarity": 0.0018,
+   "rarityScore": 555.55554
+  },
+  {
+   "type": "generation",
+   "value": "4160",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 2759.2717,
+  "KARV_NOW": 12910.632,
+  "KARV_FUTURE": 78883.96,
+  "KHRV": 182.9339,
+  "KHRV_NOW": 855.9477,
+  "KHRV_FUTURE": 5229.8403
+ }
+}

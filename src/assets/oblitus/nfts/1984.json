@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2897",
+ "id": 1984,
+ "img": "1984.png",
+ "rarityScore": 244.97218,
+ "rarityRank": 2497,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "68 thousand km",
+   "rarity": 0.01325,
+   "rarityScore": 75.471695
+  },
+  {
+   "type": "Gravity force",
+   "value": "2.7g",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Moon Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Fluorine",
+   "rarity": 0.0175,
+   "rarityScore": 57.142857
+  },
+  {
+   "type": "Rank",
+   "value": "2897",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 292.8055,
+  "KARV_NOW": 1370.037,
+  "KARV_FUTURE": 8370.926,
+  "KHRV": 172.23665,
+  "KHRV_NOW": 805.89526,
+  "KHRV_FUTURE": 4924.02
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3352",
+ "id": 3854,
+ "img": "3854.png",
+ "rarityScore": 302.64304,
+ "rarityRank": 1261,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "15 thousand km",
+   "rarity": 0.01275,
+   "rarityScore": 78.43137
+  },
+  {
+   "type": "Gravity force",
+   "value": "0.4g",
+   "rarity": 0.00675,
+   "rarityScore": 148.14815
+  },
+  {
+   "type": "Age",
+   "value": "4 billion years",
+   "rarity": 0.09775,
+   "rarityScore": 10.230179
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Lithium",
+   "rarity": 0.01875,
+   "rarityScore": 53.333332
+  },
+  {
+   "type": "Rank",
+   "value": "3352",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 361.73718,
+  "KARV_NOW": 1692.5682,
+  "KARV_FUTURE": 10341.592,
+  "KHRV": 174.5766,
+  "KHRV_NOW": 816.8439,
+  "KHRV_FUTURE": 4990.916
+ }
+}

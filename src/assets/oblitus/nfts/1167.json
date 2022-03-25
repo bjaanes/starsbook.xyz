@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3960",
+ "id": 1167,
+ "img": "1167.png",
+ "rarityScore": 307.98804,
+ "rarityRank": 1200,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "62 thousand km",
+   "rarity": 0.01,
+   "rarityScore": 100
+  },
+  {
+   "type": "Gravity force",
+   "value": "3.8g",
+   "rarity": 0.00925,
+   "rarityScore": 108.10811
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Vanadium",
+   "rarity": 0.01275,
+   "rarityScore": 78.43137
+  },
+  {
+   "type": "Rank",
+   "value": "3960",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 368.12585,
+  "KARV_NOW": 1722.4608,
+  "KARV_FUTURE": 10524.235,
+  "KHRV": 174.79347,
+  "KHRV_NOW": 817.85864,
+  "KHRV_FUTURE": 4997.116
+ }
+}

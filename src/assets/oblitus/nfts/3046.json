@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3371",
+ "id": 3046,
+ "img": "3046.png",
+ "rarityScore": 213.05841,
+ "rarityRank": 3262,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "28 thousand km",
+   "rarity": 0.01425,
+   "rarityScore": 70.17544
+  },
+  {
+   "type": "Gravity force",
+   "value": "0.9g",
+   "rarity": 0.01475,
+   "rarityScore": 67.79661
+  },
+  {
+   "type": "Age",
+   "value": "3 billion years",
+   "rarity": 0.094,
+   "rarityScore": 10.638298
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Boron",
+   "rarity": 0.01925,
+   "rarityScore": 51.94805
+  },
+  {
+   "type": "Rank",
+   "value": "3371",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 254.66025,
+  "KARV_NOW": 1191.5553,
+  "KARV_FUTURE": 7280.403,
+  "KHRV": 170.94177,
+  "KHRV_NOW": 799.83655,
+  "KHRV_FUTURE": 4887.0015
+ }
+}

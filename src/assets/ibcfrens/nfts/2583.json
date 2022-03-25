@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2583",
+ "id": 2583,
+ "img": "2583.jpg",
+ "rarityScore": 119.23684,
+ "rarityRank": 4614,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Pink",
+   "rarity": 0.06,
+   "rarityScore": 16.666666
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Costume Dog Brown",
+   "rarity": 0.016,
+   "rarityScore": 62.5
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Blue",
+   "rarity": 0.043,
+   "rarityScore": 23.255814
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "2583",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 200.3416,
+  "KARV_NOW": 937.3983,
+  "KARV_FUTURE": 5727.504,
+  "KHRV": 140.98909,
+  "KHRV_NOW": 659.6879,
+  "KHRV_FUTURE": 4030.6934
+ }
+}

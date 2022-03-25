@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0977",
+ "id": 1931,
+ "img": "1931.png",
+ "rarityScore": 477.3134,
+ "rarityRank": 215,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "64 thousand km",
+   "rarity": 0.01275,
+   "rarityScore": 78.43137
+  },
+  {
+   "type": "Gravity force",
+   "value": "4.1g",
+   "rarity": 0.00525,
+   "rarityScore": 190.4762
+  },
+  {
+   "type": "Age",
+   "value": "9 billion years",
+   "rarity": 0.046,
+   "rarityScore": 21.73913
+  },
+  {
+   "type": "Type",
+   "value": "Ice Planet",
+   "rarity": 0.075,
+   "rarityScore": 13.333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Tungsten",
+   "rarity": 0.006,
+   "rarityScore": 166.66667
+  },
+  {
+   "type": "Rank",
+   "value": "977",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Epic",
+   "rarity": 0.15,
+   "rarityScore": 6.6666665
+  }
+ ],
+ "prices": {
+  "KRV": 570.51373,
+  "KARV_NOW": 2669.4336,
+  "KARV_FUTURE": 16310.239,
+  "KHRV": 181.66373,
+  "KHRV_NOW": 850.0046,
+  "KHRV_FUTURE": 5193.5283
+ }
+}

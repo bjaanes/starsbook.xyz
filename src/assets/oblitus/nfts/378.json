@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2787",
+ "id": 378,
+ "img": "378.png",
+ "rarityScore": 300.88776,
+ "rarityRank": 1285,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "89 thousand km",
+   "rarity": 0.01425,
+   "rarityScore": 70.17544
+  },
+  {
+   "type": "Gravity force",
+   "value": "4.6g",
+   "rarity": 0.00675,
+   "rarityScore": 148.14815
+  },
+  {
+   "type": "Age",
+   "value": "1 billion years",
+   "rarity": 0.0965,
+   "rarityScore": 10.362695
+  },
+  {
+   "type": "Type",
+   "value": "Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Scandium",
+   "rarity": 0.01675,
+   "rarityScore": 59.701492
+  },
+  {
+   "type": "Rank",
+   "value": "2787",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 359.6392,
+  "KARV_NOW": 1682.7517,
+  "KARV_FUTURE": 10281.613,
+  "KHRV": 174.50539,
+  "KHRV_NOW": 816.5107,
+  "KHRV_FUTURE": 4988.8804
+ }
+}

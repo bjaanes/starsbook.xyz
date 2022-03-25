@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3950",
+ "id": 334,
+ "img": "334.png",
+ "rarityScore": 192.59598,
+ "rarityRank": 3635,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "53 thousand km",
+   "rarity": 0.01025,
+   "rarityScore": 97.560974
+  },
+  {
+   "type": "Gravity force",
+   "value": "3.3g",
+   "rarity": 0.04275,
+   "rarityScore": 23.391813
+  },
+  {
+   "type": "Age",
+   "value": "1 billion years",
+   "rarity": 0.0965,
+   "rarityScore": 10.362695
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Chromium",
+   "rarity": 0.0205,
+   "rarityScore": 48.780487
+  },
+  {
+   "type": "Rank",
+   "value": "3950",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 230.20232,
+  "KARV_NOW": 1077.1166,
+  "KARV_FUTURE": 6581.1826,
+  "KHRV": 170.11153,
+  "KHRV_NOW": 795.95184,
+  "KHRV_FUTURE": 4863.2656
+ }
+}

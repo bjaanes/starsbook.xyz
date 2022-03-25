@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3848",
+ "id": 251,
+ "img": "251.png",
+ "rarityScore": 833.0428,
+ "rarityRank": 130,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "99 thousand km",
+   "rarity": 0.0115,
+   "rarityScore": 86.95652
+  },
+  {
+   "type": "Gravity force",
+   "value": "15.7g",
+   "rarity": 0.0015,
+   "rarityScore": 666.6667
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Gallium",
+   "rarity": 0.01725,
+   "rarityScore": 57.971016
+  },
+  {
+   "type": "Rank",
+   "value": "3848",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 995.70294,
+  "KARV_NOW": 4658.894,
+  "KARV_FUTURE": 28465.844,
+  "KHRV": 196.09718,
+  "KHRV_NOW": 917.5387,
+  "KHRV_FUTURE": 5606.1616
+ }
+}

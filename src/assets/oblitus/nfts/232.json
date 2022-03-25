@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2404",
+ "id": 232,
+ "img": "232.png",
+ "rarityScore": 304.61978,
+ "rarityRank": 1238,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "18 thousand km",
+   "rarity": 0.0125,
+   "rarityScore": 80
+  },
+  {
+   "type": "Gravity force",
+   "value": "0.4g",
+   "rarity": 0.00675,
+   "rarityScore": 148.14815
+  },
+  {
+   "type": "Age",
+   "value": "3 billion years",
+   "rarity": 0.094,
+   "rarityScore": 10.638298
+  },
+  {
+   "type": "Type",
+   "value": "Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Lithium",
+   "rarity": 0.01875,
+   "rarityScore": 53.333332
+  },
+  {
+   "type": "Rank",
+   "value": "2404",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 364.0999,
+  "KARV_NOW": 1703.6234,
+  "KARV_FUTURE": 10409.14,
+  "KHRV": 174.65678,
+  "KHRV_NOW": 817.21906,
+  "KHRV_FUTURE": 4993.2085
+ }
+}

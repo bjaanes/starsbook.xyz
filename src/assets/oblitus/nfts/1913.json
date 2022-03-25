@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3431",
+ "id": 1913,
+ "img": "1913.png",
+ "rarityScore": 205.35876,
+ "rarityRank": 3432,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "51 thousand km",
+   "rarity": 0.01225,
+   "rarityScore": 81.63265
+  },
+  {
+   "type": "Gravity force",
+   "value": "4.9g",
+   "rarity": 0.052,
+   "rarityScore": 19.23077
+  },
+  {
+   "type": "Age",
+   "value": "1 billion years",
+   "rarity": 0.0965,
+   "rarityScore": 10.362695
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Nickel",
+   "rarity": 0.01225,
+   "rarityScore": 81.63265
+  },
+  {
+   "type": "Rank",
+   "value": "3431",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 245.45717,
+  "KARV_NOW": 1148.494,
+  "KARV_FUTURE": 7017.299,
+  "KHRV": 170.62936,
+  "KHRV_NOW": 798.37476,
+  "KHRV_FUTURE": 4878.07
+ }
+}

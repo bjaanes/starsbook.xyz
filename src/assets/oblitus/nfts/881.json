@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0263",
+ "id": 881,
+ "img": "881.png",
+ "rarityScore": 475.71463,
+ "rarityRank": 217,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "95 thousand km",
+   "rarity": 0.01075,
+   "rarityScore": 93.023254
+  },
+  {
+   "type": "Gravity force",
+   "value": "7.6g",
+   "rarity": 0.0055,
+   "rarityScore": 181.81818
+  },
+  {
+   "type": "Age",
+   "value": "10 billion years",
+   "rarity": 0.037,
+   "rarityScore": 27.027027
+  },
+  {
+   "type": "Type",
+   "value": "Giant Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Meitnerium",
+   "rarity": 0.0065,
+   "rarityScore": 153.84616
+  },
+  {
+   "type": "Rank",
+   "value": "263",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Legendary",
+   "rarity": 0.1,
+   "rarityScore": 10
+  }
+ ],
+ "prices": {
+  "KRV": 568.6028,
+  "KARV_NOW": 2660.4924,
+  "KARV_FUTURE": 16255.609,
+  "KHRV": 181.59886,
+  "KHRV_NOW": 849.70105,
+  "KHRV_FUTURE": 5191.6733
+ }
+}

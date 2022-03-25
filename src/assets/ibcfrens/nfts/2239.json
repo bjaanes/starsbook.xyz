@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2239",
+ "id": 2239,
+ "img": "2239.jpg",
+ "rarityScore": 121.37536,
+ "rarityRank": 4591,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 2",
+   "rarity": 0.0264,
+   "rarityScore": 37.878788
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Green",
+   "rarity": 0.115,
+   "rarityScore": 8.695652
+  },
+  {
+   "type": "Body",
+   "value": "Costume Rabbit",
+   "rarity": 0.02,
+   "rarityScore": 50
+  },
+  {
+   "type": "Eyes",
+   "value": "Grumpy",
+   "rarity": 0.0622,
+   "rarityScore": 16.077171
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "2239",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 203.93474,
+  "KARV_NOW": 954.21063,
+  "KARV_FUTURE": 5830.227,
+  "KHRV": 141.048,
+  "KHRV_NOW": 659.9636,
+  "KHRV_FUTURE": 4032.378
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3435",
+ "id": 3435,
+ "img": "3435.jpg",
+ "rarityScore": 253.0103,
+ "rarityRank": 1931,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Pink",
+   "rarity": 0.056,
+   "rarityScore": 17.857143
+  },
+  {
+   "type": "Character",
+   "value": "Alien Pastel",
+   "rarity": 0.0458,
+   "rarityScore": 21.83406
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Pink",
+   "rarity": 0.0106,
+   "rarityScore": 94.33962
+  },
+  {
+   "type": "Eyes",
+   "value": "Space Haze Light Pink",
+   "rarity": 0.0142,
+   "rarityScore": 70.42254
+  },
+  {
+   "type": "Mouth",
+   "value": "Space Cigarette",
+   "rarity": 0.0806,
+   "rarityScore": 12.406948
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Pink",
+   "rarity": 0.0288,
+   "rarityScore": 34.72222
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3435",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 425.10764,
+  "KARV_NOW": 1989.0786,
+  "KARV_FUTURE": 12153.2705,
+  "KHRV": 144.67336,
+  "KHRV_NOW": 676.92664,
+  "KHRV_FUTURE": 4136.022
+ }
+}

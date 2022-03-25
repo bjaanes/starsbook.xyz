@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #999",
+ "id": 999,
+ "img": "999.jpg",
+ "rarityScore": 795.63794,
+ "rarityRank": 123,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Pink",
+   "rarity": 0.0386,
+   "rarityScore": 25.906736
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Green",
+   "rarity": 0.115,
+   "rarityScore": 8.695652
+  },
+  {
+   "type": "Body",
+   "value": "Costume Ape",
+   "rarity": 0.0276,
+   "rarityScore": 36.231884
+  },
+  {
+   "type": "Eyes",
+   "value": "Lizard Red",
+   "rarity": 0.0014,
+   "rarityScore": 714.2857
+  },
+  {
+   "type": "Mouth",
+   "value": "Satisfied",
+   "rarity": 0.152,
+   "rarityScore": 6.5789475
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "999",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 1336.83,
+  "KARV_NOW": 6255.0273,
+  "KARV_FUTURE": 38218.22,
+  "KHRV": 159.61787,
+  "KHRV_NOW": 746.852,
+  "KHRV_FUTURE": 4563.2656
+ }
+}

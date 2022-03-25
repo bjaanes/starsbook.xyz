@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #874",
+ "id": 874,
+ "img": "874.jpg",
+ "rarityScore": 118.87143,
+ "rarityRank": 4616,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 6",
+   "rarity": 0.025,
+   "rarityScore": 40
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Costume Pig",
+   "rarity": 0.0258,
+   "rarityScore": 38.75969
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Blue",
+   "rarity": 0.043,
+   "rarityScore": 23.255814
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "874",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 199.72763,
+  "KARV_NOW": 934.5256,
+  "KARV_FUTURE": 5709.951,
+  "KHRV": 140.97905,
+  "KHRV_NOW": 659.6409,
+  "KHRV_FUTURE": 4030.4062
+ }
+}

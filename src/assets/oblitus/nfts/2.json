@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0744",
+ "id": 2,
+ "img": "2.png",
+ "rarityScore": 277.9407,
+ "rarityRank": 1673,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "46 thousand km",
+   "rarity": 0.01175,
+   "rarityScore": 85.106384
+  },
+  {
+   "type": "Gravity force",
+   "value": "29.4g",
+   "rarity": 0.01575,
+   "rarityScore": 63.49206
+  },
+  {
+   "type": "Age",
+   "value": "8 billion years",
+   "rarity": 0.05425,
+   "rarityScore": 18.43318
+  },
+  {
+   "type": "Type",
+   "value": "Fire Planet",
+   "rarity": 0.075,
+   "rarityScore": 13.333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Astatine",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Rank",
+   "value": "744",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Epic",
+   "rarity": 0.15,
+   "rarityScore": 6.6666665
+  }
+ ],
+ "prices": {
+  "KRV": 332.2115,
+  "KARV_NOW": 1554.4175,
+  "KARV_FUTURE": 9497.491,
+  "KHRV": 173.57433,
+  "KHRV_NOW": 812.15424,
+  "KHRV_FUTURE": 4962.2627
+ }
+}

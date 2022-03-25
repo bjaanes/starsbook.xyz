@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1911",
+ "id": 336,
+ "img": "336.png",
+ "rarityScore": 199.50842,
+ "rarityRank": 3528,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "22 thousand km",
+   "rarity": 0.01175,
+   "rarityScore": 85.106384
+  },
+  {
+   "type": "Gravity force",
+   "value": "1.6g",
+   "rarity": 0.0185,
+   "rarityScore": 54.054054
+  },
+  {
+   "type": "Age",
+   "value": "5 billion years",
+   "rarity": 0.151,
+   "rarityScore": 6.6225166
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Cadmium",
+   "rarity": 0.02125,
+   "rarityScore": 47.058823
+  },
+  {
+   "type": "Rank",
+   "value": "1911",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 238.46448,
+  "KARV_NOW": 1115.7753,
+  "KARV_FUTURE": 6817.387,
+  "KHRV": 170.39198,
+  "KHRV_NOW": 797.2641,
+  "KHRV_FUTURE": 4871.2837
+ }
+}

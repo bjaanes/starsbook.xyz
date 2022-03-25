@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1514",
+ "id": 3459,
+ "img": "3459.png",
+ "rarityScore": 179.41042,
+ "rarityRank": 3828,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "19 thousand km",
+   "rarity": 0.0105,
+   "rarityScore": 95.2381
+  },
+  {
+   "type": "Gravity force",
+   "value": "9.8g",
+   "rarity": 0.05125,
+   "rarityScore": 19.512196
+  },
+  {
+   "type": "Age",
+   "value": "6 billion years",
+   "rarity": 0.149,
+   "rarityScore": 6.7114096
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Iodine",
+   "rarity": 0.0195,
+   "rarityScore": 51.28205
+  },
+  {
+   "type": "Rank",
+   "value": "1514",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 214.44214,
+  "KARV_NOW": 1003.37476,
+  "KARV_FUTURE": 6130.62,
+  "KHRV": 169.57654,
+  "KHRV_NOW": 793.4486,
+  "KHRV_FUTURE": 4847.971
+ }
+}

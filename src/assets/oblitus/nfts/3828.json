@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0177",
+ "id": 3828,
+ "img": "3828.png",
+ "rarityScore": 8480,
+ "rarityRank": 14,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "643 thousand km",
+   "rarity": 0.00025,
+   "rarityScore": 4000
+  },
+  {
+   "type": "Gravity force",
+   "value": "259.7g",
+   "rarity": 0.00025,
+   "rarityScore": 4000
+  },
+  {
+   "type": "Age",
+   "value": "13 billion years",
+   "rarity": 0.05,
+   "rarityScore": 20
+  },
+  {
+   "type": "Type",
+   "value": "Star",
+   "rarity": 0.025,
+   "rarityScore": 40
+  },
+  {
+   "type": "Main composition",
+   "value": "Radon",
+   "rarity": 0.0025,
+   "rarityScore": 400
+  },
+  {
+   "type": "Rank",
+   "value": "177",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Ancient",
+   "rarity": 0.05,
+   "rarityScore": 20
+  }
+ ],
+ "prices": {
+  "KRV": 10135.807,
+  "KARV_NOW": 47425.438,
+  "KARV_FUTURE": 289769.44,
+  "KHRV": 506.36688,
+  "KHRV_NOW": 2369.2905,
+  "KHRV_FUTURE": 14476.365
+ }
+}

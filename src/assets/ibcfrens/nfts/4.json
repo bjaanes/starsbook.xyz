@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #4",
+ "id": 4,
+ "img": "4.jpg",
+ "rarityScore": 123.94987,
+ "rarityRank": 4553,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Green",
+   "rarity": 0.0626,
+   "rarityScore": 15.974441
+  },
+  {
+   "type": "Character",
+   "value": "Alien Pastel",
+   "rarity": 0.0458,
+   "rarityScore": 21.83406
+  },
+  {
+   "type": "Body",
+   "value": "Costume Dog Brown",
+   "rarity": 0.016,
+   "rarityScore": 62.5
+  },
+  {
+   "type": "Eyes",
+   "value": "Happy",
+   "rarity": 0.0762,
+   "rarityScore": 13.12336
+  },
+  {
+   "type": "Mouth",
+   "value": "Satisfied",
+   "rarity": 0.152,
+   "rarityScore": 6.5789475
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "4",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 208.26042,
+  "KARV_NOW": 974.4505,
+  "KARV_FUTURE": 5953.8926,
+  "KHRV": 141.1189,
+  "KHRV_NOW": 660.2953,
+  "KHRV_FUTURE": 4034.4043
+ }
+}

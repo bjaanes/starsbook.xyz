@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3751",
+ "id": 3353,
+ "img": "3353.png",
+ "rarityScore": 193.73654,
+ "rarityRank": 3626,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "23 thousand km",
+   "rarity": 0.01225,
+   "rarityScore": 81.63265
+  },
+  {
+   "type": "Gravity force",
+   "value": "3.3g",
+   "rarity": 0.04275,
+   "rarityScore": 23.391813
+  },
+  {
+   "type": "Age",
+   "value": "3 billion years",
+   "rarity": 0.094,
+   "rarityScore": 10.638298
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Arsenic",
+   "rarity": 0.01525,
+   "rarityScore": 65.57377
+  },
+  {
+   "type": "Rank",
+   "value": "3751",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 231.56558,
+  "KARV_NOW": 1083.4954,
+  "KARV_FUTURE": 6620.1567,
+  "KHRV": 170.15779,
+  "KHRV_NOW": 796.1683,
+  "KHRV_FUTURE": 4864.5884
+ }
+}

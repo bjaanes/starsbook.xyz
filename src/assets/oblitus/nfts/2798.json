@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1888",
+ "id": 2798,
+ "img": "2798.png",
+ "rarityScore": 224.97401,
+ "rarityRank": 3016,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "78 thousand km",
+   "rarity": 0.01,
+   "rarityScore": 100
+  },
+  {
+   "type": "Gravity force",
+   "value": "3.9g",
+   "rarity": 0.02075,
+   "rarityScore": 48.192772
+  },
+  {
+   "type": "Age",
+   "value": "5 billion years",
+   "rarity": 0.151,
+   "rarityScore": 6.6225166
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Yttrium",
+   "rarity": 0.01575,
+   "rarityScore": 63.49206
+  },
+  {
+   "type": "Rank",
+   "value": "1888",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 268.9025,
+  "KARV_NOW": 1258.1947,
+  "KARV_FUTURE": 7687.57,
+  "KHRV": 171.42525,
+  "KHRV_NOW": 802.0987,
+  "KHRV_FUTURE": 4900.823
+ }
+}

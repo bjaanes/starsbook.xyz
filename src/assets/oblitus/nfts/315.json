@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1914",
+ "id": 315,
+ "img": "315.png",
+ "rarityScore": 181.53827,
+ "rarityRank": 3793,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "74 thousand km",
+   "rarity": 0.013,
+   "rarityScore": 76.92308
+  },
+  {
+   "type": "Gravity force",
+   "value": "19.6g",
+   "rarity": 0.02425,
+   "rarityScore": 41.237114
+  },
+  {
+   "type": "Age",
+   "value": "6 billion years",
+   "rarity": 0.149,
+   "rarityScore": 6.7114096
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Antimony",
+   "rarity": 0.02,
+   "rarityScore": 50
+  },
+  {
+   "type": "Rank",
+   "value": "1914",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 216.98547,
+  "KARV_NOW": 1015.275,
+  "KARV_FUTURE": 6203.3306,
+  "KHRV": 169.66286,
+  "KHRV_NOW": 793.8525,
+  "KHRV_FUTURE": 4850.439
+ }
+}

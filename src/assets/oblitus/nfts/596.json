@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0439",
+ "id": 596,
+ "img": "596.png",
+ "rarityScore": 359.37524,
+ "rarityRank": 614,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "56 thousand km",
+   "rarity": 0.009,
+   "rarityScore": 111.111115
+  },
+  {
+   "type": "Gravity force",
+   "value": "19.6g",
+   "rarity": 0.02425,
+   "rarityScore": 41.237114
+  },
+  {
+   "type": "Age",
+   "value": "10 billion years",
+   "rarity": 0.037,
+   "rarityScore": 27.027027
+  },
+  {
+   "type": "Type",
+   "value": "Giant Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Livermorium",
+   "rarity": 0.00625,
+   "rarityScore": 160
+  },
+  {
+   "type": "Rank",
+   "value": "439",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Legendary",
+   "rarity": 0.1,
+   "rarityScore": 10
+  }
+ ],
+ "prices": {
+  "KRV": 429.54694,
+  "KARV_NOW": 2009.8501,
+  "KARV_FUTURE": 12280.185,
+  "KHRV": 176.87846,
+  "KHRV_NOW": 827.6143,
+  "KHRV_FUTURE": 5056.7236
+ }
+}

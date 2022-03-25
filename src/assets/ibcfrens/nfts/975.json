@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #975",
+ "id": 975,
+ "img": "975.jpg",
+ "rarityScore": 361.7531,
+ "rarityRank": 806,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Blue",
+   "rarity": 0.055,
+   "rarityScore": 18.181818
+  },
+  {
+   "type": "Character",
+   "value": "Sunkissed Light Pink",
+   "rarity": 0.005,
+   "rarityScore": 200
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Light Blue",
+   "rarity": 0.0202,
+   "rarityScore": 49.50495
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Pink",
+   "rarity": 0.041,
+   "rarityScore": 24.390244
+  },
+  {
+   "type": "Mouth",
+   "value": "Satisfied",
+   "rarity": 0.152,
+   "rarityScore": 6.5789475
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Purple",
+   "rarity": 0.032,
+   "rarityScore": 31.25
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Light Purple",
+   "rarity": 0.0314,
+   "rarityScore": 31.847134
+  },
+  {
+   "type": "generation",
+   "value": "975",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 607.8172,
+  "KARV_NOW": 2843.9766,
+  "KARV_FUTURE": 17376.697,
+  "KHRV": 147.66824,
+  "KHRV_NOW": 690.9397,
+  "KHRV_FUTURE": 4221.6416
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0181",
+ "id": 3917,
+ "img": "3917.png",
+ "rarityScore": 6346.6665,
+ "rarityRank": 78,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "833 thousand km",
+   "rarity": 0.00025,
+   "rarityScore": 4000
+  },
+  {
+   "type": "Gravity force",
+   "value": "96.6g",
+   "rarity": 0.0005,
+   "rarityScore": 2000
+  },
+  {
+   "type": "Age",
+   "value": "13 billion years",
+   "rarity": 0.05,
+   "rarityScore": 20
+  },
+  {
+   "type": "Type",
+   "value": "Star",
+   "rarity": 0.025,
+   "rarityScore": 40
+  },
+  {
+   "type": "Main composition",
+   "value": "Helium",
+   "rarity": 0.00375,
+   "rarityScore": 266.66666
+  },
+  {
+   "type": "Rank",
+   "value": "181",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Ancient",
+   "rarity": 0.05,
+   "rarityScore": 20
+  }
+ ],
+ "prices": {
+  "KRV": 7585.9185,
+  "KARV_NOW": 35494.51,
+  "KARV_FUTURE": 216871.47,
+  "KHRV": 419.8084,
+  "KHRV_NOW": 1964.2836,
+  "KHRV_FUTURE": 12001.772
+ }
+}

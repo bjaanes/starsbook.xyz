@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2006",
+ "id": 2006,
+ "img": "2006.jpg",
+ "rarityScore": 191.87987,
+ "rarityRank": 3103,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Blue",
+   "rarity": 0.0368,
+   "rarityScore": 27.173914
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Green",
+   "rarity": 0.115,
+   "rarityScore": 8.695652
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Green",
+   "rarity": 0.0236,
+   "rarityScore": 42.372883
+  },
+  {
+   "type": "Eyes",
+   "value": "Dazed",
+   "rarity": 0.034,
+   "rarityScore": 29.411764
+  },
+  {
+   "type": "Mouth",
+   "value": "Grumpy",
+   "rarity": 0.0994,
+   "rarityScore": 10.060362
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Blue",
+   "rarity": 0.029,
+   "rarityScore": 34.482758
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Light Yellow",
+   "rarity": 0.0252,
+   "rarityScore": 39.68254
+  },
+  {
+   "type": "generation",
+   "value": "2006",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 322.39633,
+  "KARV_NOW": 1508.4924,
+  "KARV_FUTURE": 9216.889,
+  "KHRV": 142.98976,
+  "KHRV_NOW": 669.0491,
+  "KHRV_FUTURE": 4087.89
+ }
+}

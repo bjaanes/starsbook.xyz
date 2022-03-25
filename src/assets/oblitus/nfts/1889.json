@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0298",
+ "id": 1889,
+ "img": "1889.png",
+ "rarityScore": 349.96204,
+ "rarityRank": 688,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "14 thousand km",
+   "rarity": 0.01025,
+   "rarityScore": 97.560974
+  },
+  {
+   "type": "Gravity force",
+   "value": "1.2g",
+   "rarity": 0.02125,
+   "rarityScore": 47.058823
+  },
+  {
+   "type": "Age",
+   "value": "11 billion years",
+   "rarity": 0.03175,
+   "rarityScore": 31.496063
+  },
+  {
+   "type": "Type",
+   "value": "Giant Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Darmstadtium",
+   "rarity": 0.0065,
+   "rarityScore": 153.84616
+  },
+  {
+   "type": "Rank",
+   "value": "298",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Legendary",
+   "rarity": 0.1,
+   "rarityScore": 10
+  }
+ ],
+ "prices": {
+  "KRV": 418.29572,
+  "KARV_NOW": 1957.2056,
+  "KARV_FUTURE": 11958.526,
+  "KHRV": 176.49652,
+  "KHRV_NOW": 825.8272,
+  "KHRV_FUTURE": 5045.804
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0300",
+ "id": 2090,
+ "img": "2090.png",
+ "rarityScore": 367.9798,
+ "rarityRank": 545,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "53 thousand km",
+   "rarity": 0.01025,
+   "rarityScore": 97.560974
+  },
+  {
+   "type": "Gravity force",
+   "value": "3.3g",
+   "rarity": 0.04275,
+   "rarityScore": 23.391813
+  },
+  {
+   "type": "Age",
+   "value": "10 billion years",
+   "rarity": 0.037,
+   "rarityScore": 27.027027
+  },
+  {
+   "type": "Type",
+   "value": "Giant Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Seaborgium",
+   "rarity": 0.005,
+   "rarityScore": 200
+  },
+  {
+   "type": "Rank",
+   "value": "300",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Legendary",
+   "rarity": 0.1,
+   "rarityScore": 10
+  }
+ ],
+ "prices": {
+  "KRV": 439.8316,
+  "KARV_NOW": 2057.972,
+  "KARV_FUTURE": 12574.209,
+  "KHRV": 177.2276,
+  "KHRV_NOW": 829.2479,
+  "KHRV_FUTURE": 5066.705
+ }
+}

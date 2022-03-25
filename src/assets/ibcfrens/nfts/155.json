@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #155",
+ "id": 155,
+ "img": "155.jpg",
+ "rarityScore": 191.27046,
+ "rarityRank": 3130,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Green",
+   "rarity": 0.0364,
+   "rarityScore": 27.472527
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Green",
+   "rarity": 0.115,
+   "rarityScore": 8.695652
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Light Green",
+   "rarity": 0.0194,
+   "rarityScore": 51.54639
+  },
+  {
+   "type": "Eyes",
+   "value": "Hearts Purple",
+   "rarity": 0.0158,
+   "rarityScore": 63.291138
+  },
+  {
+   "type": "Mouth",
+   "value": "Satisfied",
+   "rarity": 0.152,
+   "rarityScore": 6.5789475
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Yellow",
+   "rarity": 0.031,
+   "rarityScore": 32.258064
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "155",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 321.3724,
+  "KARV_NOW": 1503.7014,
+  "KARV_FUTURE": 9187.616,
+  "KHRV": 142.97298,
+  "KHRV_NOW": 668.9705,
+  "KHRV_FUTURE": 4087.41
+ }
+}

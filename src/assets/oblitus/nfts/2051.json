@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1280",
+ "id": 2051,
+ "img": "2051.png",
+ "rarityScore": 255.81328,
+ "rarityRank": 2170,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "53 thousand km",
+   "rarity": 0.01025,
+   "rarityScore": 97.560974
+  },
+  {
+   "type": "Gravity force",
+   "value": "5.6g",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Age",
+   "value": "5 billion years",
+   "rarity": 0.151,
+   "rarityScore": 6.6225166
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Silver",
+   "rarity": 0.0185,
+   "rarityScore": 54.054054
+  },
+  {
+   "type": "Rank",
+   "value": "1280",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 305.76346,
+  "KARV_NOW": 1430.6672,
+  "KARV_FUTURE": 8741.377,
+  "KHRV": 172.67653,
+  "KHRV_NOW": 807.9535,
+  "KHRV_FUTURE": 4936.5957
+ }
+}

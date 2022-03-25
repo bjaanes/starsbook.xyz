@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2589",
+ "id": 1044,
+ "img": "1044.png",
+ "rarityScore": 269.7226,
+ "rarityRank": 1864,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "61 thousand km",
+   "rarity": 0.01,
+   "rarityScore": 100
+  },
+  {
+   "type": "Gravity force",
+   "value": "3.1g",
+   "rarity": 0.01125,
+   "rarityScore": 88.888885
+  },
+  {
+   "type": "Age",
+   "value": "1 billion years",
+   "rarity": 0.0965,
+   "rarityScore": 10.362695
+  },
+  {
+   "type": "Type",
+   "value": "Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Calcium",
+   "rarity": 0.01725,
+   "rarityScore": 57.971016
+  },
+  {
+   "type": "Rank",
+   "value": "2589",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 322.3887,
+  "KARV_NOW": 1508.4567,
+  "KARV_FUTURE": 9216.671,
+  "KHRV": 173.24088,
+  "KHRV_NOW": 810.59406,
+  "KHRV_FUTURE": 4952.73
+ }
+}

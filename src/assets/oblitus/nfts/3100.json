@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2241",
+ "id": 3100,
+ "img": "3100.png",
+ "rarityScore": 336.42926,
+ "rarityRank": 816,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "44 thousand km",
+   "rarity": 0.01025,
+   "rarityScore": 97.560974
+  },
+  {
+   "type": "Gravity force",
+   "value": "1.7g",
+   "rarity": 0.006,
+   "rarityScore": 166.66667
+  },
+  {
+   "type": "Age",
+   "value": "6 billion years",
+   "rarity": 0.149,
+   "rarityScore": 6.7114096
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Rubidium",
+   "rarity": 0.017,
+   "rarityScore": 58.82353
+  },
+  {
+   "type": "Rank",
+   "value": "2241",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 402.1205,
+  "KARV_NOW": 1881.5219,
+  "KARV_FUTURE": 11496.099,
+  "KHRV": 175.94743,
+  "KHRV_NOW": 823.258,
+  "KHRV_FUTURE": 5030.1064
+ }
+}

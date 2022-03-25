@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1981",
+ "id": 115,
+ "img": "115.png",
+ "rarityScore": 246.31894,
+ "rarityRank": 2456,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "48 thousand km",
+   "rarity": 0.014,
+   "rarityScore": 71.42857
+  },
+  {
+   "type": "Gravity force",
+   "value": "3.6g",
+   "rarity": 0.0095,
+   "rarityScore": 105.26316
+  },
+  {
+   "type": "Age",
+   "value": "5 billion years",
+   "rarity": 0.151,
+   "rarityScore": 6.6225166
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Technetium",
+   "rarity": 0.01775,
+   "rarityScore": 56.338028
+  },
+  {
+   "type": "Rank",
+   "value": "1981",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 294.41525,
+  "KARV_NOW": 1377.569,
+  "KARV_FUTURE": 8416.946,
+  "KHRV": 172.29128,
+  "KHRV_NOW": 806.1509,
+  "KHRV_FUTURE": 4925.582
+ }
+}

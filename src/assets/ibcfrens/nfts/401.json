@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #401",
+ "id": 401,
+ "img": "401.jpg",
+ "rarityScore": 259.29105,
+ "rarityRank": 1813,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Grid Network",
+   "rarity": 0.0112,
+   "rarityScore": 89.28571
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Green",
+   "rarity": 0.115,
+   "rarityScore": 8.695652
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Blue",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Green",
+   "rarity": 0.0398,
+   "rarityScore": 25.125628
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Green",
+   "rarity": 0.0256,
+   "rarityScore": 39.0625
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "401",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 435.6605,
+  "KARV_NOW": 2038.4554,
+  "KARV_FUTURE": 12454.963,
+  "KHRV": 144.84634,
+  "KHRV_NOW": 677.736,
+  "KHRV_FUTURE": 4140.9673
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3201",
+ "id": 3201,
+ "img": "3201.jpg",
+ "rarityScore": 137.24983,
+ "rarityRank": 4319,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 1",
+   "rarity": 0.0246,
+   "rarityScore": 40.650406
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Purple",
+   "rarity": 0.1082,
+   "rarityScore": 9.242145
+  },
+  {
+   "type": "Body",
+   "value": "Costume Crocodile",
+   "rarity": 0.0272,
+   "rarityScore": 36.764706
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Purple",
+   "rarity": 0.0292,
+   "rarityScore": 34.246574
+  },
+  {
+   "type": "Mouth",
+   "value": "Space Cigarette",
+   "rarity": 0.0806,
+   "rarityScore": 12.406948
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3201",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 230.60701,
+  "KARV_NOW": 1079.0101,
+  "KARV_FUTURE": 6592.752,
+  "KHRV": 141.4852,
+  "KHRV_NOW": 662.0092,
+  "KHRV_FUTURE": 4044.8765
+ }
+}

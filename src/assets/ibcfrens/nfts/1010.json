@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1010",
+ "id": 1010,
+ "img": "1010.jpg",
+ "rarityScore": 149.23367,
+ "rarityRank": 4050,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Yellow",
+   "rarity": 0.054,
+   "rarityScore": 18.518518
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Costume Cat Black",
+   "rarity": 0.023,
+   "rarityScore": 43.47826
+  },
+  {
+   "type": "Eyes",
+   "value": "Space Haze Green",
+   "rarity": 0.0142,
+   "rarityScore": 70.42254
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1010",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 250.74223,
+  "KARV_NOW": 1173.2229,
+  "KARV_FUTURE": 7168.392,
+  "KHRV": 141.81525,
+  "KHRV_NOW": 663.5535,
+  "KHRV_FUTURE": 4054.3123
+ }
+}

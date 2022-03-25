@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1113",
+ "id": 1178,
+ "img": "1178.png",
+ "rarityScore": 378.03433,
+ "rarityRank": 478,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "66 thousand km",
+   "rarity": 0.01125,
+   "rarityScore": 88.888885
+  },
+  {
+   "type": "Gravity force",
+   "value": "8.2g",
+   "rarity": 0.00675,
+   "rarityScore": 148.14815
+  },
+  {
+   "type": "Age",
+   "value": "8 billion years",
+   "rarity": 0.05425,
+   "rarityScore": 18.43318
+  },
+  {
+   "type": "Type",
+   "value": "Ice Planet",
+   "rarity": 0.075,
+   "rarityScore": 13.333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Mercury",
+   "rarity": 0.00975,
+   "rarityScore": 102.5641
+  },
+  {
+   "type": "Rank",
+   "value": "1113",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Epic",
+   "rarity": 0.15,
+   "rarityScore": 6.6666665
+  }
+ ],
+ "prices": {
+  "KRV": 451.84943,
+  "KARV_NOW": 2114.2034,
+  "KARV_FUTURE": 12917.783,
+  "KHRV": 177.63553,
+  "KHRV_NOW": 831.1566,
+  "KHRV_FUTURE": 5078.367
+ }
+}

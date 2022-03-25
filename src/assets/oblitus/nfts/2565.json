@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3266",
+ "id": 2565,
+ "img": "2565.png",
+ "rarityScore": 305.61005,
+ "rarityRank": 1230,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "86 thousand km",
+   "rarity": 0.012,
+   "rarityScore": 83.333336
+  },
+  {
+   "type": "Gravity force",
+   "value": "13.7g",
+   "rarity": 0.007,
+   "rarityScore": 142.85715
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Gallium",
+   "rarity": 0.01725,
+   "rarityScore": 57.971016
+  },
+  {
+   "type": "Rank",
+   "value": "3266",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 365.28357,
+  "KARV_NOW": 1709.1617,
+  "KARV_FUTURE": 10442.979,
+  "KHRV": 174.69698,
+  "KHRV_NOW": 817.4071,
+  "KHRV_FUTURE": 4994.3574
+ }
+}

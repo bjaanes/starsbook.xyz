@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0352",
+ "id": 921,
+ "img": "921.png",
+ "rarityScore": 481.31784,
+ "rarityRank": 212,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "68 thousand km",
+   "rarity": 0.01325,
+   "rarityScore": 75.471695
+  },
+  {
+   "type": "Gravity force",
+   "value": "6.1g",
+   "rarity": 0.005,
+   "rarityScore": 200
+  },
+  {
+   "type": "Age",
+   "value": "12 billion years",
+   "rarity": 0.03125,
+   "rarityScore": 32
+  },
+  {
+   "type": "Type",
+   "value": "Giant Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Darmstadtium",
+   "rarity": 0.0065,
+   "rarityScore": 153.84616
+  },
+  {
+   "type": "Rank",
+   "value": "352",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Legendary",
+   "rarity": 0.1,
+   "rarityScore": 10
+  }
+ ],
+ "prices": {
+  "KRV": 575.3001,
+  "KARV_NOW": 2691.829,
+  "KARV_FUTURE": 16447.076,
+  "KHRV": 181.82619,
+  "KHRV_NOW": 850.7647,
+  "KHRV_FUTURE": 5198.1724
+ }
+}

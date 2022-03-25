@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #32",
+ "id": 32,
+ "img": "32.jpg",
+ "rarityScore": 252.68915,
+ "rarityRank": 1939,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Yellow",
+   "rarity": 0.0578,
+   "rarityScore": 17.301039
+  },
+  {
+   "type": "Character",
+   "value": "Alien Green",
+   "rarity": 0.0262,
+   "rarityScore": 38.16794
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Green",
+   "rarity": 0.0106,
+   "rarityScore": 94.33962
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Green",
+   "rarity": 0.0398,
+   "rarityScore": 25.125628
+  },
+  {
+   "type": "Mouth",
+   "value": "Sad",
+   "rarity": 0.0308,
+   "rarityScore": 32.467533
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Light Purple",
+   "rarity": 0.0228,
+   "rarityScore": 43.85965
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "32",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 424.56802,
+  "KARV_NOW": 1986.5537,
+  "KARV_FUTURE": 12137.844,
+  "KHRV": 144.6645,
+  "KHRV_NOW": 676.8852,
+  "KHRV_FUTURE": 4135.7686
+ }
+}

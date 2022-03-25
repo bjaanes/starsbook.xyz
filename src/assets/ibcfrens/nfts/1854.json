@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1854",
+ "id": 1854,
+ "img": "1854.jpg",
+ "rarityScore": 178.91011,
+ "rarityRank": 3379,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Blue",
+   "rarity": 0.0498,
+   "rarityScore": 20.08032
+  },
+  {
+   "type": "Character",
+   "value": "Alien Pink",
+   "rarity": 0.0242,
+   "rarityScore": 41.322315
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Green",
+   "rarity": 0.0236,
+   "rarityScore": 42.372883
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Pink",
+   "rarity": 0.0456,
+   "rarityScore": 21.929825
+  },
+  {
+   "type": "Mouth",
+   "value": "Space Cigarette",
+   "rarity": 0.0806,
+   "rarityScore": 12.406948
+  },
+  {
+   "type": "Head",
+   "value": "Head Band Light Green",
+   "rarity": 0.0254,
+   "rarityScore": 39.37008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1854",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 300.60458,
+  "KARV_NOW": 1406.5288,
+  "KARV_FUTURE": 8593.892,
+  "KHRV": 142.63257,
+  "KHRV_NOW": 667.37775,
+  "KHRV_FUTURE": 4077.6782
+ }
+}

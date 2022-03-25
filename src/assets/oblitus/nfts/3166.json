@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1050",
+ "id": 3166,
+ "img": "3166.png",
+ "rarityScore": 252.16042,
+ "rarityRank": 2275,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "21 thousand km",
+   "rarity": 0.01,
+   "rarityScore": 100
+  },
+  {
+   "type": "Gravity force",
+   "value": "9.8g",
+   "rarity": 0.05125,
+   "rarityScore": 19.512196
+  },
+  {
+   "type": "Age",
+   "value": "9 billion years",
+   "rarity": 0.046,
+   "rarityScore": 21.73913
+  },
+  {
+   "type": "Type",
+   "value": "Ice Planet",
+   "rarity": 0.075,
+   "rarityScore": 13.333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Astatine",
+   "rarity": 0.011,
+   "rarityScore": 90.90909
+  },
+  {
+   "type": "Rank",
+   "value": "1050",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Epic",
+   "rarity": 0.15,
+   "rarityScore": 6.6666665
+  }
+ ],
+ "prices": {
+  "KRV": 301.39734,
+  "KARV_NOW": 1410.2382,
+  "KARV_FUTURE": 8616.556,
+  "KHRV": 172.5283,
+  "KHRV_NOW": 807.25995,
+  "KHRV_FUTURE": 4932.3584
+ }
+}

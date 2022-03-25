@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #4265",
+ "id": 4265,
+ "img": "4265.jpg",
+ "rarityScore": 201.28528,
+ "rarityRank": 2901,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Green",
+   "rarity": 0.0522,
+   "rarityScore": 19.157087
+  },
+  {
+   "type": "Character",
+   "value": "Alien Purple",
+   "rarity": 0.0292,
+   "rarityScore": 34.246574
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Light Blue",
+   "rarity": 0.0208,
+   "rarityScore": 48.076923
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Purple",
+   "rarity": 0.0352,
+   "rarityScore": 28.40909
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Pink",
+   "rarity": 0.0288,
+   "rarityScore": 34.72222
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Light Purple",
+   "rarity": 0.0314,
+   "rarityScore": 31.847134
+  },
+  {
+   "type": "generation",
+   "value": "4265",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 338.1993,
+  "KARV_NOW": 1582.4346,
+  "KARV_FUTURE": 9668.676,
+  "KHRV": 143.2488,
+  "KHRV_NOW": 670.2611,
+  "KHRV_FUTURE": 4095.2954
+ }
+}

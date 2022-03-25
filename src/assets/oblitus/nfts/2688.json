@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3592",
+ "id": 2688,
+ "img": "2688.png",
+ "rarityScore": 197.10873,
+ "rarityRank": 3580,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "18 thousand km",
+   "rarity": 0.0125,
+   "rarityScore": 80
+  },
+  {
+   "type": "Gravity force",
+   "value": "2.5g",
+   "rarity": 0.0315,
+   "rarityScore": 31.74603
+  },
+  {
+   "type": "Age",
+   "value": "1 billion years",
+   "rarity": 0.0965,
+   "rarityScore": 10.362695
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Germanium",
+   "rarity": 0.016,
+   "rarityScore": 62.5
+  },
+  {
+   "type": "Rank",
+   "value": "3592",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 235.59624,
+  "KARV_NOW": 1102.3547,
+  "KARV_FUTURE": 6735.3877,
+  "KHRV": 170.29463,
+  "KHRV_NOW": 796.8086,
+  "KHRV_FUTURE": 4868.5005
+ }
+}

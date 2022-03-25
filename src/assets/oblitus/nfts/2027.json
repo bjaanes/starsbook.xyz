@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3946",
+ "id": 2027,
+ "img": "2027.png",
+ "rarityScore": 206.25308,
+ "rarityRank": 3406,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "21 thousand km",
+   "rarity": 0.01,
+   "rarityScore": 100
+  },
+  {
+   "type": "Gravity force",
+   "value": "4.9g",
+   "rarity": 0.052,
+   "rarityScore": 19.23077
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Selenium",
+   "rarity": 0.01525,
+   "rarityScore": 65.57377
+  },
+  {
+   "type": "Rank",
+   "value": "3946",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 246.52612,
+  "KARV_NOW": 1153.4957,
+  "KARV_FUTURE": 7047.859,
+  "KHRV": 170.66563,
+  "KHRV_NOW": 798.5445,
+  "KHRV_FUTURE": 4879.107
+ }
+}

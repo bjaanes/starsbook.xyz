@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2010",
+ "id": 2700,
+ "img": "2700.png",
+ "rarityScore": 175.91353,
+ "rarityRank": 3871,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "40 thousand km",
+   "rarity": 0.01075,
+   "rarityScore": 93.023254
+  },
+  {
+   "type": "Gravity force",
+   "value": "9.8g",
+   "rarity": 0.05125,
+   "rarityScore": 19.512196
+  },
+  {
+   "type": "Age",
+   "value": "6 billion years",
+   "rarity": 0.149,
+   "rarityScore": 6.7114096
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Antimony",
+   "rarity": 0.02,
+   "rarityScore": 50
+  },
+  {
+   "type": "Rank",
+   "value": "2010",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 210.26245,
+  "KARV_NOW": 983.818,
+  "KARV_FUTURE": 6011.128,
+  "KHRV": 169.43465,
+  "KHRV_NOW": 792.78467,
+  "KHRV_FUTURE": 4843.9146
+ }
+}

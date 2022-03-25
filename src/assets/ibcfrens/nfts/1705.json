@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1705",
+ "id": 1705,
+ "img": "1705.jpg",
+ "rarityScore": 235.62015,
+ "rarityRank": 2228,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Pink",
+   "rarity": 0.06,
+   "rarityScore": 16.666666
+  },
+  {
+   "type": "Character",
+   "value": "Alien Pink",
+   "rarity": 0.0242,
+   "rarityScore": 41.322315
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Purple",
+   "rarity": 0.0086,
+   "rarityScore": 116.27907
+  },
+  {
+   "type": "Eyes",
+   "value": "Grumpy",
+   "rarity": 0.0622,
+   "rarityScore": 16.077171
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Green",
+   "rarity": 0.0256,
+   "rarityScore": 39.0625
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1705",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 395.8887,
+  "KARV_NOW": 1852.3632,
+  "KARV_FUTURE": 11317.939,
+  "KHRV": 144.19443,
+  "KHRV_NOW": 674.6857,
+  "KHRV_FUTURE": 4122.33
+ }
+}

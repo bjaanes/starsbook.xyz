@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1687",
+ "id": 1898,
+ "img": "1898.png",
+ "rarityScore": 269.8045,
+ "rarityRank": 1858,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "24 thousand km",
+   "rarity": 0.01,
+   "rarityScore": 100
+  },
+  {
+   "type": "Gravity force",
+   "value": "1.3g",
+   "rarity": 0.01075,
+   "rarityScore": 93.023254
+  },
+  {
+   "type": "Age",
+   "value": "5 billion years",
+   "rarity": 0.151,
+   "rarityScore": 6.6225166
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Yttrium",
+   "rarity": 0.01575,
+   "rarityScore": 63.49206
+  },
+  {
+   "type": "Rank",
+   "value": "1687",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 322.4866,
+  "KARV_NOW": 1508.9148,
+  "KARV_FUTURE": 9219.47,
+  "KHRV": 173.24422,
+  "KHRV_NOW": 810.6097,
+  "KHRV_FUTURE": 4952.825
+ }
+}

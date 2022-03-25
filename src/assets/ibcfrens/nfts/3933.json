@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3933",
+ "id": 3933,
+ "img": "3933.jpg",
+ "rarityScore": 125.660835,
+ "rarityRank": 4527,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 5",
+   "rarity": 0.0236,
+   "rarityScore": 42.372883
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Blue",
+   "rarity": 0.1236,
+   "rarityScore": 8.090615
+  },
+  {
+   "type": "Body",
+   "value": "Costume Frog",
+   "rarity": 0.024,
+   "rarityScore": 41.666668
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Blue",
+   "rarity": 0.0512,
+   "rarityScore": 19.53125
+  },
+  {
+   "type": "Mouth",
+   "value": "Grumpy",
+   "rarity": 0.0994,
+   "rarityScore": 10.060362
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3933",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 211.1352,
+  "KARV_NOW": 987.90155,
+  "KARV_FUTURE": 6036.0786,
+  "KHRV": 141.16602,
+  "KHRV_NOW": 660.51575,
+  "KHRV_FUTURE": 4035.7512
+ }
+}

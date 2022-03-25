@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3270",
+ "id": 3360,
+ "img": "3360.png",
+ "rarityScore": 317.52795,
+ "rarityRank": 1058,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "89 thousand km",
+   "rarity": 0.01425,
+   "rarityScore": 70.17544
+  },
+  {
+   "type": "Gravity force",
+   "value": "8.6g",
+   "rarity": 0.007,
+   "rarityScore": 142.85715
+  },
+  {
+   "type": "Age",
+   "value": "1 billion years",
+   "rarity": 0.0965,
+   "rarityScore": 10.362695
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Nickel",
+   "rarity": 0.01225,
+   "rarityScore": 81.63265
+  },
+  {
+   "type": "Rank",
+   "value": "3270",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 379.52856,
+  "KARV_NOW": 1775.8141,
+  "KARV_FUTURE": 10850.225,
+  "KHRV": 175.18054,
+  "KHRV_NOW": 819.66974,
+  "KHRV_FUTURE": 5008.182
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #2022",
+ "id": 2022,
+ "img": "2022.jpg",
+ "rarityScore": 352.31628,
+ "rarityRank": 870,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Green",
+   "rarity": 0.0626,
+   "rarityScore": 15.974441
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Green",
+   "rarity": 0.115,
+   "rarityScore": 8.695652
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Network",
+   "rarity": 0.0046,
+   "rarityScore": 217.39131
+  },
+  {
+   "type": "Eyes",
+   "value": "Space Haze Light Green",
+   "rarity": 0.0142,
+   "rarityScore": 70.42254
+  },
+  {
+   "type": "Mouth",
+   "value": "Surprised",
+   "rarity": 0.1112,
+   "rarityScore": 8.9928055
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Pink",
+   "rarity": 0.034,
+   "rarityScore": 29.411764
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "2022",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 591.9614,
+  "KARV_NOW": 2769.7874,
+  "KARV_FUTURE": 16923.4,
+  "KHRV": 147.40834,
+  "KHRV_NOW": 689.72363,
+  "KHRV_FUTURE": 4214.2114
+ }
+}

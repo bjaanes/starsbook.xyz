@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1231",
+ "id": 1231,
+ "img": "1231.jpg",
+ "rarityScore": 437.01694,
+ "rarityRank": 427,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Rainbow Yellow",
+   "rarity": 0.0338,
+   "rarityScore": 29.585798
+  },
+  {
+   "type": "Character",
+   "value": "Sunkissed Yellow",
+   "rarity": 0.0038,
+   "rarityScore": 263.1579
+  },
+  {
+   "type": "Body",
+   "value": "Striped Shirt Pastel",
+   "rarity": 0.0228,
+   "rarityScore": 43.85965
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Yellow",
+   "rarity": 0.034,
+   "rarityScore": 29.411764
+  },
+  {
+   "type": "Mouth",
+   "value": "Satisfied",
+   "rarity": 0.152,
+   "rarityScore": 6.5789475
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Blue",
+   "rarity": 0.029,
+   "rarityScore": 34.482758
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Light Green",
+   "rarity": 0.0334,
+   "rarityScore": 29.94012
+  },
+  {
+   "type": "generation",
+   "value": "1231",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 734.2753,
+  "KARV_NOW": 3435.674,
+  "KARV_FUTURE": 20991.969,
+  "KHRV": 149.74109,
+  "KHRV_NOW": 700.63855,
+  "KHRV_FUTURE": 4280.902
+ }
+}

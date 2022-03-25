@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #3252",
+ "id": 3252,
+ "img": "3252.jpg",
+ "rarityScore": 151.32756,
+ "rarityRank": 4010,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Pastel 2",
+   "rarity": 0.0264,
+   "rarityScore": 37.878788
+  },
+  {
+   "type": "Character",
+   "value": "Alien Purple",
+   "rarity": 0.0292,
+   "rarityScore": 34.246574
+  },
+  {
+   "type": "Body",
+   "value": "Costume Ape",
+   "rarity": 0.0276,
+   "rarityScore": 36.231884
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Purple",
+   "rarity": 0.0292,
+   "rarityScore": 34.246574
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "3252",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 254.26039,
+  "KARV_NOW": 1189.6843,
+  "KARV_FUTURE": 7268.971,
+  "KHRV": 141.87291,
+  "KHRV_NOW": 663.8233,
+  "KHRV_FUTURE": 4055.9604
+ }
+}

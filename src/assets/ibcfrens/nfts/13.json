@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #13",
+ "id": 13,
+ "img": "13.jpg",
+ "rarityScore": 3776.8325,
+ "rarityRank": 20,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Gold",
+   "rarity": 0.0012,
+   "rarityScore": 833.3333
+  },
+  {
+   "type": "Character",
+   "value": "Alien Gold",
+   "rarity": 0.0026,
+   "rarityScore": 384.6154
+  },
+  {
+   "type": "Body",
+   "value": "Shirt Gold",
+   "rarity": 0.001,
+   "rarityScore": 1000
+  },
+  {
+   "type": "Eyes",
+   "value": "Space Haze Gold",
+   "rarity": 0.0012,
+   "rarityScore": 833.3333
+  },
+  {
+   "type": "Mouth",
+   "value": "Grumpy Gold",
+   "rarity": 0.0102,
+   "rarityScore": 98.039215
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Gold",
+   "rarity": 0.0016,
+   "rarityScore": 625
+  },
+  {
+   "type": "generation",
+   "value": "13",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 6345.8296,
+  "KARV_NOW": 29692.137,
+  "KARV_FUTURE": 181418.95,
+  "KHRV": 241.72307,
+  "KHRV_NOW": 1131.0222,
+  "KHRV_FUTURE": 6910.546
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #0444",
+ "id": 2065,
+ "img": "2065.png",
+ "rarityScore": 331.4583,
+ "rarityRank": 872,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "96 thousand km",
+   "rarity": 0.0095,
+   "rarityScore": 105.26316
+  },
+  {
+   "type": "Gravity force",
+   "value": "19.6g",
+   "rarity": 0.02425,
+   "rarityScore": 41.237114
+  },
+  {
+   "type": "Age",
+   "value": "10 billion years",
+   "rarity": 0.037,
+   "rarityScore": 27.027027
+  },
+  {
+   "type": "Type",
+   "value": "Giant Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Flerovium",
+   "rarity": 0.00725,
+   "rarityScore": 137.93103
+  },
+  {
+   "type": "Rank",
+   "value": "444",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Legendary",
+   "rarity": 0.1,
+   "rarityScore": 10
+  }
+ ],
+ "prices": {
+  "KRV": 396.179,
+  "KARV_NOW": 1853.7214,
+  "KARV_FUTURE": 11326.238,
+  "KHRV": 175.74576,
+  "KHRV_NOW": 822.3144,
+  "KHRV_FUTURE": 5024.341
+ }
+}

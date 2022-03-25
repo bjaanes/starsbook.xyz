@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #433",
+ "id": 433,
+ "img": "433.jpg",
+ "rarityScore": 312.95972,
+ "rarityRank": 1216,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Pink",
+   "rarity": 0.06,
+   "rarityScore": 16.666666
+  },
+  {
+   "type": "Character",
+   "value": "Zombie Blue",
+   "rarity": 0.0062,
+   "rarityScore": 161.29033
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Pink",
+   "rarity": 0.01,
+   "rarityScore": 100
+  },
+  {
+   "type": "Eyes",
+   "value": "None",
+   "rarity": 0.0536,
+   "rarityScore": 18.656717
+  },
+  {
+   "type": "Mouth",
+   "value": "Space Cigarette",
+   "rarity": 0.0806,
+   "rarityScore": 12.406948
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "433",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 525.8346,
+  "KARV_NOW": 2460.3801,
+  "KARV_FUTURE": 15032.923,
+  "KHRV": 146.32443,
+  "KHRV_NOW": 684.652,
+  "KHRV_FUTURE": 4183.2236
+ }
+}

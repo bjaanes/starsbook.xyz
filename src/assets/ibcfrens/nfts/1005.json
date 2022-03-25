@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1005",
+ "id": 1005,
+ "img": "1005.jpg",
+ "rarityScore": 132.6477,
+ "rarityRank": 4413,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Space Green",
+   "rarity": 0.0626,
+   "rarityScore": 15.974441
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Pink",
+   "rarity": 0.1228,
+   "rarityScore": 8.143323
+  },
+  {
+   "type": "Body",
+   "value": "Costume Frog",
+   "rarity": 0.024,
+   "rarityScore": 41.666668
+  },
+  {
+   "type": "Eyes",
+   "value": "Kamaboko",
+   "rarity": 0.0172,
+   "rarityScore": 58.139534
+  },
+  {
+   "type": "Mouth",
+   "value": "Default",
+   "rarity": 0.209,
+   "rarityScore": 4.784689
+  },
+  {
+   "type": "Head",
+   "value": "None",
+   "rarity": 0.3982,
+   "rarityScore": 2.5113008
+  },
+  {
+   "type": "Antennas",
+   "value": "None",
+   "rarity": 0.7004,
+   "rarityScore": 1.4277556
+  },
+  {
+   "type": "generation",
+   "value": "1005",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 222.87453,
+  "KARV_NOW": 1042.8298,
+  "KARV_FUTURE": 6371.6904,
+  "KHRV": 141.35844,
+  "KHRV_NOW": 661.41614,
+  "KHRV_FUTURE": 4041.2527
+ }
+}

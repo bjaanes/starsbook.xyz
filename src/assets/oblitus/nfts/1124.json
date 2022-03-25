@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3367",
+ "id": 1124,
+ "img": "1124.png",
+ "rarityScore": 575.2605,
+ "rarityRank": 175,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "99 thousand km",
+   "rarity": 0.0115,
+   "rarityScore": 86.95652
+  },
+  {
+   "type": "Gravity force",
+   "value": "26.1g",
+   "rarity": 0.0025,
+   "rarityScore": 400
+  },
+  {
+   "type": "Age",
+   "value": "4 billion years",
+   "rarity": 0.09775,
+   "rarityScore": 10.230179
+  },
+  {
+   "type": "Type",
+   "value": "Islands Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Arsenic",
+   "rarity": 0.01525,
+   "rarityScore": 65.57377
+  },
+  {
+   "type": "Rank",
+   "value": "3367",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 687.586,
+  "KARV_NOW": 3217.2148,
+  "KARV_FUTURE": 19657.184,
+  "KHRV": 185.63786,
+  "KHRV_NOW": 868.59955,
+  "KHRV_FUTURE": 5307.1436
+ }
+}

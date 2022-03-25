@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1224",
+ "id": 3404,
+ "img": "3404.png",
+ "rarityScore": 247.8603,
+ "rarityRank": 2405,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "81 thousand km",
+   "rarity": 0.01325,
+   "rarityScore": 75.471695
+  },
+  {
+   "type": "Gravity force",
+   "value": "4.2g",
+   "rarity": 0.01025,
+   "rarityScore": 97.560974
+  },
+  {
+   "type": "Age",
+   "value": "5 billion years",
+   "rarity": 0.151,
+   "rarityScore": 6.6225166
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Zirconium",
+   "rarity": 0.01625,
+   "rarityScore": 61.53846
+  },
+  {
+   "type": "Rank",
+   "value": "1224",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 296.25757,
+  "KARV_NOW": 1386.1891,
+  "KARV_FUTURE": 8469.615,
+  "KHRV": 172.35382,
+  "KHRV_NOW": 806.4435,
+  "KHRV_FUTURE": 4927.3696
+ }
+}

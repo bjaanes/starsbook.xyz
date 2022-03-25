@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #4017",
+ "id": 4017,
+ "img": "4017.jpg",
+ "rarityScore": 169.26701,
+ "rarityRank": 3629,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Purple",
+   "rarity": 0.0528,
+   "rarityScore": 18.939394
+  },
+  {
+   "type": "Character",
+   "value": "Alien Light Green",
+   "rarity": 0.115,
+   "rarityScore": 8.695652
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Light Blue",
+   "rarity": 0.0226,
+   "rarityScore": 44.247787
+  },
+  {
+   "type": "Eyes",
+   "value": "Normal Light Green",
+   "rarity": 0.0398,
+   "rarityScore": 25.125628
+  },
+  {
+   "type": "Mouth",
+   "value": "Grumpy",
+   "rarity": 0.0994,
+   "rarityScore": 10.060362
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Yellow",
+   "rarity": 0.031,
+   "rarityScore": 32.258064
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Light Green",
+   "rarity": 0.0334,
+   "rarityScore": 29.94012
+  },
+  {
+   "type": "generation",
+   "value": "4017",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 284.40222,
+  "KARV_NOW": 1330.718,
+  "KARV_FUTURE": 8130.6875,
+  "KHRV": 142.36697,
+  "KHRV_NOW": 666.1351,
+  "KHRV_FUTURE": 4070.0854
+ }
+}

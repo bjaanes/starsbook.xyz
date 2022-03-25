@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #3777",
+ "id": 31,
+ "img": "31.png",
+ "rarityScore": 263.71844,
+ "rarityRank": 2001,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "76 thousand km",
+   "rarity": 0.0165,
+   "rarityScore": 60.60606
+  },
+  {
+   "type": "Gravity force",
+   "value": "8.4g",
+   "rarity": 0.00775,
+   "rarityScore": 129.03226
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Copper",
+   "rarity": 0.019,
+   "rarityScore": 52.63158
+  },
+  {
+   "type": "Rank",
+   "value": "3777",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 315.2122,
+  "KARV_NOW": 1474.8778,
+  "KARV_FUTURE": 9011.504,
+  "KHRV": 172.99725,
+  "KHRV_NOW": 809.4541,
+  "KHRV_FUTURE": 4945.7646
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #1555",
+ "id": 2745,
+ "img": "2745.png",
+ "rarityScore": 193.81421,
+ "rarityRank": 3624,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "76 thousand km",
+   "rarity": 0.0165,
+   "rarityScore": 60.60606
+  },
+  {
+   "type": "Gravity force",
+   "value": "29.4g",
+   "rarity": 0.01575,
+   "rarityScore": 63.49206
+  },
+  {
+   "type": "Age",
+   "value": "6 billion years",
+   "rarity": 0.149,
+   "rarityScore": 6.7114096
+  },
+  {
+   "type": "Type",
+   "value": "Sea Planet",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  },
+  {
+   "type": "Main composition",
+   "value": "Tellurium",
+   "rarity": 0.01775,
+   "rarityScore": 56.338028
+  },
+  {
+   "type": "Rank",
+   "value": "1555",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Rare",
+   "rarity": 0.3,
+   "rarityScore": 3.3333333
+  }
+ ],
+ "prices": {
+  "KRV": 231.65843,
+  "KARV_NOW": 1083.9298,
+  "KARV_FUTURE": 6622.8115,
+  "KHRV": 170.16095,
+  "KHRV_NOW": 796.18304,
+  "KHRV_FUTURE": 4864.6787
+ }
+}

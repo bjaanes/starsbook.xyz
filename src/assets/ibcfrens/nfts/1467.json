@@ -1,0 +1,65 @@
+{
+ "name": "IBC Frens #1467",
+ "id": 1467,
+ "img": "1467.jpg",
+ "rarityScore": 532.4538,
+ "rarityRank": 256,
+ "attributes": [
+  {
+   "type": "Background",
+   "value": "Stars Blue",
+   "rarity": 0.0498,
+   "rarityScore": 20.08032
+  },
+  {
+   "type": "Character",
+   "value": "Sunkissed Blue",
+   "rarity": 0.0032,
+   "rarityScore": 312.5
+  },
+  {
+   "type": "Body",
+   "value": "Light Space Suit Pink",
+   "rarity": 0.01,
+   "rarityScore": 100
+  },
+  {
+   "type": "Eyes",
+   "value": "Grumpy",
+   "rarity": 0.0622,
+   "rarityScore": 16.077171
+  },
+  {
+   "type": "Mouth",
+   "value": "Happy",
+   "rarity": 0.2072,
+   "rarityScore": 4.826255
+  },
+  {
+   "type": "Head",
+   "value": "Bucket Hat Light Pink",
+   "rarity": 0.0288,
+   "rarityScore": 34.72222
+  },
+  {
+   "type": "Antennas",
+   "value": "Bolts Light Blue",
+   "rarity": 0.0226,
+   "rarityScore": 44.247787
+  },
+  {
+   "type": "generation",
+   "value": "1467",
+   "rarity": 0,
+   "rarityScore": 0
+  }
+ ],
+ "prices": {
+  "KRV": 894.6283,
+  "KARV_NOW": 4185.966,
+  "KARV_FUTURE": 25576.252,
+  "KHRV": 152.3695,
+  "KHRV_NOW": 712.9369,
+  "KHRV_FUTURE": 4356.0444
+ }
+}

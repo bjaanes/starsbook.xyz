@@ -1,0 +1,59 @@
+{
+ "name": "Oblitus #2762",
+ "id": 1278,
+ "img": "1278.png",
+ "rarityScore": 246.44855,
+ "rarityRank": 2447,
+ "attributes": [
+  {
+   "type": "Diameter",
+   "value": "75 thousand km",
+   "rarity": 0.01,
+   "rarityScore": 100
+  },
+  {
+   "type": "Gravity force",
+   "value": "14.7g",
+   "rarity": 0.016,
+   "rarityScore": 62.5
+  },
+  {
+   "type": "Age",
+   "value": "2 billion years",
+   "rarity": 0.11175,
+   "rarityScore": 8.948545
+  },
+  {
+   "type": "Type",
+   "value": "Gas Planet",
+   "rarity": 0.1,
+   "rarityScore": 10
+  },
+  {
+   "type": "Main composition",
+   "value": "Germanium",
+   "rarity": 0.016,
+   "rarityScore": 62.5
+  },
+  {
+   "type": "Rank",
+   "value": "2762",
+   "rarity": 0,
+   "rarityScore": 0
+  },
+  {
+   "type": "Rarity",
+   "value": "Common",
+   "rarity": 0.4,
+   "rarityScore": 2.5
+  }
+ ],
+ "prices": {
+  "KRV": 294.57016,
+  "KARV_NOW": 1378.2937,
+  "KARV_FUTURE": 8421.375,
+  "KHRV": 172.29654,
+  "KHRV_NOW": 806.1755,
+  "KHRV_FUTURE": 4925.7324
+ }
+}
