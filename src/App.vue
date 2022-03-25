@@ -1,18 +1,7 @@
 <script setup lang="ts">
-import { ref } from 'vue'
 import { RouterView } from 'vue-router'
-import { darkTheme, NConfigProvider, NSelect } from 'naive-ui'
-import type {SelectOption} from "naive-ui";
-
-const searchTerm = ref("");
-const options = ref<SelectOption[]>([])
-
-function handleSearch(query: string) {
-  if (!query.length) {
-    options.value = []
-    return
-  }
-}
+import { darkTheme, NConfigProvider } from 'naive-ui'
+import NftSearch from "@/components/NftSearch.vue";
 </script>
 
 <template>
@@ -20,13 +9,7 @@ function handleSearch(query: string) {
     <div id="app-container">
       <header>
         <img src="@/assets/logo.svg">
-        <!--<n-select
-            v-model:value="chosenNft"
-            placeholder="Search for any stargaze NFT"
-            autosize
-            :options="options"
-            @search="handleSearch"
-            style="min-width: 365px;" />-->
+        <!--<nft-search></nft-search>-->
       </header>
 
       <RouterView />

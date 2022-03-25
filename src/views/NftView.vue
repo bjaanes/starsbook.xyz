@@ -66,14 +66,21 @@ onMounted(async () => {
   padding: 10px 50px;
 }
 
+@media only screen and (max-width: 800px) {
+  .nft-view-container {
+    flex-wrap: wrap;
+    gap: 50px;
+  }
+}
+
 .data-container {
   display: flex;
   flex-wrap: wrap;
+  gap: 50px;
 }
 
 .data-container * {
   margin-left: 25px;
-  margin-right: 25px;
 }
 
 </style>
