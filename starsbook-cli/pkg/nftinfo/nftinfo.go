@@ -3,10 +3,14 @@ package nftinfo
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/go-errors/errors"
 	"github.com/starsbook/starsbook.xyz/starsbook-cli/pkg/conf"
 	"io/fs"
 	"os"
+	"path"
 	"path/filepath"
+	"strconv"
+	"strings"
 )
 
 type NFTInfo struct {
@@ -22,6 +26,18 @@ type Attribute struct {
 	TraitValue  string      `json:"trait_value,omitempty"`
 	DisplayType string      `json:"display_type,omitempty"`
 	Value       interface{} `json:"value,omitempty"`
+}
+
+func (nft NFTInfo) GetID() (int, error) {
+	_, imgFn := path.Split(nft.Image)
+
+	idStr := strings.TrimSuffix(imgFn, filepath.Ext(imgFn))
+	id, err := strconv.Atoi(idStr)
+	if err != nil {
+		return 0, errors.Wrap(err, 0)
+	}
+
+	return id, nil
 }
 
 func (attr Attribute) GetValue() string {

@@ -13,7 +13,6 @@ import (
 	"path/filepath"
 	"sort"
 	"strconv"
-	"strings"
 )
 
 type MinProjectOutputJson struct {
@@ -26,6 +25,8 @@ type ProjectOutputJson struct {
 	Name         string          `json:"name"`
 	Link         string          `json:"link"`
 	NumberOfNfts int             `json:"numberOfNfts"`
+	LowestScore  float32         `json:"lowestScore"`
+	HighestScore float32         `json:"highestScore"`
 	NFTs         []NFTOutputJson `json:"nfts"`
 }
 
@@ -86,68 +87,15 @@ func generateProjectFile(p conf.Project) error {
 		return errors.Wrap(err, 0)
 	}
 
-	projectOutput := ProjectOutputJson{
-		Name:         p.Name,
-		NumberOfNfts: len(nfts),
+	projectOutput, err := GenerateProjectOutput(p, nfts, attributeMap)
+	if err != nil {
+		return errors.Wrap(err, 0)
 	}
-
-	lowestScore := float32(math.MaxFloat32)
-	for _, nft := range nfts {
-		if projectOutput.Link == "" {
-			projectOutput.Link = nft.ExternalUrl
-		}
-
-		nftOutput := NFTOutputJson{
-			Name: nft.Name,
-		}
-
-		_, imgFn := path.Split(nft.Image)
-		nftOutput.Img = imgFn
-
-		idStr := strings.TrimSuffix(imgFn, filepath.Ext(imgFn))
-		id, err := strconv.Atoi(idStr)
-		if err != nil {
-			return errors.Wrap(err, 0)
-		}
-		nftOutput.ID = id
-
-		nftRarityScore := float32(0.0)
-		for _, attr := range nft.Attributes {
-			attrOut := AttributeOutputJson{
-				Type:  attr.TraitType,
-				Value: attr.GetValue(),
-			}
-			numberOfNftsWithTrait := attributeMap[attr.TraitType][attr.GetValue()]
-			rarity := float32(numberOfNftsWithTrait) / float32(projectOutput.NumberOfNfts)
-			attrOut.Rarity = rarity
-			if numberOfNftsWithTrait != 0 {
-				attrOut.RarityScore = float32(projectOutput.NumberOfNfts) / float32(numberOfNftsWithTrait)
-				nftRarityScore += attrOut.RarityScore
-			}
-
-			nftOutput.Attributes = append(nftOutput.Attributes, attrOut)
-		}
-		nftOutput.RarityScore = nftRarityScore
-
-		if nftRarityScore < lowestScore {
-			lowestScore = nftRarityScore
-		}
-
-		projectOutput.NFTs = append(projectOutput.NFTs, nftOutput)
-	}
-
-	sort.Slice(projectOutput.NFTs, func(i, j int) bool {
-		if projectOutput.NFTs[i].RarityScore == projectOutput.NFTs[j].RarityScore {
-			return projectOutput.NFTs[i].ID < projectOutput.NFTs[j].ID // Lower ID slightly better?
-		}
-
-		return projectOutput.NFTs[i].RarityScore > projectOutput.NFTs[j].RarityScore
-	})
 
 	for i, _ := range projectOutput.NFTs {
 		projectOutput.NFTs[i].RarityRank = i + 1
 
-		projectOutput.NFTs[i].Prices = genPrices(projectOutput.NFTs[i], projectOutput, lowestScore, p.MintPrice)
+		projectOutput.NFTs[i].Prices = genPrices(projectOutput.NFTs[i], projectOutput, projectOutput.LowestScore, p.MintPrice)
 
 		nftFile, err := json.MarshalIndent(projectOutput.NFTs[i], "", " ")
 		if err != nil {
@@ -180,4 +128,72 @@ func generateProjectFile(p conf.Project) error {
 	}
 
 	return nil
+}
+
+func GenerateProjectOutput(p conf.Project, nfts []nftinfo.NFTInfo, attributeMap attributes.AttributeMap) (ProjectOutputJson, error) {
+	projectOutput := ProjectOutputJson{
+		Name:         p.Name,
+		NumberOfNfts: len(nfts),
+	}
+
+	lowestScore := float32(math.MaxFloat32)
+	highestScore := float32(0)
+	for _, nft := range nfts {
+		if projectOutput.Link == "" {
+			projectOutput.Link = nft.ExternalUrl
+		}
+
+		nftOutput := NFTOutputJson{
+			Name: nft.Name,
+		}
+
+		_, imgFn := path.Split(nft.Image)
+		nftOutput.Img = imgFn
+
+		id, err := nft.GetID()
+		if err != nil {
+			return ProjectOutputJson{}, errors.Wrap(err, 0)
+		}
+		nftOutput.ID = id
+
+		nftRarityScore := float32(0.0)
+		for _, attr := range nft.Attributes {
+			attrOut := AttributeOutputJson{
+				Type:  attr.TraitType,
+				Value: attr.GetValue(),
+			}
+			numberOfNftsWithTrait := attributeMap[attr.TraitType][attr.GetValue()]
+			rarity := float32(numberOfNftsWithTrait) / float32(projectOutput.NumberOfNfts)
+			attrOut.Rarity = rarity
+			if numberOfNftsWithTrait != 0 {
+				attrOut.RarityScore = float32(projectOutput.NumberOfNfts) / float32(numberOfNftsWithTrait)
+				nftRarityScore += attrOut.RarityScore
+			}
+
+			nftOutput.Attributes = append(nftOutput.Attributes, attrOut)
+		}
+		nftOutput.RarityScore = nftRarityScore
+
+		if nftRarityScore < lowestScore {
+			lowestScore = nftRarityScore
+		}
+		if nftRarityScore > highestScore {
+			highestScore = nftRarityScore
+		}
+
+		projectOutput.NFTs = append(projectOutput.NFTs, nftOutput)
+	}
+
+	projectOutput.LowestScore = lowestScore
+	projectOutput.HighestScore = highestScore
+
+	sort.Slice(projectOutput.NFTs, func(i, j int) bool {
+		if projectOutput.NFTs[i].RarityScore == projectOutput.NFTs[j].RarityScore {
+			return projectOutput.NFTs[i].ID < projectOutput.NFTs[j].ID // Lower ID slightly better?
+		}
+
+		return projectOutput.NFTs[i].RarityScore > projectOutput.NFTs[j].RarityScore
+	})
+
+	return projectOutput, nil
 }

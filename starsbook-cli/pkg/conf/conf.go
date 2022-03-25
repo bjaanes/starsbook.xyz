@@ -13,14 +13,16 @@ const NFTRawFolder = "nfts_raw"
 const NFTOutFolder = "nfts"
 
 type Project struct {
-	Name               string   `json:"name"`
-	IPFSBase           string   `json:"ipfsBase"`
-	MintPrice          int      `json:"mintPrice"`
-	AttributesToIgnore []string `json:"attributesToIgnore"`
-	ShortName          string   `json:"shortName"`
+	Name                    string   `json:"name"`
+	IPFSBase                string   `json:"ipfsBase"`
+	MintPrice               int      `json:"mintPrice"`
+	AttributesToIgnore      []string `json:"attributesToIgnore"`
+	ShortName               string   `json:"shortName"`
+	CollectionImageIpfsHash string   `json:"collectionImageIpfsHash"`
 }
 
 type Conf struct {
+	IPFSUrl  string    `json:"ipfsUrl"`
 	Projects []Project `json:"projects"`
 }
 

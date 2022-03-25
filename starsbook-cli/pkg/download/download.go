@@ -13,7 +13,10 @@ import (
 )
 
 func NFTsFromIPFS(conf conf.Conf) error {
-	sh := shell.NewShell("localhost:5001")
+	sh, err := getIPFSSHell(conf)
+	if err != nil {
+		return errors.Wrap(err, 0)
+	}
 
 	for _, project := range conf.Projects {
 		fmt.Printf("Downloading nfts files for %q\n", project.Name)
@@ -22,6 +25,7 @@ func NFTsFromIPFS(conf conf.Conf) error {
 			return errors.Wrap(err, 0)
 		}
 
+		downloadProjectImage(sh, project)
 		downloadNFTs(sh, project)
 	}
 
@@ -29,7 +33,10 @@ func NFTsFromIPFS(conf conf.Conf) error {
 }
 
 func ImgsFromIPFS(conf conf.Conf) error {
-	sh := shell.NewShell("localhost:5001")
+	sh, err := getIPFSSHell(conf)
+	if err != nil {
+		return errors.Wrap(err, 0)
+	}
 
 	for _, project := range conf.Projects {
 		fmt.Printf("Downloading imgs for %q\n", project.Name)
@@ -88,6 +95,43 @@ func downloadImages(sh *shell.Shell, project conf.Project) error {
 	}
 
 	return nil
+}
+
+func downloadProjectImage(sh *shell.Shell, project conf.Project) error {
+	hash := project.CollectionImageIpfsHash
+	if hash == "" {
+		return errors.New("CollectionImageIpfsHash is empty")
+	}
+
+	fp := filepath.Join(project.GetOutDir(), "projectImage")
+	if _, err := os.Stat(fp); errors.Is(err, os.ErrNotExist) {
+		fmt.Println("Downloading project image")
+		block, err := sh.BlockGet(hash)
+		if err != nil {
+			return errors.Wrap(err, 0)
+		}
+
+		err = os.WriteFile(fp, block, 0644)
+		if err != nil {
+			return errors.Wrap(err, 0)
+		}
+	}
+
+	return nil
+}
+
+func getIPFSSHell(c conf.Conf) (*shell.Shell, error) {
+	url := "localhost:5001"
+	if c.IPFSUrl != "" {
+		url = c.IPFSUrl
+	}
+
+	sh := shell.NewShell(url)
+	if !sh.IsUp() {
+		return nil, errors.Errorf("IPFS not up at %q", url)
+	}
+
+	return sh, nil
 }
 
 func setUpOutDirs(project conf.Project) error {
