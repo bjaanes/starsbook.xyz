@@ -19,11 +19,11 @@ const KARV = ref("");
 onMounted(async () => {
   const projectShortName = String(route.name)
   const nftId = route.params.id;
-  const projectInfo = await fetch(`/src/assets/${projectShortName}/min_project.json`).then(res => res.json());
-  const nft = await fetch(`/src/assets/${projectShortName}/nfts/${nftId}.json`).then(res => res.json());
+  const projectInfo = await fetch(`/${projectShortName}/min_project.json`).then(res => res.json());
+  const nft = await fetch(`/${projectShortName}/nfts/${nftId}.json`).then(res => res.json());
 
   nftTitle.value = nft.name;
-  nftImg.value = `/src/assets/${projectShortName}/imgs/${nft.img}`;
+  nftImg.value = `/${projectShortName}/imgs/${nft.img}`;
   attributeTags.value = nft.attributes
       .filter((attr: { rarityScore: number }) => attr.rarityScore != 0);
   collectionName.value = projectInfo.name;

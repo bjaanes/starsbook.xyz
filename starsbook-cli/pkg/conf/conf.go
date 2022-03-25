@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 )
 
-const RootFolder = "src/assets"
+const RootFolder = "public"
 const ImgFolder = "imgs"
 const NFTRawFolder = "nfts_raw"
 const NFTOutFolder = "nfts"
