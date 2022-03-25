@@ -38,11 +38,23 @@ onMounted(async () => {
   <div class="nft-view-container">
     <nft-info :title="nftTitle" :img="nftImg" :attributeTags="attributeTags" :collection-name="collectionName"></nft-info>
     <div class="data-container">
-      <data-text title="Starvalue" value="Coming soon" denomination="" description="TODO"></data-text>
-      <data-text title="Rarity" :value="rarityScore" denomination="" description="hoppsi"></data-text>
-      <data-text title="Rarity rank" :value="rarityRank" denomination="" description="hoppsi"></data-text>
-      <data-text title="KRV" :value="KRV" denomination="STARS" description="hoppsi"></data-text>
-      <data-text title="KARV" :value="KARV" denomination="STARS" description="hoppsi"></data-text>
+      <data-text title="Starvalue" value="Coming soon" denomination="">
+        Coming soon
+      </data-text>
+      <data-text title="Rarity" :value="rarityScore" denomination="">
+        Rarity score. More coming soon...
+      </data-text>
+      <data-text title="Rarity rank" :value="rarityRank" denomination="">
+        The rarity rank in the collection.
+      </data-text>
+      <data-text title="KRV" :value="KRV" denomination="STARS">
+        The Kryoten Rarity Valuation.<br>
+        This is an algorithm designed by Kryoten to come up with a PRE-Market Valuation based on solely rarity score. This is the simplest metric and as valued by Kryoten, should be the lowest expected price to trade a Fren for given there are no official market values or floor prices yet.
+      </data-text>
+      <data-text title="KARV" :value="KARV" denomination="STARS">
+        The Kryoten Accelerated Rarity Valuation.<br>
+        This is the companion algorithm to give a more speculative price based on other NFT projects, also accounting for value and growth in floor prices, with similar supply. This number is a range speculating todays KARV, and a future price based on a time span of 2 years.
+      </data-text>
     </div>
 
   </div>

@@ -5,7 +5,6 @@ defineProps<{
   title: string;
   value: string;
   denomination: string;
-  description: string;
 }>()
 </script>
 
@@ -14,11 +13,11 @@ defineProps<{
 
     <div class="title">
       {{title}}
-      <n-popover trigger="hover">
+      <n-popover :style="{ 'max-width': '350px' }" trigger="hover">
         <template #trigger>
           <img class="qm" src="@/assets/qm.svg">
         </template>
-        <span>{{description}}</span>
+        <span><slot></slot></span>
       </n-popover>
     </div>
     <div class="data">
