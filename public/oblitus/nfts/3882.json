@@ -2,26 +2,26 @@
  "name": "Oblitus #1980",
  "id": 3882,
  "img": "3882.png",
- "rarityScore": 197.70128,
- "rarityRank": 3560,
+ "rarityScore": 70.15873,
+ "rarityRank": 2306,
  "attributes": [
   {
    "type": "Diameter",
    "value": "77 thousand km",
-   "rarity": 0.01375,
-   "rarityScore": 72.72727
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Gravity force",
    "value": "3.9g",
-   "rarity": 0.02075,
-   "rarityScore": 48.192772
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Age",
    "value": "5 billion years",
-   "rarity": 0.151,
-   "rarityScore": 6.6225166
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Type",
@@ -49,11 +49,11 @@
   }
  ],
  "prices": {
-  "KRV": 236.30449,
-  "KARV_NOW": 1105.6687,
-  "KARV_FUTURE": 6755.6357,
-  "KHRV": 170.31866,
-  "KHRV_NOW": 796.921,
-  "KHRV_FUTURE": 4869.1875
+  "KRV": 219.38687,
+  "KARV_NOW": 1026.5111,
+  "KARV_FUTURE": 6271.983,
+  "KHRV": 168.68105,
+  "KHRV_NOW": 789.2586,
+  "KHRV_FUTURE": 4822.37
  }
 }

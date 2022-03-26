@@ -2,26 +2,26 @@
  "name": "Oblitus #1985",
  "id": 1243,
  "img": "1243.png",
- "rarityScore": 287.01645,
- "rarityRank": 1498,
+ "rarityScore": 53.725487,
+ "rarityRank": 3944,
  "attributes": [
   {
    "type": "Diameter",
    "value": "64 thousand km",
-   "rarity": 0.01275,
-   "rarityScore": 78.43137
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Gravity force",
    "value": "8.2g",
-   "rarity": 0.00675,
-   "rarityScore": 148.14815
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Age",
    "value": "6 billion years",
-   "rarity": 0.149,
-   "rarityScore": 6.7114096
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Type",
@@ -49,11 +49,11 @@
   }
  ],
  "prices": {
-  "KRV": 343.0594,
-  "KARV_NOW": 1605.1748,
-  "KARV_FUTURE": 9807.618,
-  "KHRV": 173.94257,
-  "KHRV_NOW": 813.87726,
-  "KHRV_FUTURE": 4972.79
+  "KRV": 168,
+  "KARV_NOW": 786.07196,
+  "KARV_FUTURE": 4802.9,
+  "KHRV": 168,
+  "KHRV_NOW": 786.07196,
+  "KHRV_FUTURE": 4802.9
  }
 }

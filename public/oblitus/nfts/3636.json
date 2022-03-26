@@ -2,26 +2,26 @@
  "name": "Oblitus #3314",
  "id": 3636,
  "img": "3636.png",
- "rarityScore": 249.7078,
- "rarityRank": 2356,
+ "rarityScore": 70.471016,
+ "rarityRank": 2234,
  "attributes": [
   {
    "type": "Diameter",
    "value": "73 thousand km",
-   "rarity": 0.01025,
-   "rarityScore": 97.560974
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Gravity force",
    "value": "2.8g",
-   "rarity": 0.01375,
-   "rarityScore": 72.72727
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Age",
    "value": "2 billion years",
-   "rarity": 0.11175,
-   "rarityScore": 8.948545
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Type",
@@ -49,11 +49,11 @@
   }
  ],
  "prices": {
-  "KRV": 298.46582,
-  "KARV_NOW": 1396.5215,
-  "KARV_FUTURE": 8532.746,
-  "KHRV": 172.4288,
-  "KHRV_NOW": 806.7944,
-  "KHRV_FUTURE": 4929.5137
+  "KRV": 220.36339,
+  "KARV_NOW": 1031.0803,
+  "KARV_FUTURE": 6299.901,
+  "KHRV": 168.69398,
+  "KHRV_NOW": 789.31915,
+  "KHRV_FUTURE": 4822.74
  }
 }

@@ -2,26 +2,26 @@
  "name": "Oblitus #1710",
  "id": 3844,
  "img": "3844.png",
- "rarityScore": 175.97798,
- "rarityRank": 3870,
+ "rarityScore": 53.725487,
+ "rarityRank": 3998,
  "attributes": [
   {
    "type": "Diameter",
    "value": "58 thousand km",
-   "rarity": 0.01425,
-   "rarityScore": 70.17544
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Gravity force",
    "value": "6.5g",
-   "rarity": 0.022,
-   "rarityScore": 45.454544
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Age",
    "value": "5 billion years",
-   "rarity": 0.151,
-   "rarityScore": 6.6225166
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Type",
@@ -49,11 +49,11 @@
   }
  ],
  "prices": {
-  "KRV": 210.33951,
-  "KARV_NOW": 984.1785,
-  "KARV_FUTURE": 6013.331,
-  "KHRV": 169.43726,
-  "KHRV_NOW": 792.7969,
-  "KHRV_FUTURE": 4843.989
+  "KRV": 168,
+  "KARV_NOW": 786.07196,
+  "KARV_FUTURE": 4802.9,
+  "KHRV": 168,
+  "KHRV_NOW": 786.07196,
+  "KHRV_FUTURE": 4802.9
  }
 }

@@ -2,26 +2,26 @@
  "name": "Oblitus #2881",
  "id": 1776,
  "img": "1776.png",
- "rarityScore": 174.88931,
- "rarityRank": 3886,
+ "rarityScore": 75,
+ "rarityRank": 1798,
  "attributes": [
   {
    "type": "Diameter",
    "value": "48 thousand km",
-   "rarity": 0.014,
-   "rarityScore": 71.42857
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Gravity force",
    "value": "9.8g",
-   "rarity": 0.05125,
-   "rarityScore": 19.512196
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Age",
    "value": "2 billion years",
-   "rarity": 0.11175,
-   "rarityScore": 8.948545
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Type",
@@ -49,11 +49,11 @@
   }
  ],
  "prices": {
-  "KRV": 209.03825,
-  "KARV_NOW": 978.08997,
-  "KARV_FUTURE": 5976.13,
-  "KHRV": 169.39307,
-  "KHRV_NOW": 792.59015,
-  "KHRV_FUTURE": 4842.726
+  "KRV": 234.52556,
+  "KARV_NOW": 1097.3451,
+  "KARV_FUTURE": 6704.779,
+  "KHRV": 168.88168,
+  "KHRV_NOW": 790.1974,
+  "KHRV_FUTURE": 4828.106
  }
 }

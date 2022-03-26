@@ -21,7 +21,7 @@
       "name": "Oblitus | Forgotten worlds",
       "mintPrice": 168,
       "ipfsBase": "bafybeiegasb7srfhsinxw5lwcz4yj4x7jmiguqmv3jkwmblssnoyitno74/galaxyhK0KQY",
-      "attributesToIgnore": ["Rank"],
+      "attributesToIgnore": ["Rank", "Age", "Diameter", "Gravity force"],
       "shortName": "oblitus",
       "collectionImageIpfsHash": "bafybeiepe7v4tjdrcjoibkbtn6r6kyelpu4fexsd2b5k3lojcsq5st623u"
     }

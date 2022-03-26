@@ -2,26 +2,26 @@
  "name": "Oblitus #1036",
  "id": 1566,
  "img": "1566.png",
- "rarityScore": 369.9628,
- "rarityRank": 530,
+ "rarityScore": 122.5641,
+ "rarityRank": 837,
  "attributes": [
   {
    "type": "Diameter",
    "value": "50 thousand km",
-   "rarity": 0.0145,
-   "rarityScore": 68.965515
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Gravity force",
    "value": "4.4g",
-   "rarity": 0.00625,
-   "rarityScore": 160
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Age",
    "value": "8 billion years",
-   "rarity": 0.05425,
-   "rarityScore": 18.43318
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Type",
@@ -49,11 +49,11 @@
   }
  ],
  "prices": {
-  "KRV": 442.20184,
-  "KARV_NOW": 2069.0625,
-  "KARV_FUTURE": 12641.972,
-  "KHRV": 177.30804,
-  "KHRV_NOW": 829.6243,
-  "KHRV_FUTURE": 5069.005
+  "KRV": 383.25885,
+  "KARV_NOW": 1793.2681,
+  "KARV_FUTURE": 10956.868,
+  "KHRV": 170.85289,
+  "KHRV_NOW": 799.42065,
+  "KHRV_FUTURE": 4884.4604
  }
 }

@@ -2,26 +2,26 @@
  "name": "Oblitus #1989",
  "id": 2016,
  "img": "2016.png",
- "rarityScore": 232.68202,
- "rarityRank": 2831,
+ "rarityScore": 68.20513,
+ "rarityRank": 2625,
  "attributes": [
   {
    "type": "Diameter",
    "value": "66 thousand km",
-   "rarity": 0.01125,
-   "rarityScore": 88.888885
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Gravity force",
    "value": "3.5g",
-   "rarity": 0.0145,
-   "rarityScore": 68.965515
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Age",
    "value": "5 billion years",
-   "rarity": 0.151,
-   "rarityScore": 6.6225166
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Type",
@@ -49,11 +49,11 @@
   }
  ],
  "prices": {
-  "KRV": 278.11557,
-  "KARV_NOW": 1301.3027,
-  "KARV_FUTURE": 7950.96,
-  "KHRV": 171.73799,
-  "KHRV_NOW": 803.5621,
-  "KHRV_FUTURE": 4909.764
+  "KRV": 213.27797,
+  "KARV_NOW": 997.9276,
+  "KARV_FUTURE": 6097.338,
+  "KHRV": 168.60007,
+  "KHRV_NOW": 788.8797,
+  "KHRV_FUTURE": 4820.055
  }
 }

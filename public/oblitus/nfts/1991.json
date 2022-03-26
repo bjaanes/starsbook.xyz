@@ -2,26 +2,26 @@
  "name": "Oblitus #3660",
  "id": 1991,
  "img": "1991.png",
- "rarityScore": 203.90753,
- "rarityRank": 3453,
+ "rarityScore": 74.03846,
+ "rarityRank": 1906,
  "attributes": [
   {
    "type": "Diameter",
    "value": "62 thousand km",
-   "rarity": 0.01,
-   "rarityScore": 100
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Gravity force",
    "value": "4.9g",
-   "rarity": 0.052,
-   "rarityScore": 19.23077
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Age",
    "value": "3 billion years",
-   "rarity": 0.094,
-   "rarityScore": 10.638298
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Type",
@@ -49,11 +49,11 @@
   }
  ],
  "prices": {
-  "KRV": 243.72258,
-  "KARV_NOW": 1140.3779,
-  "KARV_FUTURE": 6967.7095,
-  "KHRV": 170.57048,
-  "KHRV_NOW": 798.09924,
-  "KHRV_FUTURE": 4876.3867
+  "KRV": 231.51883,
+  "KARV_NOW": 1083.2766,
+  "KARV_FUTURE": 6618.8203,
+  "KHRV": 168.84184,
+  "KHRV_NOW": 790.011,
+  "KHRV_FUTURE": 4826.9673
  }
 }

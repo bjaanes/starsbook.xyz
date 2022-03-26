@@ -2,26 +2,26 @@
  "name": "Oblitus #1956",
  "id": 3314,
  "img": "3314.png",
- "rarityScore": 276.968,
- "rarityRank": 1710,
+ "rarityScore": 63.80952,
+ "rarityRank": 3214,
  "attributes": [
   {
    "type": "Diameter",
    "value": "90 thousand km",
-   "rarity": 0.01125,
-   "rarityScore": 88.888885
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Gravity force",
    "value": "6.9g",
-   "rarity": 0.0085,
-   "rarityScore": 117.64706
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Age",
    "value": "5 billion years",
-   "rarity": 0.151,
-   "rarityScore": 6.6225166
+   "rarity": 0,
+   "rarityScore": 0
   },
   {
    "type": "Type",
@@ -49,11 +49,11 @@
   }
  ],
  "prices": {
-  "KRV": 331.04883,
-  "KARV_NOW": 1548.9774,
-  "KARV_FUTURE": 9464.252,
-  "KHRV": 173.53485,
-  "KHRV_NOW": 811.96954,
-  "KHRV_FUTURE": 4961.134
+  "KRV": 199.53284,
+  "KARV_NOW": 933.61414,
+  "KARV_FUTURE": 5704.3823,
+  "KHRV": 168.41791,
+  "KHRV_NOW": 788.02734,
+  "KHRV_FUTURE": 4814.847
  }
 }
