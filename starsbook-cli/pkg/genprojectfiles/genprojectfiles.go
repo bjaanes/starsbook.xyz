@@ -17,12 +17,14 @@ import (
 
 type MinProjectOutputJson struct {
 	Name         string `json:"name"`
+	ShortName    string `json:"shortName"`
 	Link         string `json:"link"`
 	NumberOfNfts int    `json:"numberOfNfts"`
 }
 
 type ProjectOutputJson struct {
 	Name         string          `json:"name"`
+	ShortName    string          `json:"shortName"`
 	Link         string          `json:"link"`
 	NumberOfNfts int             `json:"numberOfNfts"`
 	LowestScore  float32         `json:"lowestScore"`
@@ -112,6 +114,7 @@ func generateProjectFile(p conf.Project) error {
 
 	minProjectOutput := MinProjectOutputJson{
 		Name:         projectOutput.Name,
+		ShortName:    projectOutput.ShortName,
 		Link:         projectOutput.Link,
 		NumberOfNfts: projectOutput.NumberOfNfts,
 	}
@@ -129,6 +132,7 @@ func generateProjectFile(p conf.Project) error {
 func GenerateProjectOutput(p conf.Project, nfts []nftinfo.NFTInfo, attributeMap attributes.AttributeMap) (ProjectOutputJson, error) {
 	projectOutput := ProjectOutputJson{
 		Name:         p.Name,
+		ShortName:    p.ShortName,
 		NumberOfNfts: len(nfts),
 	}
 

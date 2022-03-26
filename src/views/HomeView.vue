@@ -1,7 +1,13 @@
 <script setup lang="ts">
 import CollectionInfo from "@/components/CollectionInfo.vue";
 import projects from "@/generated/projects"
+import {useRouter} from "vue-router";
 
+const router = useRouter()
+
+function selectProject(projectShortName: string) {
+  router.push(`/${projectShortName}`);
+}
 </script>
 
 <template>
@@ -9,7 +15,7 @@ import projects from "@/generated/projects"
     <h1>Welcome to Starsbook!</h1>
 
     <div class="collection-container">
-      <CollectionInfo v-for="(project, index) in projects" :key="index" :collection-name="project.name" :img="project.img"></CollectionInfo>
+      <CollectionInfo class="collection" v-for="(project, index) in projects" :key="index" :collection-name="project.name" :img="project.img" @click="selectProject(project.shortName)"></CollectionInfo>
     </div>
 
   </div>
@@ -18,7 +24,12 @@ import projects from "@/generated/projects"
 <style scoped>
 .collection-container {
   display: flex;
+  justify-content: space-between;
   gap: 50px;
   flex-wrap: wrap;
+}
+
+.collection {
+  cursor: pointer;
 }
 </style>

@@ -1,3 +1,8 @@
+html, body, #app {
+    height: 100%;
+    margin: 0;
+}
+
 body {
     background-color: #050505;
     color: #fff;
@@ -11,4 +16,8 @@ main {
 
 .n-popover {
     font-size: 10px;
+}
+
+.n-base-select-menu {
+    background-color: #141416;
 }

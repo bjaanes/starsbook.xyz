@@ -15,40 +15,43 @@ const COLORS = [
 const props = defineProps<{
   img: string;
   title: string;
-  collectionName: string,
-  attributeTags: Array<{type: string, value: string}>;
+  collectionName?: string,
+  attributeTags?: Array<{type: string, value: string}>;
 }>()
 
 const attributeChips = computed(() => {
   let currentIndex = 0;
 
-  return props.attributeTags.map(at => {
-    if (currentIndex >= COLORS.length) {
-      currentIndex = 0;
-    }
+  if (props.attributeTags) {
+    return props.attributeTags.map(at => {
+      if (currentIndex >= COLORS.length) {
+        currentIndex = 0;
+      }
 
-    const color = COLORS[currentIndex];
-    currentIndex++;
+      const color = COLORS[currentIndex];
+      currentIndex++;
 
-    return {
-      title: at.value,
-      type: at.type,
-      color
-    }
-  })
-
+      return {
+        title: at.value,
+        type: at.type,
+        color
+      }
+    })
+  } else {
+    return [];
+  }
 })
 </script>
 
 <template>
   <div class="nft-info-container">
-    <img class="nft-image" :src="img">
-    <div class="summary-chips">
+    <img v-if="img" class="nft-image" :src="img">
+    <div v-if="collectionName" class="summary-chips">
       <chip :text="collectionName" :small="false" color="blue"></chip>
     </div>
     <div class="title">{{ title }}</div>
-    <div class="traits-title">Traits</div>
-    <div class="traits-chips">
+    <div v-if="attributeChips.length > 0" class="traits-title">Traits</div>
+    <div v-if="attributeChips.length > 0" class="traits-chips">
       <chip v-for="(ac, index) in attributeChips" :key="index" :text="ac.title" :small="true" :color="ac.color" :title="ac.type"></chip>
     </div>
   </div>
