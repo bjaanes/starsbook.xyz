@@ -7,7 +7,7 @@
       "ipfsBase": "bafybeihf34yjxtn4yy6j2ikkoc2u2bwif2fif2bc4ks5rrnh43wxmemgd4/galaxyd0C8he",
       "attributesToIgnore": [ "generation" ],
       "shortName": "ibcfrens",
-      "collectionImageIpfsHash": "bafkreigsz56ruyr4n5wp44vvlhmgxdp2qsyxzsi2n53aermeczbyimy6yi"
+      "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/bafkreigsz56ruyr4n5wp44vvlhmgxdp2qsyxzsi2n53aermeczbyimy6yi"
     },
     {
       "name": "Stargaze Punks",
@@ -15,7 +15,7 @@
       "ipfsBase": "bafybeibmhfvddexxwwt52mknwqa74fp7jkqiktedmruxlnuvtbpwbfyhqa/metadata",
       "attributesToIgnore": [],
       "shortName": "spunks",
-      "collectionImageIpfsHash": "QmVBi8jxc1mvucbiP712FQygbNFtNs8vdm3uCxxKtXiA4h"
+      "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/QmVBi8jxc1mvucbiP712FQygbNFtNs8vdm3uCxxKtXiA4h"
     },
     {
       "name": "Oblitus | Forgotten worlds",
@@ -23,7 +23,7 @@
       "ipfsBase": "bafybeiegasb7srfhsinxw5lwcz4yj4x7jmiguqmv3jkwmblssnoyitno74/galaxyhK0KQY",
       "attributesToIgnore": ["Rank", "Age", "Diameter", "Gravity force"],
       "shortName": "oblitus",
-      "collectionImageIpfsHash": "bafybeiepe7v4tjdrcjoibkbtn6r6kyelpu4fexsd2b5k3lojcsq5st623u"
+      "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/bafybeiepe7v4tjdrcjoibkbtn6r6kyelpu4fexsd2b5k3lojcsq5st623u"
     }
   ]
 }

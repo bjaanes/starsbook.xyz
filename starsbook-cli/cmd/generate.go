@@ -9,6 +9,7 @@ import (
 )
 
 var skipDownloadImgs bool
+var skipIPFS bool
 
 // generateCmd represents the generate command
 var generateCmd = &cobra.Command{
@@ -19,29 +20,30 @@ var generateCmd = &cobra.Command{
 		conf, err := conf.GetConfig()
 		if err != nil {
 			handleError(err)
-			return
 		}
 
-		if err := download.NFTsFromIPFS(conf); err != nil {
-			handleError(err)
-			return
-		}
-
-		if !skipDownloadImgs {
-			if err := download.ImgsFromIPFS(conf); err != nil {
+		if !skipIPFS {
+			if err := download.NFTs(conf); err != nil {
 				handleError(err)
-				return
+			}
+
+			if !skipDownloadImgs {
+				if err := download.Imgs(conf); err != nil {
+					handleError(err)
+				}
+
+				if err := download.ProjectImgs(conf); err != nil {
+					handleError(err)
+				}
 			}
 		}
 
 		if err := genprojectfiles.ProjectFiles(conf); err != nil {
 			handleError(err)
-			return
 		}
 
 		if err := genfrontend.ProjectFiles(conf); err != nil {
 			handleError(err)
-			return
 		}
 	},
 }
@@ -49,5 +51,6 @@ var generateCmd = &cobra.Command{
 func init() {
 	RootCmd.AddCommand(generateCmd)
 
-	generateCmd.Flags().BoolVarP(&skipDownloadImgs, "skip-download-images", "", false, "Skip downloading images")
+	generateCmd.Flags().BoolVar(&skipDownloadImgs, "skip-download-images", false, "Skip downloading images")
+	generateCmd.Flags().BoolVar(&skipIPFS, "skip-ipfs", false, "Skip downloading stuff from IPFS")
 }

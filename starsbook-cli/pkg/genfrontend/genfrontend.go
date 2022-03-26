@@ -12,17 +12,31 @@ import (
 //go:embed templates/projectRoutes.ts.tpl
 var projectRoutes string
 
+//go:embed templates/projects.ts.tpl
+var projects string
+
 func ProjectFiles(c conf.Conf) error {
-	tmpl, err := template.New("projectRoutesTmpl").Parse(projectRoutes)
+	projectRoutesTmpl, err := template.New("projectRoutesTmpl").Parse(projectRoutes)
 	if err != nil {
+		return errors.Wrap(err, 0)
+	}
+	projectsRoutesFile, err := os.Create(fmt.Sprintf("src/generated/projectRoutes.ts"))
+	if err != nil {
+		return errors.Wrap(err, 0)
+	}
+	if err := projectRoutesTmpl.Execute(projectsRoutesFile, c); err != nil {
 		return errors.Wrap(err, 0)
 	}
 
-	f, err := os.Create(fmt.Sprintf("src/generated/projectRoutes.ts"))
+	projectsTmpl, err := template.New("projectRoutesTmpl").Parse(projects)
 	if err != nil {
 		return errors.Wrap(err, 0)
 	}
-	if err := tmpl.Execute(f, c); err != nil {
+	projectsFile, err := os.Create(fmt.Sprintf("src/generated/projects.ts"))
+	if err != nil {
+		return errors.Wrap(err, 0)
+	}
+	if err := projectsTmpl.Execute(projectsFile, c); err != nil {
 		return errors.Wrap(err, 0)
 	}
 

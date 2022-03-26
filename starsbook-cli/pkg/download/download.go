@@ -6,13 +6,15 @@ import (
 	shell "github.com/ipfs/go-ipfs-api"
 	"github.com/starsbook/starsbook.xyz/starsbook-cli/pkg/conf"
 	"github.com/starsbook/starsbook.xyz/starsbook-cli/pkg/nftinfo"
+	"io"
+	"net/http"
 	"os"
 	"path"
 	"path/filepath"
 	"strings"
 )
 
-func NFTsFromIPFS(conf conf.Conf) error {
+func NFTs(conf conf.Conf) error {
 	sh, err := getIPFSSHell(conf)
 	if err != nil {
 		return errors.Wrap(err, 0)
@@ -25,14 +27,31 @@ func NFTsFromIPFS(conf conf.Conf) error {
 			return errors.Wrap(err, 0)
 		}
 
-		downloadProjectImage(sh, project)
-		downloadNFTs(sh, project)
+		if err := downloadNFTs(sh, project); err != nil {
+			return errors.Wrap(err, 0)
+		}
 	}
 
 	return nil
 }
 
-func ImgsFromIPFS(conf conf.Conf) error {
+func ProjectImgs(conf conf.Conf) error {
+	for _, project := range conf.Projects {
+		fmt.Printf("Downloading project image for %q\n", project.Name)
+
+		if err := setUpOutDirs(project); err != nil {
+			return errors.Wrap(err, 0)
+		}
+
+		if err := downloadProjectImage(project); err != nil {
+			return errors.Wrap(err, 0)
+		}
+	}
+
+	return nil
+}
+
+func Imgs(conf conf.Conf) error {
 	sh, err := getIPFSSHell(conf)
 	if err != nil {
 		return errors.Wrap(err, 0)
@@ -45,7 +64,9 @@ func ImgsFromIPFS(conf conf.Conf) error {
 			return errors.Wrap(err, 0)
 		}
 
-		downloadImages(sh, project)
+		if err := downloadImages(sh, project); err != nil {
+
+		}
 	}
 
 	return nil
@@ -97,21 +118,23 @@ func downloadImages(sh *shell.Shell, project conf.Project) error {
 	return nil
 }
 
-func downloadProjectImage(sh *shell.Shell, project conf.Project) error {
-	hash := project.CollectionImageIpfsHash
-	if hash == "" {
-		return errors.New("CollectionImageIpfsHash is empty")
-	}
+func downloadProjectImage(project conf.Project) error {
+	url := project.LinkToProjectImage
+	fn := filepath.Join(project.GetOutDir(), "projectImage.")
 
-	fp := filepath.Join(project.GetOutDir(), "projectImage")
-	if _, err := os.Stat(fp); errors.Is(err, os.ErrNotExist) {
-		fmt.Println("Downloading project image")
-		block, err := sh.BlockGet(hash)
+	if _, err := os.Stat(fn); errors.Is(err, os.ErrNotExist) {
+		resp, err := http.Get(url)
 		if err != nil {
 			return errors.Wrap(err, 0)
 		}
+		defer resp.Body.Close()
+		out, err := os.Create(fn)
+		if err != nil {
+			return errors.Wrap(err, 0)
+		}
+		defer out.Close()
 
-		err = os.WriteFile(fp, block, 0644)
+		_, err = io.Copy(out, resp.Body)
 		if err != nil {
 			return errors.Wrap(err, 0)
 		}
