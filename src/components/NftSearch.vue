@@ -8,9 +8,9 @@ import { useRouter } from 'vue-router'
 
 let client = new TypesenseSearchClient({
   'nodes': [{
-    'host': 'provider.akt.computer',
+    'host': 'starsbook-typesense.gjermund.tech',
     'port': 30220,
-    'protocol': 'http'
+    'protocol': 'https'
   }],
   'apiKey': '8YjeQBRORJhWVnP5XHlsyjennU9SBKdz',
   'connectionTimeoutSeconds': 2

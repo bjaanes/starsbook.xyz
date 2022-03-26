@@ -14,6 +14,6 @@ func getTypesenseClient() (*typesense.Client, error) {
 	}
 
 	return typesense.NewClient(
-		typesense.WithServer("http://provider.akt.computer:30220"),
+		typesense.WithServer("https://starsbook-typesense.gjermund.tech:30220"),
 		typesense.WithAPIKey(apiKey)), nil
 }
