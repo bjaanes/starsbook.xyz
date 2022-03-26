@@ -9,7 +9,7 @@ import NftSearch from "@/components/NftSearch.vue";
     <div id="app-container">
       <header>
         <img src="@/assets/logo.svg">
-        <!--<nft-search></nft-search>-->
+        <nft-search></nft-search>
       </header>
 
       <RouterView />

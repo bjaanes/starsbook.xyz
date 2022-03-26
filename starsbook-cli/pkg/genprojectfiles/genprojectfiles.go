@@ -93,10 +93,6 @@ func generateProjectFile(p conf.Project) error {
 	}
 
 	for i, _ := range projectOutput.NFTs {
-		projectOutput.NFTs[i].RarityRank = i + 1
-
-		projectOutput.NFTs[i].Prices = genPrices(projectOutput.NFTs[i], projectOutput, projectOutput.LowestScore, p.MintPrice)
-
 		nftFile, err := json.MarshalIndent(projectOutput.NFTs[i], "", " ")
 		if err != nil {
 			errors.Wrap(err, 0)
@@ -194,6 +190,11 @@ func GenerateProjectOutput(p conf.Project, nfts []nftinfo.NFTInfo, attributeMap 
 
 		return projectOutput.NFTs[i].RarityScore > projectOutput.NFTs[j].RarityScore
 	})
+
+	for i, _ := range projectOutput.NFTs {
+		projectOutput.NFTs[i].RarityRank = i + 1
+		projectOutput.NFTs[i].Prices = genPrices(projectOutput.NFTs[i], projectOutput, projectOutput.LowestScore, p.MintPrice)
+	}
 
 	return projectOutput, nil
 }

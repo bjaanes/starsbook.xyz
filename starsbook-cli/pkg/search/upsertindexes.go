@@ -120,15 +120,12 @@ func UpsertIndexes(conf conf.Conf, force bool) error {
 			return errors.Wrap(err, 0)
 		}
 
-		_ = nfts
-
+		var documents []interface{}
 		for _, nft := range projectOutput.NFTs {
 			strId := strconv.Itoa(nft.ID)
 			id := fmt.Sprintf("%s_%s", p.ShortName, strId)
 
-			fmt.Printf("Upserting %q\n", id)
-
-			_, err = client.Collection(nftCollectionName).Documents().Upsert(nftDocument{
+			documents = append(documents, nftDocument{
 				Name:               nft.Name,
 				ID:                 id,
 				NFTID:              strId,
@@ -138,10 +135,14 @@ func UpsertIndexes(conf conf.Conf, force bool) error {
 				CollectionName:     p.Name,
 				CollectionImageUrl: fmt.Sprintf("https://starsbook.xyz/%s/projectImage", p.ShortName),
 			})
+		}
 
-			if err != nil {
-				return errors.Wrap(err, 0)
-			}
+		importAction := "upsert"
+		fmt.Printf("Upserting %d documents from %s into collection: %q\n", len(documents), p.Name, nftCollectionName)
+		if _, err := client.Collection(nftCollectionName).Documents().Import(documents, &api.ImportDocumentsParams{
+			Action: &importAction,
+		}); err != nil {
+			return errors.Wrap(err, 0)
 		}
 	}
 

@@ -9,12 +9,16 @@
     "typecheck": "vue-tsc --noEmit -p tsconfig.vitest.json --composite false"
   },
   "dependencies": {
+    "@babel/runtime": "^7.17.8",
+    "typesense": "^1.2.2",
     "vue": "^3.2.31",
     "vue-router": "^4.0.12"
   },
   "devDependencies": {
     "@types/jsdom": "^16.2.14",
     "@types/node": "^16.11.25",
+    "@vicons/fluent": "^0.12.0",
+    "@vicons/utils": "^0.1.4",
     "@vitejs/plugin-vue": "^2.2.2",
     "@vue/test-utils": "^2.0.0-rc.18",
     "@vue/tsconfig": "^0.1.3",

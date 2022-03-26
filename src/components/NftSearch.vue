@@ -1,46 +1,99 @@
 <script setup lang="ts">
 import {ref} from "vue";
-import { NSelect } from 'naive-ui'
+import { SearchClient as TypesenseSearchClient } from "typesense";
+import {NSelect} from "naive-ui";
 import type {SelectOption} from "naive-ui";
+import {DatabaseSearch24Regular, Search24Regular} from '@vicons/fluent'
+import { useRouter } from 'vue-router'
 
-const searchTerm = ref("");
-const loading = ref(false)
-const options = ref<SelectOption[]>([])
+let client = new TypesenseSearchClient({
+  'nodes': [{
+    'host': 'provider.akt.computer',
+    'port': 30220,
+    'protocol': 'http'
+  }],
+  'apiKey': '8YjeQBRORJhWVnP5XHlsyjennU9SBKdz',
+  'connectionTimeoutSeconds': 2
+});
 
-function handleSearch(query: string) {
+const router = useRouter()
+
+const loading = ref(false);
+const options = ref<SelectOption[]>([]);
+const value = ref(null);
+const show = ref(false);
+
+async function handleSearch(query: string) {
   if (!query.length) {
     options.value = []
     return
   }
-
   loading.value = true
+  const res = await client.collections("nfts").documents().search({
+    q: query,
+    query_by: "name,nftId,collectionName"
+  }, {})
+  loading.value = false;
 
-  window.setTimeout(() => {
-    options.value = [
-      {
-        label: 'Drive My Car',
-        value: 'song1'
+  if (res.hits) {
+    options.value = res.hits.map((hit) => {
+      const document = hit.document as { id: string; name: string }
+      return {
+        value: document.id,
+        label: document.name,
       }
-    ];
-    loading.value = false
-  }, 1000)
+    })
+  }
 
 }
+
+function handleSelect(selectedValue: string) {
+  const split = selectedValue.split('_')
+  router.push(`/${split[0]}/${split[1]}`);
+}
+
 </script>
 
 <template>
   <n-select
-      v-model:value="chosenNft"
-      placeholder="Search for any stargaze NFT"
+      v-model:value="value"
+      v-model:show="show"
       filterable
+      placeholder="Search NFTs"
+      :options="options"
+      :loading="loading"
       clearable
       remote
-      autosize
-      :loading="loading"
-      :options="options"
       @search="handleSearch"
-      style="width: 365px;" />
+      @update:value="handleSelect"
+      style="width: 365px;"
+  >
+    <template #arrow>
+      <transition name="slide-left">
+          <DatabaseSearch24Regular v-if="!show" />
+          <Search24Regular v-else />
+      </transition>
+    </template>
+  </n-select>
 </template>
 
 <style scoped>
+:deep(.slide-left-enter-active),
+:deep(.slide-left-leave-active) {
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+:deep(.slide-left-enter-from),
+:deep(.slide-left-leave-to) {
+  position: absolute;
+  opacity: 0;
+}
+
+:deep(.slide-left-enter-from) {
+  transform: translateX(-10px);
+}
+
+:deep(.slide-left-leave-to) {
+  transform: translateX(10px);
+}
 </style>

@@ -16,7 +16,6 @@ var indexCmd = &cobra.Command{
 		conf, err := conf.GetConfig()
 		if err != nil {
 			handleError(err)
-			return
 		}
 
 		if err := search.UpsertIndexes(conf, force); err != nil {

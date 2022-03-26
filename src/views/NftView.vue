@@ -2,7 +2,7 @@
 import NftInfo from "@/components/NftInfo.vue";
 import DataText from "@/components/DataText.vue";
 import { useRoute } from 'vue-router'
-import {onMounted, ref} from "vue";
+import {onMounted, ref, watch} from "vue";
 
 const route = useRoute()
 
@@ -16,7 +16,7 @@ const rarityRank = ref("");
 const KRV = ref("");
 const KARV = ref("");
 
-onMounted(async () => {
+const updateNftView = async () => {
   const projectShortName = String(route.name)
   const nftId = route.params.id;
   const projectInfo = await fetch(`/${projectShortName}/min_project.json`).then(res => res.json());
@@ -31,7 +31,12 @@ onMounted(async () => {
   rarityRank.value = nft.rarityRank;
   KRV.value = parseInt(nft.prices.KRV) + '';
   KARV.value = `${parseInt(nft.prices.KARV_NOW)} - ${parseInt(nft.prices.KARV_FUTURE)}`
-})
+}
+
+watch(() => route.params, updateNftView);
+onMounted(updateNftView)
+
+
 </script>
 
 <template>
