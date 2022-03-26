@@ -7,13 +7,13 @@ import {DatabaseSearch24Regular, Search24Regular} from '@vicons/fluent'
 import { useRouter } from 'vue-router'
 
 let client = new TypesenseSearchClient({
-  'nodes': [{
-    'host': 'starsbook-typesense.gjermund.tech',
-    'port': 30220,
-    'protocol': 'https'
+  nodes: [{
+    host: 'starsbook-typesense.gjermund.tech',
+    port: 443,
+    protocol: 'https'
   }],
-  'apiKey': '8YjeQBRORJhWVnP5XHlsyjennU9SBKdz',
-  'connectionTimeoutSeconds': 2
+  apiKey: 'lwf86ywndIydr1P4qGvfy9VaSd6ORGoN',
+  connectionTimeoutSeconds: 2
 });
 
 const router = useRouter()
