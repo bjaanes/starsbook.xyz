@@ -122,7 +122,17 @@ func UpsertIndexes(conf conf.Conf, force bool) error {
 
 		var documents []interface{}
 		for _, nft := range projectOutput.NFTs {
-			strId := strconv.Itoa(nft.ID)
+			strId := ""
+			if p.TraitIdOverride != "" {
+				for _, attr := range nft.Attributes {
+					if attr.Type == p.TraitIdOverride {
+						strId = attr.Value
+					}
+				}
+			}
+			if strId == "" {
+				strId = strconv.Itoa(nft.ID)
+			}
 			id := fmt.Sprintf("%s_%s", p.ShortName, strId)
 
 			documents = append(documents, nftDocument{

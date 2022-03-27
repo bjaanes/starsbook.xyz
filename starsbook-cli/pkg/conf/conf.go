@@ -20,6 +20,7 @@ type Project struct {
 	AttributesToIgnoreForDisplay []string `json:"attributesToIgnoreForDisplay"`
 	ShortName                    string   `json:"shortName"`
 	LinkToProjectImage           string   `json:"linkToProjectImage"`
+	TraitIdOverride              string   `json:"traitIdOverride"`
 }
 
 type Conf struct {

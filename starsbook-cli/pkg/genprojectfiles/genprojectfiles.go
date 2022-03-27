@@ -97,11 +97,25 @@ func generateProjectFile(p conf.Project) error {
 	}
 
 	for i, _ := range projectOutput.NFTs {
-		nftFile, err := json.Marshal(projectOutput.NFTs[i])
+		nft := projectOutput.NFTs[i]
+		nftFile, err := json.Marshal(nft)
 		if err != nil {
 			errors.Wrap(err, 0)
 		}
-		if err := ioutil.WriteFile(filepath.Join(p.GetNftOutDir(), strconv.Itoa(projectOutput.NFTs[i].RarityRank)+".json"), nftFile, 0644); err != nil {
+
+		id := ""
+		if p.TraitIdOverride != "" {
+			for _, attr := range nft.Attributes {
+				if attr.Type == p.TraitIdOverride {
+					id = attr.Value
+				}
+			}
+		}
+		if id == "" {
+			id = strconv.Itoa(nft.ID)
+		}
+
+		if err := ioutil.WriteFile(filepath.Join(p.GetNftOutDir(), id+".json"), nftFile, 0644); err != nil {
 			return errors.Wrap(err, 0)
 		}
 	}

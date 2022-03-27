@@ -26,7 +26,8 @@
       "attributesToIgnoreForRarity": ["Rank", "Age", "Diameter", "Gravity force"],
       "attributesToIgnoreForDisplay": ["Rank"],
       "shortName": "oblitus",
-      "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/bafybeiepe7v4tjdrcjoibkbtn6r6kyelpu4fexsd2b5k3lojcsq5st623u"
+      "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/bafybeiepe7v4tjdrcjoibkbtn6r6kyelpu4fexsd2b5k3lojcsq5st623u",
+      "traitIdOverride": "Rank"
     }
   ]
 }
