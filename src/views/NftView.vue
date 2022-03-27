@@ -40,7 +40,7 @@ onMounted(updateNftView)
 
 <template>
   <div class="nft-view-container">
-    <nft-info :title="nftTitle" :img="nftImg" :attributeTags="attributeTags" :collection-name="collectionName"></nft-info>
+    <nft-info :title="nftTitle" :img="nftImg" :attributeTags="attributeTags" :collection-name="collectionName" :rank="rarityRank"></nft-info>
     <div class="data-container">
       <data-text title="Starvalue" value="Coming soon" denomination="">
         Coming soon

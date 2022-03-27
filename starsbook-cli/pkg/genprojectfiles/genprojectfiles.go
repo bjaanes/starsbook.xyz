@@ -101,7 +101,7 @@ func generateProjectFile(p conf.Project) error {
 		if err != nil {
 			errors.Wrap(err, 0)
 		}
-		if err := ioutil.WriteFile(filepath.Join(p.GetNftOutDir(), strconv.Itoa(projectOutput.NFTs[i].ID)+".json"), nftFile, 0644); err != nil {
+		if err := ioutil.WriteFile(filepath.Join(p.GetNftOutDir(), strconv.Itoa(projectOutput.NFTs[i].RarityRank)+".json"), nftFile, 0644); err != nil {
 			return errors.Wrap(err, 0)
 		}
 	}

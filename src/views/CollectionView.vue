@@ -11,7 +11,7 @@ const loading = ref(false);
 const projectName = ref("");
 const numberOfNfts = ref(0);
 const page = ref(1);
-const nfts = ref<Array<{title: string, img: string, id: number}>>([])
+const nfts = ref<Array<{title: string, img: string, id: number, rarityRank: string}>>([])
 
 let projectShortName = "";
 
@@ -34,6 +34,7 @@ const loadNfts = async (from: number, to: number) => {
       title: nft.name,
       img: `/${projectShortName}/imgs/min_${nft.img}`,
       id: i,
+      rarityRank: nft.rarityRank,
     })
   }
   loading.value = false;
@@ -64,7 +65,7 @@ async function selectPage(page: number) {
     <h1>{{projectName}}</h1>
 
     <div class="nft-container">
-      <NftInfo class="nft" v-for="(nft, index) of nfts" :key="index" :title="nft.title" :img="nft.img" @click="selectNft(nft.id)"></NftInfo>
+      <NftInfo class="nft" v-for="(nft, index) of nfts" :key="index" :title="nft.title" :img="nft.img" :rank="nft.rarityRank" @click="selectNft(nft.id)"></NftInfo>
     </div>
 
     <div class="paginator-container">

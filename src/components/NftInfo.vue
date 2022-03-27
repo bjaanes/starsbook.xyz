@@ -15,6 +15,7 @@ const COLORS = [
 const props = defineProps<{
   img: string;
   title: string;
+  rank: string;
   collectionName?: string,
   attributeTags?: Array<{type: string, value: string}>;
 }>()
@@ -46,8 +47,9 @@ const attributeChips = computed(() => {
 <template>
   <div class="nft-info-container">
     <img v-if="img" class="nft-image" :src="img">
-    <div v-if="collectionName" class="summary-chips">
-      <chip :text="collectionName" :small="false" color="blue"></chip>
+    <div class="summary-chips">
+      <chip v-if="collectionName" :text="collectionName" :small="false" color="blue"></chip>
+      <chip :text="'Rank: ' + rank" :small="false" color="pink"></chip>
     </div>
     <div class="title">{{ title }}</div>
     <div v-if="attributeChips.length > 0" class="traits-title">Traits</div>
