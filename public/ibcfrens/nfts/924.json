@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Space Pink",
    "rarity": 0.056,
-   "rarityScore": 17.857143
+   "rarityScore": 17.857143,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Alien Pink",
    "rarity": 0.0242,
-   "rarityScore": 41.322315
+   "rarityScore": 41.322315,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Costume Frog",
    "rarity": 0.024,
-   "rarityScore": 41.666668
+   "rarityScore": 41.666668,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Normal Pink",
    "rarity": 0.041,
-   "rarityScore": 24.390244
+   "rarityScore": 24.390244,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Default",
    "rarity": 0.209,
-   "rarityScore": 4.784689
+   "rarityScore": 4.784689,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "None",
    "rarity": 0.3982,
-   "rarityScore": 2.5113008
+   "rarityScore": 2.5113008,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "None",
    "rarity": 0.7004,
-   "rarityScore": 1.4277556
+   "rarityScore": 1.4277556,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "924",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Pastel 6",
    "rarity": 0.025,
-   "rarityScore": 40
+   "rarityScore": 40,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Tattoo Light Yellow",
    "rarity": 0.0072,
-   "rarityScore": 138.88889
+   "rarityScore": 138.88889,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Naked",
    "rarity": 0.1564,
-   "rarityScore": 6.393862
+   "rarityScore": 6.393862,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Happy",
    "rarity": 0.0762,
-   "rarityScore": 13.12336
+   "rarityScore": 13.12336,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Happy",
    "rarity": 0.2072,
-   "rarityScore": 4.826255
+   "rarityScore": 4.826255,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Bucket Hat Pastel",
    "rarity": 0.0182,
-   "rarityScore": 54.945053
+   "rarityScore": 54.945053,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "None",
    "rarity": 0.7004,
-   "rarityScore": 1.4277556
+   "rarityScore": 1.4277556,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "4748",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

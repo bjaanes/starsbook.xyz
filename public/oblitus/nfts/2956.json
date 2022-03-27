@@ -9,43 +9,57 @@
    "type": "Diameter",
    "value": "81 thousand km",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Gravity force",
    "value": "7.4g",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Age",
    "value": "6 billion years",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Type",
    "value": "Sea Planet",
    "rarity": 0.3,
-   "rarityScore": 3.3333333
+   "rarityScore": 3.3333333,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Main composition",
    "value": "Palladium",
    "rarity": 0.017,
-   "rarityScore": 58.82353
+   "rarityScore": 58.82353,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Rank",
    "value": "1795",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   },
   {
    "type": "Rarity",
    "value": "Rare",
    "rarity": 0.3,
-   "rarityScore": 3.3333333
+   "rarityScore": 3.3333333,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   }
  ],
  "prices": {

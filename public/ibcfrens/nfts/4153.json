@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Stars Pink",
    "rarity": 0.06,
-   "rarityScore": 16.666666
+   "rarityScore": 16.666666,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Alien Light Yellow",
    "rarity": 0.1114,
-   "rarityScore": 8.976661
+   "rarityScore": 8.976661,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Shirt Light Blue",
    "rarity": 0.0202,
-   "rarityScore": 49.50495
+   "rarityScore": 49.50495,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Money Yen Pink",
    "rarity": 0.0016,
-   "rarityScore": 625
+   "rarityScore": 625,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Satisfied",
    "rarity": 0.152,
-   "rarityScore": 6.5789475
+   "rarityScore": 6.5789475,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Bucket Hat Light Blue",
    "rarity": 0.029,
-   "rarityScore": 34.482758
+   "rarityScore": 34.482758,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "Bolts Light Purple",
    "rarity": 0.0314,
-   "rarityScore": 31.847134
+   "rarityScore": 31.847134,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "4153",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

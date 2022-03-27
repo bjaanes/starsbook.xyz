@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Pastel 3",
    "rarity": 0.0244,
-   "rarityScore": 40.98361
+   "rarityScore": 40.98361,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Sunkissed Pink",
    "rarity": 0.005,
-   "rarityScore": 200
+   "rarityScore": 200,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Shirt Light Pink",
    "rarity": 0.0224,
-   "rarityScore": 44.642857
+   "rarityScore": 44.642857,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Normal Pink",
    "rarity": 0.041,
-   "rarityScore": 24.390244
+   "rarityScore": 24.390244,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Default",
    "rarity": 0.209,
-   "rarityScore": 4.784689
+   "rarityScore": 4.784689,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Head Band Network",
    "rarity": 0.0088,
-   "rarityScore": 113.63636
+   "rarityScore": 113.63636,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "None",
    "rarity": 0.7004,
-   "rarityScore": 1.4277556
+   "rarityScore": 1.4277556,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "3028",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

@@ -9,43 +9,57 @@
    "type": "Diameter",
    "value": "68 thousand km",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Gravity force",
    "value": "6.1g",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Age",
    "value": "7 billion years",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Type",
    "value": "Ice Planet",
    "rarity": 0.075,
-   "rarityScore": 13.333333
+   "rarityScore": 13.333333,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Main composition",
    "value": "Platinum",
    "rarity": 0.00975,
-   "rarityScore": 102.5641
+   "rarityScore": 102.5641,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Rank",
    "value": "1145",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   },
   {
    "type": "Rarity",
    "value": "Epic",
    "rarity": 0.15,
-   "rarityScore": 6.6666665
+   "rarityScore": 6.6666665,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   }
  ],
  "prices": {

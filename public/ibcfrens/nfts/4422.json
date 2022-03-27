@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Rainbow Purple",
    "rarity": 0.0336,
-   "rarityScore": 29.761906
+   "rarityScore": 29.761906,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Sunkissed Light Pink",
    "rarity": 0.005,
-   "rarityScore": 200
+   "rarityScore": 200,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Light Space Suit Light Pink",
    "rarity": 0.0218,
-   "rarityScore": 45.87156
+   "rarityScore": 45.87156,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Normal Pink",
    "rarity": 0.041,
-   "rarityScore": 24.390244
+   "rarityScore": 24.390244,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Default",
    "rarity": 0.209,
-   "rarityScore": 4.784689
+   "rarityScore": 4.784689,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Head Band Light Pink",
    "rarity": 0.0234,
-   "rarityScore": 42.735043
+   "rarityScore": 42.735043,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "None",
    "rarity": 0.7004,
-   "rarityScore": 1.4277556
+   "rarityScore": 1.4277556,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "4422",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

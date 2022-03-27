@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Rainbow Green",
    "rarity": 0.0364,
-   "rarityScore": 27.472527
+   "rarityScore": 27.472527,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Alien Light Blue",
    "rarity": 0.1236,
-   "rarityScore": 8.090615
+   "rarityScore": 8.090615,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Shirt Light Pink",
    "rarity": 0.0224,
-   "rarityScore": 44.642857
+   "rarityScore": 44.642857,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Space Haze Pink",
    "rarity": 0.015,
-   "rarityScore": 66.666664
+   "rarityScore": 66.666664,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Happy",
    "rarity": 0.2072,
-   "rarityScore": 4.826255
+   "rarityScore": 4.826255,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Bucket Hat Pastel",
    "rarity": 0.0182,
-   "rarityScore": 54.945053
+   "rarityScore": 54.945053,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "None",
    "rarity": 0.7004,
-   "rarityScore": 1.4277556
+   "rarityScore": 1.4277556,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "1265",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

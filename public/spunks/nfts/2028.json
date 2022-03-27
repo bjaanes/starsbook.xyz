@@ -9,67 +9,89 @@
    "type": "Background",
    "value": "purple_magic",
    "rarity": 0.036678668,
-   "rarityScore": 27.263803
+   "rarityScore": 27.263803,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Glow",
    "value": "empty",
    "rarity": 0.45409542,
-   "rarityScore": 2.2021804
+   "rarityScore": 2.2021804,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Back",
    "value": "red_backsaber",
    "rarity": 0.046017103,
-   "rarityScore": 21.73105
+   "rarityScore": 21.73105,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Species",
    "value": "humanoid2",
    "rarity": 0.12972547,
-   "rarityScore": 7.708586
+   "rarityScore": 7.708586,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "FaceDetail",
    "value": "shinobi_band",
    "rarity": 0.013613861,
-   "rarityScore": 73.454544
+   "rarityScore": 73.454544,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "basic_mouth",
    "rarity": 0.3921017,
-   "rarityScore": 2.5503588
+   "rarityScore": 2.5503588,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "redsin_eyes",
    "rarity": 0.0679568,
-   "rarityScore": 14.715232
+   "rarityScore": 14.715232,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Tops",
    "value": "litegraycloak",
    "rarity": 0.017551756,
-   "rarityScore": 56.974358
+   "rarityScore": 56.974358,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Hair",
    "value": "blackmidsideslick_hair",
    "rarity": 0.020139514,
-   "rarityScore": 49.653633
+   "rarityScore": 49.653633,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Front",
    "value": "empty",
    "rarity": 0.16719171,
-   "rarityScore": 5.9811573
+   "rarityScore": 5.9811573,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Bubble",
    "value": "questionbubble_special",
    "rarity": 0.045004502,
-   "rarityScore": 22.22
+   "rarityScore": 22.22,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   }
  ],
  "prices": {

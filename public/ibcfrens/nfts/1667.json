@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Space Pink",
    "rarity": 0.056,
-   "rarityScore": 17.857143
+   "rarityScore": 17.857143,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Zombie Green",
    "rarity": 0.0074,
-   "rarityScore": 135.13513
+   "rarityScore": 135.13513,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Shirt Light Green",
    "rarity": 0.0214,
-   "rarityScore": 46.728973
+   "rarityScore": 46.728973,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "None",
    "rarity": 0.0536,
-   "rarityScore": 18.656717
+   "rarityScore": 18.656717,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Space Cigarette",
    "rarity": 0.0806,
-   "rarityScore": 12.406948
+   "rarityScore": 12.406948,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "None",
    "rarity": 0.3982,
-   "rarityScore": 2.5113008
+   "rarityScore": 2.5113008,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "None",
    "rarity": 0.7004,
-   "rarityScore": 1.4277556
+   "rarityScore": 1.4277556,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "1667",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

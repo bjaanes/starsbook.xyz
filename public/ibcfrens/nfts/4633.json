@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Space Green",
    "rarity": 0.0626,
-   "rarityScore": 15.974441
+   "rarityScore": 15.974441,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Alien Light Blue",
    "rarity": 0.1236,
-   "rarityScore": 8.090615
+   "rarityScore": 8.090615,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Shirt Light Green",
    "rarity": 0.0214,
-   "rarityScore": 46.728973
+   "rarityScore": 46.728973,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Dazed",
    "rarity": 0.034,
-   "rarityScore": 29.411764
+   "rarityScore": 29.411764,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Default",
    "rarity": 0.209,
-   "rarityScore": 4.784689
+   "rarityScore": 4.784689,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Head Band Light Green",
    "rarity": 0.0254,
-   "rarityScore": 39.37008
+   "rarityScore": 39.37008,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "Bolts Light Green",
    "rarity": 0.0334,
-   "rarityScore": 29.94012
+   "rarityScore": 29.94012,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "4633",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

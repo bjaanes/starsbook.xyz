@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Pastel 2",
    "rarity": 0.0264,
-   "rarityScore": 37.878788
+   "rarityScore": 37.878788,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Alien Light Green",
    "rarity": 0.115,
-   "rarityScore": 8.695652
+   "rarityScore": 8.695652,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Costume Elephant",
    "rarity": 0.0222,
-   "rarityScore": 45.045044
+   "rarityScore": 45.045044,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Dazed",
    "rarity": 0.034,
-   "rarityScore": 29.411764
+   "rarityScore": 29.411764,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Satisfied",
    "rarity": 0.152,
-   "rarityScore": 6.5789475
+   "rarityScore": 6.5789475,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "None",
    "rarity": 0.3982,
-   "rarityScore": 2.5113008
+   "rarityScore": 2.5113008,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "None",
    "rarity": 0.7004,
-   "rarityScore": 1.4277556
+   "rarityScore": 1.4277556,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "833",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

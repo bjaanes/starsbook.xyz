@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Pastel 4",
    "rarity": 0.0232,
-   "rarityScore": 43.103447
+   "rarityScore": 43.103447,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Melted Face Light Pink",
    "rarity": 0.0078,
-   "rarityScore": 128.20512
+   "rarityScore": 128.20512,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Naked",
    "rarity": 0.1564,
-   "rarityScore": 6.393862
+   "rarityScore": 6.393862,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Space Haze Light Blue",
    "rarity": 0.0138,
-   "rarityScore": 72.46377
+   "rarityScore": 72.46377,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Space Joint",
    "rarity": 0.0548,
-   "rarityScore": 18.248175
+   "rarityScore": 18.248175,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Head Band Pink",
    "rarity": 0.0178,
-   "rarityScore": 56.179775
+   "rarityScore": 56.179775,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "Bolts Pink",
    "rarity": 0.0308,
-   "rarityScore": 32.467533
+   "rarityScore": 32.467533,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "3925",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Stars Yellow",
    "rarity": 0.0578,
-   "rarityScore": 17.301039
+   "rarityScore": 17.301039,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Alien Light Pink",
    "rarity": 0.1228,
-   "rarityScore": 8.143323
+   "rarityScore": 8.143323,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Shirt Network",
    "rarity": 0.0046,
-   "rarityScore": 217.39131
+   "rarityScore": 217.39131,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Stars Purple",
    "rarity": 0.016,
-   "rarityScore": 62.5
+   "rarityScore": 62.5,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Surprised",
    "rarity": 0.1112,
-   "rarityScore": 8.9928055
+   "rarityScore": 8.9928055,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Head Band Light Purple",
    "rarity": 0.0228,
-   "rarityScore": 43.85965
+   "rarityScore": 43.85965,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "Bolts Yellow",
    "rarity": 0.0272,
-   "rarityScore": 36.764706
+   "rarityScore": 36.764706,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "1913",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Space Pink",
    "rarity": 0.056,
-   "rarityScore": 17.857143
+   "rarityScore": 17.857143,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Tattoo Green",
    "rarity": 0.0068,
-   "rarityScore": 147.05882
+   "rarityScore": 147.05882,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Naked",
    "rarity": 0.1564,
-   "rarityScore": 6.393862
+   "rarityScore": 6.393862,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Hearts Green",
    "rarity": 0.0174,
-   "rarityScore": 57.471264
+   "rarityScore": 57.471264,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Satisfied",
    "rarity": 0.152,
-   "rarityScore": 6.5789475
+   "rarityScore": 6.5789475,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Bucket Hat Yellow",
    "rarity": 0.031,
-   "rarityScore": 32.258064
+   "rarityScore": 32.258064,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "Bolts Light Yellow",
    "rarity": 0.0252,
-   "rarityScore": 39.68254
+   "rarityScore": 39.68254,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "3679",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

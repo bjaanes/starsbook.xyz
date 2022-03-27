@@ -9,67 +9,89 @@
    "type": "Background",
    "value": "vapor_night",
    "rarity": 0.023514852,
-   "rarityScore": 42.526318
+   "rarityScore": 42.526318,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Glow",
    "value": "pink_headglow",
    "rarity": 0.09619712,
-   "rarityScore": 10.395322
+   "rarityScore": 10.395322,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Back",
    "value": "edge_earring_gold",
    "rarity": 0.006863186,
-   "rarityScore": 145.70493
+   "rarityScore": 145.70493,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Species",
    "value": "humanoid6",
    "rarity": 0.113523856,
-   "rarityScore": 8.808722
+   "rarityScore": 8.808722,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "FaceDetail",
    "value": "the_mark_blue",
    "rarity": 0.012938794,
-   "rarityScore": 77.28696
+   "rarityScore": 77.28696,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "basic_mouth",
    "rarity": 0.3921017,
-   "rarityScore": 2.5503588
+   "rarityScore": 2.5503588,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "red_eyes",
    "rarity": 0.11971197,
-   "rarityScore": 8.353383
+   "rarityScore": 8.353383,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Tops",
    "value": "noircloak",
    "rarity": 0.01620162,
-   "rarityScore": 61.72222
+   "rarityScore": 61.72222,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Hair",
    "value": "purplebob_hair",
    "rarity": 0.015526553,
-   "rarityScore": 64.4058
+   "rarityScore": 64.4058,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Front",
    "value": "empty",
    "rarity": 0.16719171,
-   "rarityScore": 5.9811573
+   "rarityScore": 5.9811573,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Bubble",
    "value": "talkybubble_special",
    "rarity": 0.046467148,
-   "rarityScore": 21.52058
+   "rarityScore": 21.52058,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   }
  ],
  "prices": {

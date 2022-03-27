@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Pastel 8",
    "rarity": 0.027,
-   "rarityScore": 37.037037
+   "rarityScore": 37.037037,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Tattoo Pink",
    "rarity": 0.0064,
-   "rarityScore": 156.25
+   "rarityScore": 156.25,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Naked",
    "rarity": 0.1564,
-   "rarityScore": 6.393862
+   "rarityScore": 6.393862,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Normal Pink",
    "rarity": 0.041,
-   "rarityScore": 24.390244
+   "rarityScore": 24.390244,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Grumpy",
    "rarity": 0.0994,
-   "rarityScore": 10.060362
+   "rarityScore": 10.060362,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Head Band Pink",
    "rarity": 0.0178,
-   "rarityScore": 56.179775
+   "rarityScore": 56.179775,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "Bolts Light Purple",
    "rarity": 0.0314,
-   "rarityScore": 31.847134
+   "rarityScore": 31.847134,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "2774",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Space Purple",
    "rarity": 0.0474,
-   "rarityScore": 21.097046
+   "rarityScore": 21.097046,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Alien Pink",
    "rarity": 0.0242,
-   "rarityScore": 41.322315
+   "rarityScore": 41.322315,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Costume Dog Brown",
    "rarity": 0.016,
-   "rarityScore": 62.5
+   "rarityScore": 62.5,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Space Haze Yellow",
    "rarity": 0.014,
-   "rarityScore": 71.42857
+   "rarityScore": 71.42857,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Surprised",
    "rarity": 0.1112,
-   "rarityScore": 8.9928055
+   "rarityScore": 8.9928055,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "None",
    "rarity": 0.3982,
-   "rarityScore": 2.5113008
+   "rarityScore": 2.5113008,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "None",
    "rarity": 0.7004,
-   "rarityScore": 1.4277556
+   "rarityScore": 1.4277556,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "2122",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

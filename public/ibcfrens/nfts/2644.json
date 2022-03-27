@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Pastel 7",
    "rarity": 0.0274,
-   "rarityScore": 36.49635
+   "rarityScore": 36.49635,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Alien Light Pink",
    "rarity": 0.1228,
-   "rarityScore": 8.143323
+   "rarityScore": 8.143323,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Costume Frog",
    "rarity": 0.024,
-   "rarityScore": 41.666668
+   "rarityScore": 41.666668,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Stars Pink",
    "rarity": 0.0156,
-   "rarityScore": 64.10256
+   "rarityScore": 64.10256,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Surprised",
    "rarity": 0.1112,
-   "rarityScore": 8.9928055
+   "rarityScore": 8.9928055,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "None",
    "rarity": 0.3982,
-   "rarityScore": 2.5113008
+   "rarityScore": 2.5113008,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "None",
    "rarity": 0.7004,
-   "rarityScore": 1.4277556
+   "rarityScore": 1.4277556,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "2644",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Rainbow Pink",
    "rarity": 0.0386,
-   "rarityScore": 25.906736
+   "rarityScore": 25.906736,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Alien Blue",
    "rarity": 0.0278,
-   "rarityScore": 35.971222
+   "rarityScore": 35.971222,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Shirt Light Green",
    "rarity": 0.0214,
-   "rarityScore": 46.728973
+   "rarityScore": 46.728973,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Normal Blue",
    "rarity": 0.043,
-   "rarityScore": 23.255814
+   "rarityScore": 23.255814,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Satisfied",
    "rarity": 0.152,
-   "rarityScore": 6.5789475
+   "rarityScore": 6.5789475,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Head Band Green",
    "rarity": 0.0268,
-   "rarityScore": 37.313435
+   "rarityScore": 37.313435,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "None",
    "rarity": 0.7004,
-   "rarityScore": 1.4277556
+   "rarityScore": 1.4277556,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "1718",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

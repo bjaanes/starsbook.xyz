@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Rainbow Purple",
    "rarity": 0.0336,
-   "rarityScore": 29.761906
+   "rarityScore": 29.761906,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Alien Light Purple",
    "rarity": 0.1082,
-   "rarityScore": 9.242145
+   "rarityScore": 9.242145,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Light Space Suit Light Pink",
    "rarity": 0.0218,
-   "rarityScore": 45.87156
+   "rarityScore": 45.87156,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Normal Light Purple",
    "rarity": 0.0352,
-   "rarityScore": 28.40909
+   "rarityScore": 28.40909,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Happy",
    "rarity": 0.2072,
-   "rarityScore": 4.826255
+   "rarityScore": 4.826255,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Head Band Light Purple",
    "rarity": 0.0228,
-   "rarityScore": 43.85965
+   "rarityScore": 43.85965,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "Bolts Purple",
    "rarity": 0.0272,
-   "rarityScore": 36.764706
+   "rarityScore": 36.764706,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "1956",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

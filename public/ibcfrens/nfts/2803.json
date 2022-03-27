@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Pastel 2",
    "rarity": 0.0264,
-   "rarityScore": 37.878788
+   "rarityScore": 37.878788,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Sunkissed Pink",
    "rarity": 0.005,
-   "rarityScore": 200
+   "rarityScore": 200,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Light Space Suit Light Green",
    "rarity": 0.0236,
-   "rarityScore": 42.372883
+   "rarityScore": 42.372883,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Kamaboko",
    "rarity": 0.0172,
-   "rarityScore": 58.139534
+   "rarityScore": 58.139534,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Sad",
    "rarity": 0.0308,
-   "rarityScore": 32.467533
+   "rarityScore": 32.467533,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Head Band Light Yellow",
    "rarity": 0.0234,
-   "rarityScore": 42.735043
+   "rarityScore": 42.735043,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "Bolts Light Green",
    "rarity": 0.0334,
-   "rarityScore": 29.94012
+   "rarityScore": 29.94012,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "2803",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

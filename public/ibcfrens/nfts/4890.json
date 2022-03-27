@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Rainbow Blue",
    "rarity": 0.0368,
-   "rarityScore": 27.173914
+   "rarityScore": 27.173914,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Alien Light Yellow",
    "rarity": 0.1114,
-   "rarityScore": 8.976661
+   "rarityScore": 8.976661,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Light Space Suit Light Pink",
    "rarity": 0.0218,
-   "rarityScore": 45.87156
+   "rarityScore": 45.87156,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Dazed",
    "rarity": 0.034,
-   "rarityScore": 29.411764
+   "rarityScore": 29.411764,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Space Cigarette",
    "rarity": 0.0806,
-   "rarityScore": 12.406948
+   "rarityScore": 12.406948,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Bucket Hat Pink",
    "rarity": 0.034,
-   "rarityScore": 29.411764
+   "rarityScore": 29.411764,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "Bolts Blue",
    "rarity": 0.0274,
-   "rarityScore": 36.49635
+   "rarityScore": 36.49635,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "4890",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

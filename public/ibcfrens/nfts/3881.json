@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Space Purple",
    "rarity": 0.0474,
-   "rarityScore": 21.097046
+   "rarityScore": 21.097046,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Sunkissed Pink",
    "rarity": 0.005,
-   "rarityScore": 200
+   "rarityScore": 200,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Striped Shirt Pastel",
    "rarity": 0.0228,
-   "rarityScore": 43.85965
+   "rarityScore": 43.85965,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Hearts Purple",
    "rarity": 0.0158,
-   "rarityScore": 63.291138
+   "rarityScore": 63.291138,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Default",
    "rarity": 0.209,
-   "rarityScore": 4.784689
+   "rarityScore": 4.784689,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Head Band Blue",
    "rarity": 0.0238,
-   "rarityScore": 42.016808
+   "rarityScore": 42.016808,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "Bolts Light Blue",
    "rarity": 0.0226,
-   "rarityScore": 44.247787
+   "rarityScore": 44.247787,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "3881",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

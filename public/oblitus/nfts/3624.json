@@ -9,43 +9,57 @@
    "type": "Diameter",
    "value": "76 thousand km",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Gravity force",
    "value": "7.4g",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Age",
    "value": "3 billion years",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Type",
    "value": "Gas Planet",
    "rarity": 0.1,
-   "rarityScore": 10
+   "rarityScore": 10,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Main composition",
    "value": "Nickel",
    "rarity": 0.01225,
-   "rarityScore": 81.63265
+   "rarityScore": 81.63265,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Rank",
    "value": "2734",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   },
   {
    "type": "Rarity",
    "value": "Common",
    "rarity": 0.4,
-   "rarityScore": 2.5
+   "rarityScore": 2.5,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   }
  ],
  "prices": {

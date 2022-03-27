@@ -9,43 +9,57 @@
    "type": "Diameter",
    "value": "68 thousand km",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Gravity force",
    "value": "2.0g",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Age",
    "value": "3 billion years",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Type",
    "value": "Gas Planet",
    "rarity": 0.1,
-   "rarityScore": 10
+   "rarityScore": 10,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Main composition",
    "value": "Lithium",
    "rarity": 0.01875,
-   "rarityScore": 53.333332
+   "rarityScore": 53.333332,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Rank",
    "value": "2523",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   },
   {
    "type": "Rarity",
    "value": "Common",
    "rarity": 0.4,
-   "rarityScore": 2.5
+   "rarityScore": 2.5,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   }
  ],
  "prices": {

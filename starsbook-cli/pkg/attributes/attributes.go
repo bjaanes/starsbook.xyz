@@ -9,7 +9,7 @@ import (
 type NumberOfInstancesOfTrait map[string]int          // Attribute value -> number of nfts with that value
 type AttributeMap map[string]NumberOfInstancesOfTrait // Attribute type -> map of values
 
-func GenerateAttributeMap(p conf.Project) (AttributeMap, error) {
+func GenerateRarityAttributeMap(p conf.Project) (AttributeMap, error) {
 	nfts, err := nftinfo.GetNFTInfos(p)
 	if err != nil {
 		return nil, errors.Wrap(err, 0)
@@ -18,7 +18,7 @@ func GenerateAttributeMap(p conf.Project) (AttributeMap, error) {
 	attributeMap := make(AttributeMap)
 	for _, nft := range nfts {
 		for _, attr := range nft.Attributes {
-			if shouldIgnoreAttribute(attr, p) {
+			if IgnoreForRarity(p, attr) {
 				continue
 			}
 
@@ -34,8 +34,18 @@ func GenerateAttributeMap(p conf.Project) (AttributeMap, error) {
 	return attributeMap, nil
 }
 
-func shouldIgnoreAttribute(attr nftinfo.Attribute, p conf.Project) bool {
-	for _, ign := range p.AttributesToIgnore {
+func IgnoreForRarity(p conf.Project, attr nftinfo.Attribute) bool {
+	for _, ign := range p.AttributesToIgnoreForRarity {
+		if ign == attr.TraitType {
+			return true
+		}
+	}
+
+	return false
+}
+
+func IgnoreForDisplay(p conf.Project, attr nftinfo.Attribute) bool {
+	for _, ign := range p.AttributesToIgnoreForDisplay {
 		if ign == attr.TraitType {
 			return true
 		}

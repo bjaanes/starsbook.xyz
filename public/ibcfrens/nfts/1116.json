@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Stars Green",
    "rarity": 0.0522,
-   "rarityScore": 19.157087
+   "rarityScore": 19.157087,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Sunkissed Light Blue",
    "rarity": 0.0052,
-   "rarityScore": 192.3077
+   "rarityScore": 192.3077,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Light Space Suit Green",
    "rarity": 0.0082,
-   "rarityScore": 121.95122
+   "rarityScore": 121.95122,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Space Haze Light Yellow",
    "rarity": 0.0144,
-   "rarityScore": 69.44444
+   "rarityScore": 69.44444,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Happy",
    "rarity": 0.2072,
-   "rarityScore": 4.826255
+   "rarityScore": 4.826255,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Head Band Blue",
    "rarity": 0.0238,
-   "rarityScore": 42.016808
+   "rarityScore": 42.016808,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "Bolts Yellow",
    "rarity": 0.0272,
-   "rarityScore": 36.764706
+   "rarityScore": 36.764706,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "1116",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

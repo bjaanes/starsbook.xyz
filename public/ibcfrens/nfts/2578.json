@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Rainbow Pink",
    "rarity": 0.0386,
-   "rarityScore": 25.906736
+   "rarityScore": 25.906736,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Alien Light Yellow",
    "rarity": 0.1114,
-   "rarityScore": 8.976661
+   "rarityScore": 8.976661,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Light Space Suit Light Blue",
    "rarity": 0.0226,
-   "rarityScore": 44.247787
+   "rarityScore": 44.247787,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Grumpy",
    "rarity": 0.0622,
-   "rarityScore": 16.077171
+   "rarityScore": 16.077171,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Satisfied",
    "rarity": 0.152,
-   "rarityScore": 6.5789475
+   "rarityScore": 6.5789475,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "Head Band Pink",
    "rarity": 0.0178,
-   "rarityScore": 56.179775
+   "rarityScore": 56.179775,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "Bolts Light Blue",
    "rarity": 0.0226,
-   "rarityScore": 44.247787
+   "rarityScore": 44.247787,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "2578",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

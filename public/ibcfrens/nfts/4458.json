@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Stars Gold",
    "rarity": 0.0012,
-   "rarityScore": 833.3333
+   "rarityScore": 833.3333,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Tattoo Gold",
    "rarity": 0.001,
-   "rarityScore": 1000
+   "rarityScore": 1000,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Costume Cat Gold",
    "rarity": 0.0002,
-   "rarityScore": 5000
+   "rarityScore": 5000,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Space Haze Gold",
    "rarity": 0.0012,
-   "rarityScore": 833.3333
+   "rarityScore": 833.3333,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Happy Gold",
    "rarity": 0.0126,
-   "rarityScore": 79.36508
+   "rarityScore": 79.36508,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "None",
    "rarity": 0.3982,
-   "rarityScore": 2.5113008
+   "rarityScore": 2.5113008,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "None",
    "rarity": 0.7004,
-   "rarityScore": 1.4277556
+   "rarityScore": 1.4277556,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "4458",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

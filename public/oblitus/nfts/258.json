@@ -9,43 +9,57 @@
    "type": "Diameter",
    "value": "95 thousand km",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Gravity force",
    "value": "5.3g",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Age",
    "value": "10 billion years",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": false
   },
   {
    "type": "Type",
    "value": "Giant Gas Planet",
    "rarity": 0.1,
-   "rarityScore": 10
+   "rarityScore": 10,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Main composition",
    "value": "Dubnium",
    "rarity": 0.0065,
-   "rarityScore": 153.84616
+   "rarityScore": 153.84616,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Rank",
    "value": "376",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   },
   {
    "type": "Rarity",
    "value": "Legendary",
    "rarity": 0.1,
-   "rarityScore": 10
+   "rarityScore": 10,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   }
  ],
  "prices": {

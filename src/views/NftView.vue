@@ -25,7 +25,7 @@ const updateNftView = async () => {
   nftTitle.value = nft.name;
   nftImg.value = `/${projectShortName}/imgs/${nft.img}`;
   attributeTags.value = nft.attributes
-      .filter((attr: { rarityScore: number }) => attr.rarityScore != 0);
+      .filter((attr: { ignoredForDisplay: boolean }) => !attr.ignoredForDisplay);
   collectionName.value = projectInfo.name;
   rarityScore.value = parseInt(nft.rarityScore) + '';
   rarityRank.value = nft.rarityRank;

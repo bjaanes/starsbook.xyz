@@ -110,7 +110,7 @@ func UpsertIndexes(conf conf.Conf, force bool) error {
 			return errors.Wrap(err, 0)
 		}
 
-		attributeMap, err := attributes.GenerateAttributeMap(p)
+		attributeMap, err := attributes.GenerateRarityAttributeMap(p)
 		if err != nil {
 			return errors.Wrap(err, 0)
 		}

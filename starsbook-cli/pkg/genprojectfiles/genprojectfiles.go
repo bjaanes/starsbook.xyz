@@ -52,10 +52,12 @@ type PriceOutputJson struct {
 }
 
 type AttributeOutputJson struct {
-	Type        string  `json:"type"`
-	Value       string  `json:"value"`
-	Rarity      float32 `json:"rarity"`
-	RarityScore float32 `json:"rarityScore"`
+	Type              string  `json:"type"`
+	Value             string  `json:"value"`
+	Rarity            float32 `json:"rarity"`
+	RarityScore       float32 `json:"rarityScore"`
+	IgnoredForRarity  bool    `json:"ignoredForRarity"`
+	IgnoredForDisplay bool    `json:"ignoredForDisplay"`
 }
 
 func ProjectFiles(c conf.Conf) error {
@@ -75,7 +77,7 @@ func generateProjectFile(p conf.Project) error {
 		return errors.Wrap(err, 0)
 	}
 
-	attributeMap, err := attributes.GenerateAttributeMap(p)
+	attributeMap, err := attributes.GenerateRarityAttributeMap(p)
 	if err != nil {
 		return errors.Wrap(err, 0)
 	}
@@ -159,8 +161,10 @@ func GenerateProjectOutput(p conf.Project, nfts []nftinfo.NFTInfo, attributeMap 
 		nftRarityScore := float32(0.0)
 		for _, attr := range nft.Attributes {
 			attrOut := AttributeOutputJson{
-				Type:  attr.TraitType,
-				Value: attr.GetValue(),
+				Type:              attr.TraitType,
+				Value:             attr.GetValue(),
+				IgnoredForDisplay: attributes.IgnoreForDisplay(p, attr),
+				IgnoredForRarity:  attributes.IgnoreForRarity(p, attr),
 			}
 			numberOfNftsWithTrait := attributeMap[attr.TraitType][attr.GetValue()]
 			rarity := float32(numberOfNftsWithTrait) / float32(projectOutput.NumberOfNfts)

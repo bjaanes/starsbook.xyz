@@ -5,7 +5,8 @@
       "name": "IBC Frens",
       "mintPrice": 140,
       "ipfsBase": "bafybeihf34yjxtn4yy6j2ikkoc2u2bwif2fif2bc4ks5rrnh43wxmemgd4/galaxyd0C8he",
-      "attributesToIgnore": [ "generation" ],
+      "attributesToIgnoreForRarity": ["generation"],
+      "attributesToIgnoreForDisplay": ["generation"],
       "shortName": "ibcfrens",
       "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/bafkreigsz56ruyr4n5wp44vvlhmgxdp2qsyxzsi2n53aermeczbyimy6yi"
     },
@@ -13,7 +14,8 @@
       "name": "Stargaze Punks",
       "mintPrice": 148,
       "ipfsBase": "bafybeibmhfvddexxwwt52mknwqa74fp7jkqiktedmruxlnuvtbpwbfyhqa/metadata",
-      "attributesToIgnore": [],
+      "attributesToIgnoreForRarity": [],
+      "attributesToIgnoreForDisplay": [],
       "shortName": "spunks",
       "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/QmVBi8jxc1mvucbiP712FQygbNFtNs8vdm3uCxxKtXiA4h"
     },
@@ -21,7 +23,8 @@
       "name": "Oblitus | Forgotten worlds",
       "mintPrice": 168,
       "ipfsBase": "bafybeiegasb7srfhsinxw5lwcz4yj4x7jmiguqmv3jkwmblssnoyitno74/galaxyhK0KQY",
-      "attributesToIgnore": ["Rank", "Age", "Diameter", "Gravity force"],
+      "attributesToIgnoreForRarity": ["Rank", "Age", "Diameter", "Gravity force"],
+      "attributesToIgnoreForDisplay": ["Rank"],
       "shortName": "oblitus",
       "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/bafybeiepe7v4tjdrcjoibkbtn6r6kyelpu4fexsd2b5k3lojcsq5st623u"
     }

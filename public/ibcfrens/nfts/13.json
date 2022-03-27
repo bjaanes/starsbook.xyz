@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Stars Gold",
    "rarity": 0.0012,
-   "rarityScore": 833.3333
+   "rarityScore": 833.3333,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Alien Gold",
    "rarity": 0.0026,
-   "rarityScore": 384.6154
+   "rarityScore": 384.6154,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Shirt Gold",
    "rarity": 0.001,
-   "rarityScore": 1000
+   "rarityScore": 1000,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Space Haze Gold",
    "rarity": 0.0012,
-   "rarityScore": 833.3333
+   "rarityScore": 833.3333,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Grumpy Gold",
    "rarity": 0.0102,
-   "rarityScore": 98.039215
+   "rarityScore": 98.039215,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "None",
    "rarity": 0.3982,
-   "rarityScore": 2.5113008
+   "rarityScore": 2.5113008,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "Bolts Gold",
    "rarity": 0.0016,
-   "rarityScore": 625
+   "rarityScore": 625,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "13",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {

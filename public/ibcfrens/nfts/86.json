@@ -9,49 +9,65 @@
    "type": "Background",
    "value": "Stars Gold",
    "rarity": 0.0012,
-   "rarityScore": 833.3333
+   "rarityScore": 833.3333,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Character",
    "value": "Alien Gold",
    "rarity": 0.0026,
-   "rarityScore": 384.6154
+   "rarityScore": 384.6154,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Body",
    "value": "Heavy Space Suit Gold",
    "rarity": 0.0006,
-   "rarityScore": 1666.6666
+   "rarityScore": 1666.6666,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Eyes",
    "value": "Spider Gold",
    "rarity": 0.0002,
-   "rarityScore": 5000
+   "rarityScore": 5000,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Mouth",
    "value": "Happy Gold",
    "rarity": 0.0126,
-   "rarityScore": 79.36508
+   "rarityScore": 79.36508,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Head",
    "value": "None",
    "rarity": 0.3982,
-   "rarityScore": 2.5113008
+   "rarityScore": 2.5113008,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "Antennas",
    "value": "Bolts Gold",
    "rarity": 0.0016,
-   "rarityScore": 625
+   "rarityScore": 625,
+   "ignoredForRarity": false,
+   "ignoredForDisplay": false
   },
   {
    "type": "generation",
    "value": "86",
    "rarity": 0,
-   "rarityScore": 0
+   "rarityScore": 0,
+   "ignoredForRarity": true,
+   "ignoredForDisplay": true
   }
  ],
  "prices": {
