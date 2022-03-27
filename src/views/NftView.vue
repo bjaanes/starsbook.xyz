@@ -46,14 +46,14 @@ onMounted(updateNftView)
         Coming soon
       </data-text>
       <data-text title="Rarity" :value="rarityScore" denomination="">
-        Rarity score. More coming soon...
+        Rarity score. Uses the relative rarity of each trait for calculating the rarity of the NFT.
       </data-text>
       <data-text title="Rarity rank" :value="rarityRank" denomination="">
         The rarity rank in the collection.
       </data-text>
       <data-text title="KRV" :value="KRV" denomination="STARS">
         The Kryoten Rarity Valuation.<br>
-        This is an algorithm designed by Kryoten to come up with a PRE-Market Valuation based on solely rarity score. This is the simplest metric and as valued by Kryoten, should be the lowest expected price to trade a Fren for given there are no official market values or floor prices yet.
+        This is an algorithm designed by Kryoten to come up with a PRE-Market Valuation based on solely rarity score. This is the simplest metric and as valued by Kryoten, should be the lowest expected price to trade an NFT for given there are no official market values or floor prices yet.
       </data-text>
       <data-text title="KARV" :value="KARV" denomination="STARS">
         The Kryoten Accelerated Rarity Valuation.<br>
