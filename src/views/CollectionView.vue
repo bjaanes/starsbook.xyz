@@ -1,12 +1,13 @@
 <script setup lang="ts">
 import {onMounted, ref, watch} from "vue";
 import {useRoute, useRouter} from "vue-router";
-import { NPagination} from "naive-ui";
+import { NPagination, NSpin } from "naive-ui";
 import NftInfo from "@/components/NftInfo.vue";
 
 const route = useRoute()
 const router = useRouter()
 
+const loading = ref(false);
 const projectName = ref("");
 const numberOfNfts = ref(0);
 const page = ref(1);
@@ -24,17 +25,18 @@ const updateCollectionView = async () => {
 }
 
 const loadNfts = async (from: number, to: number) => {
-  let newNfts = []
+
+  loading.value = true;
+  nfts.value = []
   for (let i = from; i <= to; ++i) {
     const nft = await fetch(`/${projectShortName}/nfts/${i}.json`).then(res => res.json());
-    newNfts.push({
+    nfts.value.push({
       title: nft.name,
       img: `/${projectShortName}/imgs/${nft.img}`,
       id: i,
     })
   }
-
-  nfts.value = newNfts;
+  loading.value = false;
 }
 
 watch(() => route.params, updateCollectionView);
@@ -58,7 +60,7 @@ async function selectPage(page: number) {
 </script>
 
 <template>
-  <div>
+  <n-spin :show="loading">
     <h1>{{projectName}}</h1>
 
     <div class="nft-container">
@@ -69,7 +71,7 @@ async function selectPage(page: number) {
       <n-pagination v-on:update:page="selectPage" v-model:page="page" :page-count="Math.ceil(numberOfNfts / 9)" />
     </div>
 
-  </div>
+  </n-spin>
 </template>
 
 <style scoped>
