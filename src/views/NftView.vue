@@ -23,7 +23,7 @@ const updateNftView = async () => {
   const nft = await fetch(`/${projectShortName}/nfts/${nftId}.json`).then(res => res.json());
 
   nftTitle.value = nft.name;
-  nftImg.value = `/${projectShortName}/imgs/${nft.img}`;
+  nftImg.value = `/${projectShortName}/imgs/min_${nft.img}`;
   attributeTags.value = nft.attributes
       .filter((attr: { ignoredForDisplay: boolean }) => !attr.ignoredForDisplay);
   collectionName.value = projectInfo.name;
@@ -35,7 +35,6 @@ const updateNftView = async () => {
 
 watch(() => route.params, updateNftView);
 onMounted(updateNftView)
-
 
 </script>
 

@@ -2,6 +2,7 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
+	"github.com/starsbook/starsbook.xyz/starsbook-cli/pkg/compress"
 	"github.com/starsbook/starsbook.xyz/starsbook-cli/pkg/conf"
 	"github.com/starsbook/starsbook.xyz/starsbook-cli/pkg/download"
 	"github.com/starsbook/starsbook.xyz/starsbook-cli/pkg/genfrontend"
@@ -36,6 +37,10 @@ var generateCmd = &cobra.Command{
 					handleError(err)
 				}
 			}
+		}
+
+		if err := compress.Images(conf); err != nil {
+			handleError(err)
 		}
 
 		if err := genprojectfiles.ProjectFiles(conf); err != nil {

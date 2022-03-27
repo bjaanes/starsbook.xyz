@@ -4,6 +4,7 @@ go 1.17
 
 require (
 	github.com/go-errors/errors v1.4.2
+	github.com/h2non/bimg v1.1.6
 	github.com/ipfs/go-ipfs-api v0.3.0
 	github.com/spf13/cobra v1.4.0
 	github.com/typesense/typesense-go v0.4.0
@@ -12,7 +13,6 @@ require (
 require (
 	github.com/btcsuite/btcd v0.20.1-beta // indirect
 	github.com/crackcomm/go-gitignore v0.0.0-20170627025303-887ab5e44cc3 // indirect
-	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/deepmap/oapi-codegen v1.9.0 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect

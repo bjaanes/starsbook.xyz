@@ -32,7 +32,7 @@ const loadNfts = async (from: number, to: number) => {
     const nft = await fetch(`/${projectShortName}/nfts/${i}.json`).then(res => res.json());
     nfts.value.push({
       title: nft.name,
-      img: `/${projectShortName}/imgs/${nft.img}`,
+      img: `/${projectShortName}/imgs/min_${nft.img}`,
       id: i,
     })
   }

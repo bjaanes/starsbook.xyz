@@ -97,7 +97,7 @@ func generateProjectFile(p conf.Project) error {
 	}
 
 	for i, _ := range projectOutput.NFTs {
-		nftFile, err := json.MarshalIndent(projectOutput.NFTs[i], "", " ")
+		nftFile, err := json.Marshal(projectOutput.NFTs[i])
 		if err != nil {
 			errors.Wrap(err, 0)
 		}

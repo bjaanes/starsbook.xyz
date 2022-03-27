@@ -65,7 +65,7 @@ func Imgs(conf conf.Conf) error {
 		}
 
 		if err := downloadImages(sh, project); err != nil {
-
+			return errors.Wrap(err, 0)
 		}
 	}
 
