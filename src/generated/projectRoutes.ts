@@ -72,6 +72,26 @@ const projectRoutes: RouteRecordRaw[] = [
         name: 'acre',
         component: () => import('../views/NftView.vue')
     },
+    {
+        path: '/starty',
+        name: 'starty-collection',
+        component: () => import('../views/CollectionView.vue')
+    },
+    {
+        path: '/starty/:id',
+        name: 'starty',
+        component: () => import('../views/NftView.vue')
+    },
+    {
+        path: '/trooprs',
+        name: 'trooprs-collection',
+        component: () => import('../views/CollectionView.vue')
+    },
+    {
+        path: '/trooprs/:id',
+        name: 'trooprs',
+        component: () => import('../views/NftView.vue')
+    },
     
 ]
 

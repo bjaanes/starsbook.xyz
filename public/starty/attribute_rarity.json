@@ -1,0 +1,202 @@
+{
+ "back": {
+  "flowerback": 52,
+  "greycape": 7,
+  "none": 1025,
+  "purplecape": 15,
+  "redcape": 5,
+  "royalcloth": 7
+ },
+ "background": {
+  "blue_sunnyday": 117,
+  "deep_pink_tint": 102,
+  "gold_tint": 109,
+  "gray_sunnyday": 111,
+  "green_tint": 116,
+  "lightblue_tint": 114,
+  "orange_sunnyday": 107,
+  "pink_tint": 102,
+  "rainbow_tint": 26,
+  "spacesky": 96,
+  "sunset_sunnyday": 111
+ },
+ "base": {
+  "big_tail_colorcream": 36,
+  "big_tail_colordark": 29,
+  "big_tail_colordarkblue": 47,
+  "big_tail_colordpink": 47,
+  "big_tail_colorgrey": 36,
+  "big_tail_colorneptune": 9,
+  "big_tail_colororange": 48,
+  "big_tail_colorpink": 33,
+  "big_tail_colorpurple": 41,
+  "big_tail_colorsunset": 39,
+  "big_tail_colorwhite": 33,
+  "medium_tail_colorcream": 43,
+  "medium_tail_colordark": 31,
+  "medium_tail_colordarkblue": 39,
+  "medium_tail_colordpink": 43,
+  "medium_tail_colorgrey": 40,
+  "medium_tail_colorneptune": 7,
+  "medium_tail_colororange": 37,
+  "medium_tail_colorpink": 44,
+  "medium_tail_colorpurple": 42,
+  "medium_tail_colorsunset": 6,
+  "medium_tail_colorwhite": 35,
+  "small_tail_colorcream": 35,
+  "small_tail_colordark": 37,
+  "small_tail_colordarkblue": 37,
+  "small_tail_colordpink": 26,
+  "small_tail_colorgrey": 39,
+  "small_tail_colorneptune": 16,
+  "small_tail_colororange": 37,
+  "small_tail_colorpink": 34,
+  "small_tail_colorpurple": 44,
+  "small_tail_colorsunset": 7,
+  "small_tail_colorwhite": 33,
+  "small_tail_golden_unique": 1
+ },
+ "cheeks": {
+  "blush": 96,
+  "none": 1004,
+  "starexplosion": 11
+ },
+ "commonframe": {
+  "common": 786
+ },
+ "earstar": {
+  "earstar": 551,
+  "earstar_small": 560
+ },
+ "eyes": {
+  "eyeblue": 158,
+  "eyebrown": 165,
+  "eyefire": 82,
+  "eyegreen": 177,
+  "eyepink": 173,
+  "eyepurple": 178,
+  "eyeyellow": 178
+ },
+ "eyewear": {
+  "eyepatch": 16,
+  "nerdyglasses": 96,
+  "none": 907,
+  "readingglasses": 92
+ },
+ "floor": {
+  "blueplanet": 152,
+  "eclipse": 82,
+  "grass": 194,
+  "juppi": 191,
+  "moon": 183,
+  "none": 1,
+  "snow": 219,
+  "warmplanet": 89
+ },
+ "foreground": {
+  "fire_foreground": 49,
+  "none": 970,
+  "stargazeflag": 29,
+  "sunlight": 63
+ },
+ "forehead": {
+  "fire": 71,
+  "headgem": 57,
+  "headgem_gold": 64,
+  "headgem_light": 13,
+  "lunahead": 50,
+  "none": 644,
+  "starcrown": 17,
+  "starforehead": 63,
+  "stargazesymbol": 71,
+  "unihorn": 61
+ },
+ "frame": {
+  "hidden_gem": 14
+ },
+ "galaxycolor": {
+  "galaxy_blue": 32,
+  "galaxy_brown": 41,
+  "galaxy_deepblue": 28,
+  "galaxy_grey": 35,
+  "galaxy_midblue": 32,
+  "galaxy_mint": 33,
+  "galaxy_orangepink": 31,
+  "galaxy_pink": 38,
+  "galaxy_white": 29,
+  "orangepink": 1
+ },
+ "galaxyrainbow": {
+  "rainbow_blue": 2,
+  "rainbow_brown": 2,
+  "rainbow_deepblue": 1,
+  "rainbow_grey": 4,
+  "rainbow_midblue": 4,
+  "rainbow_mint": 1,
+  "rainbow_white": 2
+ },
+ "goldframe": {
+  "gold": 295
+ },
+ "head": {
+  "crosspin": 37,
+  "flowercrown": 37,
+  "haloblue": 40,
+  "halodark": 40,
+  "halogold": 25,
+  "kingcrown": 20,
+  "lacesideblue": 37,
+  "lacesidegrey": 45,
+  "lacesidepink": 32,
+  "lacesidepurple": 52,
+  "laurel": 48,
+  "none": 476,
+  "planthead": 38,
+  "princecrown": 52,
+  "rose": 50,
+  "skull": 44,
+  "snowflake": 38
+ },
+ "neck": {
+  "bell": 58,
+  "blackbow": 45,
+  "bowblue": 45,
+  "bowgrey": 50,
+  "bowlightblue": 47,
+  "bowpink": 56,
+  "diamond": 34,
+  "diamondgold": 61,
+  "diamondlight": 57,
+  "headphones": 14,
+  "headphones_recolor": 1,
+  "none": 531,
+  "scarfpink": 43,
+  "scarfpurple": 69
+ },
+ "opalframe": {
+  "opal": 16
+ },
+ "ruff": {
+  "neckruff": 97,
+  "none": 925,
+  "over": 89
+ },
+ "skin": {
+  "bd_flowertattoo_blue": 65,
+  "bd_flowertattoo_orange": 77,
+  "eyescar": 65,
+  "none": 685,
+  "sketchy": 11,
+  "starbodysunset": 80,
+  "starbodywhite": 62,
+  "starseverywhere": 66
+ },
+ "special": {
+  "animated": 14
+ },
+ "wings": {
+  "angelwings": 83,
+  "devilwings": 58,
+  "none": 970
+ }
+}

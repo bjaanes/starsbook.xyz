@@ -34,6 +34,16 @@ const projects = [
         shortName: 'acre',
         img: 'https://starsbook.xyz/acre/projectImage.'
     },
+    {
+        name: 'Starty',
+        shortName: 'starty',
+        img: 'https://starsbook.xyz/starty/projectImage.'
+    },
+    {
+        name: 'Stargaze Trooprs',
+        shortName: 'trooprs',
+        img: 'https://starsbook.xyz/trooprs/projectImage.'
+    },
     
 ]
 

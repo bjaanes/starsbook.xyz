@@ -71,6 +71,26 @@
       "attributesToIgnoreForDisplay": [],
       "shortName": "acre",
       "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/bafybeidzran3ydq3bk6mazk6xcml75d27h5mbbpmvx2lggy3f3z6e4ah5u"
+    },
+    {
+      "name": "Starty",
+      "mintPrice": 50,
+      "numberOfNfts": 1111,
+      "ipfsBase": "QmVh7HD8Ee7JQqv4JrL6yj8LRdEaETheuHMRT9fH5B9c8y",
+      "attributesToIgnoreForRarity": [],
+      "attributesToIgnoreForDisplay": [],
+      "shortName": "starty",
+      "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/QmV1KpqP39kRY4jbaAfTtqcq7bDjfw7nQV7Kf6PQV1hyo9"
+    },
+    {
+      "name": "Stargaze Trooprs",
+      "mintPrice": 129,
+      "numberOfNfts": 8128,
+      "ipfsBase": "bafybeigfxhv2fc4pkqotktnqina4wou5kg4mlte5mmtd3ndfmgushik2pm/metadata",
+      "attributesToIgnoreForRarity": [],
+      "attributesToIgnoreForDisplay": [],
+      "shortName": "trooprs",
+      "linkToProjectImage": "https://i.imgur.com/jZ5n9jB.gif"
     }
   ]
 }
