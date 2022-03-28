@@ -1,0 +1,67 @@
+{
+ "background": {
+  "Clear Skies Sunny Weather": 651,
+  "Cloudy Weather": 579,
+  "Forest Fire": 620,
+  "Raining Weather": 605,
+  "Snowy Weather": 608,
+  "Sunny Partial Cloud Weather": 580,
+  "Sunset": 585,
+  "Tornado": 612
+ },
+ "base": {
+  "Grassland Soil Base": 2443,
+  "Temperate Deciduous Forest": 2397
+ },
+ "life above": {
+  "Bumblebee": 437,
+  "Cicada": 432,
+  "Cloudless Sulphur": 443,
+  "Dragonfly": 421,
+  "Fly": 456,
+  "Grasshopper": 429,
+  "Ladybug": 463,
+  "Little Yellow": 463,
+  "Monarch Butterfly": 435,
+  "Mosquito": 431,
+  "Rhino Beetle": 430
+ },
+ "life below": {
+  "Ants": 482,
+  "Armadillo": 473,
+  "Black Footed Ferrets": 499,
+  "Kangaroo Mouse": 426,
+  "Prairie Dog": 490,
+  "Texas Toad": 493,
+  "Underground Mole": 499,
+  "Underground Mouse": 490,
+  "Underground Rabbit": 481,
+  "Worms": 507
+ },
+ "microorganism": {
+  "Actinomycetes": 367,
+  "Amoeba": 361,
+  "Arbuscular Mycorrhizal Fungus Vesicles": 367,
+  "Ciliate": 394,
+  "Ectomycorrhiza Fungi": 419,
+  "Flagellate Protozoa": 373,
+  "Fungus Eating Nematode": 380,
+  "Microscopic Bacteria": 364,
+  "Nematodes": 358,
+  "Predator Nematode": 361,
+  "Protozoa And Grain Of Sand": 357,
+  "Rhizobium Bacteria": 370,
+  "Springtails": 369
+ },
+ "tree": {
+  "Aspen": 531,
+  "Bald cypress": 547,
+  "Basswood_": 511,
+  "Birch": 543,
+  "Bur Oak": 537,
+  "Cottonwood": 562,
+  "Honey locust_": 509,
+  "Pine": 538,
+  "Red Maple": 562
+ }
+}

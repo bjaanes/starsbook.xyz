@@ -8,7 +8,8 @@ import (
 )
 
 const RootFolder = "public"
-const ImgFolder = "imgs"
+const ImgRawFolder = "imgs_raw"
+const ImgCompressedFolder = "imgs_min"
 const NFTRawFolder = "nfts_raw"
 const NFTOutFolder = "nfts"
 
@@ -16,6 +17,7 @@ type Project struct {
 	Name                         string   `json:"name"`
 	IPFSBase                     string   `json:"ipfsBase"`
 	MintPrice                    int      `json:"mintPrice"`
+	NumberOfNFTs                 int      `json:"numberOfNfts"`
 	AttributesToIgnoreForRarity  []string `json:"attributesToIgnoreForRarity"`
 	AttributesToIgnoreForDisplay []string `json:"attributesToIgnoreForDisplay"`
 	ShortName                    string   `json:"shortName"`
@@ -55,6 +57,10 @@ func (p Project) GetNftOutDir() string {
 	return filepath.Join(p.GetOutDir(), NFTOutFolder)
 }
 
-func (p Project) GetImgDir() string {
-	return filepath.Join(p.GetOutDir(), ImgFolder)
+func (p Project) GetImgRawDir() string {
+	return filepath.Join(p.GetOutDir(), ImgRawFolder)
+}
+
+func (p Project) GetImgMinDir() string {
+	return filepath.Join(p.GetOutDir(), ImgCompressedFolder)
 }

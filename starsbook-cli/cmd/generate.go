@@ -5,6 +5,7 @@ import (
 	"github.com/starsbook/starsbook.xyz/starsbook-cli/pkg/compress"
 	"github.com/starsbook/starsbook.xyz/starsbook-cli/pkg/conf"
 	"github.com/starsbook/starsbook.xyz/starsbook-cli/pkg/download"
+	"github.com/starsbook/starsbook.xyz/starsbook-cli/pkg/folders"
 	"github.com/starsbook/starsbook.xyz/starsbook-cli/pkg/genfrontend"
 	"github.com/starsbook/starsbook.xyz/starsbook-cli/pkg/genprojectfiles"
 )
@@ -21,6 +22,12 @@ var generateCmd = &cobra.Command{
 		conf, err := conf.GetConfig()
 		if err != nil {
 			handleError(err)
+		}
+
+		for _, p := range conf.Projects {
+			if err := folders.CreateProjectFolderStructure(p); err != nil {
+				handleError(err)
+			}
 		}
 
 		if !skipIPFS {

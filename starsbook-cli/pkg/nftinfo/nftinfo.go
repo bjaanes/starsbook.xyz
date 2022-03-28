@@ -14,6 +14,7 @@ import (
 )
 
 type NFTInfo struct {
+	ID          int         `json:"-"`
 	Attributes  []Attribute `json:"attributes"`
 	Description string      `json:"description"`
 	ExternalUrl string      `json:"external_url"`
@@ -28,18 +29,6 @@ type Attribute struct {
 	Value       interface{} `json:"value,omitempty"`
 }
 
-func (nft NFTInfo) GetID() (int, error) {
-	_, imgFn := path.Split(nft.Image)
-
-	idStr := strings.TrimSuffix(imgFn, filepath.Ext(imgFn))
-	id, err := strconv.Atoi(idStr)
-	if err != nil {
-		return 0, errors.Wrap(err, 0)
-	}
-
-	return id, nil
-}
-
 func (attr Attribute) GetValue() string {
 	if attr.TraitValue != "" {
 		return attr.TraitValue
@@ -50,34 +39,42 @@ func (attr Attribute) GetValue() string {
 
 func GetNFTInfos(project conf.Project) ([]NFTInfo, error) {
 	var nfts []NFTInfo
-	err := filepath.WalkDir(project.GetNftsRawDir(), func(path string, d fs.DirEntry, err error) error {
+	err := filepath.WalkDir(project.GetNftsRawDir(), func(p string, d fs.DirEntry, err error) error {
 		if err != nil {
-			return err
+			return errors.Wrap(err, 0)
 		}
 
 		if d.IsDir() {
 			return nil
 		}
 
-		f, err := os.Open(path)
+		f, err := os.Open(p)
 		defer f.Close()
 		if err != nil {
-			return err
+			return errors.Wrap(err, 0)
 		}
 
 		nftInfo := NFTInfo{}
 		err = json.NewDecoder(f).Decode(&nftInfo)
 		if err != nil {
-			fmt.Println("Failed to read " + path)
-			return err
+			return errors.Wrap(err, 0)
 		}
+
+		_, fn := path.Split(p)
+
+		idStr := strings.TrimSuffix(fn, filepath.Ext(fn))
+		id, err := strconv.Atoi(idStr)
+		if err != nil {
+			return errors.Wrap(err, 0)
+		}
+		nftInfo.ID = id
 
 		nfts = append(nfts, nftInfo)
 
 		return nil
 	})
 	if err != nil {
-		return nil, err
+		return nil, errors.Wrap(err, 0)
 	}
 
 	return nfts, nil

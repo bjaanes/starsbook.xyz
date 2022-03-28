@@ -4,6 +4,7 @@
     {
       "name": "IBC Frens",
       "mintPrice": 140,
+      "numberOfNfts": 5000,
       "ipfsBase": "bafybeihf34yjxtn4yy6j2ikkoc2u2bwif2fif2bc4ks5rrnh43wxmemgd4/galaxyd0C8he",
       "attributesToIgnoreForRarity": ["generation"],
       "attributesToIgnoreForDisplay": ["generation"],
@@ -13,6 +14,7 @@
     {
       "name": "Stargaze Punks",
       "mintPrice": 148,
+      "numberOfNfts": 8888,
       "ipfsBase": "bafybeibmhfvddexxwwt52mknwqa74fp7jkqiktedmruxlnuvtbpwbfyhqa/metadata",
       "attributesToIgnoreForRarity": [],
       "attributesToIgnoreForDisplay": [],
@@ -22,12 +24,53 @@
     {
       "name": "Oblitus | Forgotten worlds",
       "mintPrice": 168,
+      "numberOfNfts": 4000,
       "ipfsBase": "bafybeiegasb7srfhsinxw5lwcz4yj4x7jmiguqmv3jkwmblssnoyitno74/galaxyhK0KQY",
       "attributesToIgnoreForRarity": ["Rank", "Age", "Diameter", "Gravity force"],
       "attributesToIgnoreForDisplay": ["Rank"],
       "shortName": "oblitus",
       "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/bafybeiepe7v4tjdrcjoibkbtn6r6kyelpu4fexsd2b5k3lojcsq5st623u",
       "traitIdOverride": "Rank"
+    },
+    {
+      "name": "Alpha Centaurians",
+      "mintPrice": 888,
+      "numberOfNfts": 314,
+      "ipfsBase": "bafybeihtkohjdacem5vtib5upx3st2ivgbwvfk6yw4dmxky2mp3ukkxhqi/galaxySg98GL",
+      "attributesToIgnoreForRarity": [],
+      "attributesToIgnoreForDisplay": [],
+      "shortName": "alphacentaurians",
+      "linkToProjectImage": "https://app.stargaze.zone/launchpad/stars1uu7ggnkl4knssngtsqlnjtyy20xkln9343c7qrv6j2fj8luqr50qwm923h"
+    },
+    {
+      "name": "The WadSquad",
+      "mintPrice": 100,
+      "numberOfNfts": 9000,
+      "ipfsBase": "QmdooiTBQnEJ8nRLAwXFFPBg8eo31K3ftzw3wcUos5e1DD",
+      "attributesToIgnoreForRarity": [],
+      "attributesToIgnoreForDisplay": [],
+      "shortName": "wads",
+      "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/QmZnUW38UDXH5KK1qompRNM82puC4Rfis3EJbZ2bCqEEWP/cover.gif"
+    },
+    {
+      "name": "114Shut",
+      "mintPrice": 114,
+      "numberOfNfts": 5000,
+      "ipfsBase": "bafybeiboxnnsbqgfs4btvojupmooz5rpfr5fns5ldzxbh2m76jhugia2di/galaxyqqfSba",
+      "attributesToIgnoreForRarity": [],
+      "attributesToIgnoreForDisplay": [],
+      "shortName": "114shut",
+      "linkToProjectImage": "https://app.stargaze.zone/launchpad/stars1m95chyen8tqrawmjhxrewcwscg5vj8pkxzxeaw8em7fnjwth8rusaftwk4"
+    },
+    {
+      "name": "Acre NFT",
+      "mintPrice": 156,
+      "numberOfNfts": 4840,
+      "ipfsBase": "bafybeieddquuzqtgctyeoqt3rtfip775u5dkkbbpk4xcmquxd3kjwkz6ye/galaxyut8PuH",
+      "attributesToIgnoreForRarity": [],
+      "attributesToIgnoreForDisplay": [],
+      "shortName": "acre",
+      "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/bafybeidzran3ydq3bk6mazk6xcml75d27h5mbbpmvx2lggy3f3z6e4ah5u"
     }
   ]
 }

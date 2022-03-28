@@ -32,6 +32,46 @@ const projectRoutes: RouteRecordRaw[] = [
         name: 'oblitus',
         component: () => import('../views/NftView.vue')
     },
+    {
+        path: '/alphacentaurians',
+        name: 'alphacentaurians-collection',
+        component: () => import('../views/CollectionView.vue')
+    },
+    {
+        path: '/alphacentaurians/:id',
+        name: 'alphacentaurians',
+        component: () => import('../views/NftView.vue')
+    },
+    {
+        path: '/wads',
+        name: 'wads-collection',
+        component: () => import('../views/CollectionView.vue')
+    },
+    {
+        path: '/wads/:id',
+        name: 'wads',
+        component: () => import('../views/NftView.vue')
+    },
+    {
+        path: '/114shut',
+        name: '114shut-collection',
+        component: () => import('../views/CollectionView.vue')
+    },
+    {
+        path: '/114shut/:id',
+        name: '114shut',
+        component: () => import('../views/NftView.vue')
+    },
+    {
+        path: '/acre',
+        name: 'acre-collection',
+        component: () => import('../views/CollectionView.vue')
+    },
+    {
+        path: '/acre/:id',
+        name: 'acre',
+        component: () => import('../views/NftView.vue')
+    },
     
 ]
 

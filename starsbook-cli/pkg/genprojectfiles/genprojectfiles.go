@@ -166,11 +166,7 @@ func GenerateProjectOutput(p conf.Project, nfts []nftinfo.NFTInfo, attributeMap 
 		_, imgFn := path.Split(nft.Image)
 		nftOutput.Img = imgFn
 
-		id, err := nft.GetID()
-		if err != nil {
-			return ProjectOutputJson{}, errors.Wrap(err, 0)
-		}
-		nftOutput.ID = id
+		nftOutput.ID = nft.ID
 
 		nftRarityScore := float32(0.0)
 		for _, attr := range nft.Attributes {
