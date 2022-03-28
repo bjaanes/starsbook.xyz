@@ -43,16 +43,6 @@ const projectRoutes: RouteRecordRaw[] = [
         component: () => import('../views/NftView.vue')
     },
     {
-        path: '/wads',
-        name: 'wads-collection',
-        component: () => import('../views/CollectionView.vue')
-    },
-    {
-        path: '/wads/:id',
-        name: 'wads',
-        component: () => import('../views/NftView.vue')
-    },
-    {
         path: '/114shut',
         name: '114shut-collection',
         component: () => import('../views/CollectionView.vue')
