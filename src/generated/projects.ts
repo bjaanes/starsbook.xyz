@@ -39,6 +39,11 @@ const projects = [
         shortName: 'trooprs',
         img: 'https://starsbook.xyz/trooprs/projectImage.'
     },
+    {
+        name: 'HODL AvAtArs',
+        shortName: 'hodlavatars',
+        img: 'https://starsbook.xyz/hodlavatars/projectImage.'
+    },
     
 ]
 

@@ -1,0 +1,74 @@
+{
+ "Aura": {
+  "Blue": 112,
+  "Cream": 132,
+  "Green": 39,
+  "Grey": 123,
+  "Ivory": 129,
+  "Orange": 62,
+  "Purple": 103,
+  "Salmon": 114,
+  "Sky Blue": 114,
+  "Turquoise": 115,
+  "Yellow": 68
+ },
+ "Energy": {
+  "Hash Power": 1111
+ },
+ "Guardian": {
+  "ATOM": 150,
+  "Avalanche": 19,
+  "BTC": 16,
+  "Binance": 32,
+  "CRO": 127,
+  "Cardano": 23,
+  "CosmosHub": 134,
+  "ETH": 22,
+  "Juno": 143,
+  "LUNA": 129,
+  "Osmosis": 123,
+  "Polkadot": 25,
+  "Solana": 27,
+  "Starz": 141
+ },
+ "Role": {
+  "Audit Guardian": 140,
+  "BTC Miner": 42,
+  "Code Guardian": 137,
+  "Concensus Guardian": 176,
+  "Crypto Mentor": 57,
+  "ETH Staker": 37,
+  "HODL Star": 92,
+  "Liquidity Guardian": 174,
+  "Portfolio Master": 32,
+  "Staking Star": 77,
+  "Trading Master": 57,
+  "Yield Star": 90
+ },
+ "Royalty Code": {
+  "QR Code": 1111
+ },
+ "Tribe": {
+  "Creator": 143,
+  "Financier": 126,
+  "Grower": 133,
+  "Healer": 140,
+  "Mech": 162,
+  "Tech": 137,
+  "Trader": 130,
+  "Warrior": 140
+ },
+ "World": {
+  "Jungleworld Orc": 122,
+  "Jungleworld Skull": 121,
+  "Seaworld Girl": 42,
+  "Seaworld Guy": 133,
+  "Seaworld Orc": 120,
+  "Seaworld Skull": 113,
+  "Skyworld Fancy Girl": 81,
+  "Skyworld Ivory Girl": 40,
+  "Skyworld Pink Girl": 84,
+  "Skyworld Robot": 213,
+  "Skyworld Vanilla Girl": 42
+ }
+}
