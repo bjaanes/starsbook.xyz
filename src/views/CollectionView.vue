@@ -3,6 +3,7 @@ import {onMounted, ref, watch} from "vue";
 import {useRoute, useRouter} from "vue-router";
 import { NPagination, NSpin } from "naive-ui";
 import NftInfo from "@/components/NftInfo.vue";
+import {SearchClient as TypesenseSearchClient} from "typesense";
 
 const route = useRoute()
 const router = useRouter()
@@ -11,9 +12,18 @@ const loading = ref(false);
 const projectName = ref("");
 const numberOfNfts = ref(0);
 const page = ref(1);
-const nfts = ref<Array<{title: string, img: string, id: number, rarityRank: string}>>([])
+const nfts = ref<Array<{title: string, img: string, id: string, rarityRank: number}>>([])
 
 let projectShortName = "";
+let client = new TypesenseSearchClient({
+  nodes: [{
+    host: 'starsbook-typesense.gjermund.tech',
+    port: 443,
+    protocol: 'https'
+  }],
+  apiKey: 'lwf86ywndIydr1P4qGvfy9VaSd6ORGoN',
+  connectionTimeoutSeconds: 2
+});
 
 const updateCollectionView = async () => {
   projectShortName = String(route.name).split('-')[0]
@@ -21,41 +31,45 @@ const updateCollectionView = async () => {
   projectName.value = projectInfo.name;
   numberOfNfts.value = projectInfo.numberOfNfts;
 
-  await loadNfts(1, 9);
+  await loadNfts(1);
 }
 
-const loadNfts = async (from: number, to: number) => {
-
+const loadNfts = async (page: number) => {
   loading.value = true;
   nfts.value = []
-  for (let i = from; i <= to; ++i) {
-    const nft = await fetch(`/${projectShortName}/nfts/${i}.json`).then(res => res.json());
+
+  const res = await client.collections("nfts").documents().search({
+    q: projectShortName,
+    query_by: "collectionShortName",
+    sort_by: "nftId:asc",
+    page: page,
+    per_page: 9,
+  }, {})
+  console.log(res);
+
+  if (!res.hits) {
+    loading.value = false;
+    return;
+  }
+
+  for (let hit of res.hits) {
+    const document = hit.document as {nftId: string, name: string, imageFileName: string, rarityRank: number}
     nfts.value.push({
-      title: nft.name,
-      img: `/${projectShortName}/imgs_min/${nft.img}`,
-      id: i,
-      rarityRank: nft.rarityRank,
+      title: document.name,
+      img: `/${projectShortName}/imgs_min/${document.imageFileName}`,
+      id: document.nftId,
+      rarityRank: document.rarityRank,
     })
   }
+
   loading.value = false;
 }
 
 watch(() => route.params, updateCollectionView);
 onMounted(updateCollectionView)
 
-function selectNft(id: number) {
+function selectNft(id: string) {
   router.push(`/${projectShortName}/${id}`);
-}
-
-async function selectPage(page: number) {
-  const from = (page-1) * 9 + 1;
-  let to = page * 9;
-
-  if (to > numberOfNfts.value) {
-    to = numberOfNfts.value
-  }
-
-  await loadNfts(from, to);
 }
 
 </script>
@@ -65,11 +79,11 @@ async function selectPage(page: number) {
     <h1>{{projectName}}</h1>
 
     <div class="nft-container">
-      <NftInfo class="nft" v-for="(nft, index) of nfts" :key="index" :title="nft.title" :img="nft.img" :rank="nft.rarityRank" @click="selectNft(nft.id)"></NftInfo>
+      <NftInfo class="nft" v-for="(nft, index) of nfts" :key="index" :title="nft.title" :img="nft.img" :rank="nft.rarityRank.toString()" @click="selectNft(nft.id)"></NftInfo>
     </div>
 
     <div class="paginator-container">
-      <n-pagination v-on:update:page="selectPage" v-model:page="page" :page-count="Math.ceil(numberOfNfts / 9)" />
+      <n-pagination v-on:update:page="loadNfts" v-model:page="page" :page-count="Math.ceil(numberOfNfts / 9)" />
     </div>
 
   </n-spin>

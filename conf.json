@@ -3,6 +3,8 @@
   "projects": [
     {
       "name": "IBC Frens",
+      "description": "A community-driven project where we are building products as an organization. IBC Frens comes in a burst of colors, shapes and traits. Total supply is 10,000 - delivered in two waves of 5,000 each.",
+      "externalUrl": "https://ibcfrens.com",
       "mintPrice": 140,
       "numberOfNfts": 5000,
       "ipfsBase": "bafybeihf34yjxtn4yy6j2ikkoc2u2bwif2fif2bc4ks5rrnh43wxmemgd4/galaxyd0C8he",
@@ -13,6 +15,8 @@
     },
     {
       "name": "Stargaze Punks",
+      "description": "Stargaze Punks are 8888 randomly generated Punks minted by Stargaze into the Cosmos",
+      "externalUrl": "https://stargazepunks.io",
       "mintPrice": 148,
       "numberOfNfts": 8888,
       "ipfsBase": "bafybeibmhfvddexxwwt52mknwqa74fp7jkqiktedmruxlnuvtbpwbfyhqa/metadata",
@@ -23,6 +27,8 @@
     },
     {
       "name": "Oblitus | Forgotten worlds",
+      "description": "Pixel art NFTs with future yield utilities. Inhabited planets or so cold that only dust could be there. Ancient stars, made of energy. Black holes attracting everything, from where the light cannot escape. Are you ready to remember?",
+      "externalUrl": "https://oblitus.art",
       "mintPrice": 168,
       "numberOfNfts": 4000,
       "ipfsBase": "bafybeiegasb7srfhsinxw5lwcz4yj4x7jmiguqmv3jkwmblssnoyitno74/galaxyhK0KQY",
@@ -34,6 +40,8 @@
     },
     {
       "name": "Alpha Centaurians",
+      "externalUrl": "https://alphacentaurians.club",
+      "description": "Alpha Centaurians is an exclusive club of 314 rich and lustrous star travelers with DAO, validator commissions, and airdrop for owners. The collection represents humankind's dream of life in the universe.",
       "mintPrice": 888,
       "numberOfNfts": 314,
       "ipfsBase": "bafybeihtkohjdacem5vtib5upx3st2ivgbwvfk6yw4dmxky2mp3ukkxhqi/galaxySg98GL",
@@ -44,6 +52,8 @@
     },
     {
       "name": "114Shut",
+      "description": "114 is the atomic number of a synthetic chemical element which is highly radioactive. Shut comes from making 114 plaster masks. Zero perception, forced to hold your breath, eyes closed, ready to look inside. This edition contains 5K generated unique NFTs.",
+      "externalUrl": "https://twitter.com/artisdotlove",
       "mintPrice": 114,
       "numberOfNfts": 5000,
       "ipfsBase": "bafybeiboxnnsbqgfs4btvojupmooz5rpfr5fns5ldzxbh2m76jhugia2di/galaxyqqfSba",
@@ -54,6 +64,8 @@
     },
     {
       "name": "Acre NFT",
+      "description": "All proceeds from this collection go to the non-profit Ogallala Life to help recharge groundwater.",
+      "externalUrl": "https://ogallala.life",
       "mintPrice": 156,
       "numberOfNfts": 4840,
       "ipfsBase": "bafybeieddquuzqtgctyeoqt3rtfip775u5dkkbbpk4xcmquxd3kjwkz6ye/galaxyut8PuH",
@@ -64,6 +76,8 @@
     },
     {
       "name": "Starty",
+      "description": "Startys are pixel creatures born in the outer space, looking for a new home!",
+      "externalUrl": "https://www.startynft.com",
       "mintPrice": 50,
       "numberOfNfts": 1111,
       "ipfsBase": "QmVh7HD8Ee7JQqv4JrL6yj8LRdEaETheuHMRT9fH5B9c8y",
@@ -74,6 +88,8 @@
     },
     {
       "name": "Stargaze Trooprs",
+      "description": "Your Stargaze Trooper is your identity for exploration and battle throughout the vast unknown of The Interchain. Only 8128 SGTs, a perfect number, will be ever be minted. Trooper… it’s time to deploy.",
+      "externalUrl": "https://twitter.com/stargazetrooprs",
       "mintPrice": 129,
       "numberOfNfts": 8128,
       "ipfsBase": "bafybeigfxhv2fc4pkqotktnqina4wou5kg4mlte5mmtd3ndfmgushik2pm/metadata",
@@ -84,6 +100,8 @@
     },
     {
       "name": "HODL AvAtArs",
+      "description": "HODL Avatar Guardians of Blockchain",
+      "externalUrl": "https://www.cryptotribute.club",
       "mintPrice": 100,
       "numberOfNfts": 1111,
       "ipfsBase": "QmUw1fp9Y8YwXvMtzXecfnDWgBqjtsJzbn1JjkhaN4KzJk",
@@ -94,6 +112,8 @@
     },
     {
       "name": "Sunnyside Reapers",
+      "description": "Death may be the greatest of all human blessings. -Socrates",
+      "externalUrl": "https://ssr.rip",
       "mintPrice": 66,
       "numberOfNfts": 6666,
       "ipfsBase": "bafybeigqxqwgabnpanidgpsdb4ikd7k4kiuhofz73wj7tftyqzcdgbawiu/metadata",

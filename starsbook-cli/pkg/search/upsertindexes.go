@@ -12,23 +12,24 @@ import (
 )
 
 const (
-	nftCollectionName = "nfts"
+	nftCollectionName        = "nfts"
+	collectionCollectionName = "collections"
 )
 
 var (
-	defaultSortingField = "rarityRank"
-	fields              = []api.Field{
-		{
-			Name: "name",
-			Type: "string",
-		},
+	nftDefaultSortingField = "nftId"
+	nftFields              = []api.Field{
 		{
 			Name: "id",
 			Type: "string",
 		},
 		{
-			Name: "nftId",
+			Name: "name",
 			Type: "string",
+		},
+		{
+			Name: "nftId",
+			Type: "int32",
 		},
 		{
 			Name: "rarityScore",
@@ -39,7 +40,7 @@ var (
 			Type: "int32",
 		},
 		{
-			Name: "imageUrl",
+			Name: "imageFileName",
 			Type: "string",
 		},
 		{
@@ -47,21 +48,73 @@ var (
 			Type: "string",
 		},
 		{
+			Name: "collectionShortName",
+			Type: "string",
+		},
+		{
 			Name: "collectionImageUrl",
+			Type: "string",
+		},
+	}
+	collectionDefaultSortingField = ""
+	collectionFields              = []api.Field{
+		{
+			Name: "name",
+			Type: "string",
+		},
+		{
+			Name: "collectionId",
+			Type: "int32",
+		},
+		{
+			Name: "shortName",
+			Type: "string",
+		},
+		{
+			Name: "description",
+			Type: "string",
+		},
+		{
+			Name: "externalUrl",
+			Type: "string",
+		},
+		{
+			Name: "numberOfNfts",
+			Type: "int32",
+		},
+		{
+			Name: "originalMintPrice",
+			Type: "int32",
+		},
+		{
+			Name: "imageUrl",
 			Type: "string",
 		},
 	}
 )
 
 type nftDocument struct {
-	Name               string  `json:"name"`
-	ID                 string  `json:"id"`
-	NFTID              string  `json:"nftId"`
-	RarityScore        float32 `json:"rarityScore"`
-	RarityRank         int32   `json:"rarityRank"`
-	ImageUrl           string  `json:"imageUrl"`
-	CollectionName     string  `json:"collectionName"`
-	CollectionImageUrl string  `json:"collectionImageUrl"`
+	Name                string  `json:"name"`
+	ID                  string  `json:"id"`
+	NFTID               int32   `json:"nftId"`
+	RarityScore         float32 `json:"rarityScore"`
+	RarityRank          int32   `json:"rarityRank"`
+	ImageFileName       string  `json:"imageFileName"`
+	CollectionName      string  `json:"collectionName"`
+	CollectionShortName string  `json:"collectionShortName"`
+	CollectionImageUrl  string  `json:"collectionImageUrl"`
+}
+
+type nftCollection struct {
+	Name              string `json:"name"`
+	CollectionID      int32  `json:"collectionId"`
+	ShortName         string `json:"shortName"`
+	ID                string `json:"ID"`
+	Description       string `json:"description"`
+	ExternalUrl       string `json:"externalUrl"`
+	NumberOfNfts      int32  `json:"numberOfNfts"`
+	OriginalMintPrice int32  `json:"originalMintPrice"`
+	ImageUrl          string `json:"imageUrl"`
 }
 
 func UpsertIndexes(conf conf.Conf, force bool) error {
@@ -89,12 +142,25 @@ func UpsertIndexes(conf conf.Conf, force bool) error {
 		}
 	}
 
+	if force && hasCollectionCollection(colls) {
+		fmt.Printf("Force, deleting collection %q\n", collectionCollectionName)
+		_, err := client.Collection(collectionCollectionName).Delete()
+		if err != nil {
+			return errors.Wrap(err, 0)
+		}
+
+		colls, err = client.Collections().Retrieve()
+		if err != nil {
+			return errors.Wrap(err, 0)
+		}
+	}
+
 	if !hasNftCollection(colls) {
 		fmt.Printf("Missing nfts collection, creating %q...\n", nftCollectionName)
 		_, err := client.Collections().Create(&api.CollectionSchema{
 			Name:                nftCollectionName,
-			DefaultSortingField: &defaultSortingField,
-			Fields:              fields,
+			DefaultSortingField: &nftDefaultSortingField,
+			Fields:              nftFields,
 			SymbolsToIndex:      nil,
 			TokenSeparators:     nil,
 		})
@@ -103,7 +169,36 @@ func UpsertIndexes(conf conf.Conf, force bool) error {
 		}
 	}
 
-	for _, p := range conf.Projects {
+	if !hasCollectionCollection(colls) {
+		fmt.Printf("Missing collections collection, creating %q...\n", collectionCollectionName)
+		_, err := client.Collections().Create(&api.CollectionSchema{
+			Name:                collectionCollectionName,
+			DefaultSortingField: &collectionDefaultSortingField,
+			Fields:              collectionFields,
+			SymbolsToIndex:      nil,
+			TokenSeparators:     nil,
+		})
+		if err != nil {
+			return errors.Wrap(err, 0)
+		}
+	}
+
+	for i, p := range conf.Projects {
+		fmt.Printf("Upserting collection to collection collection  for %q\n", p.Name)
+		if _, err := client.Collection(collectionCollectionName).Documents().Upsert(&nftCollection{
+			Name:              p.Name,
+			CollectionID:      int32(i + 1),
+			ID:                p.ShortName,
+			ShortName:         p.ShortName,
+			Description:       p.Description,
+			ExternalUrl:       p.ExternalUrl,
+			NumberOfNfts:      int32(p.NumberOfNFTs),
+			OriginalMintPrice: int32(p.MintPrice),
+			ImageUrl:          fmt.Sprintf("https://starsbook.xyz/%s/projectImage", p.ShortName),
+		}); err != nil {
+			return errors.Wrap(err, 0)
+		}
+
 		fmt.Printf("Upserting documents for %q\n", p.Name)
 		nfts, err := nftinfo.GetNFTInfos(p)
 		if err != nil {
@@ -133,17 +228,22 @@ func UpsertIndexes(conf conf.Conf, force bool) error {
 			if strId == "" {
 				strId = strconv.Itoa(nft.ID)
 			}
+			NFTID, err := strconv.Atoi(strId)
+			if err != nil {
+				return errors.Wrap(err, 0)
+			}
 			id := fmt.Sprintf("%s_%s", p.ShortName, strId)
 
 			documents = append(documents, nftDocument{
-				Name:               nft.Name,
-				ID:                 id,
-				NFTID:              strId,
-				RarityScore:        nft.RarityScore,
-				RarityRank:         int32(nft.RarityRank),
-				ImageUrl:           fmt.Sprintf("https://starsbook.xyz/%s/imgs/%s", p.ShortName, nft.Img),
-				CollectionName:     p.Name,
-				CollectionImageUrl: fmt.Sprintf("https://starsbook.xyz/%s/projectImage", p.ShortName),
+				Name:                nft.Name,
+				ID:                  id,
+				NFTID:               int32(NFTID),
+				RarityScore:         nft.RarityScore,
+				RarityRank:          int32(nft.RarityRank),
+				ImageFileName:       nft.Img,
+				CollectionName:      p.Name,
+				CollectionShortName: p.ShortName,
+				CollectionImageUrl:  fmt.Sprintf("https://starsbook.xyz/%s/projectImage", p.ShortName),
 			})
 		}
 
@@ -176,6 +276,16 @@ func UpsertIndexes(conf conf.Conf, force bool) error {
 func hasNftCollection(colls []*api.CollectionResponse) bool {
 	for _, coll := range colls {
 		if coll.Name == nftCollectionName {
+			return true
+		}
+	}
+
+	return false
+}
+
+func hasCollectionCollection(colls []*api.CollectionResponse) bool {
+	for _, coll := range colls {
+		if coll.Name == collectionCollectionName {
 			return true
 		}
 	}

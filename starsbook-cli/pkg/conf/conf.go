@@ -15,6 +15,8 @@ const NFTOutFolder = "nfts"
 
 type Project struct {
 	Name                         string   `json:"name"`
+	Description                  string   `json:"description"`
+	ExternalUrl                  string   `json:"externalUrl"`
 	IPFSBase                     string   `json:"ipfsBase"`
 	MintPrice                    int      `json:"mintPrice"`
 	NumberOfNFTs                 int      `json:"numberOfNfts"`
