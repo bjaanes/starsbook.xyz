@@ -1,9 +1,10 @@
 <script setup lang="ts">
 import {onMounted, ref, watch} from "vue";
 import {useRoute, useRouter} from "vue-router";
-import { NPagination, NSpin } from "naive-ui";
+import { NPagination, NSpin, NSelect, NFormItem } from "naive-ui";
 import NftInfo from "@/components/NftInfo.vue";
 import {SearchClient as TypesenseSearchClient} from "typesense";
+import type {Value} from "naive-ui/es/select/src/interface";
 
 const route = useRoute()
 const router = useRouter()
@@ -13,6 +14,18 @@ const projectName = ref("");
 const numberOfNfts = ref(0);
 const page = ref(1);
 const nfts = ref<Array<{title: string, img: string, id: string, rarityRank: number}>>([])
+const sortBy = ref<Value | null>("nftId");
+
+const sortOptions = [
+  {
+    label: "ID",
+    value: "nftId",
+  },
+  {
+    label: "Rank/Rarity",
+    value: "rarityRank"
+  }
+]
 
 let projectShortName = "";
 let client = new TypesenseSearchClient({
@@ -34,14 +47,20 @@ const updateCollectionView = async () => {
   await loadNfts(1);
 }
 
-const loadNfts = async (page: number) => {
+const updateSortBy = async(sortBy: string) => {
+  await loadNfts(1, sortBy)
+}
+
+const loadNfts = async (page: number, _sortBy?: string) => {
   loading.value = true;
   nfts.value = []
+
+  const sortBy = _sortBy ? _sortBy : "nftId";
 
   const res = await client.collections("nfts").documents().search({
     q: projectShortName,
     query_by: "collectionShortName",
-    sort_by: "nftId:asc",
+    sort_by: `${sortBy}:asc`,
     page: page,
     per_page: 9,
   }, {})
@@ -77,6 +96,11 @@ function selectNft(id: string) {
 <template>
   <n-spin :show="loading">
     <h1>{{projectName}}</h1>
+
+    <n-form-item label="Sort by">
+      <n-select @update:value="updateSortBy" v-model:value="sortBy" :options="sortOptions" />
+    </n-form-item>
+
 
     <div class="nft-container">
       <NftInfo class="nft" v-for="(nft, index) of nfts" :key="index" :title="nft.title" :img="nft.img" :rank="nft.rarityRank.toString()" @click="selectNft(nft.id)"></NftInfo>
