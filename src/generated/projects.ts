@@ -44,6 +44,11 @@ const projects = [
         shortName: 'hodlavatars',
         img: 'https://starsbook.xyz/hodlavatars/projectImage.'
     },
+    {
+        name: 'Sunnyside Reapers',
+        shortName: 'sunnysidereapers',
+        img: 'https://starsbook.xyz/sunnysidereapers/projectImage.'
+    },
     
 ]
 

@@ -92,6 +92,16 @@ const projectRoutes: RouteRecordRaw[] = [
         name: 'hodlavatars',
         component: () => import('../views/NftView.vue')
     },
+    {
+        path: '/sunnysidereapers',
+        name: 'sunnysidereapers-collection',
+        component: () => import('../views/CollectionView.vue')
+    },
+    {
+        path: '/sunnysidereapers/:id',
+        name: 'sunnysidereapers',
+        component: () => import('../views/NftView.vue')
+    },
     
 ]
 

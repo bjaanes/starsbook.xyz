@@ -123,8 +123,15 @@ func downloadImages(project conf.Project) error {
 		_, fn := path.Split(nft.Image)
 		fp := filepath.Join(project.GetImgRawDir(), fn)
 		if _, err := os.Stat(fp); errors.Is(err, os.ErrNotExist) {
-			ipfsLink := strings.TrimPrefix(nft.Image, "ipfs://")
-			url := fmt.Sprintf("https://ipfs.stargaze.zone/ipfs/%s", ipfsLink)
+			var url string
+			if strings.HasPrefix(nft.Image, "ipfs://") {
+				ipfsLink := strings.TrimPrefix(nft.Image, "ipfs://")
+				url = fmt.Sprintf("https://ipfs.stargaze.zone/ipfs/%s", ipfsLink)
+			} else if strings.HasPrefix(nft.Image, "https://") {
+				url = nft.Image
+			} else {
+				return errors.Errorf("Nft image url %q invalid", nft.Image)
+			}
 
 			numDownloads++
 			go download(url, fp)
