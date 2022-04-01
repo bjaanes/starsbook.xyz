@@ -18,6 +18,7 @@ const props = defineProps<{
   rank: string;
   collectionName?: string,
   attributeTags?: Array<{type: string, value: string}>;
+  comingSoon?: boolean,
 }>()
 
 const attributeChips = computed(() => {
@@ -49,7 +50,7 @@ const attributeChips = computed(() => {
     <img v-if="img" class="nft-image" :src="img">
     <div class="summary-chips">
       <chip v-if="collectionName" :text="collectionName" :small="false" color="blue"></chip>
-      <chip :text="'Rank: ' + rank" :small="false" color="pink"></chip>
+      <chip v-if="!comingSoon" :text="'Rank: ' + rank" :small="false" color="pink"></chip>
     </div>
     <div class="title">{{ title }}</div>
     <div v-if="attributeChips.length > 0" class="traits-title">Traits</div>

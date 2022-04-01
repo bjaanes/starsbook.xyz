@@ -10,6 +10,7 @@ const route = useRoute()
 const router = useRouter()
 
 const loading = ref(false);
+const comingSoon = ref(false);
 const projectName = ref("");
 const numberOfNfts = ref(0);
 const page = ref(1);
@@ -43,6 +44,8 @@ const updateCollectionView = async () => {
   const projectInfo = await fetch(`/${projectShortName}/min_project.json`).then(res => res.json());
   projectName.value = projectInfo.name;
   numberOfNfts.value = projectInfo.numberOfNfts;
+
+  comingSoon.value = projectInfo.comingSoon;
 
   await loadNfts(1);
 }
@@ -103,7 +106,7 @@ function selectNft(id: string) {
 
 
     <div class="nft-container">
-      <NftInfo class="nft" v-for="(nft, index) of nfts" :key="index" :title="nft.title" :img="nft.img" :rank="nft.rarityRank.toString()" @click="selectNft(nft.id)"></NftInfo>
+      <NftInfo class="nft" v-for="(nft, index) of nfts" :key="index" :title="nft.title" :img="nft.img" :rank="nft.rarityRank.toString()" @click="selectNft(nft.id)" :coming-soon="comingSoon"></NftInfo>
     </div>
 
     <div class="paginator-container">

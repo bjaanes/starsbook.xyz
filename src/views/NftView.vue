@@ -2,7 +2,7 @@
 import NftInfo from "@/components/NftInfo.vue";
 import DataText from "@/components/DataText.vue";
 import { useRoute } from 'vue-router'
-import {onMounted, ref, watch} from "vue";
+import {computed, onMounted, ref, watch} from "vue";
 
 const route = useRoute()
 
@@ -15,6 +15,8 @@ const rarityScore = ref("");
 const rarityRank = ref("");
 const KRV = ref("");
 const KARV = ref("");
+
+const comingSoon = ref(false);
 
 const updateNftView = async () => {
   const projectShortName = String(route.name)
@@ -31,6 +33,14 @@ const updateNftView = async () => {
   rarityRank.value = nft.rarityRank;
   KRV.value = parseInt(nft.prices.KRV) + '';
   KARV.value = `${parseInt(nft.prices.KARV_NOW)} - ${parseInt(nft.prices.KARV_FUTURE)}`
+
+  if (nft.comingSoon || projectInfo.comingSoon) {
+    comingSoon.value = true;
+    rarityScore.value = "Coming soon"
+    rarityRank.value = "Coming soon"
+    KRV.value = "Coming soon";
+    KARV.value = "Coming soon"
+  }
 }
 
 watch(() => route.params, updateNftView);
@@ -40,7 +50,7 @@ onMounted(updateNftView)
 
 <template>
   <div class="nft-view-container">
-    <nft-info :title="nftTitle" :img="nftImg" :attributeTags="attributeTags" :collection-name="collectionName" :rank="rarityRank"></nft-info>
+    <nft-info :title="nftTitle" :img="nftImg" :attributeTags="attributeTags" :collection-name="collectionName" :rank="rarityRank" :coming-soon="comingSoon"></nft-info>
     <div class="data-container">
       <data-text title="Starvalue" value="Coming soon" denomination="">
         Coming soon

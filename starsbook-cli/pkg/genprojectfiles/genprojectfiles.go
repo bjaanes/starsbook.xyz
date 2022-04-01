@@ -20,6 +20,7 @@ type MinProjectOutputJson struct {
 	ShortName    string `json:"shortName"`
 	Link         string `json:"link"`
 	NumberOfNfts int    `json:"numberOfNfts"`
+	ComingSoon   bool   `json:"comingSoon"`
 }
 
 type ProjectOutputJson struct {
@@ -30,6 +31,7 @@ type ProjectOutputJson struct {
 	LowestScore  float32         `json:"lowestScore"`
 	HighestScore float32         `json:"highestScore"`
 	NFTs         []NFTOutputJson `json:"nfts"`
+	ComingSoon   bool            `json:"comingSoon"`
 }
 
 type NFTOutputJson struct {
@@ -40,6 +42,7 @@ type NFTOutputJson struct {
 	RarityRank  int                   `json:"rarityRank"`
 	Attributes  []AttributeOutputJson `json:"attributes"`
 	Prices      PriceOutputJson       `json:"prices"`
+	ComingSoon  bool                  `json:"comingSoon"`
 }
 
 type PriceOutputJson struct {
@@ -133,6 +136,7 @@ func generateProjectFile(p conf.Project) error {
 		ShortName:    projectOutput.ShortName,
 		Link:         projectOutput.Link,
 		NumberOfNfts: projectOutput.NumberOfNfts,
+		ComingSoon:   p.ComingSoon,
 	}
 	minProjectFile, err := json.MarshalIndent(minProjectOutput, "", " ")
 	if err != nil {
@@ -150,6 +154,7 @@ func GenerateProjectOutput(p conf.Project, nfts []nftinfo.NFTInfo, attributeMap 
 		Name:         p.Name,
 		ShortName:    p.ShortName,
 		NumberOfNfts: len(nfts),
+		ComingSoon:   p.ComingSoon,
 	}
 
 	lowestScore := float32(math.MaxFloat32)
@@ -212,6 +217,15 @@ func GenerateProjectOutput(p conf.Project, nfts []nftinfo.NFTInfo, attributeMap 
 	for i, _ := range projectOutput.NFTs {
 		projectOutput.NFTs[i].RarityRank = i + 1
 		projectOutput.NFTs[i].Prices = genPrices(projectOutput.NFTs[i], projectOutput, projectOutput.LowestScore, p.MintPrice)
+	}
+
+	if p.ComingSoon {
+		for i, _ := range projectOutput.NFTs {
+			projectOutput.NFTs[i].ComingSoon = true
+			projectOutput.NFTs[i].RarityRank = 0
+			projectOutput.NFTs[i].RarityScore = 0
+			projectOutput.NFTs[i].Prices = PriceOutputJson{}
+		}
 	}
 
 	return projectOutput, nil
