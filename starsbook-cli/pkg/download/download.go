@@ -101,7 +101,11 @@ func downloadImages(project conf.Project) error {
 
 	// CHANNELS :D
 	errchan := make(chan error)
-	defer close(errchan)
+	isClosed := false
+	defer func() {
+		isClosed = true
+		close(errchan)
+	}()
 
 	sem := make(chan struct{}, 20)
 	download := func(url string, fp string) {
@@ -109,9 +113,13 @@ func downloadImages(project conf.Project) error {
 
 		fmt.Printf("Downloading %s\n", fp)
 		if err := downloadFile(url, fp); err != nil {
-			errchan <- errors.Wrap(err, 0)
+			if !isClosed {
+				errchan <- errors.Wrap(err, 0)
+			}
 		} else {
-			errchan <- nil
+			if !isClosed {
+				errchan <- nil
+			}
 		}
 		fmt.Printf("Download %s done\n", fp)
 
@@ -165,6 +173,14 @@ func downloadFile(url string, fp string) error {
 		return errors.Wrap(err, 0)
 	}
 	defer resp.Body.Close()
+
+	if resp.StatusCode != 200 {
+		if resp.StatusCode == 404 && filepath.Ext(url) == "" {
+			return downloadFile(url+".json", fp) // Useful because sometimes the nft files are named 1, 2, ... and sometimes 1.json, 2.json, ...
+		}
+		return errors.Errorf("Error downloading file %q. Got HTTP Status %d (%s)", url, resp.StatusCode, resp.Status)
+	}
+
 	out, err := os.Create(fp)
 	if err != nil {
 		return errors.Wrap(err, 0)

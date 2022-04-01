@@ -5,6 +5,8 @@ import {useRouter} from "vue-router";
 
 const router = useRouter()
 
+const filteredProjects = projects.filter(p => !p.hidden)
+
 function selectProject(projectShortName: string) {
   router.push(`/${projectShortName}`);
 }
@@ -15,7 +17,7 @@ function selectProject(projectShortName: string) {
     <h1>Welcome to Starsbook!</h1>
 
     <div class="collection-container">
-      <CollectionInfo class="collection" v-for="(project, index) in projects" :key="index" :collection-name="project.name" :img="project.img" @click="selectProject(project.shortName)"></CollectionInfo>
+      <CollectionInfo class="collection" v-for="(project, index) in filteredProjects" :key="index" :collection-name="project.name" :img="project.img" @click="selectProject(project.shortName)"></CollectionInfo>
     </div>
 
   </div>

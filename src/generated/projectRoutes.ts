@@ -103,6 +103,7 @@ const projectRoutes: RouteRecordRaw[] = [
         component: () => import('../views/NftView.vue')
     },
     
+    
 ]
 
 export default projectRoutes

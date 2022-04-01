@@ -59,6 +59,10 @@ var (
 			Name: "comingSoon",
 			Type: "bool",
 		},
+		{
+			Name: "hidden",
+			Type: "bool",
+		},
 	}
 	collectionDefaultSortingField = ""
 	collectionFields              = []api.Field{
@@ -98,6 +102,10 @@ var (
 			Name: "comingSoon",
 			Type: "bool",
 		},
+		{
+			Name: "hidden",
+			Type: "bool",
+		},
 	}
 )
 
@@ -112,6 +120,7 @@ type nftDocument struct {
 	CollectionShortName string  `json:"collectionShortName"`
 	CollectionImageUrl  string  `json:"collectionImageUrl"`
 	ComingSoon          bool    `json:"comingSoon"`
+	Hidden              bool    `json:"hidden"`
 }
 
 type nftCollection struct {
@@ -125,6 +134,7 @@ type nftCollection struct {
 	OriginalMintPrice int32  `json:"originalMintPrice"`
 	ImageUrl          string `json:"imageUrl"`
 	ComingSoon        bool   `json:"comingSoon"`
+	Hidden            bool   `json:"hidden"`
 }
 
 func UpsertIndexes(conf conf.Conf, force bool) error {
@@ -206,6 +216,7 @@ func UpsertIndexes(conf conf.Conf, force bool) error {
 			OriginalMintPrice: int32(p.MintPrice),
 			ImageUrl:          fmt.Sprintf("https://starsbook.xyz/%s/projectImage", p.ShortName),
 			ComingSoon:        p.ComingSoon,
+			Hidden:            p.Hidden,
 		}); err != nil {
 			return errors.Wrap(err, 0)
 		}
@@ -256,6 +267,7 @@ func UpsertIndexes(conf conf.Conf, force bool) error {
 				CollectionShortName: p.ShortName,
 				CollectionImageUrl:  fmt.Sprintf("https://starsbook.xyz/%s/projectImage", p.ShortName),
 				ComingSoon:          p.ComingSoon,
+				Hidden:              p.Hidden,
 			})
 		}
 

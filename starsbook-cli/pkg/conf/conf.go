@@ -26,6 +26,7 @@ type Project struct {
 	LinkToProjectImage           string   `json:"linkToProjectImage"`
 	TraitIdOverride              string   `json:"traitIdOverride"`
 	ComingSoon                   bool     `json:"comingSoon"`
+	Hidden                       bool     `json:"hidden"`
 }
 
 type Conf struct {
