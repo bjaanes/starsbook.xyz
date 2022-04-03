@@ -1,0 +1,29 @@
+{
+  "edition": 123,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Purple Vest"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Closed"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Sleepy"
+    }
+  ],
+  "description": "Baby Apes on IBC!",
+  "external_url": "https://ibcbabyapes.club",
+  "image": "ipfs://QmaDVPvM5yyBw6Dvy8BWGgTbr5Sk6HBHk6ksmjoFvCCebV/images/123.png",
+  "name": "IBC Baby Apes Club #123"
+}

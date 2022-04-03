@@ -1,10 +1,9 @@
 <script setup lang="ts">
-import {onMounted, ref, watch} from "vue";
+import {onMounted, ref, watch, computed} from "vue";
 import {useRoute, useRouter} from "vue-router";
 import { NPagination, NSpin, NSelect, NFormItem } from "naive-ui";
 import NftInfo from "@/components/NftInfo.vue";
 import {SearchClient as TypesenseSearchClient} from "typesense";
-import type {Value} from "naive-ui/es/select/src/interface";
 
 const route = useRoute()
 const router = useRouter()
@@ -15,18 +14,27 @@ const projectName = ref("");
 const numberOfNfts = ref(0);
 const page = ref(1);
 const nfts = ref<Array<{title: string, img: string, id: string, rarityRank: number}>>([])
-const sortBy = ref<Value | null>("nftId");
+const sortBy = ref("nftId");
 
-const sortOptions = [
-  {
-    label: "ID",
-    value: "nftId",
-  },
-  {
-    label: "Rank/Rarity",
-    value: "rarityRank"
+const sortOptions = computed(() => {
+  const o = [
+    {
+      label: "ID",
+      value: "nftId",
+    }
+  ]
+
+  if (!comingSoon.value) {
+    o.push(
+        {
+          label: "Rank/Rarity",
+          value: "rarityRank"
+        }
+    )
   }
-]
+
+  return o
+})
 
 let projectShortName = "";
 let client = new TypesenseSearchClient({
@@ -48,6 +56,10 @@ const updateCollectionView = async () => {
   comingSoon.value = projectInfo.comingSoon;
 
   await loadNfts(1);
+}
+
+const changePage = async (page: number) => {
+  await loadNfts(page, sortBy.value);
 }
 
 const updateSortBy = async(sortBy: string) => {
@@ -110,7 +122,7 @@ function selectNft(id: string) {
     </div>
 
     <div class="paginator-container">
-      <n-pagination v-on:update:page="loadNfts" v-model:page="page" :page-count="Math.ceil(numberOfNfts / 9)" />
+      <n-pagination v-on:update:page="changePage" v-model:page="page" :page-count="Math.ceil(numberOfNfts / 9)" />
     </div>
 
   </n-spin>

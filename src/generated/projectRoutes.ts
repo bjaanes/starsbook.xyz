@@ -102,7 +102,56 @@ const projectRoutes: RouteRecordRaw[] = [
         name: 'sunnysidereapers',
         component: () => import('../views/NftView.vue')
     },
-    
+    {
+        path: '/mfers',
+        name: 'mfers-collection',
+        component: () => import('../views/CollectionView.vue')
+    },
+    {
+        path: '/mfers/:id',
+        name: 'mfers',
+        component: () => import('../views/NftView.vue')
+    },
+    {
+        path: '/wads',
+        name: 'wads-collection',
+        component: () => import('../views/CollectionView.vue')
+    },
+    {
+        path: '/wads/:id',
+        name: 'wads',
+        component: () => import('../views/NftView.vue')
+    },
+    {
+        path: '/starchoadz',
+        name: 'starchoadz-collection',
+        component: () => import('../views/CollectionView.vue')
+    },
+    {
+        path: '/starchoadz/:id',
+        name: 'starchoadz',
+        component: () => import('../views/NftView.vue')
+    },
+    {
+        path: '/multiScape',
+        name: 'multiScape-collection',
+        component: () => import('../views/CollectionView.vue')
+    },
+    {
+        path: '/multiScape/:id',
+        name: 'multiScape',
+        component: () => import('../views/NftView.vue')
+    },
+    {
+        path: '/babyapes',
+        name: 'babyapes-collection',
+        component: () => import('../views/CollectionView.vue')
+    },
+    {
+        path: '/babyapes/:id',
+        name: 'babyapes',
+        component: () => import('../views/NftView.vue')
+    },
     
 ]
 

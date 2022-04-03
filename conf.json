@@ -135,7 +135,63 @@
       "shortName": "mfers",
       "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/QmP8XCaK8hFeJpBhoDvXjZGsFpWNPWhLMQYmkxwqfoDbwu",
       "comingSoon": true,
-      "hidden": true
+      "hidden": false
+    },
+    {
+      "name": "The WadSquad",
+      "description": "The WadSquad is the OG 10k PFP collection, featuring Randomly Generated Wadz summoned from the Planet Warth! Some Are Cute, Some Are Ugly; Some Are Hilarious, Others Not So Much.",
+      "externalUrl": "https://wadsquad.io",
+      "mintPrice": 100,
+      "numberOfNfts": 9000,
+      "ipfsBase": "QmdooiTBQnEJ8nRLAwXFFPBg8eo31K3ftzw3wcUos5e1DD",
+      "attributesToIgnoreForRarity": [],
+      "attributesToIgnoreForDisplay": [],
+      "shortName": "wads",
+      "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/QmZnUW38UDXH5KK1qompRNM82puC4Rfis3EJbZ2bCqEEWP/cover.gif",
+      "comingSoon": true,
+      "hidden": false
+    },
+    {
+      "name": "Starchoadz",
+      "description": "From the immoral mind of Barfstar come forth the interstellar space lickin’, star jumpin’, gal humpin’ Starchoadz. 6969 Starchoadz spawnin’ soon and ready for misguided adventures thru the void.",
+      "externalUrl": "https://twitter.com/starchoadz",
+      "mintPrice": 69,
+      "numberOfNfts": 6969,
+      "ipfsBase": "bafybeib6c5cutiasm2ekrlcgz6srht3sfrxwxwgqqfqy3rx7bpae6ht4we/metadata",
+      "attributesToIgnoreForRarity": [],
+      "attributesToIgnoreForDisplay": [],
+      "shortName": "starchoadz",
+      "linkToProjectImage": "https://i.imgur.com/dHczuiQ.gif",
+      "comingSoon": false,
+      "hidden": false
+    },
+    {
+      "name": "MultiScape",
+      "description": "Multi layered NFTs. Mix and match your favourite landscapes. Perfect for your profile banner. Be the artist. Join the adventure. Save the Cosmos.",
+      "externalUrl": "https://multiscape.xyz/",
+      "mintPrice": 85,
+      "numberOfNfts": 3300,
+      "ipfsBase": "QmNZxnYbSLr5bkTqETaWpst24GAE8Lu4jisxXv32D5wm8a/metadata",
+      "attributesToIgnoreForRarity": [],
+      "attributesToIgnoreForDisplay": [],
+      "shortName": "multiScape",
+      "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/Qmdhh4cd9pjxmhbthtLqQK6S4SMdr3nXtin4GCAKWhSRWA/MultiScape.gif",
+      "comingSoon": false,
+      "hidden": false
+    },
+    {
+      "name": "IBC Baby Apes Club",
+      "description": "The most colorful baby apes of Stargaze",
+      "externalUrl": "https://ibcbabyapes.club/",
+      "mintPrice": 195,
+      "numberOfNfts": 10000,
+      "ipfsBase": "QmX7pNVrMCiFs9yGEVm83smP4mgYVBtfeYzxectaDfngB2/metadata",
+      "attributesToIgnoreForRarity": [],
+      "attributesToIgnoreForDisplay": [],
+      "shortName": "babyapes",
+      "linkToProjectImage": "https://ibcbabyapes.club/wp-content/uploads/2022/03/Untitled-1-2.gif",
+      "comingSoon": true,
+      "hidden": false
     }
   ]
 }
