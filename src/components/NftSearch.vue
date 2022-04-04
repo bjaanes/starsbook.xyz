@@ -32,7 +32,7 @@ async function handleSearch(query: string) {
   const res = await client.collections("nfts").documents().search({
     q: query,
     query_by: "name,collectionName",
-    sort_by: "nftId:asc",
+    sort_by: "_text_match:desc,nftId:asc",
     filter_by: "hidden:=false",
   }, {})
   loading.value = false;
