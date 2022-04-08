@@ -2,7 +2,7 @@ const projects = [
     {{ range .Projects }}{{ if not .Hidden }}{
         name: '{{ .Name }}',
         shortName: '{{ .ShortName }}',
-        img: 'https://starsbook.xyz/{{ .ShortName }}/projectImage.',
+        img: 'https://starsbook-assets.storage.googleapis.com/{{ .ShortName }}/projectImage.',
     },{{ end }}
     {{ end }}
 ]
