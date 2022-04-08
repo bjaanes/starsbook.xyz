@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 )
 
-const RootFolder = "public"
+const RootFolder = "bucket-assets"
 const ImgRawFolder = "imgs_raw"
 const ImgCompressedFolder = "imgs_min"
 const NFTRawFolder = "nfts_raw"

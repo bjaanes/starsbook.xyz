@@ -15,15 +15,6 @@ import (
 	"strconv"
 )
 
-type MinProjectOutputJson struct {
-	Name         string `json:"name"`
-	ShortName    string `json:"shortName"`
-	Link         string `json:"link"`
-	NumberOfNfts int    `json:"numberOfNfts"`
-	ComingSoon   bool   `json:"comingSoon"`
-	Hidden       bool   `json:"hidden"`
-}
-
 type ProjectOutputJson struct {
 	Name         string          `json:"name"`
 	ShortName    string          `json:"shortName"`
@@ -134,14 +125,7 @@ func generateProjectFile(p conf.Project) error {
 		return errors.Wrap(err, 0)
 	}
 
-	minProjectOutput := MinProjectOutputJson{
-		Name:         projectOutput.Name,
-		ShortName:    projectOutput.ShortName,
-		Link:         projectOutput.Link,
-		NumberOfNfts: projectOutput.NumberOfNfts,
-		ComingSoon:   p.ComingSoon,
-		Hidden:       p.Hidden,
-	}
+	minProjectOutput := p
 	minProjectFile, err := json.MarshalIndent(minProjectOutput, "", " ")
 	if err != nil {
 		return errors.Wrap(err, 0)

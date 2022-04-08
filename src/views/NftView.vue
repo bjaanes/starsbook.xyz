@@ -21,11 +21,11 @@ const comingSoon = ref(false);
 const updateNftView = async () => {
   const projectShortName = String(route.name)
   const nftId = route.params.id;
-  const projectInfo = await fetch(`/${projectShortName}/min_project.json`).then(res => res.json());
-  const nft = await fetch(`/${projectShortName}/nfts/${nftId}.json`).then(res => res.json());
+  const projectInfo = await fetch(`https://starsbook-assets.storage.googleapis.com/${projectShortName}/min_project.json`).then(res => res.json());
+  const nft = await fetch(`https://starsbook-assets.storage.googleapis.com/${projectShortName}/nfts/${nftId}.json`).then(res => res.json());
 
   nftTitle.value = nft.name;
-  nftImg.value = `/${projectShortName}/imgs_min/${nft.img}`;
+  nftImg.value = `https://starsbook-assets.storage.googleapis.com/${projectShortName}/imgs_min/${nft.img}`;
   attributeTags.value = nft.attributes
       .filter((attr: { ignoredForDisplay: boolean }) => !attr.ignoredForDisplay);
   collectionName.value = projectInfo.name;

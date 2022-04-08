@@ -152,6 +152,16 @@ const projectRoutes: RouteRecordRaw[] = [
         name: 'babyapes',
         component: () => import('../views/NftView.vue')
     },
+    {
+        path: '/badkids',
+        name: 'badkids-collection',
+        component: () => import('../views/CollectionView.vue')
+    },
+    {
+        path: '/badkids/:id',
+        name: 'badkids',
+        component: () => import('../views/NftView.vue')
+    },
     
 ]
 

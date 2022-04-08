@@ -74,6 +74,11 @@ const projects = [
         shortName: 'babyapes',
         img: 'https://starsbook.xyz/babyapes/projectImage.',
     },
+    {
+        name: 'Bad Kids',
+        shortName: 'badkids',
+        img: 'https://starsbook.xyz/badkids/projectImage.',
+    },
     
 ]
 

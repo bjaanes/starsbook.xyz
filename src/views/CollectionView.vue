@@ -49,7 +49,7 @@ let client = new TypesenseSearchClient({
 
 const updateCollectionView = async () => {
   projectShortName = String(route.name).split('-')[0]
-  const projectInfo = await fetch(`/${projectShortName}/min_project.json`).then(res => res.json());
+  const projectInfo = await fetch(`https://starsbook-assets.storage.googleapis.com/${projectShortName}/min_project.json`).then(res => res.json());
   projectName.value = projectInfo.name;
   numberOfNfts.value = projectInfo.numberOfNfts;
 
@@ -90,7 +90,7 @@ const loadNfts = async (page: number, _sortBy?: string) => {
     const document = hit.document as {nftId: string, name: string, imageFileName: string, rarityRank: number}
     nfts.value.push({
       title: document.name,
-      img: `/${projectShortName}/imgs_min/${document.imageFileName}`,
+      img: `https://starsbook-assets.storage.googleapis.com/${projectShortName}/imgs_min/${document.imageFileName}`,
       id: document.nftId,
       rarityRank: document.rarityRank,
     })

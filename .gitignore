@@ -1,4 +1,7 @@
-public/*/imgs_raw
+# Get bucket-assets from google cloud storage and/or update with the cli generate command
+bucket-assets
+/admin_*.sh
+service_account.json
 
 # Logs
 logs
