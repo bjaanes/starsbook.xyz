@@ -22,6 +22,7 @@ type Project struct {
 	NumberOfNFTs                 int      `json:"numberOfNfts"`
 	AttributesToIgnoreForRarity  []string `json:"attributesToIgnoreForRarity"`
 	AttributesToIgnoreForDisplay []string `json:"attributesToIgnoreForDisplay"`
+	RarityOverrideAttribute      string   `json:"rarityOverrideAttribute"`
 	ShortName                    string   `json:"shortName"`
 	LinkToProjectImage           string   `json:"linkToProjectImage"`
 	TraitIdOverride              string   `json:"traitIdOverride"`

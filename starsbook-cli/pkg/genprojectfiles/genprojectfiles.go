@@ -206,7 +206,7 @@ func GenerateProjectOutput(p conf.Project, nfts []nftinfo.NFTInfo, attributeMap 
 
 	for i, _ := range projectOutput.NFTs {
 		projectOutput.NFTs[i].RarityRank = i + 1
-		projectOutput.NFTs[i].Prices = genPrices(projectOutput.NFTs[i], projectOutput, projectOutput.LowestScore, p.MintPrice)
+		projectOutput.NFTs[i].Prices = genPrices(projectOutput.NFTs[i], p, attributeMap, projectOutput.LowestScore, p.MintPrice)
 	}
 
 	if p.ComingSoon {

@@ -174,6 +174,7 @@
       "ipfsBase": "QmNZxnYbSLr5bkTqETaWpst24GAE8Lu4jisxXv32D5wm8a/metadata",
       "attributesToIgnoreForRarity": ["Collection", "ID"],
       "attributesToIgnoreForDisplay": ["Collection", "ID"],
+      "rarityOverrideAttribute": "Rarity",
       "shortName": "multiScape",
       "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/Qmdhh4cd9pjxmhbthtLqQK6S4SMdr3nXtin4GCAKWhSRWA/MultiScape.gif",
       "comingSoon": false,
