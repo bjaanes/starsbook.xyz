@@ -7,4 +7,4 @@ set -e
 
 gcloud config set project starsbook-346608
 
-gsutil -m rsync -r bucket-assets gs://starsbook-assets
+gsutil -m rsync -r -c bucket-assets gs://starsbook-assets

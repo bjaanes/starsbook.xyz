@@ -79,6 +79,11 @@ const projects = [
         shortName: 'badkids',
         img: 'https://starsbook-assets.storage.googleapis.com/badkids/projectImage.',
     },
+    {
+        name: 'C∅smoVoyagers',
+        shortName: 'cosmovoyagers',
+        img: 'https://starsbook-assets.storage.googleapis.com/cosmovoyagers/projectImage.',
+    },
     
 ]
 

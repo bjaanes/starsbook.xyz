@@ -15,7 +15,6 @@ const numberOfNfts = ref(0);
 const page = ref(1);
 const nfts = ref<Array<{title: string, img: string, id: string, rarityRank: number}>>([])
 const sortBy = ref("nftId");
-
 const sortOptions = computed(() => {
   const o = [
     {
@@ -24,7 +23,7 @@ const sortOptions = computed(() => {
     }
   ]
 
-  if (!comingSoon.value) {
+  if (!comingSoon.value || import.meta.env.VITE_SEE_ALL === "true") {
     o.push(
         {
           label: "Rank/Rarity",
@@ -79,7 +78,6 @@ const loadNfts = async (page: number, _sortBy?: string) => {
     page: page,
     per_page: 9,
   }, {})
-  console.log(res);
 
   if (!res.hits) {
     loading.value = false;
