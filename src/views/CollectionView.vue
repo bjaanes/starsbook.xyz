@@ -42,7 +42,7 @@ let client = new TypesenseSearchClient({
     port: 443,
     protocol: 'https'
   }],
-  apiKey: 'UzmYK08FCqsPOkMjz35eQEqsFPDahIOz',
+  apiKey: '3VuEyVkopUb212uXFluy74EqIbY6DqE8',
   connectionTimeoutSeconds: 2
 });
 
