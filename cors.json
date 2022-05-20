@@ -1,0 +1,16 @@
+[
+  {
+    "maxAgeSeconds": 3600,
+    "method": [
+      "GET"
+    ],
+    "origin": [
+      "http://localhost:3000",
+      "https://starsbook.xyz",
+      "https://www.starsbook.xyz"
+    ],
+    "responseHeader": [
+      "Content-Type"
+    ]
+  }
+]

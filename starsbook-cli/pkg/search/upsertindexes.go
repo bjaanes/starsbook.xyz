@@ -12,8 +12,9 @@ import (
 )
 
 const (
-	nftCollectionName        = "nfts"
-	collectionCollectionName = "collections"
+	nftCollectionName          = "nfts"
+	collectionCollectionName   = "collections"
+	numberOfDocumentsPerUpsert = 1000
 )
 
 var (
@@ -273,18 +274,18 @@ func UpsertIndexes(conf conf.Conf, force bool) error {
 
 		importAction := "upsert"
 		fmt.Printf("Upserting %d documents from %s into collection: %q\n", len(documents), p.Name, nftCollectionName)
-		tooLarge := len(documents) > 5000
+		tooLarge := len(documents) > numberOfDocumentsPerUpsert
 
 		for tooLarge {
-			documentsToUpsert := documents[0:5000]
+			documentsToUpsert := documents[0:numberOfDocumentsPerUpsert]
 			if _, err := client.Collection(nftCollectionName).Documents().Import(documentsToUpsert, &api.ImportDocumentsParams{
 				Action: &importAction,
 			}); err != nil {
 				return errors.Wrap(err, 0)
 			}
 
-			documents = documents[5000:]
-			tooLarge = len(documents) > 5000
+			documents = documents[numberOfDocumentsPerUpsert:]
+			tooLarge = len(documents) > numberOfDocumentsPerUpsert
 		}
 
 		if _, err := client.Collection(nftCollectionName).Documents().Import(documents, &api.ImportDocumentsParams{

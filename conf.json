@@ -134,7 +134,7 @@
       "attributesToIgnoreForDisplay": [],
       "shortName": "mfers",
       "linkToProjectImage": "https://ipfs.stargaze.zone/ipfs/QmP8XCaK8hFeJpBhoDvXjZGsFpWNPWhLMQYmkxwqfoDbwu",
-      "comingSoon": true,
+      "comingSoon": false,
       "hidden": false
     },
     {
@@ -191,7 +191,7 @@
       "attributesToIgnoreForDisplay": [],
       "shortName": "babyapes",
       "linkToProjectImage": "https://ibcbabyapes.club/wp-content/uploads/2022/03/Untitled-1-2.gif",
-      "comingSoon": true,
+      "comingSoon": false,
       "hidden": false
     },
     {
@@ -217,6 +217,20 @@
       "attributesToIgnoreForDisplay": [],
       "shortName": "cosmovoyagers",
       "linkToProjectImage": "https://app.stargaze.zone/_next/image?url=https%3A%2F%2Fimages.stargaze-apis.com%2Fcdn-cgi%2Fimage%2Fwidth%3D700%2Cfit%3Dscale-down%2Cformat%3Dauto%2Fhttps%3A%2F%2Fipfs.stargaze.zone%2Fipfs%2Fbafybeihuxpvlkwmqe2iybg4avnq6diy5olsq7g7an4hwrh2x3imkcbvut4&w=750&q=75",
+      "comingSoon": false,
+      "hidden": false
+    },
+    {
+      "name": "Stargazers - First Federation",
+      "description": "A collection of generative NFT banners designed to celebrate and unite the Cosmos ecosystem - stargazersnfts.io",
+      "externalUrl": "https://stargazersnfts.io",
+      "mintPrice": 299,
+      "numberOfNfts": 5000,
+      "ipfsBase": "Qmac36hALNvtCWHeqdjoothujeRCSb2ixyK6P4h3SvXceK",
+      "attributesToIgnoreForRarity": [],
+      "attributesToIgnoreForDisplay": [],
+      "shortName": "stargazers",
+      "linkToProjectImage": "https://www.stargazersnfts.io/wp-content/uploads/2022/04/4758.png",
       "comingSoon": false,
       "hidden": false
     }

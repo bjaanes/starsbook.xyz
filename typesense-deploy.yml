@@ -1,0 +1,42 @@
+---
+version: "2.0"
+
+services:
+  typesense-server:
+    image: typesense/typesense:0.22.2
+    env:
+      - TYPESENSE_API_KEY=REDACTED
+      - TYPESENSE_DATA_DIR=/root
+      - TYPESENSE_ENABLE_CORS=true
+    expose:
+      - port: 8108
+        as: 80
+        accept:
+          - "starsbook-typesense.gjermund.tech"
+        to:
+          - global: true
+profiles:
+  compute:
+    typesense-server:
+      resources:
+        cpu:
+          units: 0.5
+        memory:
+          size: 512M
+        storage:
+          size: 1Gi
+  placement:
+    akash:
+      signedBy:
+        anyOf:
+          - "akash1365yvmc4s7awdyj3n2sav7xfx76adc6dnmlx63"
+      pricing:
+        typesense-server:
+          denom: uakt
+          amount: 100
+
+deployment:
+  typesense-server:
+    akash:
+      profile: typesense-server
+      count: 1

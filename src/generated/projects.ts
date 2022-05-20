@@ -84,6 +84,11 @@ const projects = [
         shortName: 'cosmovoyagers',
         img: 'https://starsbook-assets.storage.googleapis.com/cosmovoyagers/projectImage.',
     },
+    {
+        name: 'Stargazers - First Federation',
+        shortName: 'stargazers',
+        img: 'https://starsbook-assets.storage.googleapis.com/stargazers/projectImage.',
+    },
     
 ]
 

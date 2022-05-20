@@ -1,6 +1,6 @@
 # starsbook
 
-The cli requires libvips.
+The cli requires libvips (`sudo apt install libvips-dev`)
 
 ## Recommended IDE Setup
 

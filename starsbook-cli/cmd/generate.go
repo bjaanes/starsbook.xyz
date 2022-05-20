@@ -43,11 +43,11 @@ var generateCmd = &cobra.Command{
 				if err := download.ProjectImgs(conf); err != nil {
 					handleError(err)
 				}
-			}
-		}
+				if err := compress.Images(conf); err != nil {
+                                    handleError(err)
+                                }
 
-		if err := compress.Images(conf); err != nil {
-			handleError(err)
+			}
 		}
 
 		if err := genprojectfiles.ProjectFiles(conf); err != nil {
